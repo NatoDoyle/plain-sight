@@ -24,6 +24,8 @@ One-line definitions and alias routing. Terms that have their own file point to 
 - **liking & similarity** → [[liking-similarity]] — we say yes to people we like and who feel like us; both are manufacturable
 - **halo effect** → [[liking-similarity]] — one positive trait (beauty, fame, charm) spilling into unrelated judgments; also powers [[authority]]'s domain transfer
 - **sunk cost** → [[commitment-consistency]] — continuing to justify past investment; the engine of escalation traps and recovery scams
+- **scarcity & urgency** → [[scarcity-urgency]] — running-out value inflation + deadline pressure; manufactured to preempt deliberation
+- **unity / in-group identity** → [[unity-ingroup]] — the manufactured "we": forced teaming, affinity exploitation, instant family
 
 ## Contrast concepts
 
@@ -48,3 +50,5 @@ Innocent or neighboring look-alikes that the KB distinguishes manipulation **fro
 - `rational-herding` — following the crowd under genuine uncertainty as sound Bayesian strategy (information cascades, honest review averages)
 - `legitimate-expertise` — verifiable, in-domain authority that welcomes verification and second opinions
 - `genuine-rapport` — warmth and common ground built at the pace of real acquaintance, symmetric in disclosure, surviving your first "no"
+- `genuine-deadline` — a real, inelastic constraint honestly disclosed (statute dates, auction closes, finite stock); urgency is then information, not a lever
+- `genuine-community` — belonging with real shared fate: freely exitable, identity not invoked to extract, leavers treated decently

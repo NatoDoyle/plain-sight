@@ -4,9 +4,9 @@ type: mechanism
 name: Commitment & Consistency
 aliases: [consistency principle, escalating commitment, sunk cost fallacy, yes-ladder]
 countered-by: [verification-rituals, detection-heuristics]
-distinguished-from: [principled-consistency]
+distinguished-from: [principled-consistency, dissonance-exploitation]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-10
 ---
 
@@ -21,7 +21,7 @@ Three intertwined drives: **cognitive dissonance** — inconsistency between act
 ## Evidence base
 
 - **Foot-in-the-door.** Freedman & Fraser (1966): homeowners asked to display a huge, ugly "Drive Carefully" billboard agreed 17% of the time cold — but 76% if they'd accepted a small related sticker/petition two weeks earlier [5]. Meta-analysis confirms the effect is real though more modest on average, with moderators (continuity, no payment for the first request) [6].
-- **Commitment and action.** Moriarty (1975), Jones Beach: 1 in 5 bystanders intervened in a staged radio theft — 95% intervened if the owner had first asked "watch my things?" and they'd said yes [7].
+- **Commitment and action.** Moriarty (1975), Jones Beach: 1 in 5 bystanders intervened in a staged radio theft — 95% intervened if the owner had first asked "watch my things?" and they'd said yes [7] (a single field study, though a dramatic one).
 - **Lowballing.** Cialdini et al. (1978): students agreed to a study, then learned it started at 7am — commitments survived the worsened terms far better than when the 7am cost was disclosed upfront [8].
 - **Effort justification.** Aronson & Mills (1959): the harsher the initiation, the more members value the group — pain spent becomes proof of worth [9].
 - **Sunk cost & escalation.** Arkes & Blumer's theater-ticket field experiment (discounted-ticket buyers attended less — prior payment drove attendance) [4]; Staw's "knee-deep in the big muddy" escalation under responsibility for failing courses of action [10].
@@ -67,6 +67,8 @@ Consistency is a virtue and commitment devices genuinely help people (savings pl
 - **Perseverance vs sunk cost** is genuinely hard to distinguish from inside: continuing can be right when future expected value is positive. The test is prospective ("from here, is it worth it?"), never retrospective ("I've come so far").
 - **Self-chosen commitment devices** (deposits, accountability partners) use the same lever *for* you — mechanism ≠ manipulation; check who built the ladder and who benefits.
 - Single small favors or requests are usually just that ([[epistemic-guardrails]]); the diagnostic is the *sequence* and what happens at the exits.
+- **Cultural calibration:** the consistency drive binds hardest where *personal* consistency signals integrity (individualist contexts); cross-national compliance research finds collectivist contexts weight in-group expectations more than prior personal commitments (e.g., Petrova, Cialdini & Sills 2007) — the ladder still works, but the rungs differ ([[cultural-difference]]).
+- **Boundary with [[dissonance-exploitation]]:** dissonance is the *engine* (the discomfort of inconsistency); this file covers the *ladder built on it* — engineered escalating commitments. The dissonance file covers the broader self-justification spirals (e.g., extracting complicity so the target defends the wrongdoing).
 
 ## Sources
 

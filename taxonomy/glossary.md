@@ -22,6 +22,8 @@ One-line definitions and alias routing. Terms that have their own file point to 
 - **social proof** → [[social-proof]] — the crowd as evidence; manufactured consensus steers judgment
 - **authority** → [[authority]] — deference keys on fakeable signals (titles, uniforms, jargon), not verified competence
 - **liking & similarity** → [[liking-similarity]] — we say yes to people we like and who feel like us; both are manufacturable
+- **halo effect** → [[liking-similarity]] — one positive trait (beauty, fame, charm) spilling into unrelated judgments; also powers [[authority]]'s domain transfer
+- **sunk cost** → [[commitment-consistency]] — continuing to justify past investment; the engine of escalation traps and recovery scams
 
 ## Contrast concepts
 

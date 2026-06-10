@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tier 0 complete · 3/147 complete · Tier 1: first 5 mechanisms (reciprocity → liking-similarity) **drafted, pending verification sweep + red-team** (subagent capacity hit a usage limit; resume there) · last updated 2026-06-10
+**Status:** Tier 0 complete · Tier 1: 5/23 mechanisms complete (red-teamed + citation-verified); `scarcity-urgency` + `unity-ingroup` drafted with verified research, pending red-team; `fear-exploitation` + `guilt-leverage` research sweep pending (agent stalled) · 8/147 complete · last updated 2026-06-10
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -16,11 +16,11 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 
 ## Tier 1 — Mechanisms (mechanisms/) — why it works
 
-- [ ] `reciprocity` — obligation engineering: unsolicited gifts/favors/concessions creating debt
-- [ ] `commitment-consistency` — small yeses to big traps; sunk cost; public commitment lock-in
-- [ ] `social-proof` — manufactured consensus, "everyone's doing it", testimonials
-- [ ] `authority` — symbols, titles, uniforms, borrowed credibility, expert posturing
-- [ ] `liking-similarity` — rapport, mirroring, compliments, "we're alike" as compliance levers
+- [x] `reciprocity` — obligation engineering: unsolicited gifts/favors/concessions creating debt
+- [x] `commitment-consistency` — small yeses to big traps; sunk cost; public commitment lock-in
+- [x] `social-proof` — manufactured consensus, "everyone's doing it", testimonials
+- [x] `authority` — symbols, titles, uniforms, borrowed credibility, expert posturing
+- [x] `liking-similarity` — rapport, mirroring, compliments, "we're alike" as compliance levers
 - [ ] `scarcity-urgency` — limited time/quantity, exploding offers, FOMO mechanics
 - [ ] `unity-ingroup` — shared identity ("we"), family/tribe framing, us-vs-them
 - [ ] `fear-exploitation` — threat inflation, protection rackets, fear-then-relief

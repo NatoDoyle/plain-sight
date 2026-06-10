@@ -4,15 +4,15 @@ type: mechanism
 name: Authority
 aliases: [obedience, expert deference, credentialism, borrowed authority]
 countered-by: [verification-rituals, organizational-defenses]
-distinguished-from: [legitimate-expertise]
+distinguished-from: [legitimate-expertise, trust-mechanics]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-10
 ---
 
 # Authority
 
-> Symbols of expertise and command — titles, uniforms, letterheads, confident jargon — trigger deference that mostly bypasses verification. Fake the symbols and you inherit the deference. Authority impersonation is, by dollar volume, one of the largest manipulation industries on earth.
+> Symbols of expertise and command — titles, uniforms, letterheads, confident jargon — trigger deference that mostly bypasses verification. Counterfeit symbols inherit the deference. Authority impersonation is, by dollar volume, one of the largest manipulation industries on earth.
 
 ## The lever
 
@@ -20,7 +20,7 @@ Deference to authority is **rational by default**: no one can verify everything,
 
 ## Evidence base
 
-- **Milgram (1963/1974).** Baseline: 65% (26/40) of ordinary subjects delivered the maximum 450V shock under experimenter prods; across the variation set, obedience ranged from near 0% to ~93% depending on proximity, setting (the Bridgeport office replication dropped sharply from Yale), and dissenting peers [1]. Burger's 2009 partial replication (stopping at the 150V decision point) found ~70% continuing — close to Milgram's rate at the same point [2].
+- **Milgram (1963/1974).** Baseline: 65% (26/40) of ordinary subjects delivered the maximum 450V shock under experimenter prods; across the variation set, obedience ranged from near 0% to ~93% depending on proximity, setting, and dissenting peers (the Bridgeport storefront replication fell from Yale's 65% to 47.5% — a drop Milgram himself reported as not statistically significant) [1]. Burger's 2009 partial replication (stopping at the 150V decision point) found ~70% continuing — close to Milgram's rate at the same point [2].
 - **The reinterpretation matters for defense.** Critiques: demand characteristics (Orne & Holland), archival problems with prods and participant skepticism (Perry). Haslam & Reicher's "engaged followership" account argues people obeyed *insofar as they identified with the scientific mission*, not as passive automatons [3]. Practical upshot: manipulators don't just bark orders — **they recruit you to a mission whose authority then directs you** (see weaponization).
 - **Uniforms.** Bickman (1974): a guard's uniform roughly doubled street compliance with arbitrary requests (pick up that bag, give a dime to a stranger) versus civilian clothes [4].
 - **Phone authority in hospitals.** Hofling (1966): 21 of 22 nurses began administering an obvious overdose of an unfamiliar drug on the phoned instruction of an unknown "doctor" [5]. Rank & Jacobson (1977): with a familiar drug and freedom to consult colleagues, obedience collapsed to 2 of 18 — **verification access is the moderator that matters** [5].
@@ -29,14 +29,14 @@ Deference to authority is **rational by default**: no one can verify everything,
 
 ## How it's weaponized
 
-The exploit: **counterfeit the signal, borrow the institution, transfer the halo, or weaponize the mission.**
+The recurring exploits: **counterfeited signals, borrowed institutions, transferred halos, weaponized missions.**
 
 - **Impersonation scams** — "IRS/police/your bank's fraud team" calls demanding immediate action; the giveaway pairing is authority + urgency + unusual payment channel (gift cards, wire, crypto) ([[phishing-pretexting]], [[manufactured-urgency]]). BEC/CEO fraud is the corporate version: "urgent wire, don't tell anyone, the CEO needs it now" [7].
 - **Pretexting with props** — uniforms, badges, lanyards, clipboard confidence; classic social-engineering entry technique ([[phishing-pretexting]]; Mitnick's case files run on borrowed authority) [8].
 - **Credential theater** — diploma-mill titles, invented institutes, "as seen on TV", white-coat actors in ads (the FTC's endorsement guides exist precisely because expert-endorsement signals move consumers) [9]; fake experts and credential laundering in disinformation ([[disinformation-playbooks]]).
 - **Halo transfer** — celebrity authority sold sideways: the TV doctor endorsing crypto, the general selling supplements ([[parasocial-influencer-tactics]], [[liking-similarity]]).
 - **Sacred science** — gurus fuse expert + command + moral authority into an unchallengeable package (Lifton's "sacred science"; the leader's word outranks your perception — [[cults-high-control]], [[thought-terminating-cliches]]).
-- **Workplace authority bluffs** — invented policies and legal threats from bosses ("discussing pay is illegal" — in the US, pay discussion is protected concerted activity; [[workplace-bosses]], [[veiled-threats]], [[pip-weaponization]]).
+- **Workplace authority bluffs** — invented policies and legal threats from bosses ("discussing pay is illegal" — in the US, pay discussion is protected concerted activity for most private-sector, non-supervisory employees under NLRA §7; [[workplace-bosses]], [[veiled-threats]], [[pip-weaponization]]).
 - **Mission capture** — per engaged followership [3]: recruit the target to a noble cause, then direct them by its authority ("we're saving lives here" justifying abusive hours — [[we-are-family-rhetoric]]; "the science demands it"; "God's plan needs your obedience").
 
 ## Ethical use vs exploitation
@@ -47,7 +47,8 @@ Deferring to genuine, verifiable, in-domain expertise is one of the smartest thi
 
 - **Authority + urgency + secrecy + odd channel** — the four-part signature of impersonation fraud. Real institutions allow callbacks, never demand gift cards, and survive you talking to colleagues [7].
 - Credentials *asserted* rather than verifiable; institutional names that don't resolve to real institutions.
-- Confidence and jargon doing the work that evidence should do (Dr. Fox conditions [6]).
+- Confidence and jargon doing the work that evidence should do (Dr. Fox conditions [6]) — with the crucial qualifier that real specialists are often hard to follow too: the test is **verification-tolerance, not comprehensibility**. Genuine experts welcome translation, sources, and second opinions; performers punish requests for any of them.
+- **Felt-sense indicators:** flustered smallness — the summoned-to-the-headmaster feeling; questions dying in your throat; fear of "getting in trouble" displacing "is this right?"; relief at simply being told what to do. These mark the lever engaging — they are not, by themselves, evidence the authority is false ([[epistemic-guardrails]]).
 - Out-of-domain commands riding in-domain authority.
 - Your verification attempts producing anger, threats, or escalation — legitimate authority tolerates audit; counterfeit authority cannot ([[manipulation-vs-influence]]'s response-to-resistance test).
 
@@ -64,12 +65,14 @@ Deferring to genuine, verifiable, in-domain expertise is one of the smartest thi
 - **Anti-authority reflex is its own exploit**: "they don't want you to know" is the contrarian guru's authority claim, selling distrust of experts while demanding trust in himself ([[propaganda-politics]], [[cults-high-control]]). The defense is calibrated verification, not reflexive defiance.
 - **Milgram's numbers are widely overstated** — 65% was one condition, not the human constant; obedience swung enormously with situation, and the mechanism (blind obedience vs engaged followership) is genuinely debated [1][3] ([[epistemic-guardrails]]).
 - **Most authority encounters are legitimate** — the doctor, the building inspector, your manager. Base rates first; the diagnostic is counterfeit signals + verification hostility + benefit asymmetry, not the presence of authority itself.
+- **Cultural calibration:** deference norms vary widely across cultures (power-distance differences), and cross-national obedience-paradigm results vary substantially — what reads as servility in one context is ordinary respect in another ([[cultural-difference]]). Judge the *verification-tolerance* test against local norms, not against one culture's comfort with challenging superiors.
+- **Boundary with [[trust-mechanics]]:** trust is the broad ledger of warmth, competence, and integrity built across interactions; authority is a *shortcut* that substitutes role-signals for that ledger. Authority exploits skip trust-building entirely by importing pre-installed deference — which is why verification, not vibes, is the counter.
 
 ## Sources
 
 1. Milgram, S. (1963). "Behavioral study of obedience." *Journal of Abnormal and Social Psychology* 67(4), 371–378; Milgram (1974). *Obedience to Authority* (variation range incl. Bridgeport).
 2. Burger, J. (2009). "Replicating Milgram: Would people still obey today?" *American Psychologist* 64(1), 1–11 (~70% at the 150V point). https://pubmed.ncbi.nlm.nih.gov/19209958/
-3. Haslam, S. A., & Reicher, S. (2012–2014, engaged-followership program, e.g., Reicher, Haslam & Smith 2012, *Perspectives on Psychological Science*; Haslam, Reicher & Birney 2014); critiques: Orne & Holland (1968); Perry, G. (2012). *Behind the Shock Machine.*
+3. Reicher, S., Haslam, S. A., & Smith, J. (2012). "Working Toward the Experimenter." *Perspectives on Psychological Science* 7(4), 315–324; Haslam, S. A., Reicher, S., & Birney, M. (2014). "Nothing by Mere Authority." *Journal of Social Issues* 70(3), 473–488 (the most order-like prod was least effective); critiques: Orne, M., & Holland, C. (1968). *International Journal of Psychiatry* 6(4), 282–293; Perry, G. (2012). *Behind the Shock Machine.*
 4. Bickman, L. (1974). "The social power of a uniform." *Journal of Applied Social Psychology* 4(1), 47–61.
 5. Hofling, C., et al. (1966). *Journal of Nervous and Mental Disease* 143(2), 171–180 (21/22); Rank, S., & Jacobson, C. (1977). *Journal of Health and Social Behavior* 18(2), 188–193 (2/18).
 6. Naftulin, D., Ware, J., & Donnelly, F. (1973). "The Doctor Fox lecture." *Journal of Medical Education* 48(7), 630–635.

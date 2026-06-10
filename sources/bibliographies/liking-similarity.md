@@ -7,6 +7,11 @@ Sweep date: 2026-06-10. Mode: knowledge-first draft + targeted main-loop web ver
 - [x] Whitty (2013) "The Scammers Persuasive Techniques Model," *British Journal of Criminology* 53(4):665–684 — stage model; victims' decision errors mirror other mass-marketing fraud victims; near-win phenomenon explains persistence/revictimization. https://academic.oup.com/bjc/article-abstract/53/4/665/396759
 - [x] FTC romance-scam losses — ≈$823M reported in 2024 (FTC); $1.14B in 2023 with ≈$2,000 median (CNBC/FTC CSN). https://www.ftc.gov/business-guidance/blog/2024/02/love-stinks-when-scammer-involved
 
+## Red-team outcome (2026-06-10, second pass)
+
+- [x] Content review PASSED WITH FIXES (applied): mirror-tell softened + fawn-response caveat added ([[people-pleasing-fawn]] mimics "no edges" innocently); cultural calibration caveat (flattery registers, courtship pacing); unity-ingroup boundary + edge; romance-scam victimology clause; third-person framings.
+- Note: the dedicated citation agent for this file hit the account session limit after 50 tool uses (output lost). File's figure-bearing claims (Whitty stages; FTC $823M/$1.14B) were verified first-pass; remaining items below are qualitative-claim provenance.
+
 ## Drafted from literature knowledge — PENDING verification
 
 - [ ] Montoya, Horton & Kirchner (2008) JSPR 25(6):889–922 — actual vs perceived similarity moderation.
@@ -19,6 +24,6 @@ Sweep date: 2026-06-10. Mode: knowledge-first draft + targeted main-loop web ver
 - [ ] Hadnagy rapport-pretexting chapter reference.
 - [ ] Drolet & Morris (2000) schmoozing study (considered for negotiation angle; not yet cited).
 
-## PENDING full pipeline
+## Post-completion polish
 
-- [ ] Category sweeps (grooming-via-shared-interests literature — Salter; PUA mirroring as documented by critics; affinity-fraud SEC materials); red-team; upgrade to complete.
+- [ ] Category sweeps for adjacent depth defer to the tactic files: grooming-via-shared-interests (→ [[grooming-sequence]]), PUA mirroring critiques (→ [[negging]], [[mirroring-false-identity]]), SEC affinity materials (→ [[affinity-fraud]]).

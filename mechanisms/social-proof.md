@@ -4,15 +4,15 @@ type: mechanism
 name: Social Proof
 aliases: [consensus, conformity, bandwagon effect, herd behavior]
 countered-by: [verification-rituals, detection-heuristics]
-distinguished-from: [rational-herding]
+distinguished-from: [rational-herding, unity-ingroup]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-10
 ---
 
 # Social Proof
 
-> Under uncertainty, we outsource judgment to the crowd — what others do reads as evidence of what's correct. Manufacture the crowd, and you steer the judgment. The modern manipulation economy (fake reviews, bots, testimonial cultures, laugh tracks) is largely a social-proof factory.
+> Under uncertainty, we outsource judgment to the crowd — what others do reads as evidence of what's correct. When the crowd is manufactured, the judgment is steered. The modern manipulation economy (fake reviews, bots, testimonial cultures, laugh tracks) is largely a social-proof factory.
 
 ## The lever
 
@@ -20,20 +20,20 @@ Two distinct forces, usually entangled [1]: **informational influence** — othe
 
 ## Evidence base
 
-- **Asch (1951/1956).** With a unanimous majority giving obviously wrong line judgments, participants conformed on ~37% of critical trials; ~75% conformed at least once, ~25% never did. Two standard caveats: Asch himself stressed the independence majority, and a single dissenting ally collapses conformity dramatically [2].
+- **Asch (1951–1956 program).** With a unanimous majority giving obviously wrong line judgments, participants conformed on ~37% of critical trials; ~75% conformed at least once, ~25% never did. Two standard caveats: Asch himself stressed the independence majority, and a single dissenting ally collapses conformity dramatically (errors fall to ~5%) — unanimity matters more than crowd size [2].
 - **Bond & Smith (1996).** Meta-analysis of 133 Asch-paradigm studies in 17 countries: conformity higher in collectivist cultures and declining over time in the US [3].
 - **Sherif (1936).** With genuinely ambiguous stimuli (autokinetic effect), groups converge on arbitrary norms that persist when members are later tested alone — norms internalize [4].
 - **Crowd contagion.** Milgram, Bickman & Berkowitz (1969): one confederate staring up at a building drew ~40% of passersby to look up; fifteen confederates drew ~85% [5].
 - **Norm messaging.** Littering tracks visible norms (focus theory) [6]; hotel towel-reuse messages citing "most guests reuse" outperformed standard appeals, more so when the norm was room-specific — though later replications of such messaging are mixed [7].
 - **Cumulative advantage.** Salganik, Dodds & Watts (2006): in artificial music markets, visible download counts made hit songs *more unequal and less predictable* — popularity partly causes itself; a follow-up showed inverted fake rankings became self-fulfilling for all but the very best songs [8].
-- **Manufactured laughter** works even on people who find it annoying — canned laugh tracks increase rated funniness, particularly for weak material [9].
+- **Manufactured laughter** works even on people who find it annoying — dubbed laugh tracks increase audience laughter and amusement ratings [9] (the it-helps-weak-material-most moderation comes from follow-up work, e.g., Nosanchuk & Lightstone 1974).
 - **Bystander dynamics.** Pluralistic ignorance — everyone scanning everyone else's calm — suppresses response to ambiguous emergencies; the modern meta-analysis qualifies it: the bystander effect attenuates in clearly dangerous situations [10].
 
 ## How it's weaponized
 
-The exploit: **fabricate, curate, or stage the crowd.**
+The recurring exploit: **a fabricated, curated, or staged crowd.**
 
-- **Fake reviews & astroturfing** ([[fake-reviews-astroturfing]]) — review farms, seeded testimonials, sockpuppet consensus. Now squarely illegal in the US: the FTC's Consumer Reviews and Testimonials Rule (16 CFR Part 465, effective Oct 21, 2024) bans buying/selling fake reviews with civil penalties up to ~$51,744 per violation [11]; the UK's DMCC Act 2024 added fake reviews to its banned-practices list.
+- **Fake reviews & astroturfing** ([[fake-reviews-astroturfing]]) — review farms, seeded testimonials, sockpuppet consensus. Now squarely illegal in the US: the FTC's Consumer Reviews and Testimonials Rule (16 CFR Part 465, effective Oct 21, 2024) bans buying/selling fake reviews with civil penalties up to ~$51,744 per violation [11]; the UK's DMCC Act 2024 makes fake reviews a banned practice outright (Schedule 20, para. 13; in force 6 Apr 2025).
 - **Fabricated activity feeds** ([[dark-patterns-social-urgency]]) — "12 people are viewing this", fake low-stock counters, invented purchase pop-ups; documented at scale across shopping sites by the Princeton dark-patterns crawl [12].
 - **Manufactured consensus** ([[disinformation-playbooks]], [[fud-competitor-tactics]]) — bot networks, sockpuppets, front groups and letter-writing campaigns simulating grassroots ([[propaganda-devices]]: band wagon).
 - **Testimonial cultures** — MLM stages and cult gatherings are wall-to-wall social proof: curated success stories, applause rituals, rooms where everyone visibly believes ([[mlm-recruitment-scripts]], [[cult-conversion-funnel]], [[love-bombing]] in group form).
@@ -48,10 +48,11 @@ Citing *real* norms honestly (towel reuse, tax compliance, vaccination rates) is
 ## Recognition
 
 - Consensus you **can't audit**: counts with no source, testimonials with no surnames, crowds of strangers whose incentives you don't know.
-- **Unanimity** — real groups disagree; a room with zero dissent has usually been curated.
+- **Unanimity** — real groups disagree. A room with zero dissent *may* have been curated — or merely silenced by politeness, hierarchy, or pluralistic ignorance (everyone privately doubting while reading everyone else's calm [10]). Either way, treat unanimity as a prompt to go sample dissent, never as proof by itself.
 - Pressure phrased as normality: "everyone's doing it", "most people choose…", "don't be the only one".
 - Activity indicators that conveniently spike when you hesitate (counters, "X just bought").
 - Your own urge to comply *because others are*, in a domain where you have actual information you're ignoring.
+- **Escalation after you decline or cite dissent** — "you'll be the only one", consensus pressure turning into deviance threats: the response-to-no tell ([[manipulation-vs-influence]]).
 
 ## Resistance
 
@@ -67,6 +68,7 @@ Citing *real* norms honestly (towel reuse, tax compliance, vaccination rates) is
 - **Conformity is prosocial infrastructure** — norms make coordination possible; the Asch result is also a story about how much we cooperate.
 - **Cultural variation is real** [3]: collectivist conformity is a functioning social technology, not a defect ([[cultural-difference]]).
 - Most "everyone says" claims are lazy shorthand, not engineered manipulation ([[epistemic-guardrails]]); the diagnostic is fabrication, curation, or unauditable invocation under sales/recruitment pressure.
+- **Boundary with [[unity-ingroup]]:** social proof says *many people are doing it* — the crowd as evidence; unity says *we, your people, do this* — the tribe as identity. Proof persuades the head; unity recruits the self. [[affinity-fraud]] stacks both, which is why it is so effective.
 
 ## Sources
 
@@ -76,7 +78,7 @@ Citing *real* norms honestly (towel reuse, tax compliance, vaccination rates) is
 4. Sherif, M. (1936). *The Psychology of Social Norms.*
 5. Milgram, S., Bickman, L., & Berkowitz, L. (1969). "Note on the drawing power of crowds of different size." *JPSP* 13(2), 79–82 (~40% → ~85% gazing). https://www.semanticscholar.org/paper/65638921ecbf53036637beb0e8fefee9c481532f
 6. Cialdini, R., Reno, R., & Kallgren, C. (1990). "A focus theory of normative conduct." *JPSP* 58(6), 1015–1026.
-7. Goldstein, N., Cialdini, R., & Griskevicius, V. (2008). "A Room with a Viewpoint." *Journal of Consumer Research* 35(3), 472–482 (mixed later replications noted).
+7. Goldstein, N., Cialdini, R., & Griskevicius, V. (2008). "A Room with a Viewpoint." *Journal of Consumer Research* 35(3), 472–482 (mixed later replications: e.g., Bohner & Schlüter 2014, *PLoS ONE* 9(8), e104086).
 8. Salganik, M., Dodds, P., & Watts, D. (2006). "Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market." *Science* 311, 854–856; Salganik & Watts (2008). *Social Psychology Quarterly* 71(4) (inverted rankings).
 9. Smyth, M., & Fuller, R. (1972). *Psychological Reports* 30, 132–134; Cialdini (2021), *Influence*, ch. 4 (Social Proof).
 10. Latané, B., & Darley, J. (1968). "Group inhibition of bystander intervention in emergencies." *JPSP* 10(3), 215–221; Fischer, P., et al. (2011). "The bystander-effect: A meta-analytic review." *Psychological Bulletin* 137(4), 517–537.

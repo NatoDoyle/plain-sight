@@ -4,9 +4,9 @@ type: mechanism
 name: Liking & Similarity
 aliases: [rapport, similarity-attraction, ingratiation, halo effect]
 countered-by: [detection-heuristics, verification-rituals]
-distinguished-from: [genuine-rapport, limerence, neurodivergent-communication]
+distinguished-from: [genuine-rapport, limerence, neurodivergent-communication, unity-ingroup]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-10
 ---
 
@@ -26,11 +26,11 @@ Liking converts to compliance through several well-mapped inputs: **similarity**
 - **Attractiveness halo**: "what is beautiful is good" — attractive people are judged more positively on unrelated traits; meta-analyses confirm a real but moderate, context-dependent halo rather than folk wisdom's giant one [5].
 - **Flattery survives detection**: ingratiation meta-analytically improves liking and evaluations [6], and consumer work finds even *recognized* insincere flattery leaves a positive residue [7].
 - **Field practice as evidence**: Joe Girard, the Guinness-record car salesman, mailed every customer a monthly card reading "I like you" — Cialdini's emblematic case of liking deployed at industrial scale [8]; the Tupperware party model sells through the hostess's friendships rather than the product [8].
-- **Fraud-scale confirmation**: romance scammers explicitly build an ideal-partner persona mirrored from the target's own disclosures and profile, per Whitty's stage model of the online dating romance scam [9]; US reported romance-scam losses were ~$823M in 2024 (over $1.1B in 2023; median losses among the highest of any fraud type) [10].
+- **Fraud-scale confirmation**: romance scammers explicitly build an ideal-partner persona mirrored from the target's own disclosures and profile, per Whitty's stage model of the online dating romance scam [9]; US reported romance-scam losses were ~$823M in 2024 (over $1.1B in 2023; median losses among the highest of any fraud type — victims span all genders and ages, and losses are widely considered underreported) [10].
 
 ## How it's weaponized
 
-The exploit: **calibrate the persona to the target, accelerate liking past knowledge, then place the ask on rapport's heels.**
+The recurring exploit: **a persona calibrated to the target, liking accelerated past knowledge, the ask placed on rapport's heels.**
 
 - **Profile mirroring** — romance scams and catfishing build "your perfect match" from your own posted interests ([[mirroring-false-identity]], [[romance-scam-arc]]); cult recruiters and groomers do the analog version, discovering and adopting your enthusiasms ([[grooming-sequence]], [[love-bombing]]).
 - **Commonality scripts** — the salesperson from your hometown who also fishes and also has a daughter that age ("What a coincidence!" is a tactic with a literature [2]); negotiation "schmoozing" before terms; recruiter flattery ([[flattery-ego]]).
@@ -46,7 +46,7 @@ Finding common ground, being warm, remembering names — this is ordinary social
 
 ## Recognition
 
-- **Uncanny compatibility, fast**: they love everything you love, agree with everything you say, and felt like a soulmate within days ([[love-bombing]] adjacency). Real people have edges; mirrors don't.
+- **Uncanny compatibility, fast**: they love everything you love, agree with everything you say, and felt like a soulmate within days ([[love-bombing]] adjacency). Healthy connections usually show *some* edges — though remember that anxious accommodation can look edge-free too (see Caveats before concluding anything).
 - Cialdini's alarm: *"Do I like this person unusually quickly, given how little I know?"* [8] — liking outrunning acquaintance is the tell.
 - Flattery density rising near requests; warmth that cools instantly when you decline ([[manipulation-vs-influence]]'s response-to-no test).
 - The relationship channel carrying transactions: pitches arriving through friendship, with the friendship as the unstated stake.
@@ -58,12 +58,14 @@ Finding common ground, being warm, remembering names — this is ordinary social
 2. **Let time test it**: calibrated personas leak inconsistencies under longitudinal contact; slow the relationship clock whenever money, secrets, or commitments enter ([[verification-rituals]]).
 3. **Audit the coincidences**: what could they have known about you in advance (profiles, mutuals, data brokers)? Treat perfect alignment as a question, not a gift.
 4. **Independent verification before intimacy-gated asks**: reverse-image the photos, confirm employment, insist on the video call, ask mutual contacts ([[verification-rituals]]; standard romance-scam hygiene [9][10]).
-5. **Transaction hygiene with friends**: name the dual relationship out loud ("friendship and business separately"); a real friend survives the boundary, a channel-seller doesn't ([[boundary-scripts]]).
+5. **Transaction hygiene with friends**: name the dual relationship out loud ("friendship and business separately"); a real friendship survives the boundary — a sales channel wearing friendship doesn't ([[boundary-scripts]]).
 
 ## Caveats
 
 - **Liking and similarity are the glue of normal life** — most warmth is real, most common ground is luck, and most flattery is mere politeness. Run base rates before suspicion ([[epistemic-guardrails]]).
-- **Intense fast connection happens honestly** — mutual [[limerence]], shared niche obsessions, neurodivergent enthusiasm-matching ([[neurodivergent-communication]]) all mimic the "too fast" tell without exploitation. The discriminators are asymmetry, verification-failure, and what happens at your first "no".
+- **Intense fast connection happens honestly** — mutual [[limerence]], shared niche obsessions, neurodivergent enthusiasm-matching ([[neurodivergent-communication]]), and anxious people-pleasing ([[people-pleasing-fawn]]: wall-to-wall agreement driven by fear of conflict, not strategy) all mimic the "too fast" or "no edges" tells without any exploitation. The discriminators are asymmetry, verification-failure, and what happens at your first "no".
+- **Cultural calibration:** flattery density, politeness registers, and courtship pacing are culturally set ([[cultural-difference]]) — effusive compliments are baseline warmth in some cultures, and rapid relationship escalation is conventional in others. Calibrate the "too fast" tell to the norms both parties share.
+- **Boundary with [[unity-ingroup]]:** liking is *dyadic* — I enjoy and feel akin to *you*; unity is *categorical* — you and I are members of one *we* (family, faith, tribe). Similarity opens the door; shared identity removes the locks. [[affinity-fraud]] runs on the second, often opened by the first.
 - **Halo sizes are moderate, not magical** [5]; and mimicry effect sizes are debated [3] — the mechanism is real, but don't over-read any single cue ([[epistemic-guardrails]]).
 
 ## Sources

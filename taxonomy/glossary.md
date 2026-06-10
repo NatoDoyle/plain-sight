@@ -26,6 +26,11 @@ One-line definitions and alias routing. Terms that have their own file point to 
 - **sunk cost** → [[commitment-consistency]] — continuing to justify past investment; the engine of escalation traps and recovery scams
 - **scarcity & urgency** → [[scarcity-urgency]] — running-out value inflation + deadline pressure; manufactured to preempt deliberation
 - **unity / in-group identity** → [[unity-ingroup]] — the manufactured "we": forced teaming, affinity exploitation, instant family
+- **fear exploitation** → [[fear-exploitation]] — threat and rescue from the same hand; fear-then-relief compliance windows
+- **guilt leverage** → [[guilt-leverage]] — unwarranted debts kept unpayable; FOG; the family ledger weaponized
+- **shame leverage** → [[shame-leverage]] — worthlessness verdicts + exposure control; the silencing lever (sextortion, humiliation rituals)
+- **hope & greed** → [[hope-greed]] — phantom fixation: disproportionate rewards that fund their own pursuit
+- **flattery & ego** → [[flattery-ego]] — calibrated praise and special-status hooks; works even when seen through
 
 ## Contrast concepts
 

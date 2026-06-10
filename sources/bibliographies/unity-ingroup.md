@@ -16,4 +16,4 @@ Sweep date: 2026-06-10. Research agent returned FULL web-verified results; file 
 
 ## PENDING
 
-- [ ] Red-team review (no agent capacity this session) → then complete.
+- [x] Red-team review PASSED WITH FIXES (applied 2026-06-10: elasticity de-dichotomized, identity-at-ask conjunction carve-outs, cultural calibration, single-probe verdicts softened, Madoff figure cut, Mogan 2017 meta added). Status: complete.

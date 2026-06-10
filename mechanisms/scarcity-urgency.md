@@ -2,11 +2,11 @@
 id: scarcity-urgency
 type: mechanism
 name: Scarcity & Urgency
-aliases: [scarcity principle, FOMO, deadline pressure, limited availability]
+aliases: [scarcity principle, FOMO, limited availability]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [hard-bargaining, genuine-deadline]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-10
 ---
 
@@ -46,15 +46,15 @@ Real constraints exist: finite stock, genuine deadlines, actual auctions. Statin
 - A deadline that exists **only for you**, or that the seller controls and could trivially extend.
 - The timer that resets; the "today only" that repeats tomorrow; the last-room hotel with rooms next week ([[dark-patterns-social-urgency]]).
 - Pressure aimed at the *verification step specifically*: "no time to check / call back / sleep on it" — urgency whose function is to disable [[verification-rituals]] is self-incriminating.
-- Escalating sweeteners as the clock runs — real constraints don't negotiate.
+- Escalating sweeteners as the clock runs — *probability-shifting* evidence, not proof: real deadlines come with sweeteners too (quarter-end sales exist). Diagnostic only in conjunction — the deadline moves only when you balk, sweeteners appear, *and* verification keeps being discouraged.
 - **Felt-sense indicators:** the panic-buying flutter; fear of *regret* crowding out evaluation of the thing itself; relief-seeking ("just decide and it's over") replacing wanting.
 
 ## Resistance
 
-1. **Never decide under a countdown** as standing policy ([[verification-rituals]]): "If it's only available right now, my answer is no." Most expiring offers reappear; the ones that don't were filtering for pressure-compliance.
+1. **Never decide under a countdown** as standing policy ([[verification-rituals]]): "If it's only available right now, my answer is no." Most expiring offers reappear; the ones that don't were filtering for pressure-compliance. (Carve-out for genuinely clocked domains — auctions, housing offers; see Caveats — there, set your limits *before* the clock starts.)
 2. **Run the regret symmetry:** "What do I lose acting *now* and being wrong, vs waiting and losing the item?" Scarcity framing hides the first term; restore it.
-3. **Test the constraint's elasticity** — ask for 24 hours. A real deadline says no politely; a fabricated one negotiates, sweetens, or escalates ([[manipulation-vs-influence]]'s response-to-resistance test).
-4. **Provisionally accept exploding offers** to defuse the clock where stakes warrant (the Farpoint Gambit [7]) — and update hard about counterparties who deploy them.
+3. **Test the constraint's elasticity** — ask for 24 hours, then read the *pattern*, not any single reply: honest sellers grant extensions as courtesy and real deadlines decline politely. The flag is the conjunction — deadline moving only under pressure, sweeteners arriving, verification still discouraged ([[manipulation-vs-influence]]'s response-to-resistance test, applied at calibration-ladder strength).
+4. **Provisionally accept exploding offers** to defuse the clock where stakes warrant (the Farpoint Gambit [7]) — and treat the move as data about the process, not a verdict on the person (some exploding offers have legitimate logistical bases; a *pattern* of them doesn't).
 5. **Verify independently:** is stock actually low, is the price actually special (price-history tools), does the "window" exist anywhere outside this conversation? ([[detection-heuristics]])
 6. **Name the lever:** "this is a scarcity close" said silently (or aloud) collapses much of its force — the effect depends on being processed as world-fact, not tactic [5].
 
@@ -64,6 +64,9 @@ Real constraints exist: finite stock, genuine deadlines, actual auctions. Statin
 - **Disclosed engineered scarcity** (limited editions, drops) is closer to [[hard-bargaining]] than fraud: both parties can see the game. It still pulls the lever — budget accordingly — but it fails the deception criterion.
 - **Urgency is sometimes the honest signal** ([[genuine-deadline]]): medical, legal, and safety deadlines are real; the guardrails cut both ways (normalcy bias dismisses true urgency — see [[fear-exploitation]] for the calibration).
 - **Boundary with [[manufactured-urgency]]:** that tactic file is the *move* (engineered deadline pressure in a specific encounter); this file is the *lever* it pulls. The tactic file carries the exploits edge.
+- **Boundary with [[fear-exploitation]]:** scarcity threatens loss of *opportunity*; fear-exploitation threatens *harm*. Scam scripts stack both ("act now or your account is frozen") — the clock compresses deliberation while the threat supplies the dread.
+- **Boundary with [[loss-aversion-endowment]]:** loss aversion is the general asymmetry (losses loom larger — its own file); this file covers the *availability constraint* lever built on top of it.
+- **Cultural note:** deadline theater is conventional in haggling cultures — "final offer" rituals are part of a game both parties know they're playing ([[cultural-difference]], [[hard-bargaining]]).
 - Effects are moderated, not magical [5]; a scarcity cue on its own is weak evidence of anything ([[epistemic-guardrails]]).
 
 ## Sources

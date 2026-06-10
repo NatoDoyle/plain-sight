@@ -52,3 +52,7 @@ Innocent or neighboring look-alikes that the KB distinguishes manipulation **fro
 - `genuine-rapport` — warmth and common ground built at the pace of real acquaintance, symmetric in disclosure, surviving your first "no"
 - `genuine-deadline` — a real, inelastic constraint honestly disclosed (statute dates, auction closes, finite stock); urgency is then information, not a lever
 - `genuine-community` — belonging with real shared fate: freely exitable, identity not invoked to extract, leavers treated decently
+- `genuine-warning` — a real threat honestly conveyed, where the warner does not sell the relief and welcomes independent verification
+- `honest-hurt` — genuinely expressing pain at another's behavior without engineered obligation; discharges when addressed instead of compounding
+- `earned-praise` — accurate, proportionate recognition with no ask attached; survives your failure to reciprocate
+- `genuine-opportunity` — a real prospect that tolerates scrutiny, diversification, and delay; returns claimed are proportionate and verifiable

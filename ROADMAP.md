@@ -21,8 +21,8 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `social-proof` — manufactured consensus, "everyone's doing it", testimonials
 - [x] `authority` — symbols, titles, uniforms, borrowed credibility, expert posturing
 - [x] `liking-similarity` — rapport, mirroring, compliments, "we're alike" as compliance levers
-- [ ] `scarcity-urgency` — limited time/quantity, exploding offers, FOMO mechanics
-- [ ] `unity-ingroup` — shared identity ("we"), family/tribe framing, us-vs-them
+- [x] `scarcity-urgency` — limited time/quantity, exploding offers, FOMO mechanics
+- [x] `unity-ingroup` — shared identity ("we"), family/tribe framing, us-vs-them
 - [ ] `fear-exploitation` — threat inflation, protection rackets, fear-then-relief
 - [ ] `guilt-leverage` — indebtedness scripts, obligation manufacturing, guilt as compliance fuel
 - [ ] `shame-leverage` — humiliation, exposure threats, worthiness attacks

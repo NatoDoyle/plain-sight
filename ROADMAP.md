@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tier 0 complete · 3/147 complete · last updated 2026-06-10
+**Status:** Tier 0 complete · 3/147 complete · Tier 1: first 5 mechanisms (reciprocity → liking-similarity) **drafted, pending verification sweep + red-team** (subagent capacity hit a usage limit; resume there) · last updated 2026-06-10
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 

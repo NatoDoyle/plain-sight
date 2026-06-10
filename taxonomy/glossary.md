@@ -17,6 +17,11 @@ One-line definitions and alias routing. Terms that have their own file point to 
 - **DARVO** → [[darvo]] — Deny, Attack, Reverse Victim and Offender: a perpetrator response pattern to being held accountable (Freyd)
 - **dark patterns / deceptive patterns** → [[dark-patterns-obstruction]], [[dark-patterns-social-urgency]] — interface designs that deceive, obstruct, or pressure users into unintended choices
 - **gaslighting** → [[gaslighting]] — sustained reality-denial that erodes a target's trust in their own perception, memory, or sanity
+- **reciprocity** → [[reciprocity]] — the obligation ledger: unrequested favors create debts that can be called in disproportionately
+- **commitment & consistency** → [[commitment-consistency]] — small yeses compound into identity-binding ladders; includes sunk-cost exploitation
+- **social proof** → [[social-proof]] — the crowd as evidence; manufactured consensus steers judgment
+- **authority** → [[authority]] — deference keys on fakeable signals (titles, uniforms, jargon), not verified competence
+- **liking & similarity** → [[liking-similarity]] — we say yes to people we like and who feel like us; both are manufacturable
 
 ## Contrast concepts
 
@@ -36,3 +41,8 @@ Innocent or neighboring look-alikes that the KB distinguishes manipulation **fro
 - `self-protective-distance` — withdrawal to regulate or stay safe (including by abuse victims), distinct from punitive [[silent-treatment]]
 - `paternalism` — overriding someone's choices *for their benefit and openly* — ethically contested but distinct from self-serving covert steering
 - `cultural-difference` — directness norms, haggling customs, gift obligations, or high-context communication misread as tactics across cultures
+- `genuine-generosity` — giving with no calibration to an ask, no ledger speech, and no resentment when unrepaid; survives refusal
+- `principled-consistency` — loyalty to values and evidence under pressure, including the freedom to change one's mind; distinct from compliance with extracted past commitments
+- `rational-herding` — following the crowd under genuine uncertainty as sound Bayesian strategy (information cascades, honest review averages)
+- `legitimate-expertise` — verifiable, in-domain authority that welcomes verification and second opinions
+- `genuine-rapport` — warmth and common ground built at the pace of real acquaintance, symmetric in disclosure, surviving your first "no"

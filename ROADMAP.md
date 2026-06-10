@@ -1,0 +1,183 @@
+# ROADMAP.md — topic backlog & status
+
+The research program: ~147 topics across 8 tiers, executed in tier order, one topic at a time, per `METHODOLOGY.md`. This file is the **single resume point**: any session picks the next unchecked box. Checked = file exists with `status: complete`.
+
+- Backlog ids are valid edge/wikilink targets before their files exist (`kb.py validate` treats them as *pending*).
+- Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
+- Live numbers: `python3 tools/kb.py stats`.
+
+**Status:** Tier 0 in progress · 0/147 complete · last updated 2026-06-09
+
+## Tier 0 — Foundations (meta/, taxonomy/)
+
+- [ ] `manipulation-vs-influence` (meta) — the boundary problem: persuasion/influence/manipulation/coercion/deception; covertness, vulnerability-exploitation, asymmetry criteria; legal lines; grey zones
+- [ ] `epistemic-guardrails` (meta) — concept creep, term inflation, weak constructs registry, base rates, alternative explanations, calibration protocol for the defense agent
+- [ ] `master-taxonomy` (taxonomy) — the map: entity types, edge semantics, how prior published taxonomies fold in, navigation entry points
+
+## Tier 1 — Mechanisms (mechanisms/) — why it works
+
+- [ ] `reciprocity` — obligation engineering: unsolicited gifts/favors/concessions creating debt
+- [ ] `commitment-consistency` — small yeses to big traps; sunk cost; public commitment lock-in
+- [ ] `social-proof` — manufactured consensus, "everyone's doing it", testimonials
+- [ ] `authority` — symbols, titles, uniforms, borrowed credibility, expert posturing
+- [ ] `liking-similarity` — rapport, mirroring, compliments, "we're alike" as compliance levers
+- [ ] `scarcity-urgency` — limited time/quantity, exploding offers, FOMO mechanics
+- [ ] `unity-ingroup` — shared identity ("we"), family/tribe framing, us-vs-them
+- [ ] `fear-exploitation` — threat inflation, protection rackets, fear-then-relief
+- [ ] `guilt-leverage` — indebtedness scripts, obligation manufacturing, guilt as compliance fuel
+- [ ] `shame-leverage` — humiliation, exposure threats, worthiness attacks
+- [ ] `hope-greed` — jackpot dreams, "opportunity" framing, get-rich/get-loved promises
+- [ ] `flattery-ego` — strategic praise, status-stroking, "you're special" hooks
+- [ ] `attachment-needs` — belonging/love/validation hunger as attack surface
+- [ ] `certainty-needs` — need for closure/answers exploited by confident liars and gurus
+- [ ] `trust-mechanics` — how trust forms (warmth/competence/integrity cues) and how each cue is faked
+- [ ] `intermittent-reinforcement` — variable rewards: the strongest behavioral glue (slots, hot-cold partners)
+- [ ] `emotional-flooding` — overwhelm states (rage, panic, infatuation) that suspend deliberation
+- [ ] `cognitive-overload-confusion` — complexity, speed, jargon, contradiction as defenses-suppressors
+- [ ] `information-asymmetry` — gatekeeping, selective disclosure, epistemic dependence
+- [ ] `framing-anchoring` — reference-point control: first numbers, comparison sets, decoys
+- [ ] `loss-aversion-endowment` — losses loom larger; trials/possession effects; "don't lose what you have"
+- [ ] `dissonance-exploitation` — forcing self-justification spirals after small compromises
+- [ ] `memory-fallibility` — misinformation effect, confident confabulation, history editing substrate
+
+## Tier 2 — Core cross-domain tactics (tactics/) + keystone defenses (defenses/)
+
+- [ ] `gaslighting` — systematic reality-denial to destabilize a target's trust in their own perception
+- [ ] `darvo` — Deny, Attack, Reverse Victim and Offender (Freyd)
+- [ ] `love-bombing` — overwhelming early affection/attention as accelerant and leverage
+- [ ] `guilt-tripping` — inducing guilt to control ("after all I've done…")
+- [ ] `silent-treatment` — punitive withdrawal of contact/affection as control
+- [ ] `triangulation` — third parties imported as weapons: comparisons, rivals, messengers
+- [ ] `isolation-tactics` — severing friends/family/finances/information channels
+- [ ] `projection-blame-shifting` — accusing the target of the manipulator's own behavior; fault relocation
+- [ ] `victim-posturing` — strategic self-pity to deflect accountability and recruit allies
+- [ ] `moving-goalposts` — success criteria that shift whenever met
+- [ ] `circular-conversation` — word salad, topic rotation, exhaustion arguments that never resolve
+- [ ] `thought-terminating-cliches` — stock phrases that kill examination ("it is what it is", "doubt your doubts")
+- [ ] `hoovering` — re-contact campaigns to suck a target back after escape
+- [ ] `smear-campaigns` — preemptive/retaliatory reputation destruction
+- [ ] `proxy-recruitment` — flying monkeys: third parties deployed to pressure the target
+- [ ] `negging` — calculated put-downs to lower status and fish for validation
+- [ ] `future-faking` — vivid promised futures as payment-now leverage
+- [ ] `breadcrumbing` — minimal intermittent attention to keep a target on the hook
+- [ ] `double-binds` — engineered no-win choices ("damned either way")
+- [ ] `history-rewriting` — retroactive narrative editing of events, promises, agreements
+- [ ] `weaponized-incompetence` — strategic helplessness to offload labor and lower expectations
+- [ ] `emotional-blackmail` — FOG: fear, obligation, guilt (Forward); if-you-loved-me leverage
+- [ ] `veiled-threats` — deniable intimidation: hints, jokes, "I'd hate for X to happen"
+- [ ] `self-harm-threats` — "I'll hurt myself if you leave" as a control mechanism (safety-critical)
+- [ ] `lying-typologies` — commission, omission, paltering, equivocation, bluffing, BS (Frankfurt)
+- [ ] `boundary-testing` — probing small violations to map compliance before bigger ones
+- [ ] `mirroring-false-identity` — manufactured soulmate/ideal-candidate personas
+- [ ] `pity-plays` — sympathy as the con's strongest card (Stout's "pity play")
+- [ ] `charm-offensive` — weaponized charisma and impression management
+- [ ] `manufactured-urgency` — deadline pressure engineered to prevent deliberation (act-now closes)
+- [ ] `therapy-speak-weaponization` — "boundaries"/"toxic"/"gaslighting" vocabulary misused as control
+- [ ] `non-apology-patterns` — fauxpologies: "sorry you feel that way", conditional and blame-shifting apologies
+- [ ] `bad-faith-argumentation` — sealioning, gish gallop, motte-and-bailey, strawman cycles
+- [ ] `detection-heuristics` (defenses) — the universal screen: pressure+urgency+emotion+isolation+secrecy → audit
+- [ ] `boundary-scripts` (defenses) — concrete language for setting/holding limits under pressure
+- [ ] `verification-rituals` (defenses) — callbacks, second opinions, cooling-off periods, independent channels
+
+## Tier 3 — Dynamics (dynamics/) — how it unfolds over time
+
+- [ ] `abuse-cycle` — tension → incident → reconciliation → calm (Walker) + critiques of cycle universality
+- [ ] `trauma-bonding` — attachment to an abuser via intermittent reinforcement + power asymmetry (Dutton & Painter)
+- [ ] `coercive-control` — the architecture of domination: micro-regulation, surveillance, credible threat (Stark)
+- [ ] `grooming-sequence` — staged trust-building toward exploitation: selection, access, trust, desensitization, maintenance
+- [ ] `con-anatomy` — the classic stages: put-up, play, rope, tale, convincer, breakdown, send, touch, blow-off
+- [ ] `cult-conversion-funnel` — recruitment → love-bomb → escalating commitment → identity replacement (Lifton, Hassan, Singer)
+- [ ] `radicalization-pipeline` — grievance → ideology → echo chamber → action funnel
+- [ ] `romance-scam-arc` — profile → grooming → crisis/investment ask → escalation → pig butchering
+- [ ] `mlm-lifecycle` — recruitment dream → sunk-cost deepening → inventory loading → exit shaming
+- [ ] `escalation-entrapment` — how exit costs are engineered upward over time (commitments, secrets, dependents, debts)
+
+## Tier 4a — Context dossiers (contexts/)
+
+- [ ] `intimate-relationships` — dating → partnership: prevalence, top tactics, escalation map, legal protections, exit resources
+- [ ] `family-parents` — abusive/controlling parents and relatives; adult-child dynamics; estrangement decisions
+- [ ] `workplace-bosses` — abusive supervision, org cover dynamics, HR realities, documentation & exit
+- [ ] `competitors-business` — FUD, astroturfing, poaching, bad-faith partnerships, espionage-adjacent social engineering
+- [ ] `sales` — pressure systems by industry; where persuasion ends and deception begins; consumer rights
+- [ ] `advertising-marketing` — emotional conditioning, targeting, pricing psychology; regulation and self-defense
+- [ ] `digital-platforms` — attention engineering, dark patterns, algorithmic amplification, parasocial economies
+- [ ] `scams-fraud` — the fraud landscape: typologies, current trends, reporting channels, recovery scams
+- [ ] `cults-high-control` — groups: religious, political, commercial (LGATs), wellness; assessment checklists
+- [ ] `propaganda-politics` — state/movement persuasion machinery; disinformation ecosystems; voter-facing defenses
+- [ ] `institutions` — gatekeeping abuse: medical dismissal, legal process abuse, financial steering, school/HR betrayal
+- [ ] `negotiation` — hardball vs manipulation: recognized dirty tricks and counters at the table
+
+## Tier 4b — Domain-specific tactics (tactics/)
+
+- [ ] `financial-abuse` — allowances, sabotaged employment, debt-loading, account control in relationships
+- [ ] `sexual-coercion` — pressure, guilt, obligation framing short of force; consent erosion
+- [ ] `reactive-abuse-provocation` — baiting a target into reactions used as evidence against them
+- [ ] `stalkerware-monitoring` — phone checking, location tracking, spyware, account takeover as control
+- [ ] `parentification` — children conscripted into adult emotional/practical roles
+- [ ] `golden-child-scapegoat` — engineered sibling role assignment and comparison control
+- [ ] `conditional-love` — approval rationing contingent on compliance
+- [ ] `elder-targeting` — isolation, dependency engineering, inheritance/caregiver leverage
+- [ ] `credit-theft-visibility` — idea appropriation, contribution erasure, visibility starvation at work
+- [ ] `pip-weaponization` — performance processes as pretext: paper trails, impossible metrics, managed exits
+- [ ] `we-are-family-rhetoric` — loyalty framing to extract unpaid labor and suppress complaints
+- [ ] `mobbing` — coordinated workplace ostracism and reputation destruction
+- [ ] `foot-in-the-door` — small ask → large ask compliance laddering
+- [ ] `door-in-the-face` — outrageous ask → "concession" to the real ask
+- [ ] `lowballing` — commitment first, true cost revealed after
+- [ ] `thats-not-all-decoys` — sweeteners, bundle fog, decoy options steering choice
+- [ ] `four-square-payment-packing` — car-dealership worksheet games and finance-office add-on stuffing
+- [ ] `timeshare-playbook` — captive presentations: gift hooks, 90-minute grinds, today-only pricing
+- [ ] `mlm-recruitment-scripts` — income puffery, lifestyle theater, "be your own boss", warm-market mining
+- [ ] `dark-patterns-obstruction` — roach motel, forced continuity, cancellation mazes, sneak-into-basket
+- [ ] `dark-patterns-social-urgency` — fake counters, fake low-stock, confirmshaming, fabricated activity feeds
+- [ ] `fake-reviews-astroturfing` — manufactured social proof: review farms, sockpuppets, front groups
+- [ ] `parasocial-influencer-tactics` — manufactured intimacy monetized: hauls, "link in bio", guru funnels
+- [ ] `phishing-pretexting` — social engineering attacks: urgency+authority impersonation across channels
+- [ ] `ai-enabled-manipulation` — voice cloning, deepfakes, chatbot romance/investment scams, synthetic personas
+- [ ] `cold-reading` — Barnum statements, shotgunning, sleight of tongue (psychics, "intuitives", interviewers)
+- [ ] `affinity-fraud` — exploiting shared faith/ethnicity/community trust networks
+- [ ] `ponzi-psychology` — why returns-too-good survive scrutiny: exclusivity, redemption theater, social proof
+- [ ] `fud-competitor-tactics` — fear-uncertainty-doubt against rivals; switching-cost terror; vaporware promises
+- [ ] `bad-faith-negotiation` — good cop/bad cop, higher authority, nibbling, brinkmanship, false deadlines
+- [ ] `propaganda-devices` — the classic device set (IPA seven + modern descendants)
+- [ ] `disinformation-playbooks` — firehose of falsehood, flooding, manufactured consensus, source laundering
+
+## Tier 5 — Profiles (profiles/) & Vulnerabilities (vulnerabilities/)
+
+- [ ] `narcissistic-patterns` — NPD-informed manipulation signatures (carefully: traits ≠ diagnosis)
+- [ ] `psychopathic-patterns` — callous-instrumental signatures (Hare); glibness, parasitism, dual masks
+- [ ] `machiavellianism` — strategic long-game manipulation as trait; workplace expression
+- [ ] `dark-triad-overview` — measurement, overlap, critiques of pop usage
+- [ ] `con-artist-typologies` — professional fraud operator patterns and role specialization
+- [ ] `everyday-manipulators` — situational, non-pathological manipulation: the most common case
+- [ ] `why-smart-people-fall` — intelligence ≠ immunity; expertise overconfidence; the fraud-victim profile myth
+- [ ] `crisis-windows` — bereavement, divorce, illness, relocation, job loss as targeting windows
+- [ ] `loneliness-isolation` — social hunger as attack surface
+- [ ] `trauma-history-revictimization` — normalized red flags and re-selection dynamics
+- [ ] `people-pleasing-fawn` — conflict-avoidant compliance and exploitability
+- [ ] `cognitive-decline-age` — aging, decision fatigue, and financial-exploitation susceptibility
+- [ ] `optimism-overconfidence` — "it can't happen to me"; bias blind spot
+- [ ] `scarcity-stress` — financial desperation narrowing judgment (tunneling)
+- [ ] `betrayal-blindness` — motivated unawareness when dependence is high (Freyd)
+
+## Tier 6 — Defenses & recovery (defenses/)
+
+- [ ] `universal-red-flags` — the master cross-context warning list, ranked by diagnosticity
+- [ ] `manipulation-audit` — structured self-check protocol when something feels off (the agent's core procedure)
+- [ ] `gray-rock` — low-information unresponsiveness: how, when, risks (can escalate some abusers)
+- [ ] `jade-avoidance` — don't Justify, Argue, Defend, Explain; resisting engagement hooks
+- [ ] `documentation-practices` — contemporaneous records, message preservation, witnesses, legality of recording
+- [ ] `no-contact-exit-planning` — graded disengagement: limited contact → no contact; relationships/family/jobs/groups
+- [ ] `dv-safety-planning` — leaving safely is the highest-risk window; professional protocols, hotlines (safety-critical)
+- [ ] `cult-exit-support` — exit counseling vs deprogramming; identity reconstruction; family do's/don'ts
+- [ ] `recovery-rebuilding` — self-trust repair, therapy modalities with evidence notes, post-exploitation finances
+- [ ] `helping-others` — intervening without pushing them deeper (motivational-interviewing stance, ultimatum risks)
+- [ ] `inoculation-prebunking` — attitudinal vaccines: weakened-dose exposure to tactics (van der Linden, McGuire)
+- [ ] `organizational-defenses` — procurement gates, hiring screens, anti-fraud controls, speak-up cultures
+
+## Tier 7 — Synthesis (taxonomy/, meta/)
+
+- [ ] `playbooks-compendium` (taxonomy) — named multi-tactic sequences cataloged across domains
+- [ ] `felt-sense-index` (taxonomy) — reverse index: what the target feels → candidate tactics ("confused after every talk" → …)
+- [ ] `defense-agent-spec` (meta) — system prompt, retrieval strategy, confidence calibration, safety escalation rules
+- [ ] `coverage-audit` (taxonomy) — final gap analysis: orphan nodes, missing edges, untested scenarios

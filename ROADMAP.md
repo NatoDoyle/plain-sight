@@ -6,13 +6,13 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tier 0 in progress · 0/147 complete · last updated 2026-06-09
+**Status:** Tier 0 complete · 3/147 complete · last updated 2026-06-10
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
-- [ ] `manipulation-vs-influence` (meta) — the boundary problem: persuasion/influence/manipulation/coercion/deception; covertness, vulnerability-exploitation, asymmetry criteria; legal lines; grey zones
-- [ ] `epistemic-guardrails` (meta) — concept creep, term inflation, weak constructs registry, base rates, alternative explanations, calibration protocol for the defense agent
-- [ ] `master-taxonomy` (taxonomy) — the map: entity types, edge semantics, how prior published taxonomies fold in, navigation entry points
+- [x] `manipulation-vs-influence` (meta) — the boundary problem: persuasion/influence/manipulation/coercion/deception; covertness, vulnerability-exploitation, asymmetry criteria; legal lines; grey zones
+- [x] `epistemic-guardrails` (meta) — concept creep, term inflation, weak constructs registry, base rates, alternative explanations, calibration protocol for the defense agent
+- [x] `master-taxonomy` (taxonomy) — the map: entity types, edge semantics, how prior published taxonomies fold in, navigation entry points
 
 ## Tier 1 — Mechanisms (mechanisms/) — why it works
 

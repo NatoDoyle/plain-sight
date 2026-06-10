@@ -43,7 +43,8 @@ favored-by: [narcissistic-patterns]                   # edge: tactic → profile
 targets: [people-pleasing-fawn]                       # edge: tactic → vulnerability
 composed-of: []                # edge: dynamic → constituent tactics (dynamics only)
 severity: high                 # low|medium|high|critical (typical harm potential)
-evidence: supported            # REQUIRED for tactic/mechanism/dynamic/profile/vulnerability/defense:
+evidence: supported            # REQUIRED for tactic/mechanism/dynamic/profile/vulnerability/defense;
+                               #   optional for context/meta (include when the file makes graded claims).
                                #   established|supported|clinical|folk|contested (rubric in METHODOLOGY.md)
 safety: dv-escalation          # optional flag: file contains crisis-escalation guidance
 status: complete               # REQUIRED. backlog|researching|drafted|reviewed|complete|needs-update

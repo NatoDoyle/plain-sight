@@ -7,7 +7,8 @@ countered-by: [detection-heuristics, no-contact-exit-planning]
 distinguished-from: [genuine-rapport, self-protective-distance]
 severity: high
 evidence: established
-status: drafted
+safety: dv-escalation
+status: complete
 last-updated: 2026-06-11
 ---
 
@@ -33,9 +34,9 @@ Two distinct, canonical findings get fused under this name, and the KB keeps the
 The recurring exploit: **an unpredictable supply of something needed, with the schedule in the exploiter's hands.**
 
 - **The hot-and-cold partner** — affection, rage, and withdrawal on no learnable schedule: the target works ever harder for the good days and can't extinguish on the bad ones [6] ([[trauma-bonding]], [[abuse-cycle]]; the reconciliation phase is the jackpot that re-arms the schedule).
-- **Engineered gambling** — slots, and their digital descendants: loot boxes, gacha mechanics, mystery rewards [3][4] ([[dark-patterns-social-urgency]] adjacent; aimed increasingly at minors).
+- **Engineered gambling** — slots, and their digital descendants: loot boxes, gacha mechanics, mystery rewards [3][4] ([[dark-patterns-social-urgency]] adjacent).
 - **Attention economies** — pull-to-refresh, notification batching, algorithmic feeds: maybe-something-good on every check [5] ([[digital-platforms]], [[parasocial-influencer-tactics]]).
-- **Crumb economies in courtship** — [[breadcrumbing]]: minimal, irregular attention calibrated to keep a target orbiting (now with preliminary academic correlates — lower life satisfaction, more loneliness/helplessness); the deliberate version of what flaky people do by accident.
+- **Crumb economies in courtship** — [[breadcrumbing]]: minimal, irregular attention calibrated to keep a target orbiting (preliminary academic correlates: lower life satisfaction, more loneliness and helplessness [7]); the deliberate version of what flaky people do by accident.
 - **Workplace carrot-scheduling** — praise, opportunities, and "almost-promotions" dispensed unpredictably ([[workplace-bosses]], [[moving-goalposts]]: the goalpost move *resets the schedule*); commission structures engineered as near-miss machines ([[mlm-lifecycle]]'s rank systems).
 - **Hoovering and the extinction burst** — when a target finally withdraws (gray rock, no contact), the manipulator's *intensified campaign* — gifts, declarations, crises, threats — is the interpersonal extinction burst [2] ([[hoovering]]; expecting it is half of surviving it: see Resistance).
 - **Cult cycles** — favor and disfavor from leadership on unreadable schedules; status granted, stripped, restored ([[cults-high-control]], [[conditional-love]] at group scale).
@@ -61,9 +62,13 @@ Variability isn't sinister — life, love, and honest games are intrinsically va
 5. **For the digital version**: kill variable triggers (notifications off, scheduled checking, grayscale), which attacks the schedule rather than your willpower [5].
 6. **Refill elsewhere while deciding** — variable reward binds hardest on a depleted target; steady sources of connection and reward ([[attachment-needs]]'s diversification rule) lower the jackpot's leverage.
 
+## Safety notes
+
+If the hot-and-cold pattern includes violence, threats, strangulation, surveillance, or escalating control, the severity override in [[epistemic-guardrails]] governs: this is [[coercive-control]] territory, and **separation is the documented highest-risk window** — do not improvise the exit protocol in Resistance §3–4 alone. Plan with professionals: **US:** National Domestic Violence Hotline 1-800-799-7233 / thehotline.org · **UK:** 0808 2000 247 · elsewhere, local DV services (standing list in `README.md`); the dedicated protocol is [[dv-safety-planning]]. Expecting an extinction burst is *not* the same as being safe during one.
+
 ## Caveats
 
-- **Inconsistent ≠ manipulative.** Depression, ADHD, overwork, and avoidant attachment all produce hot-and-cold patterns *without* a controlled schedule or harvested benefit ([[neurodivergent-communication]], [[self-protective-distance]]). The diagnostics: who controls the variability, who benefits from your persistence, and what happens when you ask for steadiness — in conjunction, over time ([[epistemic-guardrails]]).
+- **Inconsistent ≠ manipulative.** Depression, bipolar mood cycling, ADHD, overwork, and avoidant attachment all produce hot-and-cold patterns *without* a controlled schedule or harvested benefit ([[neurodivergent-communication]], [[self-protective-distance]]). The diagnostics: who controls the variability, who benefits from your persistence, and what happens when you ask for steadiness — in conjunction, over time ([[epistemic-guardrails]]).
 - **New relationships are legitimately variable** — early-stage uncertainty is not a schedule; the file targets *established patterns* where consistency is possible and punished.
 - **The extinction burst is common, not universal** [2] — its absence proves nothing, and "it'll get worse before better" should not be weaponized to predict doom for every exit.
 - **Variable reward in design is a spectrum** — surprise-and-delight features differ from engineered compulsion loops; the loot-box correlations [4] are correlational (direction debated), flagged as such.
@@ -77,6 +82,7 @@ Variability isn't sinister — life, love, and honest games are intrinsically va
 4. Drummond, A., & Sauer, J. (2018). "Video game loot boxes are psychologically akin to gambling." *Nature Human Behaviour* 2(8), 530–532; Zendle, D., & Cairns, P. (2018). *PLOS ONE* 13(11), e0206767 (n=7,422; replicated 2019, *PLOS ONE* 14(3)).
 5. Eyal, N. (2014). *Hooked* (variable reward as design component — industry's own playbook, read defensively); Bhargava, V., & Velasquez, M. (2021). "Ethics of the Attention Economy." *Business Ethics Quarterly* 31(3), 321–359.
 6. Dutton, D., & Painter, S. (1981). "Traumatic bonding." *Victimology* 6, 139–155; Dutton & Painter (1993). *Violence and Victims* 8(2), 105–120 (post-separation test: intermittency + power differential predicted attachment).
+7. Navarro, R., Larrañaga, E., Yubero, S., & Víllora, B. (2020). "Psychological Correlates of Ghosting and Breadcrumbing Experiences." *IJERPH* 17(3), 1116 (preliminary).
 
 ## See also
 

@@ -6,7 +6,7 @@ aliases: [need to belong, belongingness, love hunger, validation hunger]
 countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [genuine-community, limerence]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-11
 ---
 
@@ -36,7 +36,7 @@ The recurring exploit: **supply the need fast, make the supply exclusive, then p
 - **Supply rationing** — affection, approval, and warmth dispensed contingent on compliance and withdrawn as punishment ([[conditional-love]], [[silent-treatment]]; the hot-cold pattern is [[intermittent-reinforcement]]'s strongest form).
 - **Exclusivity claims** — "only I truly understand you", "no one will ever love you like this": the supply framed as unobtainable elsewhere, often *engineered* to be by severing other bonds ([[isolation-tactics]]).
 - **Transition-window recruitment** — cults and high-control groups offering instant family precisely at relocation, bereavement, divorce, first-year college (clinical-observational but consistent [7]; [[cult-conversion-funnel]], [[crisis-windows]], [[unity-ingroup]]'s instant-family bullet).
-- **Exit-barrier construction** — "you'll end up alone" as a standing threat; fear of re-loneliness doing the staying ([[escalation-entrapment]], [[veiled-threats]]).
+- **Exit-barrier construction** — "you'll end up alone" as a standing threat; fear of re-loneliness doing the staying ([[escalation-entrapment]], [[veiled-threats]]; where exit barriers come with threats or control, the severity override applies — resources in `README.md`, protocol at [[dv-safety-planning]]).
 - **Parasocial monetization** — manufactured intimacy at scale: creators' "I love you guys" funneling into purchases, donations, and parasocial defense armies [8] ([[parasocial-influencer-tactics]]).
 - **Validation drip-feeds** — apps and people dispensing approval on variable schedules ([[breadcrumbing]], [[intermittent-reinforcement]]).
 
@@ -67,6 +67,8 @@ Meeting belonging needs is what love, friendship, and community *are* — the le
 - **Fast, deep connection happens honestly** — mutual [[limerence]], crisis camaraderie, instant friendships ([[genuine-community]] forms quickly sometimes). The discriminators are supply-rationing, exclusivity engineering, and response to your pacing requests.
 - **Attachment styles are risk dimensions, not verdicts** [4] — both anxious and avoidant patterns carry associations; neither dooms anyone, and secure people get manipulated too.
 - **Withdrawal of affection isn't always punishment**: people honestly cool, get depressed, or protect themselves ([[self-protective-distance]]); the tell is *contingency on compliance across time*, not any single distance.
+- **Welcoming newcomers is what healthy communities do** — campus orientation, new-member dinners, relocation outreach all supply belonging at transitions without exploitation. The discriminators are exclusivity claims, engineered pace, and supply-pricing — not warmth at a vulnerable moment.
+- **Boundary with [[unity-ingroup]]:** unity is identity-fusion (*you and I are one we*); this file is need-supply (*you control my access to belonging*). Instant-family recruitment pulls both — unity supplies the frame, attachment hunger the grip. And vs [[liking-similarity]]: liking is the affinity feeling; attachment is dependence on its continued supply.
 
 ## Sources
 

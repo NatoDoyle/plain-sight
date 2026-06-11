@@ -15,4 +15,4 @@ Sweep date: 2026-06-11. Research agent returned FULL verified results. `drafted`
 
 ## PENDING
 
-- [ ] Red-team review → then complete.
+- [x] Red-team review passed 2026-06-11 (fixes applied; see commit). Status: complete.

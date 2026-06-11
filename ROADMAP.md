@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tier 0 complete · Tier 1: 12/23 mechanisms complete (all red-teamed + citation-verified) · 15/147 complete · next: `attachment-needs` · last updated 2026-06-11
+**Status:** Tier 0 complete · Tier 1: 16/23 mechanisms complete (all red-teamed + citation-verified) · 19/147 complete · next: `emotional-flooding`, then the ~20-topic synthesis checkpoint · last updated 2026-06-11
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -28,10 +28,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `shame-leverage` — humiliation, exposure threats, worthiness attacks
 - [x] `hope-greed` — jackpot dreams, "opportunity" framing, get-rich/get-loved promises
 - [x] `flattery-ego` — strategic praise, status-stroking, "you're special" hooks
-- [ ] `attachment-needs` — belonging/love/validation hunger as attack surface
-- [ ] `certainty-needs` — need for closure/answers exploited by confident liars and gurus
-- [ ] `trust-mechanics` — how trust forms (warmth/competence/integrity cues) and how each cue is faked
-- [ ] `intermittent-reinforcement` — variable rewards: the strongest behavioral glue (slots, hot-cold partners)
+- [x] `attachment-needs` — belonging/love/validation hunger as attack surface
+- [x] `certainty-needs` — need for closure/answers exploited by confident liars and gurus
+- [x] `trust-mechanics` — how trust forms (warmth/competence/integrity cues) and how each cue is faked
+- [x] `intermittent-reinforcement` — variable rewards: the strongest behavioral glue (slots, hot-cold partners)
 - [ ] `emotional-flooding` — overwhelm states (rage, panic, infatuation) that suspend deliberation
 - [ ] `cognitive-overload-confusion` — complexity, speed, jargon, contradiction as defenses-suppressors
 - [ ] `information-asymmetry` — gatekeeping, selective disclosure, epistemic dependence

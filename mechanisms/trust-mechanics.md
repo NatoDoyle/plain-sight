@@ -4,9 +4,9 @@ type: mechanism
 name: Trust Mechanics
 aliases: [trustworthiness cues, swift trust, confidence game, trust repair]
 countered-by: [verification-rituals, detection-heuristics]
-distinguished-from: [legitimate-expertise, genuine-rapport]
+distinguished-from: [legitimate-expertise, genuine-rapport, liking-similarity]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-11
 ---
 
@@ -34,7 +34,7 @@ The standard model says we judge trustworthiness on three factors — **ability,
 The recurring exploit: **counterfeit the cue that grants the vulnerability.**
 
 - **Warmth counterfeits** — charm, mirroring, instant intimacy ([[charm-offensive]], [[liking-similarity]], [[love-bombing]]): the first-judged, heaviest-weighted cue is also the cheapest to fake [2].
-- **Competence counterfeits** — confident jargon, props, credentials, borrowed institutions ([[authority]] is the role-signal shortcut; the Dr. Fox conditions) [3].
+- **Competence counterfeits** — confident jargon, props, credentials, borrowed institutions ([[authority]] is the role-signal shortcut, and the Dr. Fox conditions live there).
 - **Integrity counterfeits** — conspicuous piety, moral talk, community standing: the affinity fraudster's uniform ([[affinity-fraud]], [[unity-ingroup]]); visible scrupulosity in small things buying license in large ones (the con's "convincer" logic — [[con-anatomy]]).
 - **Swift-trust exploitation** — pretexting rides role conventions: the "IT guy", the "auditor", the "new contractor" are trusted *as roles* before any verification [6] ([[phishing-pretexting]]; BEC fraud is swift trust at wire-transfer scale).
 - **Trust-by-installments** — small reliabilities accumulated deliberately (repay the small loan, keep the small secret, deliver the small win) to bank trust for one large extraction ([[con-anatomy]]'s convincer; [[boundary-testing]] run in reverse).

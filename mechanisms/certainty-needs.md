@@ -6,7 +6,7 @@ aliases: [need for closure, ambiguity intolerance, confidence heuristic]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [justified-confidence]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-11
 ---
 
@@ -45,7 +45,7 @@ Providing structure, decisions, and justified confidence is what good experts, l
 
 ## Recognition
 
-- **Zero hedging in inherently uncertain domains** — markets, futures, other people's minds, the afterlife. Honest experts in such domains hedge; absolute answers there are self-reports of either ignorance or sales.
+- **Zero hedging in inherently uncertain domains** — markets, futures, other people's minds. Honest experts in such domains hedge, so absolute answers there warrant raised scrutiny — a flag to weigh with the caveats below (sincere believers and genuinely confident in-domain experts trip it innocently), not a verdict.
 - **Questioning treated as defection** — "doubting means you're not committed/smart/saved" ([[thought-terminating-cliches]]).
 - Answers arriving **faster and more complete than the question allows** — instant diagnoses of complex situations, especially flattering or fear-confirming ones.
 - The pitch landing **exactly when you're exhausted, grieving, or overwhelmed** — closure offered at your urgency peak [1].
@@ -67,6 +67,7 @@ Providing structure, decisions, and justified confidence is what good experts, l
 - **Closure need is a normal trait dimension** [1], not a pathology or an insult — everyone seizes and freezes sometimes; the file describes a lever, not a character flaw.
 - **Religious and cultural certainty frameworks are not inherently manipulative** — the diagnostics are extraction and punished questioning, not the presence of firm belief ([[cultural-difference]]).
 - **The conspiracy link is conditional** [5]: closure-seeking grabs *available* confident answers, official ones included — don't deploy this file as "anxious people believe nonsense."
+- **Boundary with [[authority]]:** authority is supply-side — pre-installed deference to role signals; this file is demand-side — the closure hunger and confidence heuristic that make confident sources magnetic regardless of role. The Dr. Fox conditions sit at their intersection.
 
 ## Sources
 

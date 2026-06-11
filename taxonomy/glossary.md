@@ -31,6 +31,10 @@ One-line definitions and alias routing. Terms that have their own file point to 
 - **shame leverage** → [[shame-leverage]] — worthlessness verdicts + exposure control; the silencing lever (sextortion, humiliation rituals)
 - **hope & greed** → [[hope-greed]] — phantom fixation: disproportionate rewards that fund their own pursuit
 - **flattery & ego** → [[flattery-ego]] — calibrated praise and special-status hooks; works even when seen through
+- **attachment & belonging** → [[attachment-needs]] — the need to belong as attack surface: supply it fast, make it exclusive, price it
+- **certainty needs** → [[certainty-needs]] — need for closure + the confidence heuristic; manufactured certainty sold into uncertainty
+- **trust mechanics** → [[trust-mechanics]] — ability/benevolence/integrity cues, all fakeable; swift trust and its exploitation
+- **intermittent reinforcement** → [[intermittent-reinforcement]] — variable rewards: maximal effort, maximal persistence, extinction bursts
 
 ## Contrast concepts
 
@@ -61,3 +65,4 @@ Innocent or neighboring look-alikes that the KB distinguishes manipulation **fro
 - `honest-hurt` — genuinely expressing pain at another's behavior without engineered obligation; discharges when addressed instead of compounding
 - `earned-praise` — accurate, proportionate recognition with no ask attached; survives your failure to reciprocate
 - `genuine-opportunity` — a real prospect that tolerates scrutiny, diversification, and delay; returns claimed are proportionate and verifiable
+- `justified-confidence` — confidence proportional to evidence, with a visible track record and welcomed challenge; hedges where the domain demands it

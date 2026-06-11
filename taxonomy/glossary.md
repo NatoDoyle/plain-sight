@@ -35,6 +35,13 @@ One-line definitions and alias routing. Terms that have their own file point to 
 - **certainty needs** → [[certainty-needs]] — need for closure + the confidence heuristic; manufactured certainty sold into uncertainty
 - **trust mechanics** → [[trust-mechanics]] — ability/benevolence/integrity cues, all fakeable; swift trust and its exploitation
 - **intermittent reinforcement** → [[intermittent-reinforcement]] — variable rewards: maximal effort, maximal persistence, extinction bursts
+- **emotional flooding** → [[emotional-flooding]] — arousal past the deliberation threshold; decisions harvested inside the state
+- **cognitive overload** → [[cognitive-overload-confusion]] — flooded channels fail open: disrupt-then-reframe, sludge, jargon walls
+- **information asymmetry** → [[information-asymmetry]] — engineered ignorance: credence goods, gatekeeping, milieu control
+- **framing & anchoring** → [[framing-anchoring]] — reference-point control: first numbers, fake "was" prices, decoys
+- **loss aversion & endowment** → [[loss-aversion-endowment]] — manufacture ownership, then price the taking-away
+- **dissonance exploitation** → [[dissonance-exploitation]] — implicate the target; self-justification locks the door
+- **memory fallibility** → [[memory-fallibility]] — reconstructive memory as gaslighting's substrate; first tellings are best evidence
 
 ## Contrast concepts
 

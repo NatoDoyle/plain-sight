@@ -6,8 +6,8 @@ aliases: [phantom riches, jackpot psychology, opportunity framing, phantom fixat
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-opportunity]
 evidence: established
-status: drafted
-last-updated: 2026-06-10
+status: complete
+last-updated: 2026-06-11
 ---
 
 # Hope & Greed Exploitation

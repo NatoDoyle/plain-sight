@@ -4,12 +4,12 @@ type: mechanism
 name: Shame Leverage
 aliases: [humiliation, exposure threats, worthiness attacks, public shaming]
 countered-by: [boundary-scripts, documentation-practices]
-distinguished-from: [guilt-leverage, honest-hurt]
+distinguished-from: [honest-hurt]
 severity: high
 evidence: established
 safety: crisis-escalation
-status: drafted
-last-updated: 2026-06-10
+status: complete
+last-updated: 2026-06-11
 ---
 
 # Shame Leverage
@@ -49,6 +49,7 @@ Shame has a legitimate social function — communities signaling that some condu
 - **Exposure leverage**: secrets you shared in intimacy reappearing as ammunition; "imagine if people knew" framing.
 - Worth restored **only by compliance** — degradation followed by conditional redemption from the same mouth ([[fear-exploitation]]'s threat-rescuer fusion, run on the self).
 - The urge to hide the situation from exactly the people who could help — **secrecy pressure is the mechanism working** [3].
+- **Response to refusal** — decline the redemption offer or the demanded compliance and watch: honest accountability moves toward specifics and repair; shame-leverage escalates the verdict ("this is exactly what I mean about you") — the response-to-no tell ([[manipulation-vs-influence]]).
 - **Felt-sense indicators:** wanting to disappear; rehearsing your defects in their voice; relief at any scrap of their approval; certainty that telling anyone would end your relationships or career.
 
 ## Resistance
@@ -65,7 +66,7 @@ Sextortion targeting minors is an emergency: involve a trusted adult immediately
 
 ## Caveats
 
-- **Embarrassment ≠ shame-leverage**: ordinary social friction, teasing among equals, and accountability for real misconduct all sting without being control systems. The diagnostics are globalization, fabrication/disproportion, verdict monopoly, and harvested compliance ([[epistemic-guardrails]]).
+- **Embarrassment ≠ shame-leverage**: ordinary social friction, teasing among equals, and accountability for real misconduct all sting without being control systems. The diagnostics are globalization, fabrication/disproportion, verdict monopoly, and harvested compliance — in conjunction ([[epistemic-guardrails]]). Note too that "you always…" globalizing is ubiquitous in ordinary couple conflict as *criticism* (Gottman's research treats it as common and corrosive, not as a control system by itself).
 - **Honest criticism targets behavior** ([[honest-hurt]]): "that comment hurt people" is feedback; "you're a toxic person" as a recurring lever is the pattern to watch.
 - **Cultural calibration** ([[cultural-difference]]): honor- and face-based cultures run legitimate social-standing economies; public correction norms differ. Judge disproportion and verdict-monopoly within the local frame.
 - **Shame-proneness varies** — high-shame-prone targets hear verdicts no one issued; the felt-sense bullets are *prompts to assess*, not proof of an attacker ([[epistemic-guardrails]]).

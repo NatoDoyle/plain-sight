@@ -6,8 +6,8 @@ aliases: [strategic praise, ingratiation, ego-stroking, you're-special hooks]
 countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [earned-praise, genuine-rapport]
 evidence: established
-status: drafted
-last-updated: 2026-06-10
+status: complete
+last-updated: 2026-06-11
 ---
 
 # Flattery & Ego Exploitation

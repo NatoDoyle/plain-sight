@@ -13,5 +13,5 @@ Sweep date: 2026-06-10. Research agent returned FULL verified results. `drafted`
 
 ## PENDING
 
-- [ ] Red-team review → then complete.
+- [x] Red-team review passed 2026-06-11 (fixes applied where required; see commit). Status: complete.
 - [ ] "All 50 states have NCII laws" (CCRI) — not independently confirmed; file avoids the claim.

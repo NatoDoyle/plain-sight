@@ -2,12 +2,13 @@
 id: guilt-leverage
 type: mechanism
 name: Guilt Leverage
-aliases: [guilt induction, obligation manufacturing, FOG, moral debt]
+aliases: [guilt induction, obligation manufacturing, moral debt]
 countered-by: [boundary-scripts, jade-avoidance]
-distinguished-from: [honest-hurt, shame-leverage, reciprocity]
+distinguished-from: [honest-hurt, shame-leverage]
 evidence: established
-status: drafted
-last-updated: 2026-06-10
+safety: crisis-escalation
+status: complete
+last-updated: 2026-06-11
 ---
 
 # Guilt Leverage
@@ -16,7 +17,7 @@ last-updated: 2026-06-10
 
 ## The lever
 
-Guilt is fundamentally **interpersonal**: it arises most strongly in close, communal relationships, where it functions to keep partners treating each other well — and, notably, it is one of the few levers that lets *less powerful* partners get their way, which is why deliberate guilt induction is documented as an everyday influence tactic in families and couples [1]. Unlike shame, guilt is **behavior-focused and reparative** — "I did a bad thing, I must fix it" [2] — and that repair motivation is precisely what gets harvested: induce the feeling, then sell the fix. Communication research catalogs a typology of a dozen conversational guilt-eliciting techniques used in ordinary interactions [3]. Persuasion research adds a crucial nuance: **heavy-handed, explicit guilt appeals backfire** — they arouse guilt but also anger, irritation, and resentment that cancel compliance; *moderate, implicit* induction persuades best [4]. Skilled guilt-leverage is therefore quiet: a sigh, a comparison, an itemized sacrifice — rarely an accusation.
+Guilt is fundamentally **interpersonal**: it arises most strongly in close, communal relationships, where it functions to keep partners treating each other well — and, notably, it is one of the few levers that lets *less powerful* partners get their way, which is why deliberate guilt induction is documented as an everyday influence tactic in families and couples [1]. Unlike shame, guilt is **behavior-focused and reparative** — "I did a bad thing, I must fix it" [2] — and that repair motivation is precisely what gets harvested: induce the feeling, then sell the fix. Communication research catalogs a typology of a dozen conversational guilt-eliciting techniques used in ordinary interactions [3]. Persuasion research adds a crucial nuance: **heavy-handed, explicit guilt appeals backfire** — they arouse guilt but also anger, irritation, and resentment that cancel compliance; *moderate, implicit* induction persuades best [4]. For defense, that finding is recognition calibration: expect the lever to be quiet — a sigh, a comparison, an itemized sacrifice — rarely an open accusation.
 
 ## Evidence base
 
@@ -60,9 +61,13 @@ Guilt is moral infrastructure: feeling bad about real harm, and repairing it, is
 5. **Separate care from compliance:** "I love you, and the answer is no" — refusing the frame where love is measured in obedience.
 6. **Watch the response to your "no"** ([[manipulation-vs-influence]]): honest hurt talks it through and discharges; leverage escalates through Forward's cycle (pressure → threats → repetition) [5].
 
+## Safety notes
+
+If a guilt campaign reaches **threats of self-harm** ("I'll hurt myself if you leave/refuse"), stop applying this file's resistance playbook — the severity override in [[epistemic-guardrails]] governs: treat the threat as a crisis first, whatever its motive. Contact crisis services (**US:** 988 Suicide & Crisis Lifeline · **UK:** Samaritans 116 123; emergency services if action seems imminent), involve professionals rather than carrying the threat alone, and see [[self-harm-threats]] for the dedicated protocol. You can take a threat seriously *and* not let it run your life — but sequencing matters: safety, then boundaries.
+
 ## Caveats
 
-- **Most guilt is conscience.** The feeling usually means you value the relationship and may actually owe something; the differential is warrant + dischargeability + benefit flow, run honestly ([[epistemic-guardrails]]).
+- **Most guilt is conscience.** The feeling usually means you value the relationship and may actually owe something; the differential is warrant + dischargeability + benefit flow, run honestly and at calibration-ladder strength ([[epistemic-guardrails]]). And note the universal **egocentric contribution bias**: both honest partners over-count their own contributions, so ordinary mutual ledger-grumbling (and the occasional sigh — anxious askers sigh too) is not the asymmetry tell. The tell is *itemized-and-invoiced* on one side, *dismissed-and-invisible* on the other.
 - **Expressing hurt is not guilt-tripping** ([[honest-hurt]]): people you've genuinely hurt get to say so — that's *their* assertiveness, not manipulation. Labeling every complaint "guilt-tripping" is the [[therapy-speak-weaponization]] failure mode, and a favorite move of actual manipulators.
 - **Cultural ledgers differ** ([[cultural-difference]]): filial-piety and obligation cultures carry real, normal intergenerational debts; the diagnostic inside any culture is *disproportion and undischargeability by local norms*, not the existence of obligation.
 - **Guilt-prone people over-detect their own guilt** — high guilt-proneness reads ordinary requests as accusations; calibrate for your own baseline before concluding ([[epistemic-guardrails]], [[people-pleasing-fawn]]).

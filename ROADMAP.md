@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tier 0 complete · Tier 1: 5/23 mechanisms complete (red-teamed + citation-verified); `scarcity-urgency` + `unity-ingroup` drafted with verified research, pending red-team; `fear-exploitation` + `guilt-leverage` research sweep pending (agent stalled) · 8/147 complete · last updated 2026-06-10
+**Status:** Tier 0 complete · Tier 1: 12/23 mechanisms complete (all red-teamed + citation-verified) · 15/147 complete · next: `attachment-needs` · last updated 2026-06-11
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -23,11 +23,11 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `liking-similarity` — rapport, mirroring, compliments, "we're alike" as compliance levers
 - [x] `scarcity-urgency` — limited time/quantity, exploding offers, FOMO mechanics
 - [x] `unity-ingroup` — shared identity ("we"), family/tribe framing, us-vs-them
-- [ ] `fear-exploitation` — threat inflation, protection rackets, fear-then-relief
-- [ ] `guilt-leverage` — indebtedness scripts, obligation manufacturing, guilt as compliance fuel
-- [ ] `shame-leverage` — humiliation, exposure threats, worthiness attacks
-- [ ] `hope-greed` — jackpot dreams, "opportunity" framing, get-rich/get-loved promises
-- [ ] `flattery-ego` — strategic praise, status-stroking, "you're special" hooks
+- [x] `fear-exploitation` — threat inflation, protection rackets, fear-then-relief
+- [x] `guilt-leverage` — indebtedness scripts, obligation manufacturing, guilt as compliance fuel
+- [x] `shame-leverage` — humiliation, exposure threats, worthiness attacks
+- [x] `hope-greed` — jackpot dreams, "opportunity" framing, get-rich/get-loved promises
+- [x] `flattery-ego` — strategic praise, status-stroking, "you're special" hooks
 - [ ] `attachment-needs` — belonging/love/validation hunger as attack surface
 - [ ] `certainty-needs` — need for closure/answers exploited by confident liars and gurus
 - [ ] `trust-mechanics` — how trust forms (warmth/competence/integrity cues) and how each cue is faked

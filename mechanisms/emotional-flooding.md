@@ -4,9 +4,11 @@ type: mechanism
 name: Emotional Flooding
 aliases: [flooding, hot states, diffuse physiological arousal, heat of the moment]
 countered-by: [verification-rituals, detection-heuristics]
-distinguished-from: [honest-hurt, self-protective-distance]
+distinguished-from: [honest-hurt, self-protective-distance, cognitive-overload-confusion]
+severity: high
 evidence: established
-status: drafted
+safety: dv-escalation
+status: complete
 last-updated: 2026-06-12
 ---
 
@@ -54,9 +56,13 @@ Emotion in persuasion is legitimate and human — moving speeches, honest grief,
 
 1. **The physiological rule** ([[detection-heuristics]]): no decisions over ~100 bpm. Gottman's clinical remedy transfers directly — call a break of at least 20–30 minutes for arousal to subside, then re-decide [1]. "I'll answer when I've calmed down" is a complete sentence ([[boundary-scripts]]).
 2. **Pre-commit in the cold state** [2]: limits set before the auction, the confrontation, or the date ("max bid", "I never sign same-day", "no money in year one") — because in the hot state you will not remember owning a cold state.
-3. **Name the state, then the question**: "I'm flooded right now" out loud separates the arousal from the content; it also tests the counterpart — care pauses, exploitation presses ([[manipulation-vs-influence]]).
-4. **Treat engineered floods as data**: someone who reliably ignites your strongest states right before asks is running a pattern, not having feelings ([[epistemic-guardrails]]: pattern across occasions, not one hot argument).
+3. **Name the state, then the question**: "I'm flooded right now" out loud separates the arousal from the content; it also tests the counterpart — care pauses, exploitation presses ([[manipulation-vs-influence]]). **Carve-out: do not run this test on a violent or controlling partner mid-rage — see Safety notes.**
+4. **Treat engineered floods as data**: strong states reliably ignited right before asks — that's a pattern, not a feeling ([[epistemic-guardrails]]: pattern across occasions, not one hot argument).
 5. **Recovery-window discipline**: the minutes right after a flood subsides are a documented compliance window (fear-then-relief — [[fear-exploitation]]); extend the no-decision rule through the relief, not just the storm.
+
+## Safety notes
+
+Where rage cycles include violence, threats, or control, the severity override in [[epistemic-guardrails]] governs: this is [[abuse-cycle]]/[[coercive-control]] territory, and the in-the-moment techniques above (naming the state, calling breaks) can escalate a violent partner — safety planning comes first, with professionals. **US:** National Domestic Violence Hotline 1-800-799-7233 / thehotline.org · **UK:** 0808 2000 247 · standing list in `README.md`; protocol at [[dv-safety-planning]].
 
 ## Caveats
 

@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tier 0 complete · Tier 1: 16/23 mechanisms complete (all red-teamed + citation-verified) · 19/147 complete · next: `emotional-flooding`, then the ~20-topic synthesis checkpoint · last updated 2026-06-11
+**Status:** Tier 0 complete · **Tier 1 COMPLETE: all 23 mechanisms** (red-teamed + citation-verified) · 26/147 complete · next: Tier 2 core tactics, starting `gaslighting` · last updated 2026-06-12
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -32,13 +32,13 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `certainty-needs` — need for closure/answers exploited by confident liars and gurus
 - [x] `trust-mechanics` — how trust forms (warmth/competence/integrity cues) and how each cue is faked
 - [x] `intermittent-reinforcement` — variable rewards: the strongest behavioral glue (slots, hot-cold partners)
-- [ ] `emotional-flooding` — overwhelm states (rage, panic, infatuation) that suspend deliberation
-- [ ] `cognitive-overload-confusion` — complexity, speed, jargon, contradiction as defenses-suppressors
-- [ ] `information-asymmetry` — gatekeeping, selective disclosure, epistemic dependence
-- [ ] `framing-anchoring` — reference-point control: first numbers, comparison sets, decoys
-- [ ] `loss-aversion-endowment` — losses loom larger; trials/possession effects; "don't lose what you have"
-- [ ] `dissonance-exploitation` — forcing self-justification spirals after small compromises
-- [ ] `memory-fallibility` — misinformation effect, confident confabulation, history editing substrate
+- [x] `emotional-flooding` — overwhelm states (rage, panic, infatuation) that suspend deliberation
+- [x] `cognitive-overload-confusion` — complexity, speed, jargon, contradiction as defenses-suppressors
+- [x] `information-asymmetry` — gatekeeping, selective disclosure, epistemic dependence
+- [x] `framing-anchoring` — reference-point control: first numbers, comparison sets, decoys
+- [x] `loss-aversion-endowment` — losses loom larger; trials/possession effects; "don't lose what you have"
+- [x] `dissonance-exploitation` — forcing self-justification spirals after small compromises
+- [x] `memory-fallibility` — misinformation effect, confident confabulation, history editing substrate
 
 ## Tier 2 — Core cross-domain tactics (tactics/) + keystone defenses (defenses/)
 

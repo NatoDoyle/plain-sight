@@ -6,7 +6,8 @@ aliases: [misinformation effect, false memories, reconstructive memory]
 countered-by: [documentation-practices, verification-rituals]
 distinguished-from: [memory-divergence, honest-disagreement]
 evidence: established
-status: drafted
+safety: dv-escalation
+status: complete
 last-updated: 2026-06-12
 ---
 
@@ -16,7 +17,7 @@ last-updated: 2026-06-12
 
 ## The lever
 
-Bartlett established it nearly a century ago: recall is *reconstructive*, distorted toward expectation and schema with every retelling [1]. The modern program quantified the attack surface. **Misinformation effect**: post-event suggestion reliably alters what people remember (Loftus's thirty-year program — already a KB pillar via [[epistemic-guardrails]]). **Implantation**: wholly false events can be installed — "lost in the mall" produced false or partial memories in ~25% of the original sample, and the mega-analysis across implantation studies finds **~30% form false memories, with another ~23% accepting the event to some degree** [2]. **Intrusion without malice**: the DRM paradigm produces confident false recall of never-presented words in ~40–55% of trials [3]; merely *imagining* an event inflates confidence it happened [4]. **Confidence miscalibrates over time**: flashbulb memories of the Challenger explosion were largely wrong at 2.5 years while confidence stayed high [5]. The essential modern correction the KB carries: **initial confidence under clean conditions is actually quite diagnostic** — it's *post-event, contaminated, repeatedly-rehearsed* confidence that decouples from accuracy [6]. Translation for defense: memory is most trustworthy at first telling, least trustworthy after someone has been "helping you remember."
+Bartlett established it nearly a century ago: recall is *reconstructive*, distorted toward expectation and schema with every retelling [1]. The modern program quantified the attack surface. **Misinformation effect**: post-event suggestion reliably alters what people remember (Loftus's thirty-year program [2] — already a KB pillar via [[epistemic-guardrails]]). **Implantation**: wholly false events can be installed — "lost in the mall" produced false or partial memories in ~25% of the original sample, and the mega-analysis across implantation studies finds **~30% form false memories, with another ~23% accepting the event to some degree** [2]. **Intrusion without malice**: the DRM paradigm produces confident false recall of never-presented words in ~40–55% of trials [3]; merely *imagining* an event inflates confidence it happened [4]. **Confidence miscalibrates over time**: flashbulb memories of the Challenger explosion were largely wrong at 2.5 years while confidence stayed high [5]. The essential modern correction the KB carries: **initial confidence under clean conditions is actually quite diagnostic** — it's *post-event, contaminated, repeatedly-rehearsed* confidence that decouples from accuracy [6]. Translation for defense: memory is most trustworthy at first telling, least trustworthy after someone has been "helping you remember."
 
 ## Evidence base
 
@@ -53,12 +54,16 @@ Everyone's memory is reconstructive; couples and colleagues sincerely remember d
 
 ## Resistance
 
-1. **Write it down, immediately** ([[documentation-practices]]): the first telling is the best evidence you will ever have of your own experience [6] — contemporaneous notes, sent emails ("confirming what we agreed"), message threads. Documentation converts a reconstructive contest into a records contest.
+1. **Write it down, immediately** ([[documentation-practices]]): the first telling is the best evidence you will ever have of your own experience [6] — contemporaneous notes, sent emails ("confirming what we agreed"), message threads. Documentation converts a reconstructive contest into a records contest. (**Safety:** store records outside shared devices and homes — discovered records can escalate a controlling partner; see Safety notes.)
 2. **Trust your initial confidence more than your argued-down confidence** [6]: certainty that erodes only under one person's pressure — not under evidence — is being *contaminated*, not corrected.
 3. **Preserve independent witnesses and channels**: untainted third parties and unedited records ([[isolation-tactics]] and witness-contamination are this lever's enablers; resist both).
 4. **Distinguish the disputes worth solving**: ordinary memory divergence needs grace, not forensics ([[memory-divergence]]); *patterned, directional, stake-laden* divergence needs records ([[epistemic-guardrails]]'s discriminators).
 5. **Re-anchor before re-discussing**: review your notes *before* conversations where history will be relitigated — suggestion works best on unrehearsed reconstruction [2].
 6. **Don't let the science be used on you**: "all memory is fallible" is true and *symmetric* — their confident version is exactly as reconstructive as yours, minus your contemporaneous notes.
+
+## Safety notes
+
+Where sustained reality-denial accompanies control, threats, or violence, this is [[gaslighting]]-within-[[coercive-control]] territory and the severity override governs ([[epistemic-guardrails]]). Keep documentation off shared devices, accounts, and premises (cloud account they can't access, a trusted person's keeping, or a work device) — discovered records are a known escalation trigger. **US:** National Domestic Violence Hotline 1-800-799-7233 · **UK:** 0808 2000 247 · standing list in `README.md`; protocol at [[dv-safety-planning]].
 
 ## Caveats
 
@@ -72,7 +77,7 @@ Everyone's memory is reconstructive; couples and colleagues sincerely remember d
 ## Sources
 
 1. Bartlett, F. (1932). *Remembering.* Cambridge University Press.
-2. Loftus, E., & Pickrell, J. (1995). "The Formation of False Memories." *Psychiatric Annals* 25(12), 720–725 (~25%); Scoboria, A., et al. (2017). "A mega-analysis of memory reports from eight peer-reviewed false memory implantation studies." *Memory* 25(2), 146–163 (30.4% + 23%); Murphy et al. (2023) preregistered replication (~35%); Brewin (2025) critique — magnitudes debated.
+2. Loftus, E. (2005). "Planting misinformation in the human mind: A 30-year investigation." *Learning & Memory* 12(4), 361–366; Loftus, E., & Pickrell, J. (1995). "The Formation of False Memories." *Psychiatric Annals* 25(12), 720–725 (~25%); Scoboria, A., et al. (2017). "A mega-analysis of memory reports from eight peer-reviewed false memory implantation studies." *Memory* 25(2), 146–163 (30.4% + 23%); Murphy et al. (2023) preregistered replication (~35%); Brewin (2025) critique — magnitudes debated.
 3. Roediger, H., & McDermott, K. (1995). "Creating False Memories." *JEP: LMC* 21(4), 803–814.
 4. Garry, M., Manning, C., Loftus, E., & Sherman, S. (1996). "Imagination Inflation." *Psychonomic Bulletin & Review* 3(2), 208–214 (regression-to-mean caveat: Pezdek & Eddy 2001).
 5. Neisser, U., & Harsch, N. (1992). "Phantom Flashbulbs." In Winograd & Neisser (eds.), *Affect and Accuracy in Recall.* Cambridge UP (accuracy ~42%; confidence uncorrelated).

@@ -6,7 +6,7 @@ aliases: [gatekeeping, selective disclosure, epistemic dependence, knowledge hid
 countered-by: [verification-rituals, documentation-practices]
 distinguished-from: [legitimate-expertise, benign-concealment]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-12
 ---
 

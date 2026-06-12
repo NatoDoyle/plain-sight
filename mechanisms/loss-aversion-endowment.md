@@ -6,7 +6,7 @@ aliases: [loss aversion, endowment effect, status quo bias, possession effect]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-deadline, principled-consistency]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-12
 ---
 
@@ -75,7 +75,7 @@ Loss framing can be honest — real risks honestly stated ("uninsured, you'd los
 3. Carmon, Z., & Ariely, D. (2000). "Focusing on the Forgone." *Journal of Consumer Research* 27(3), 360–370 (hypothetical-price design flagged).
 4. Samuelson, W., & Zeckhauser, R. (1988). "Status Quo Bias in Decision Making." *Journal of Risk and Uncertainty* 1(1), 7–59.
 5. Gal, D., & Rucker, D. (2018). "The Loss of Loss Aversion." *Journal of Consumer Psychology* 28(3), 497–516; Simonson, I., & Kivetz, R. (2018). "Bringing (Contingent) Loss Aversion Down to Earth." Same issue (Research Dialogue).
-6. FTC v. Amazon (Prime "Iliad" flow; settled 2025, $2.5B — see manipulation-vs-influence log); FTC Negative Option Rule (2024) vacated 8th Cir. July 2025, new ANPRM March 2026 — context, not current law.
+6. *FTC v. Amazon.com* (W.D. Wash., filed June 2023 — the Prime enrollment/cancellation "Iliad flow"; settled Sept. 25, 2025 for $2.5B with easy-cancellation injunctive terms); FTC Negative Option Rule (2024), vacated by the Eighth Circuit July 2025, new rulemaking opened March 2026 — cited as context, not current law.
 
 ## See also
 

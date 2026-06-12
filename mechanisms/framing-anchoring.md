@@ -6,7 +6,7 @@ aliases: [anchoring effect, reference-point control, decoy effect, first offers]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [hard-bargaining, healthy-persuasion]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-12
 ---
 
@@ -48,6 +48,7 @@ All communication frames; all negotiation anchors — choosing emphasis is unavo
 - **The deal only looks good relative to its own packaging**: remove their reference point and the absolute numbers stop impressing.
 - **Totals that grow as you commit** — fees surfacing after the anchor has done its work [6][7].
 - A third option nobody would choose, sitting there making the expensive one look wise [4].
+- **Response to total-price requests** — asking for the all-in number up front met with evasion, re-anchoring, or irritation: the response-to-resistance tell ([[manipulation-vs-influence]]).
 - **Felt-sense indicators:** the pull of "but it was $499!" about a thing you'd never have paid $199 for cold; doing arithmetic in their units ("only $3/day"); feeling you've "won" a negotiation that ended exactly where their first number pointed.
 
 ## Resistance
@@ -65,7 +66,7 @@ All communication frames; all negotiation anchors — choosing emphasis is unavo
 - **True reference prices are information** — a genuine markdown is real news; the law's line (fictitious vs actual former prices [7]) is the right one.
 - **Decoy effects are real but fragile** [4] — don't over-attribute menu design to dark psychology; much of it is ordinary merchandising.
 - **First offers are legitimate strategy** within recognized norms ([[hard-bargaining]]); the manipulation grade attaches to fabricated constraints and concealed totals, not to opening strong.
-- **Boundary with [[loss-aversion-endowment]]:** that file owns the *asymmetry* (losses loom larger); this one owns *reference-point placement* — frames work largely by deciding what counts as a loss. [[scarcity-urgency]] declared its own boundary here.
+- **Boundary with [[loss-aversion-endowment]]:** that file owns the *asymmetry* (losses loom larger); this one owns *reference-point placement* — frames work largely by deciding what counts as a loss. ([[scarcity-urgency]]'s availability-constraint boundary is declared in that file, against loss-aversion.)
 
 ## Sources
 

@@ -6,7 +6,7 @@ aliases: [overload, confusion technique, complexity exploitation, sludge]
 countered-by: [verification-rituals, jade-avoidance]
 distinguished-from: [incompetence-not-malice, legitimate-expertise]
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-12
 ---
 

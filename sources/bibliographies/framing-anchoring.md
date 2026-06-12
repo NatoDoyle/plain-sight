@@ -8,4 +8,4 @@ Sweep date: 2026-06-12. Research agent returned FULL verified results (correctio
 
 ## PENDING
 
-- [ ] Red-team review → then complete.
+- [x] Red-team review passed 2026-06-12 (fixes applied where required; see commit). Status: complete.

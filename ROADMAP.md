@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tier 0 complete · **Tier 1 COMPLETE: all 23 mechanisms** (red-teamed + citation-verified) · 26/147 complete · next: Tier 2 core tactics, starting `gaslighting` · last updated 2026-06-12
+**Status:** Tiers 0–1 complete · Tier 2: 4/36 (gaslighting, darvo, love-bombing, guilt-tripping) · 30/147 complete · next: `silent-treatment` · last updated 2026-06-12
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -42,10 +42,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 
 ## Tier 2 — Core cross-domain tactics (tactics/) + keystone defenses (defenses/)
 
-- [ ] `gaslighting` — systematic reality-denial to destabilize a target's trust in their own perception
-- [ ] `darvo` — Deny, Attack, Reverse Victim and Offender (Freyd)
-- [ ] `love-bombing` — overwhelming early affection/attention as accelerant and leverage
-- [ ] `guilt-tripping` — inducing guilt to control ("after all I've done…")
+- [x] `gaslighting` — systematic reality-denial to destabilize a target's trust in their own perception
+- [x] `darvo` — Deny, Attack, Reverse Victim and Offender (Freyd)
+- [x] `love-bombing` — overwhelming early affection/attention as accelerant and leverage
+- [x] `guilt-tripping` — inducing guilt to control ("after all I've done…")
 - [ ] `silent-treatment` — punitive withdrawal of contact/affection as control
 - [ ] `triangulation` — third parties imported as weapons: comparisons, rivals, messengers
 - [ ] `isolation-tactics` — severing friends/family/finances/information channels

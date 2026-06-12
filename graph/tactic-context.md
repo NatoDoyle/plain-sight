@@ -28,6 +28,9 @@
 ### [[propaganda-politics]]
 - [[darvo]]
 
+### [[scams-fraud]]
+- [[love-bombing]]
+
 ### [[workplace-bosses]]
 - [[darvo]]
 - [[gaslighting]]
@@ -38,4 +41,4 @@
 - [[darvo]] → [[family-parents]], [[institutions]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
 - [[gaslighting]] → [[cults-high-control]], [[family-parents]], [[institutions]], [[intimate-relationships]], [[workplace-bosses]]
 - [[guilt-tripping]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
-- [[love-bombing]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]]
+- [[love-bombing]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[scams-fraud]]

@@ -6,7 +6,6 @@
 
 ### [[attachment-needs]]
 - [[gaslighting]]
-- [[guilt-tripping]]
 - [[love-bombing]]
 
 ### [[certainty-needs]]
@@ -29,16 +28,16 @@
 - [[guilt-tripping]]
 - [[love-bombing]]
 
+### [[shame-leverage]]
+- [[darvo]]
+
 ### [[trust-mechanics]]
 - [[darvo]]
 - [[gaslighting]]
 
-### [[victim-posturing]]
-- [[darvo]]
-
 ## By tactic (which levers this move pulls)
 
-- [[darvo]] → [[memory-fallibility]], [[trust-mechanics]], [[victim-posturing]]
+- [[darvo]] → [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
 - [[gaslighting]] → [[attachment-needs]], [[certainty-needs]], [[memory-fallibility]], [[trust-mechanics]]
-- [[guilt-tripping]] → [[attachment-needs]], [[guilt-leverage]], [[reciprocity]]
+- [[guilt-tripping]] → [[guilt-leverage]], [[reciprocity]]
 - [[love-bombing]] → [[attachment-needs]], [[intermittent-reinforcement]], [[liking-similarity]], [[reciprocity]]

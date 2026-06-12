@@ -3,7 +3,7 @@ id: love-bombing
 type: tactic
 name: Love Bombing
 aliases: [love bomb, whirlwind romance pressure, instant soulmate]
-domains: [intimate-relationships, cults-high-control, family-parents]
+domains: [intimate-relationships, cults-high-control, family-parents, scams-fraud]
 exploits: [attachment-needs, intermittent-reinforcement, liking-similarity, reciprocity]
 co-occurs-with: [mirroring-false-identity, boundary-testing, future-faking]
 precedes: [isolation-tactics, conditional-love]
@@ -11,7 +11,8 @@ countered-by: [verification-rituals, boundary-scripts]
 distinguished-from: [limerence, genuine-rapport]
 severity: high
 evidence: clinical
-status: drafted
+safety: dv-escalation
+status: complete
 last-updated: 2026-06-12
 ---
 
@@ -96,7 +97,8 @@ If pacing requests reliably produce punishment, if isolation pressure follows th
 
 ### Base rates & severity calibration
 
-Most whirlwind romances are just whirlwind romances; some marry happily. The construct's evidence base is thin — practitioner consensus and the cult-recruitment record more than peer-reviewed study [2] — so this file runs at `clinical` grade and its conclusions should too: pattern + strings + pace-punishment + the isolation sequel, never the intensity alone ([[epistemic-guardrails]]).
+Most whirlwind romances are just whirlwind romances; some marry happily. The construct's evidence base is thin — practitioner consensus and the cult-recruitment record more than peer-reviewed study [2] — so this file runs at `clinical` grade and its conclusions should too: pattern + strings + pace-punishment + the isolation sequel, never the intensity alone; a single intense fortnight is rung-1 evidence ([[epistemic-guardrails]]).
+And mind the label's edge: **"you're love-bombing me" aimed at sincere generosity, repair attempts after conflict, or culturally fast courtship is concept creep with a weapon attached** ([[therapy-speak-weaponization]]) — the accusation carries the same evidence standard as the behavior.
 
 ## Safety notes
 

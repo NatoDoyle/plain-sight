@@ -8,4 +8,5 @@ Sweep date: 2026-06-12. Research agent returned FULL verified results (correctio
 
 ## PENDING
 
-- [ ] Red-team review → then complete.
+- [x] Red-team review passed 2026-06-12 (gaslighting clean; fixes applied to other three; see commit). Status: complete.
+- Strutzenberg et al. (2017) — pre-2018 anchor outside the agent search window; verified in the attachment-needs log (undergraduate journal, illustrative grade).

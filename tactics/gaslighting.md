@@ -12,7 +12,7 @@ distinguished-from: [memory-divergence, honest-disagreement]
 severity: high
 evidence: supported
 safety: dv-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-12
 ---
 
@@ -38,7 +38,7 @@ The name comes from Patrick Hamilton's 1938 play *Gas Light* (filmed 1944, with 
 
 ## How it works
 
-The substrate is [[memory-fallibility]]: human memory is reconstructive and yields to confident, repeated suggestion — no weakness in the target required. The pressure point is [[certainty-needs]]: chronic manufactured doubt is intolerable, and the gaslighter offers the only available certainty — their version. [[trust-mechanics]] supplies the channel (we calibrate reality against intimates by default — epistemic dependence on a partner is normal, which is what makes its abuse effective), and [[attachment-needs]] raises the exit cost of concluding that the person you love is doing this deliberately. Recent theory formalizes the loop: gaslighting exploits normal predictive-learning machinery — the target keeps updating toward the trusted source's testimony even against their own perception [4]. Victims report the documented endpoint: diminished sense of self, pervasive self-doubt, and mistrust of their own judgment that outlasts the relationship [4].
+The substrate is [[memory-fallibility]]: human memory is reconstructive and yields to confident, repeated suggestion — no weakness in the target required. The pressure point is [[certainty-needs]]: chronic manufactured doubt is intolerable, and the gaslighter offers the only available certainty — their version. [[trust-mechanics]] supplies the channel (we calibrate reality against intimates by default — epistemic dependence on a partner is normal, which is what makes its abuse effective), and [[attachment-needs]] raises the exit cost of concluding that the person you love is doing this deliberately. Recent theory formalizes the loop: gaslighting exploits normal predictive-learning machinery — the target keeps updating toward the trusted source's testimony even against their own perception [9]. Victims report the documented endpoint: diminished sense of self, pervasive self-doubt, and mistrust of their own judgment that outlasts the relationship [4].
 
 ## Recognition
 
@@ -116,18 +116,19 @@ Gaslighting embedded in control, surveillance, or violence is [[coercive-control
 
 ## Evidence & debates
 
-The construct's empirical base is young but converging: a landmark sociological treatment [3], qualitative victim studies documenting tactics and sequelae [4], a theoretical model grounding it in normal predictive learning [4], clinical lineage back to 1969 [2], and a clinical-popular stage model (disbelief → defense → depression) [5]. Graded `supported` rather than `established`: no prevalence estimates exist beyond weak polling [8], measurement is nascent, and the term's popular usage vastly outruns the validated construct — which this file's caveats exist to manage.
+The construct's empirical base is young but converging: a landmark sociological treatment [3], qualitative victim studies documenting tactics and sequelae [4], a theoretical model grounding it in normal predictive learning [9], clinical lineage back to 1969 [2], and a clinical-popular stage model (disbelief → defense → depression) [5]. Graded `supported` rather than `established`: no prevalence estimates exist beyond weak polling [8], measurement is nascent, and the term's popular usage vastly outruns the validated construct — which this file's caveats exist to manage.
 
 ## Sources
 
-1. Hamilton, P. (1938). *Gas Light* (play); *Gaslight* (1944 film, dir. Cukor). Plot nuance per LARB's history: the husband *denies her accurate perception* of the dimming.
+1. Hamilton, P. (1938). *Gas Light* (play); *Gaslight* (1944 film, dir. Cukor). Plot nuance per the *Los Angeles Review of Books*' history of the term: the husband *denies her accurate perception* of the dimming (a by-product of his attic searches).
 2. Barton, R., & Whitehead, J. A. (1969). "The gas-light phenomenon." *The Lancet* 293(7608), 1258–1260; Calef, V., & Weinshel, E. (1981). *Psychoanalytic Quarterly* 50(1), 44–66.
 3. Sweet, P. L. (2019). "The Sociology of Gaslighting." *American Sociological Review* 84(5), 851–875.
-4. Klein, W., Li, S., & Wood, S. (2023). "A qualitative analysis of gaslighting in romantic relationships." *Personal Relationships* 30(4), 1316–1340; Klein, W., Wood, S., & Bartz, J. (2025). "A Theoretical Framework for Studying the Phenomenon of Gaslighting." *Personality and Social Psychology Review* (online June 2025).
+4. Klein, W., Li, S., & Wood, S. (2023). "A qualitative analysis of gaslighting in romantic relationships." *Personal Relationships* 30(4), 1316–1340 (N=65; empirical).
 5. Stern, R. (2007). *The Gaslight Effect.* Morgan Road (clinical-popular; disbelief → defense → depression).
 6. Sebring, J. (2021). "Towards a sociological understanding of medical gaslighting in western health care." *Sociology of Health & Illness* 43(9), 1951–1964.
 7. Stark, E. (2007/2023). *Coercive Control.* Oxford University Press (reality-manipulation within degradation tactics).
 8. YouGov (2017) polling on term recognition and "partner called me crazy" rates — weak/non-academic grade; no peer-reviewed prevalence exists.
+9. Klein, W., Wood, S., & Bartz, J. (2025). "A Theoretical Framework for Studying the Phenomenon of Gaslighting." *Personality and Social Psychology Review* (online June 2025; theoretical — prediction-error account).
 
 ## See also
 

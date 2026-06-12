@@ -4,14 +4,14 @@ type: tactic
 name: DARVO
 aliases: [deny attack reverse victim and offender, accountability reversal]
 domains: [intimate-relationships, family-parents, workplace-bosses, institutions, propaganda-politics]
-exploits: [trust-mechanics, memory-fallibility, victim-posturing]
-co-occurs-with: [projection-blame-shifting, non-apology-patterns, smear-campaigns]
+exploits: [trust-mechanics, memory-fallibility, shame-leverage]
+co-occurs-with: [projection-blame-shifting, non-apology-patterns, smear-campaigns, victim-posturing]
 enables: [history-rewriting]
 countered-by: [documentation-practices, jade-avoidance]
 distinguished-from: [honest-disagreement, self-protection]
 severity: high
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-12
 ---
 
@@ -85,7 +85,7 @@ DARVO is [[gaslighting]]'s courtroom: gaslighting wages the long reality war, DA
 
 ### When to exit or escalate
 
-When every attempt at accountability produces a trial of *you*, the relationship has no repair channel — and repair-impossible is exit-relevant information ([[no-contact-exit-planning]]). In legal or custody contexts, DARVO is foreseeable: brief your counsel on the pattern by name (the research literature is citable [2][3]).
+When every attempt at accountability produces a trial of *you*, the relationship has no repair channel — and repair-impossible is exit-relevant information ([[no-contact-exit-planning]]). In legal or custody contexts, DARVO is foreseeable: brief your counsel on the pattern by name (the research literature is citable [2][3]). **Safety caution:** the construct's research context is sexual-violence confrontation — confronting a violent or controlling person, however well-documented your case, is an escalation window; plan high-stakes confrontations with professionals ([[dv-safety-planning]], resources in `README.md`).
 
 ## Caveats & false positives
 

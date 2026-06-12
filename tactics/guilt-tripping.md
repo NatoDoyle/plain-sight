@@ -4,13 +4,15 @@ type: tactic
 name: Guilt-Tripping
 aliases: [guilt trip, guilt induction, laying on guilt]
 domains: [family-parents, intimate-relationships, workplace-bosses, cults-high-control]
-exploits: [guilt-leverage, reciprocity, attachment-needs]
-co-occurs-with: [victim-posturing, conditional-love, emotional-blackmail]
+exploits: [guilt-leverage, reciprocity]
+co-occurs-with: [victim-posturing, conditional-love]
+escalates-to: [emotional-blackmail]
 countered-by: [boundary-scripts, jade-avoidance]
 distinguished-from: [honest-hurt, assertiveness]
 severity: medium
 evidence: supported
-status: drafted
+safety: crisis-escalation
+status: complete
 last-updated: 2026-06-12
 ---
 
@@ -20,20 +22,20 @@ last-updated: 2026-06-12
 
 ## Definition
 
-Guilt-tripping is the **deliberate conversational induction of guilt to obtain compliance or punish refusal** — the tactic built on the [[guilt-leverage]] mechanism. Communication research mapped its repertoire empirically: a twelve-technique typology of conversational "guilt moves," led by reminding the other of **relationship obligations**, **reciting sacrifices** made for them, invoking their **role responsibilities** ("a good son would…"), **comparing them to someone else**, and pointed **questioning** [1]. The moves vary along documented dimensions — direct statement versus hint, active inequity-pointing versus passive suffering [1] — which is why the tactic ranges from "after all I've done for you" down to a perfectly timed sigh. It is among the most common influence tactics in close relationships because guilt is strongest exactly there [2].
+Guilt-tripping is the **deliberate conversational induction of guilt to obtain compliance or punish refusal** — the tactic built on the [[guilt-leverage]] mechanism. Communication research mapped its repertoire empirically: a twelve-technique typology of conversational "guilt moves," led by reminding the other of **relationship obligations**, **reciting sacrifices** made for them, invoking their **role responsibilities** ("a good son would…"), **comparing them to someone else**, and pointed **questioning** [1]. The moves vary along empirically derived dimensions — self- versus other-focus, active restrictiveness versus passive acquiescence, and **commission versus omission** (stated outright versus hinted) [1] — that last one being why the tactic ranges from "after all I've done for you" down to a perfectly timed sigh. It is among the most common influence tactics in close relationships because guilt is strongest exactly there [2].
 
 ## Variants & aliases
 
 - **The sacrifice recital** — itemized history of what they've given up for you, presented as invoice [1].
 - **Role-summons** — "a real friend / good daughter / team player would…" — duty invoked as leverage [1].
 - **The comparison** — "your sister calls *her* mother every day" [1] ([[golden-child-scapegoat]]'s engine in families).
-- **Passive suffering display** — conspicuous martyrdom: the sigh, the "don't mind me," the visibly endured hurt awaiting acknowledgment ([[victim-posturing]]; Forward's "sufferer" style).
+- **Passive suffering display** — conspicuous martyrdom: the sigh, the "don't mind me," the visibly endured hurt awaiting acknowledgment ([[victim-posturing]]; Forward's "sufferer" style [6]).
 - **Anticipatory guilt** — pre-loading: "I know you're too busy for me" before you've answered.
 - **Group/institutional form** — "the team sacrificed for you", confession-and-obligation cultures ([[we-are-family-rhetoric]], [[cults-high-control]]).
 
 ## How it works
 
-The mechanism file ([[guilt-leverage]]) carries the machinery: guilt is an interpersonal, communal-relationship emotion whose *repair impulse* gets redirected toward the inducer's chosen target [2]. Two findings shape the tactic's observed form. First, **subtlety is load-bearing**: explicit, heavy guilt appeals arouse guilt *and* anger/reactance that cancel compliance — moderate, implicit induction persuades better [3] — so skilled guilt-tripping whispers. Second, **it doesn't actually work long-term**: in longitudinal couples research, indirect tactics (the guilt-and-obligation family) *felt* smoother in the moment but produced no real partner change over twelve months, while direct, open requests — uncomfortable live — did [4]. Guilt-tripping persists not because it changes people but because it extracts *episodic compliance* and redistributes distress [2]. In parenting, guilt induction is a conceptually core component of **psychological control**, the parenting dimension reliably associated with child internalizing problems (with psychometric caveats noted) [5].
+The mechanism file ([[guilt-leverage]]) carries the machinery: guilt is an interpersonal, communal-relationship emotion whose *repair impulse* gets redirected toward the inducer's chosen target [2]. Two findings shape the tactic's observed form. First, **subtlety is load-bearing**: explicit, heavy guilt appeals arouse guilt *and* anger/reactance that cancel compliance — moderate, implicit induction persuades better [3] — for defense, that's recognition calibration: expect the effective version to whisper. Second, **it doesn't actually work long-term**: in longitudinal couples research, indirect tactics (the guilt-and-obligation family) *felt* smoother in the moment but produced no real partner change over twelve months, while direct, open requests — uncomfortable live — did [4]. Guilt-tripping persists not because it changes people but because it extracts *episodic compliance* and redistributes distress [2]. In parenting, guilt induction is a conceptually core component of **psychological control**, the parenting dimension reliably associated with child internalizing problems (with psychometric caveats noted) [5].
 
 ## Recognition
 
@@ -97,7 +99,11 @@ Guilt-tripping alone is rarely exit-grade — it's the most human tactic in this
 
 ### Base rates & severity calibration
 
-This is probably the most widely used tactic in the KB — used occasionally by nearly everyone, including you ([[everyday-manipulators]]; run the symmetry check). Occasional guilt-flavoring is human; the tactic-grade requires the *pattern*: induction at decision points, undischargeable debts, suffering-as-punishment, and escalation on refusal — in conjunction, over time ([[epistemic-guardrails]]).
+This is probably the most widely used tactic in the KB — used occasionally by nearly everyone, including you ([[everyday-manipulators]]; run the symmetry check). Occasional guilt-flavoring is human and rung-1 evidence of nothing; the tactic-grade requires the *pattern*: induction at decision points, undischargeable debts, suffering-as-punishment, and escalation on refusal — in conjunction, over time ([[epistemic-guardrails]]).
+
+## Safety notes
+
+If suffering displays escalate to **threats of self-harm** ("I might as well not be here"), stop applying this file's boundary playbook — the severity override in [[epistemic-guardrails]] governs: treat the threat as a crisis first, whatever its motive. **US:** 988 Suicide & Crisis Lifeline · **UK:** Samaritans 116 123 · emergency services if action seems imminent; involve professionals rather than carrying it alone; see [[self-harm-threats]] for the dedicated protocol (mirrors [[guilt-leverage]]'s safety rule: safety first, boundaries second).
 
 ## Evidence & debates
 

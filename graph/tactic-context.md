@@ -4,5 +4,38 @@
 
 ## By context (what operates in this arena)
 
+### [[cults-high-control]]
+- [[gaslighting]]
+- [[guilt-tripping]]
+- [[love-bombing]]
+
+### [[family-parents]]
+- [[darvo]]
+- [[gaslighting]]
+- [[guilt-tripping]]
+- [[love-bombing]]
+
+### [[institutions]]
+- [[darvo]]
+- [[gaslighting]]
+
+### [[intimate-relationships]]
+- [[darvo]]
+- [[gaslighting]]
+- [[guilt-tripping]]
+- [[love-bombing]]
+
+### [[propaganda-politics]]
+- [[darvo]]
+
+### [[workplace-bosses]]
+- [[darvo]]
+- [[gaslighting]]
+- [[guilt-tripping]]
+
 ## By tactic (where this move appears)
 
+- [[darvo]] → [[family-parents]], [[institutions]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
+- [[gaslighting]] → [[cults-high-control]], [[family-parents]], [[institutions]], [[intimate-relationships]], [[workplace-bosses]]
+- [[guilt-tripping]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
+- [[love-bombing]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]]

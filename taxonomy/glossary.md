@@ -73,3 +73,4 @@ Innocent or neighboring look-alikes that the KB distinguishes manipulation **fro
 - `earned-praise` — accurate, proportionate recognition with no ask attached; survives your failure to reciprocate
 - `genuine-opportunity` — a real prospect that tolerates scrutiny, diversification, and delay; returns claimed are proportionate and verifiable
 - `justified-confidence` — confidence proportional to evidence, with a visible track record and welcomed challenge; hedges where the domain demands it
+- `self-protection` — a victim's defensive actions and accurate naming of harm done to them; routinely mislabeled as aggression or "DARVO" by the actual aggressor

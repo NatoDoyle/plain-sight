@@ -4,5 +4,41 @@
 
 ## By mechanism (which moves pull this lever)
 
+### [[attachment-needs]]
+- [[gaslighting]]
+- [[guilt-tripping]]
+- [[love-bombing]]
+
+### [[certainty-needs]]
+- [[gaslighting]]
+
+### [[guilt-leverage]]
+- [[guilt-tripping]]
+
+### [[intermittent-reinforcement]]
+- [[love-bombing]]
+
+### [[liking-similarity]]
+- [[love-bombing]]
+
+### [[memory-fallibility]]
+- [[darvo]]
+- [[gaslighting]]
+
+### [[reciprocity]]
+- [[guilt-tripping]]
+- [[love-bombing]]
+
+### [[trust-mechanics]]
+- [[darvo]]
+- [[gaslighting]]
+
+### [[victim-posturing]]
+- [[darvo]]
+
 ## By tactic (which levers this move pulls)
 
+- [[darvo]] → [[memory-fallibility]], [[trust-mechanics]], [[victim-posturing]]
+- [[gaslighting]] → [[attachment-needs]], [[certainty-needs]], [[memory-fallibility]], [[trust-mechanics]]
+- [[guilt-tripping]] → [[attachment-needs]], [[guilt-leverage]], [[reciprocity]]
+- [[love-bombing]] → [[attachment-needs]], [[intermittent-reinforcement]], [[liking-similarity]], [[reciprocity]]

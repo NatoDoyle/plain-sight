@@ -6,16 +6,28 @@
 
 ### [[attachment-needs]]
 - [[gaslighting]]
+- [[isolation-tactics]]
 - [[love-bombing]]
+- [[silent-treatment]]
+- [[triangulation]]
 
 ### [[certainty-needs]]
 - [[gaslighting]]
 
+### [[dissonance-exploitation]]
+- [[projection-blame-shifting]]
+
 ### [[guilt-leverage]]
 - [[guilt-tripping]]
+- [[projection-blame-shifting]]
+
+### [[information-asymmetry]]
+- [[isolation-tactics]]
+- [[triangulation]]
 
 ### [[intermittent-reinforcement]]
 - [[love-bombing]]
+- [[silent-treatment]]
 
 ### [[liking-similarity]]
 - [[love-bombing]]
@@ -23,6 +35,7 @@
 ### [[memory-fallibility]]
 - [[darvo]]
 - [[gaslighting]]
+- [[projection-blame-shifting]]
 
 ### [[reciprocity]]
 - [[guilt-tripping]]
@@ -31,13 +44,21 @@
 ### [[shame-leverage]]
 - [[darvo]]
 
+### [[social-proof]]
+- [[triangulation]]
+
 ### [[trust-mechanics]]
 - [[darvo]]
 - [[gaslighting]]
+- [[isolation-tactics]]
 
 ## By tactic (which levers this move pulls)
 
 - [[darvo]] → [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
 - [[gaslighting]] → [[attachment-needs]], [[certainty-needs]], [[memory-fallibility]], [[trust-mechanics]]
 - [[guilt-tripping]] → [[guilt-leverage]], [[reciprocity]]
+- [[isolation-tactics]] → [[attachment-needs]], [[information-asymmetry]], [[trust-mechanics]]
 - [[love-bombing]] → [[attachment-needs]], [[intermittent-reinforcement]], [[liking-similarity]], [[reciprocity]]
+- [[projection-blame-shifting]] → [[dissonance-exploitation]], [[guilt-leverage]], [[memory-fallibility]]
+- [[silent-treatment]] → [[attachment-needs]], [[intermittent-reinforcement]]
+- [[triangulation]] → [[attachment-needs]], [[information-asymmetry]], [[social-proof]]

@@ -4,13 +4,13 @@ type: tactic
 name: Triangulation
 aliases: [triangling, third-party leverage, jealousy induction]
 domains: [family-parents, intimate-relationships, workplace-bosses]
-exploits: [attachment-needs, social-proof, unity-ingroup]
+exploits: [attachment-needs, social-proof, information-asymmetry]
 co-occurs-with: [golden-child-scapegoat, proxy-recruitment, smear-campaigns]
 countered-by: [boundary-scripts, verification-rituals]
 distinguished-from: [honest-disagreement, genuine-rapport]
 severity: medium
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-12
 ---
 
@@ -20,7 +20,7 @@ last-updated: 2026-06-12
 
 ## Definition
 
-Triangulation is **importing a third party into a two-person dynamic to gain leverage** — as messenger, ally, rival, comparison, or invisible chorus. The construct is family-systems bedrock: Bowen held that "the basic building block of any emotional system is the triangle" — a dyad under tension stabilizes itself by pulling in a third [1] — and Minuchin's structural school mapped the pathological forms: **detouring** (parents routing their conflict through a child via blame or worry), **cross-generational coalitions** (one parent recruiting a child against the other), and **triangulation proper** (each side demanding the child choose) [1]. The manipulative deployment generalizes the geometry: keep communication routed through yourself, keep the other two corners from direct contact, and you control both relationships ([[information-asymmetry]] in triangle form).
+Triangulation is **importing a third party into a two-person dynamic to gain leverage** — as messenger, ally, rival, comparison, or invisible chorus. The construct is family-systems bedrock: Bowen held that "the basic building block of any emotional system is the triangle" — a dyad under tension stabilizes itself by pulling in a third [1] — and Minuchin's structural school mapped the pathological forms: **detouring** (parents routing their conflict through a child via blame or worry), **cross-generational coalitions** (one parent recruiting a child against the other), and **triangulation proper** (each side demanding the child choose) [1]. The manipulative deployment generalizes the geometry: the hub keeps communication routed through itself and the other two corners out of direct contact — controlling both relationships ([[information-asymmetry]] in triangle form).
 
 ## Variants & aliases
 
@@ -80,7 +80,7 @@ Pairs with [[golden-child-scapegoat]] (the institutionalized family triangle), [
 
 - **Open direct channels and keep them open**: the single most anti-triangle move is corners comparing notes — regularly, naturally, without announcing it as investigation. Hubs that fight this are self-identifying.
 - **Verify relayed grievances at the source** before reacting; make "I'll check with them myself" your default ([[verification-rituals]]).
-- **Protect children from the middle** (the documented-harm corner [2]): no messages through kids, no interrogating them about the other house, no requiring them to choose — and document if a co-parent does ([[documentation-practices]]; custody-relevant).
+- **Protect children from the middle** (the documented-harm corner [2]): no messages through kids, no interrogating them about the other house, no requiring them to choose — and document if a co-parent does ([[documentation-practices]]; custody-relevant). Caution in that arena: document *behaviors* (dates, messages, incidents) — "parental alienation *syndrome*" is a contested construct ([[epistemic-guardrails]]'s weak-construct registry), and alienation claims are themselves weaponized in custody disputes; expect counter-accusation and let records, not labels, carry the weight.
 
 ### When to exit or escalate
 

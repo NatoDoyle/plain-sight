@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–1 complete · Tier 2: 4/36 (gaslighting, darvo, love-bombing, guilt-tripping) · 30/147 complete · next: `silent-treatment` · last updated 2026-06-12
+**Status:** Tiers 0–1 complete · Tier 2: 8/36 tactics · 34/147 complete · next: `victim-posturing` · last updated 2026-06-12
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -46,10 +46,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `darvo` — Deny, Attack, Reverse Victim and Offender (Freyd)
 - [x] `love-bombing` — overwhelming early affection/attention as accelerant and leverage
 - [x] `guilt-tripping` — inducing guilt to control ("after all I've done…")
-- [ ] `silent-treatment` — punitive withdrawal of contact/affection as control
-- [ ] `triangulation` — third parties imported as weapons: comparisons, rivals, messengers
-- [ ] `isolation-tactics` — severing friends/family/finances/information channels
-- [ ] `projection-blame-shifting` — accusing the target of the manipulator's own behavior; fault relocation
+- [x] `silent-treatment` — punitive withdrawal of contact/affection as control
+- [x] `triangulation` — third parties imported as weapons: comparisons, rivals, messengers
+- [x] `isolation-tactics` — severing friends/family/finances/information channels
+- [x] `projection-blame-shifting` — accusing the target of the manipulator's own behavior; fault relocation
 - [ ] `victim-posturing` — strategic self-pity to deflect accountability and recruit allies
 - [ ] `moving-goalposts` — success criteria that shift whenever met
 - [ ] `circular-conversation` — word salad, topic rotation, exhaustion arguments that never resolve

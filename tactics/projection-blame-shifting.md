@@ -5,12 +5,12 @@ name: Projection & Blame-Shifting
 aliases: [projection, blame-shifting, fault relocation, accusatory mirroring]
 domains: [intimate-relationships, family-parents, workplace-bosses, propaganda-politics]
 exploits: [memory-fallibility, guilt-leverage, dissonance-exploitation]
-co-occurs-with: [darvo, gaslighting, victim-posturing]
+co-occurs-with: [gaslighting, victim-posturing]
 countered-by: [documentation-practices, jade-avoidance]
 distinguished-from: [honest-disagreement, honest-hurt]
 severity: medium
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-12
 ---
 

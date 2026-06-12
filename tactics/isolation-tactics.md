@@ -12,7 +12,7 @@ distinguished-from: [genuine-rapport, self-protective-distance]
 severity: critical
 evidence: established
 safety: dv-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-12
 ---
 
@@ -36,7 +36,7 @@ Isolation tactics are **the deliberate, progressive severing of a target's conne
 
 ## How it works
 
-Isolation is the **force multiplier**. With outside bonds gone, [[attachment-needs]] concentrate on the one remaining supplier — the manipulator — making every other tactic ([[conditional-love]], [[silent-treatment]], [[gaslighting]]) bite harder. With outside information gone, reality-calibration dies: no one to say "that's not normal" ([[gaslighting]] requires it; [[memory-fallibility]] supplies it). With money and mobility gone, exit becomes logistics ([[escalation-entrapment]]). The progression is typically **gradual and romantically deniable** — early togetherness reads as love; the trajectory documented across the coercive-control literature runs from preference ("stay with me instead") through friction (conflicts whenever you see them) to architecture (no car, no money, no one left to call) [2]. Trafficking research shows the same structure at maximum intensity, mapped onto Biderman's classic coercion framework with isolation as the lead tactic [5].
+Isolation is the **force multiplier**. With outside bonds gone, [[attachment-needs]] concentrate on the one remaining supplier — the manipulator — making every other tactic ([[conditional-love]], [[silent-treatment]], [[gaslighting]]) bite harder. With outside information gone, reality-calibration dies — no one left to say "that's not normal": [[gaslighting]] requires that absence of outside calibration, and [[memory-fallibility]] supplies the malleable record it works on. The jealousy-as-love framing trades on [[trust-mechanics]] — restriction sold as benevolence ("I'm just protecting you") borrows the warmth cue to disguise the control. With money and mobility gone, exit becomes logistics ([[escalation-entrapment]]). The progression is typically **gradual and romantically deniable** — early togetherness reads as love; the trajectory documented across the coercive-control literature runs from preference ("stay with me instead") through friction (conflicts whenever you see them) to architecture (no car, no money, no one left to call) [2]. Trafficking research shows the same structure at maximum intensity, mapped onto Biderman's classic coercion framework with isolation as the lead tactic [5].
 
 ## Recognition
 
@@ -100,7 +100,7 @@ Completed or near-complete isolation is not a couples-communication issue — it
 
 ### Base rates & severity calibration
 
-Wanting more of a partner's time is universal; jealousy is common and usually managed, not weaponized. The tactic-grade conjunction: **systematic derogation across your network + cost attached to contact + channel monopolization + trajectory over time** ([[epistemic-guardrails]]). One sulk about a night out is rung-1 evidence. Severity, though, runs the other way at the top end: this file is rated `critical` because completed isolation is the strongest single structural predictor that everything else in this KB will work unopposed.
+Wanting more of a partner's time is universal; jealousy is common and usually managed, not weaponized. The tactic-grade conjunction: **systematic derogation across your network + cost attached to contact + channel monopolization + trajectory over time** ([[epistemic-guardrails]]). One sulk about a night out is rung-1 evidence. And the label reverses: controllers accuse *targets* of isolation — "you're isolating me from your life", "your boundaries are cutting our family off" — framing the target's healthy limits as the crime ([[therapy-speak-weaponization]]; the accusation carries the same evidence standard as the behavior). Severity, though, runs the other way at the top end: this file is rated `critical` because completed isolation is the strongest single structural predictor that everything else in this KB will work unopposed.
 
 ## Safety notes
 

@@ -289,8 +289,8 @@ edges:
   - {from: triangulation, rel: distinguished-from, to: genuine-rapport}
   - {from: triangulation, rel: distinguished-from, to: honest-disagreement}
   - {from: triangulation, rel: exploits, to: attachment-needs}
+  - {from: triangulation, rel: exploits, to: information-asymmetry}
   - {from: triangulation, rel: exploits, to: social-proof}
-  - {from: triangulation, rel: exploits, to: unity-ingroup}
   - {from: trust-mechanics, rel: countered-by, to: detection-heuristics}
   - {from: trust-mechanics, rel: countered-by, to: verification-rituals}
   - {from: trust-mechanics, rel: distinguished-from, to: authority}

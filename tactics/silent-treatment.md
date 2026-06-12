@@ -11,7 +11,8 @@ countered-by: [boundary-scripts, detection-heuristics]
 distinguished-from: [self-protective-distance, gray-rock]
 severity: high
 evidence: supported
-status: drafted
+safety: dv-escalation
+status: complete
 last-updated: 2026-06-12
 ---
 
@@ -33,7 +34,7 @@ The silent treatment is **contingent, punitive withdrawal of communication and a
 
 ## How it works
 
-The lever stack is documented end to end. Ostracism's sting is **reflexive** — it fires before appraisal, indiscriminately [1]. Sustained, it moves through Williams' temporal stages: reflexive pain → reflective coping → and under chronic exposure, **resignation**: alienation, helplessness, depression, unworthiness [4]. The neural story popularized as "rejection = physical pain" needs its caveat — exclusion engages overlapping *distress* circuitry (dACC), but pain-specificity is contested [3] — yet the behavioral finding stands without it: people will do a great deal to make exclusion stop. That's the extraction point: because re-entry is **contingent on capitulation**, every freeze-out that ends in the target's surrender runs a [[commitment-consistency]] and [[intermittent-reinforcement]] cycle — the restored warmth is the jackpot that trains pursuit — while [[attachment-needs]] supplies the stakes and deniability ("I just needed space") supplies the cover.
+The lever stack is documented end to end. Ostracism's sting is **reflexive** — it fires before appraisal, indiscriminately [1]. Sustained, it moves through Williams' temporal stages: reflexive pain → reflective coping → and under chronic exposure, **resignation**: alienation, helplessness, depression, unworthiness [4]. The neural story popularized as "rejection = physical pain" needs its caveat — exclusion engages overlapping *distress* circuitry (dACC), but pain-specificity is contested [3] — yet the behavioral finding stands without it: people will do a great deal to make exclusion stop. That's the extraction point: because re-entry is **contingent on capitulation**, every freeze-out that ends in the target's surrender runs an [[intermittent-reinforcement]] cycle — the restored warmth is the jackpot that trains pursuit — while [[attachment-needs]] supplies the stakes and deniability ("I just needed space") supplies the cover.
 
 ## Recognition
 
@@ -98,6 +99,10 @@ When freeze-outs are the *standing* response to autonomy, lengthen over time, or
 ### Base rates & severity calibration
 
 Everyone goes cold sometimes; couples averaging one bad sulk a quarter are running human firmware, not a control system. The tactic-grade conjunction: **contingent on disobedience + performed + capitulation-priced + recurring** — over time, at calibration-ladder strength ([[epistemic-guardrails]]). A single unexplained quiet week is rung-1 evidence; and remember the symmetric trap — labeling a partner's legitimate need for space "silent treatment" is itself a pressure move ([[therapy-speak-weaponization]]).
+
+## Safety notes
+
+Freeze-outs alternating with intimidation, or integrated with surveillance and micro-regulation, are [[coercive-control]] components — the severity override governs ([[epistemic-guardrails]]). Chronic-exposure harm (resignation-stage depression) is documented; don't wait it out alone. **US:** National Domestic Violence Hotline 1-800-799-7233 / thehotline.org · **UK:** 0808 2000 247 · standing list in `README.md`; protocol at [[dv-safety-planning]].
 
 ## Evidence & debates
 

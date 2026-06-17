@@ -79,3 +79,6 @@ Innocent or neighboring look-alikes that the KB distinguishes manipulation **fro
 - `genuine-reconciliation` — a sincere, behavior-backed attempt to repair and change after a breakup or rupture: takes responsibility, accepts "no," respects boundaries, and shows changed conduct over time rather than a flood of words
 - `honest-feedback` — accurate, useful critique delivered to help the recipient improve; survives being asked "what specifically, and how do I fix it?" and is not timed to lower the recipient's standing
 - `playful-teasing` — mutual, affectionate banter between equals that both enjoy and either can stop; distinct from status-lowering put-downs aimed one direction
+- `genuine-dilemma` — a real hard choice with actual competing costs in the world, not engineered by a person who punishes every option; the tradeoff is in reality, not manufactured to trap
+- `honest-reinterpretation` — sincerely understanding a past event differently over time (growth, new information, therapy) without asserting the new view is what everyone always agreed; non-deceptive, owns itself as a changed perspective
+- `genuine-aspiration` — sincerely shared hopes, plans, and future-talk the speaker actually intends and takes real near-term steps toward; not used to extract present payment, and not contradicted by present conduct

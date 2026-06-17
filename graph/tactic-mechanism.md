@@ -5,6 +5,8 @@
 ## By mechanism (which moves pull this lever)
 
 ### [[attachment-needs]]
+- [[breadcrumbing]]
+- [[future-faking]]
 - [[gaslighting]]
 - [[hoovering]]
 - [[isolation-tactics]]
@@ -20,9 +22,11 @@
 
 ### [[cognitive-overload-confusion]]
 - [[circular-conversation]]
+- [[double-binds]]
 - [[thought-terminating-cliches]]
 
 ### [[commitment-consistency]]
+- [[future-faking]]
 - [[moving-goalposts]]
 
 ### [[dissonance-exploitation]]
@@ -31,12 +35,18 @@
 ### [[emotional-flooding]]
 - [[circular-conversation]]
 
+### [[fear-exploitation]]
+- [[double-binds]]
+
 ### [[guilt-leverage]]
+- [[double-binds]]
 - [[guilt-tripping]]
 - [[projection-blame-shifting]]
 - [[victim-posturing]]
 
 ### [[hope-greed]]
+- [[breadcrumbing]]
+- [[future-faking]]
 - [[hoovering]]
 - [[moving-goalposts]]
 
@@ -45,6 +55,7 @@
 - [[triangulation]]
 
 ### [[intermittent-reinforcement]]
+- [[breadcrumbing]]
 - [[hoovering]]
 - [[love-bombing]]
 - [[moving-goalposts]]
@@ -56,6 +67,7 @@
 ### [[memory-fallibility]]
 - [[darvo]]
 - [[gaslighting]]
+- [[history-rewriting]]
 - [[projection-blame-shifting]]
 
 ### [[reciprocity]]
@@ -74,6 +86,7 @@
 ### [[trust-mechanics]]
 - [[darvo]]
 - [[gaslighting]]
+- [[history-rewriting]]
 - [[isolation-tactics]]
 - [[proxy-recruitment]]
 - [[smear-campaigns]]
@@ -84,10 +97,14 @@
 
 ## By tactic (which levers this move pulls)
 
+- [[breadcrumbing]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]]
 - [[circular-conversation]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[emotional-flooding]]
 - [[darvo]] → [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
+- [[double-binds]] → [[cognitive-overload-confusion]], [[fear-exploitation]], [[guilt-leverage]]
+- [[future-faking]] → [[attachment-needs]], [[commitment-consistency]], [[hope-greed]]
 - [[gaslighting]] → [[attachment-needs]], [[certainty-needs]], [[memory-fallibility]], [[trust-mechanics]]
 - [[guilt-tripping]] → [[guilt-leverage]], [[reciprocity]]
+- [[history-rewriting]] → [[memory-fallibility]], [[trust-mechanics]]
 - [[hoovering]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]]
 - [[isolation-tactics]] → [[attachment-needs]], [[information-asymmetry]], [[trust-mechanics]]
 - [[love-bombing]] → [[attachment-needs]], [[intermittent-reinforcement]], [[liking-similarity]], [[reciprocity]]

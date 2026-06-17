@@ -10,7 +10,7 @@ countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [honest-feedback, playful-teasing, neurodivergent-communication]
 severity: medium
 evidence: contested
-status: drafted
+status: complete
 last-updated: 2026-06-17
 ---
 

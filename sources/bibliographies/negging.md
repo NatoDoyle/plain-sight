@@ -8,4 +8,4 @@ Term = PUA folk (Erik von Markovik 'Mystery'; Neil Strauss The Game 2005); GRADE
 
 ## PENDING
 
-- [ ] Red-team review then complete.
+- [x] Red-team review passed 2026-06-17 (negging/smear/proxy clean PASS; hoovering PASS-WITH-FIXES applied: McFarlane 1999 primary verified, [4] orphan fixed). Status: complete.

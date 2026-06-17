@@ -8,4 +8,4 @@ GRADE supported; Crick-Grotpeter 1995 Child Development 66(3):710-722 (relationa
 
 ## PENDING
 
-- [ ] Red-team review then complete.
+- [x] Red-team review passed 2026-06-17 (negging/smear/proxy clean PASS; hoovering PASS-WITH-FIXES applied: McFarlane 1999 primary verified, [4] orphan fixed). Status: complete.

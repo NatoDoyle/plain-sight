@@ -11,7 +11,7 @@ distinguished-from: [genuine-reconciliation, honest-hurt]
 severity: high
 evidence: clinical
 safety: dv-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-17
 ---
 
@@ -21,7 +21,7 @@ last-updated: 2026-06-17
 
 ## Definition
 
-Hoovering is **the pattern of renewed contact a manipulator deploys to re-establish a relationship the target has ended or withdrawn from** — apologies, manufactured crises, flattery floods, "I've changed," holiday and anniversary messages, contact via mutual friends, and engineered run-ins. The term is folk: it comes from narcissistic-abuse recovery communities (the Hoover vacuum metaphor) and circulates clinically, but has **no peer-reviewed literature under the name** — graded `clinical` here on the strength of its academic neighbors, not the label. Those neighbors are solid: relationship-science documents **cyclical ("on-again/off-again") relationships** as common — roughly two-thirds of one college sample — and reliably *worse* than non-cyclical ones, with each renewal predicting more negatives and fewer positives [1]; and post-breakup **obsessive relational intrusion** maps a continuum from ordinary pursuit through unwanted contact to stalking [2]. Hoovering sits where those two literatures meet: renewal attempts, often unwanted, deployed strategically.
+Hoovering is **the pattern of renewed contact a manipulator deploys to re-establish a relationship the target has ended or withdrawn from** — apologies, manufactured crises, flattery floods, "I've changed," holiday and anniversary messages, contact via mutual friends, and engineered run-ins. The term is folk: it comes from narcissistic-abuse recovery communities (the Hoover vacuum metaphor) and circulates clinically, but has **no peer-reviewed literature under the name** [4] — graded `clinical` here on the strength of its academic neighbors, not the label. Those neighbors are solid: relationship-science documents **cyclical ("on-again/off-again") relationships** as common — roughly two-thirds of one college sample — and reliably *worse* than non-cyclical ones, with each renewal predicting more negatives and fewer positives [1]; and post-breakup **obsessive relational intrusion** maps a continuum from ordinary pursuit through unwanted contact to stalking [2]. Hoovering sits where those two literatures meet: renewal attempts, often unwanted, deployed strategically.
 
 ## Variants & aliases
 
@@ -102,11 +102,11 @@ Breakups are messy and ambivalent; missing an ex is universal, and many people s
 
 ## Safety notes
 
-Leaving is the most dangerous period in an abusive relationship: research on intimate-partner femicide finds the majority of victims were stalked or harassed in the year before being killed, and separation is a documented risk peak [5]. If hoovering includes threats, surveillance, showing up uninvited, or self-harm framing ([[self-harm-threats]]), treat it as a safety matter, not a relationship decision — the severity override governs ([[epistemic-guardrails]]). Preserve evidence; consider a protective order; plan with professionals. **US:** National Domestic Violence Hotline 1-800-799-7233 / thehotline.org · **UK:** 0808 2000 247 · standing list in `README.md`; protocol at [[dv-safety-planning]].
+Leaving is the most dangerous period in an abusive relationship: research on intimate-partner femicide found 76% of victims (and 85% of attempted-femicide victims) had been stalked in the 12 months before the attack, and separation is a documented risk peak [5]. If hoovering includes threats, surveillance, showing up uninvited, or self-harm framing ([[self-harm-threats]]), treat it as a safety matter, not a relationship decision — the severity override governs ([[epistemic-guardrails]]). Preserve evidence; consider a protective order; plan with professionals. **US:** National Domestic Violence Hotline 1-800-799-7233 / thehotline.org · **UK:** 0808 2000 247 · standing list in `README.md`; protocol at [[dv-safety-planning]].
 
 ## Evidence & debates
 
-Graded `clinical`: the *named* tactic is folk/practitioner with no peer-reviewed studies, but the pattern rests on real empirical neighbors — cyclical-relationship research (renewals common and harmful) [1], obsessive-relational-intrusion's pursuit-to-stalking continuum [2], and the behavioral extinction-burst finding [3] (itself bounded — bursts occur in a minority of cases, so their *absence* proves nothing; see [[intermittent-reinforcement]]). The femicide-stalking statistic [5] traces to the McFarlane et al. femicide research and should be cited to the primary source when used in print; the broader "separation is peak risk" point is robustly established regardless.
+Graded `clinical`: the *named* tactic is folk/practitioner with no peer-reviewed studies, but the pattern rests on real empirical neighbors — cyclical-relationship research (renewals common and harmful) [1], obsessive-relational-intrusion's pursuit-to-stalking continuum [2], and the behavioral extinction-burst finding [3] (itself bounded — bursts occur in a minority of cases, so their *absence* proves nothing; see [[intermittent-reinforcement]]). The femicide-stalking statistics [5] are from McFarlane et al. (1999), verified to the primary source; the broader "separation is peak risk" point is robustly established across the IPV literature.
 
 ## Sources
 
@@ -114,7 +114,7 @@ Graded `clinical`: the *named* tactic is folk/practitioner with no peer-reviewed
 2. Spitzberg, B., & Cupach, W. (2004). *The Dark Side of Relationship Pursuit: From Attraction to Obsession and Stalking.* Routledge (obsessive relational intrusion; pursuit-to-stalking continuum).
 3. Lerman, D., & Iwata, B. (1995). "Prevalence of the extinction burst." *Journal of Applied Behavior Analysis* 28(1), 93–94 (bursts in a minority of cases — common, not universal); see [[intermittent-reinforcement]].
 4. Origin: narcissistic-abuse recovery communities (Hoover-vacuum metaphor); circulates clinically (Psychology Today, practitioner literature) — folk/clinical, no single attributable coiner.
-5. McFarlane et al., intimate-partner femicide / stalking research (majority of femicide victims stalked in the prior year; separation as risk peak) — cited via secondary sources; confirm primary before print. Broader separation-risk consensus is well established.
+5. McFarlane, J., Campbell, J., Wilt, S., Sachs, C., Ulrich, Y., & Xu, X. (1999). "Stalking and Intimate Partner Femicide." *Homicide Studies* 3(4), 300–316 (76% of femicide victims and 85% of attempted-femicide victims were stalked within the 12 months prior; 141 femicide + 65 attempted-femicide incidents). Separation as risk peak is well established across the IPV literature.
 
 ## See also
 

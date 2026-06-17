@@ -9,7 +9,7 @@ countered-by: [detection-heuristics, documentation-practices]
 distinguished-from: [genuine-warning, honest-disagreement]
 severity: medium
 evidence: clinical
-status: drafted
+status: complete
 last-updated: 2026-06-17
 ---
 

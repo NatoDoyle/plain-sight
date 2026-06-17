@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–1 complete · Tier 2: 16/36 tactics · 42/147 complete · next: `future-faking` · last updated 2026-06-17
+**Status:** Tiers 0–1 complete · Tier 2: 20/36 tactics · 46/147 complete · next: `weaponized-incompetence` · last updated 2026-06-17
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -58,10 +58,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `smear-campaigns` — preemptive/retaliatory reputation destruction
 - [x] `proxy-recruitment` — flying monkeys: third parties deployed to pressure the target
 - [x] `negging` — calculated put-downs to lower status and fish for validation
-- [ ] `future-faking` — vivid promised futures as payment-now leverage
-- [ ] `breadcrumbing` — minimal intermittent attention to keep a target on the hook
-- [ ] `double-binds` — engineered no-win choices ("damned either way")
-- [ ] `history-rewriting` — retroactive narrative editing of events, promises, agreements
+- [x] `future-faking` — vivid promised futures as payment-now leverage
+- [x] `breadcrumbing` — minimal intermittent attention to keep a target on the hook
+- [x] `double-binds` — engineered no-win choices ("damned either way")
+- [x] `history-rewriting` — retroactive narrative editing of events, promises, agreements
 - [ ] `weaponized-incompetence` — strategic helplessness to offload labor and lower expectations
 - [ ] `emotional-blackmail` — FOG: fear, obligation, guilt (Forward); if-you-loved-me leverage
 - [ ] `veiled-threats` — deniable intimidation: hints, jokes, "I'd hate for X to happen"

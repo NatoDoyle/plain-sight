@@ -10,7 +10,7 @@ countered-by: [boundary-scripts, detection-heuristics]
 distinguished-from: [genuine-dilemma, paternalism]
 severity: medium
 evidence: clinical
-status: drafted
+status: complete
 last-updated: 2026-06-17
 ---
 

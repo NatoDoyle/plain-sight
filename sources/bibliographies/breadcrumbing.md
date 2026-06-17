@@ -8,4 +8,4 @@ GRADE supported-but-preliminary (cross-sectional, mostly one team); Navarro-Larr
 
 ## PENDING
 
-- [ ] Red-team review then complete.
+- [x] Red-team review passed 2026-06-17 (double-binds/history-rewriting/future-faking clean PASS; breadcrumbing PASS-WITH-FIXES applied: paranoid-ideation phrase hedged). Status: complete.

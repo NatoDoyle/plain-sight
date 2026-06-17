@@ -10,7 +10,7 @@ countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [genuine-rapport, neurodivergent-communication]
 severity: low
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-17
 ---
 
@@ -57,7 +57,7 @@ The engine is [[intermittent-reinforcement]] in its purest interpersonal form: N
 
 ### Escalation signs
 
-Breadcrumbing isn't an escalating tactic so much as a *durable* one — its harm is in duration. Watch for it fusing with [[future-faking]] (crumbs plus vague promises of "more later") or recurring across an on-off pattern ([[hoovering]]'s lighter cousin: the crumb as a re-hook after you withdraw). Sustained, it's associated with damaged self-concept, depressive signs, and even paranoid ideation [3].
+Breadcrumbing isn't an escalating tactic so much as a *durable* one — its harm is in duration. Watch for it fusing with [[future-faking]] (crumbs plus vague promises of "more later") or recurring across an on-off pattern ([[hoovering]]'s lighter cousin: the crumb as a re-hook after you withdraw). Sustained, it's associated with damaged self-concept, depressive signs, and — in one preliminary study — paranoid ideation [3].
 
 ## Where it appears
 

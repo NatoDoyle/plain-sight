@@ -10,7 +10,7 @@ countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-aspiration, honest-hurt]
 severity: medium
 evidence: folk
-status: drafted
+status: complete
 last-updated: 2026-06-17
 ---
 

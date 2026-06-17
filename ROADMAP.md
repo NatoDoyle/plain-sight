@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–1 complete · Tier 2: 12/36 tactics · 42/147 complete · next: `hoovering` · last updated 2026-06-17
+**Status:** Tiers 0–1 complete · Tier 2: 12/36 tactics · 38/147 complete · next: `hoovering` · last updated 2026-06-17
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 

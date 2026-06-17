@@ -6,8 +6,10 @@
 
 ### [[attachment-needs]]
 - [[gaslighting]]
+- [[hoovering]]
 - [[isolation-tactics]]
 - [[love-bombing]]
+- [[negging]]
 - [[silent-treatment]]
 - [[triangulation]]
 
@@ -35,6 +37,7 @@
 - [[victim-posturing]]
 
 ### [[hope-greed]]
+- [[hoovering]]
 - [[moving-goalposts]]
 
 ### [[information-asymmetry]]
@@ -42,6 +45,7 @@
 - [[triangulation]]
 
 ### [[intermittent-reinforcement]]
+- [[hoovering]]
 - [[love-bombing]]
 - [[moving-goalposts]]
 - [[silent-treatment]]
@@ -60,14 +64,19 @@
 
 ### [[shame-leverage]]
 - [[darvo]]
+- [[negging]]
 
 ### [[social-proof]]
+- [[proxy-recruitment]]
+- [[smear-campaigns]]
 - [[triangulation]]
 
 ### [[trust-mechanics]]
 - [[darvo]]
 - [[gaslighting]]
 - [[isolation-tactics]]
+- [[proxy-recruitment]]
+- [[smear-campaigns]]
 - [[victim-posturing]]
 
 ### [[unity-ingroup]]
@@ -79,11 +88,15 @@
 - [[darvo]] → [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
 - [[gaslighting]] → [[attachment-needs]], [[certainty-needs]], [[memory-fallibility]], [[trust-mechanics]]
 - [[guilt-tripping]] → [[guilt-leverage]], [[reciprocity]]
+- [[hoovering]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]]
 - [[isolation-tactics]] → [[attachment-needs]], [[information-asymmetry]], [[trust-mechanics]]
 - [[love-bombing]] → [[attachment-needs]], [[intermittent-reinforcement]], [[liking-similarity]], [[reciprocity]]
 - [[moving-goalposts]] → [[commitment-consistency]], [[hope-greed]], [[intermittent-reinforcement]]
+- [[negging]] → [[attachment-needs]], [[shame-leverage]]
 - [[projection-blame-shifting]] → [[dissonance-exploitation]], [[guilt-leverage]], [[memory-fallibility]]
+- [[proxy-recruitment]] → [[social-proof]], [[trust-mechanics]]
 - [[silent-treatment]] → [[attachment-needs]], [[intermittent-reinforcement]]
+- [[smear-campaigns]] → [[social-proof]], [[trust-mechanics]]
 - [[thought-terminating-cliches]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[unity-ingroup]]
 - [[triangulation]] → [[attachment-needs]], [[information-asymmetry]], [[social-proof]]
 - [[victim-posturing]] → [[guilt-leverage]], [[trust-mechanics]]

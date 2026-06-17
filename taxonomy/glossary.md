@@ -76,3 +76,6 @@ Innocent or neighboring look-alikes that the KB distinguishes manipulation **fro
 - `self-protection` — a victim's defensive actions and accurate naming of harm done to them; routinely mislabeled as aggression or "DARVO" by the actual aggressor
 - `genuine-victimhood` — actual harm accurately named; statistically the overwhelming majority of harm claims (false-report base rates run ~2–10%), and disbelief is the default injury such victims face
 - `evolving-requirements` — standards that honestly change with circumstances: announced, symmetric, with the change acknowledged and prior work credited
+- `genuine-reconciliation` — a sincere, behavior-backed attempt to repair and change after a breakup or rupture: takes responsibility, accepts "no," respects boundaries, and shows changed conduct over time rather than a flood of words
+- `honest-feedback` — accurate, useful critique delivered to help the recipient improve; survives being asked "what specifically, and how do I fix it?" and is not timed to lower the recipient's standing
+- `playful-teasing` — mutual, affectionate banter between equals that both enjoy and either can stop; distinct from status-lowering put-downs aimed one direction

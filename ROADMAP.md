@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–1 complete · Tier 2: 20/36 tactics · 46/147 complete · next: `weaponized-incompetence` · last updated 2026-06-17
+**Status:** Tiers 0–1 complete · Tier 2: 24/36 tactics · 50/147 complete · next: `lying-typologies` · last updated 2026-06-18
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -62,10 +62,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `breadcrumbing` — minimal intermittent attention to keep a target on the hook
 - [x] `double-binds` — engineered no-win choices ("damned either way")
 - [x] `history-rewriting` — retroactive narrative editing of events, promises, agreements
-- [ ] `weaponized-incompetence` — strategic helplessness to offload labor and lower expectations
-- [ ] `emotional-blackmail` — FOG: fear, obligation, guilt (Forward); if-you-loved-me leverage
-- [ ] `veiled-threats` — deniable intimidation: hints, jokes, "I'd hate for X to happen"
-- [ ] `self-harm-threats` — "I'll hurt myself if you leave" as a control mechanism (safety-critical)
+- [x] `weaponized-incompetence` — strategic helplessness to offload labor and lower expectations
+- [x] `emotional-blackmail` — FOG: fear, obligation, guilt (Forward); if-you-loved-me leverage
+- [x] `veiled-threats` — deniable intimidation: hints, jokes, "I'd hate for X to happen"
+- [x] `self-harm-threats` — "I'll hurt myself if you leave" as a control mechanism (safety-critical)
 - [ ] `lying-typologies` — commission, omission, paltering, equivocation, bluffing, BS (Frankfurt)
 - [ ] `boundary-testing` — probing small violations to map compliance before bigger ones
 - [ ] `mirroring-false-identity` — manufactured soulmate/ideal-candidate personas

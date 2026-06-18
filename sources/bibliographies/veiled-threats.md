@@ -8,4 +8,4 @@ GRADE supported; safety dv-escalation; Pinker-Nowak-Lee 2008 'The logic of indir
 
 ## PENDING
 
-- [ ] Red-team review then complete (self-harm-threats: scrutinize safety framing HARDEST — no faking-test, crisis-first, Campbell homicide-suicide precision).
+- [x] Red-team review passed 2026-06-18 (self-harm-threats PASSED clean on every safety property; weaponized-incompetence/veiled-threats clean; emotional-blackmail PASS-WITH-FIXES applied: safety:dv-escalation flag + Safety notes for parity with silent-treatment). Status: complete.

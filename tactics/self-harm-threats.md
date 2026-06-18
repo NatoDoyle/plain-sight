@@ -10,7 +10,7 @@ distinguished-from: [genuine-crisis]
 severity: critical
 evidence: clinical
 safety: crisis-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-18
 ---
 

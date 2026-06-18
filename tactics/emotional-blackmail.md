@@ -11,7 +11,8 @@ countered-by: [boundary-scripts, jade-avoidance]
 distinguished-from: [honest-hurt, assertiveness]
 severity: high
 evidence: clinical
-status: drafted
+safety: dv-escalation
+status: complete
 last-updated: 2026-06-18
 ---
 
@@ -88,6 +89,10 @@ The umbrella over [[guilt-tripping]] (its G; declared as escalating-to emotional
 ### When to exit or escalate
 
 When the cycle is the relationship's operating system — every autonomy-assertion penalized, the threats escalating — this is [[coercive-control]] territory, an exit question rather than a communication one ([[no-contact-exit-planning]]). **If the threats are of self-harm, the safety protocol in [[self-harm-threats]] governs — crisis response first, not boundary-holding.** Where danger is present, see the `README.md` resources and [[dv-safety-planning]].
+
+## Safety notes
+
+Sustained emotional blackmail is a documented on-ramp to [[coercive-control]], and the **Self-Punisher** variant — threats of self-harm if you don't comply — is a genuine safety matter, not merely a control move. Where self-harm threats appear, the crisis protocol in [[self-harm-threats]] governs: **respond to the risk first, get professionals involved, do not hold it alone** (US: **988** / **741741**; UK: **Samaritans 116 123** / **SHOUT 85258**; immediate danger **911 / 999**). Where blackmail is embedded in control or intimidation, plan with DV professionals rather than confronting alone — **US:** 1-800-799-7233 · **UK:** 0808 2000 247 · standing list in `README.md`; protocol at [[dv-safety-planning]]. Leaving such relationships is the peak-risk window; plan, don't improvise.
 
 ## Caveats & false positives
 

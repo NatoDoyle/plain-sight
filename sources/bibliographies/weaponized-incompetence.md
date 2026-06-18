@@ -8,4 +8,4 @@ GRADE folk (no peer-reviewed lit under name; mechanisms+arena supported); 'strat
 
 ## PENDING
 
-- [ ] Red-team review then complete.
+- [x] Red-team review passed 2026-06-18 (self-harm-threats PASSED clean on every safety property; weaponized-incompetence/veiled-threats clean; emotional-blackmail PASS-WITH-FIXES applied: safety:dv-escalation flag + Safety notes for parity with silent-treatment). Status: complete.

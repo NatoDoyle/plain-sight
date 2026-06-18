@@ -10,7 +10,7 @@ countered-by: [boundary-scripts, documentation-practices]
 distinguished-from: [incompetence-not-malice, neurodivergent-communication]
 severity: low
 evidence: folk
-status: drafted
+status: complete
 last-updated: 2026-06-18
 ---
 

@@ -24,6 +24,7 @@
 - [[circular-conversation]]
 - [[darvo]]
 - [[double-binds]]
+- [[emotional-blackmail]]
 - [[gaslighting]]
 - [[guilt-tripping]]
 - [[history-rewriting]]
@@ -38,6 +39,7 @@
 - [[thought-terminating-cliches]]
 - [[triangulation]]
 - [[victim-posturing]]
+- [[weaponized-incompetence]]
 
 ### [[institutions]]
 - [[darvo]]
@@ -48,6 +50,7 @@
 - [[circular-conversation]]
 - [[darvo]]
 - [[double-binds]]
+- [[emotional-blackmail]]
 - [[future-faking]]
 - [[gaslighting]]
 - [[guilt-tripping]]
@@ -63,6 +66,7 @@
 - [[smear-campaigns]]
 - [[triangulation]]
 - [[victim-posturing]]
+- [[weaponized-incompetence]]
 
 ### [[propaganda-politics]]
 - [[darvo]]
@@ -84,6 +88,7 @@
 - [[circular-conversation]]
 - [[darvo]]
 - [[double-binds]]
+- [[emotional-blackmail]]
 - [[future-faking]]
 - [[gaslighting]]
 - [[guilt-tripping]]
@@ -97,6 +102,7 @@
 - [[thought-terminating-cliches]]
 - [[triangulation]]
 - [[victim-posturing]]
+- [[weaponized-incompetence]]
 
 ## By tactic (where this move appears)
 
@@ -104,6 +110,7 @@
 - [[circular-conversation]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[darvo]] → [[family-parents]], [[institutions]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
 - [[double-binds]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
+- [[emotional-blackmail]] → [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[future-faking]] → [[intimate-relationships]], [[sales]], [[scams-fraud]], [[workplace-bosses]]
 - [[gaslighting]] → [[cults-high-control]], [[family-parents]], [[institutions]], [[intimate-relationships]], [[workplace-bosses]]
 - [[guilt-tripping]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
@@ -120,3 +127,4 @@
 - [[thought-terminating-cliches]] → [[cults-high-control]], [[family-parents]], [[propaganda-politics]], [[workplace-bosses]]
 - [[triangulation]] → [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[victim-posturing]] → [[family-parents]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
+- [[weaponized-incompetence]] → [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]

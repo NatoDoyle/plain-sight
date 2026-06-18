@@ -6,6 +6,7 @@
 
 ### [[attachment-needs]]
 - [[breadcrumbing]]
+- [[emotional-blackmail]]
 - [[future-faking]]
 - [[gaslighting]]
 - [[hoovering]]
@@ -37,12 +38,15 @@
 
 ### [[fear-exploitation]]
 - [[double-binds]]
+- [[emotional-blackmail]]
 
 ### [[guilt-leverage]]
 - [[double-binds]]
+- [[emotional-blackmail]]
 - [[guilt-tripping]]
 - [[projection-blame-shifting]]
 - [[victim-posturing]]
+- [[weaponized-incompetence]]
 
 ### [[hope-greed]]
 - [[breadcrumbing]]
@@ -73,6 +77,7 @@
 ### [[reciprocity]]
 - [[guilt-tripping]]
 - [[love-bombing]]
+- [[weaponized-incompetence]]
 
 ### [[shame-leverage]]
 - [[darvo]]
@@ -101,6 +106,7 @@
 - [[circular-conversation]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[emotional-flooding]]
 - [[darvo]] → [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
 - [[double-binds]] → [[cognitive-overload-confusion]], [[fear-exploitation]], [[guilt-leverage]]
+- [[emotional-blackmail]] → [[attachment-needs]], [[fear-exploitation]], [[guilt-leverage]]
 - [[future-faking]] → [[attachment-needs]], [[commitment-consistency]], [[hope-greed]]
 - [[gaslighting]] → [[attachment-needs]], [[certainty-needs]], [[memory-fallibility]], [[trust-mechanics]]
 - [[guilt-tripping]] → [[guilt-leverage]], [[reciprocity]]
@@ -117,3 +123,4 @@
 - [[thought-terminating-cliches]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[unity-ingroup]]
 - [[triangulation]] → [[attachment-needs]], [[information-asymmetry]], [[social-proof]]
 - [[victim-posturing]] → [[guilt-leverage]], [[trust-mechanics]]
+- [[weaponized-incompetence]] → [[guilt-leverage]], [[reciprocity]]

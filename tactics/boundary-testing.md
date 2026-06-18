@@ -10,7 +10,7 @@ countered-by: [boundary-scripts, detection-heuristics]
 distinguished-from: [genuine-calibration, cultural-difference]
 severity: medium
 evidence: folk
-status: drafted
+status: complete
 last-updated: 2026-06-18
 ---
 

@@ -9,7 +9,7 @@ countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [benign-concealment, prosocial-lie]
 severity: medium
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-18
 ---
 

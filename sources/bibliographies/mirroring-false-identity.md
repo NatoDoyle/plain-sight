@@ -8,4 +8,4 @@ GRADE clinical (mirroring effect supported-w-caveat; weaponized false-ID clinica
 
 ## PENDING
 
-- [ ] Red-team review then complete.
+- [x] Red-team review passed 2026-06-18 (all four clean PASS, no blocking issues; pity-plays got optional explicit label-weaponization line for parity with victim-posturing). Status: complete.

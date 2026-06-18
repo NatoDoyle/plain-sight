@@ -10,7 +10,7 @@ countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-rapport, false-self]
 severity: high
 evidence: clinical
-status: drafted
+status: complete
 last-updated: 2026-06-18
 ---
 

@@ -9,7 +9,7 @@ countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [genuine-victimhood, honest-hurt]
 severity: medium
 evidence: clinical
-status: drafted
+status: complete
 last-updated: 2026-06-18
 ---
 
@@ -91,6 +91,7 @@ The opening, extraction-oriented sympathy bid; pairs with [[mirroring-false-iden
 - **Asymmetric-harm rule**: wrongly dismissing a genuine victim or a real plea for help is a serious harm; require *converging* signs (fabrication + extraction + pattern over time) before suspecting a play, and even then, the safe move for a possible real crisis is to *route to help*, not to coldly refuse ([[epistemic-guardrails]]'s severity logic; cf. [[self-harm-threats]] where this is life-or-death).
 - **Sympathy is often the *correct* response** [2]: the ad misericordiam fallacy is *misplaced* pity — pity is frequently relevant and right. Vulnerability is real; the wounded bird is usually a wounded bird.
 - **Honest hurt is not a pity play** ([[honest-hurt]]): expressing pain, sadness, or need without a contingent extraction is just human communication.
+- **The label is itself weaponizable**: "you're just playing for sympathy" / "that's a pity play" is a standard move for dismissing a genuine victim or a real plea for help ([[therapy-speak-weaponization]], [[darvo]]'s attack on a real victim's credibility) — the accusation carries the same burden of pattern-evidence it claims, and in this domain the cost of getting it wrong falls on someone already suffering.
 
 ### Base rates & severity calibration
 

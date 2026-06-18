@@ -6,6 +6,7 @@
 
 ### [[competitors-business]]
 - [[smear-campaigns]]
+- [[veiled-threats]]
 
 ### [[cults-high-control]]
 - [[circular-conversation]]
@@ -34,10 +35,12 @@
 - [[moving-goalposts]]
 - [[projection-blame-shifting]]
 - [[proxy-recruitment]]
+- [[self-harm-threats]]
 - [[silent-treatment]]
 - [[smear-campaigns]]
 - [[thought-terminating-cliches]]
 - [[triangulation]]
+- [[veiled-threats]]
 - [[victim-posturing]]
 - [[weaponized-incompetence]]
 
@@ -62,9 +65,11 @@
 - [[negging]]
 - [[projection-blame-shifting]]
 - [[proxy-recruitment]]
+- [[self-harm-threats]]
 - [[silent-treatment]]
 - [[smear-campaigns]]
 - [[triangulation]]
+- [[veiled-threats]]
 - [[victim-posturing]]
 - [[weaponized-incompetence]]
 
@@ -101,6 +106,7 @@
 - [[smear-campaigns]]
 - [[thought-terminating-cliches]]
 - [[triangulation]]
+- [[veiled-threats]]
 - [[victim-posturing]]
 - [[weaponized-incompetence]]
 
@@ -122,9 +128,11 @@
 - [[negging]] → [[intimate-relationships]], [[workplace-bosses]]
 - [[projection-blame-shifting]] → [[family-parents]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
 - [[proxy-recruitment]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
+- [[self-harm-threats]] → [[family-parents]], [[intimate-relationships]]
 - [[silent-treatment]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[smear-campaigns]] → [[competitors-business]], [[family-parents]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
 - [[thought-terminating-cliches]] → [[cults-high-control]], [[family-parents]], [[propaganda-politics]], [[workplace-bosses]]
 - [[triangulation]] → [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
+- [[veiled-threats]] → [[competitors-business]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[victim-posturing]] → [[family-parents]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
 - [[weaponized-incompetence]] → [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]

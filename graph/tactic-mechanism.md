@@ -12,6 +12,7 @@
 - [[hoovering]]
 - [[isolation-tactics]]
 - [[love-bombing]]
+- [[mirroring-false-identity]]
 - [[negging]]
 - [[self-harm-threats]]
 - [[silent-treatment]]
@@ -28,10 +29,12 @@
 - [[thought-terminating-cliches]]
 
 ### [[commitment-consistency]]
+- [[boundary-testing]]
 - [[future-faking]]
 - [[moving-goalposts]]
 
 ### [[dissonance-exploitation]]
+- [[boundary-testing]]
 - [[projection-blame-shifting]]
 
 ### [[emotional-flooding]]
@@ -47,6 +50,7 @@
 - [[double-binds]]
 - [[emotional-blackmail]]
 - [[guilt-tripping]]
+- [[pity-plays]]
 - [[projection-blame-shifting]]
 - [[self-harm-threats]]
 - [[victim-posturing]]
@@ -60,6 +64,7 @@
 
 ### [[information-asymmetry]]
 - [[isolation-tactics]]
+- [[lying-typologies]]
 - [[triangulation]]
 
 ### [[intermittent-reinforcement]]
@@ -71,6 +76,7 @@
 
 ### [[liking-similarity]]
 - [[love-bombing]]
+- [[mirroring-false-identity]]
 
 ### [[memory-fallibility]]
 - [[darvo]]
@@ -97,6 +103,9 @@
 - [[gaslighting]]
 - [[history-rewriting]]
 - [[isolation-tactics]]
+- [[lying-typologies]]
+- [[mirroring-false-identity]]
+- [[pity-plays]]
 - [[proxy-recruitment]]
 - [[smear-campaigns]]
 - [[victim-posturing]]
@@ -106,6 +115,7 @@
 
 ## By tactic (which levers this move pulls)
 
+- [[boundary-testing]] → [[commitment-consistency]], [[dissonance-exploitation]]
 - [[breadcrumbing]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]]
 - [[circular-conversation]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[emotional-flooding]]
 - [[darvo]] → [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
@@ -118,8 +128,11 @@
 - [[hoovering]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]]
 - [[isolation-tactics]] → [[attachment-needs]], [[information-asymmetry]], [[trust-mechanics]]
 - [[love-bombing]] → [[attachment-needs]], [[intermittent-reinforcement]], [[liking-similarity]], [[reciprocity]]
+- [[lying-typologies]] → [[information-asymmetry]], [[trust-mechanics]]
+- [[mirroring-false-identity]] → [[attachment-needs]], [[liking-similarity]], [[trust-mechanics]]
 - [[moving-goalposts]] → [[commitment-consistency]], [[hope-greed]], [[intermittent-reinforcement]]
 - [[negging]] → [[attachment-needs]], [[shame-leverage]]
+- [[pity-plays]] → [[guilt-leverage]], [[trust-mechanics]]
 - [[projection-blame-shifting]] → [[dissonance-exploitation]], [[guilt-leverage]], [[memory-fallibility]]
 - [[proxy-recruitment]] → [[social-proof]], [[trust-mechanics]]
 - [[self-harm-threats]] → [[attachment-needs]], [[fear-exploitation]], [[guilt-leverage]]

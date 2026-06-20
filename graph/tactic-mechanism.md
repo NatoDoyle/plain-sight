@@ -18,14 +18,19 @@
 - [[silent-treatment]]
 - [[triangulation]]
 
+### [[authority]]
+- [[therapy-speak-weaponization]]
+
 ### [[certainty-needs]]
 - [[circular-conversation]]
 - [[gaslighting]]
 - [[thought-terminating-cliches]]
 
 ### [[cognitive-overload-confusion]]
+- [[bad-faith-argumentation]]
 - [[circular-conversation]]
 - [[double-binds]]
+- [[manufactured-urgency]]
 - [[thought-terminating-cliches]]
 
 ### [[commitment-consistency]]
@@ -46,10 +51,15 @@
 - [[self-harm-threats]]
 - [[veiled-threats]]
 
+### [[framing-anchoring]]
+- [[bad-faith-argumentation]]
+- [[therapy-speak-weaponization]]
+
 ### [[guilt-leverage]]
 - [[double-binds]]
 - [[emotional-blackmail]]
 - [[guilt-tripping]]
+- [[non-apology-patterns]]
 - [[pity-plays]]
 - [[projection-blame-shifting]]
 - [[self-harm-threats]]
@@ -75,6 +85,7 @@
 - [[silent-treatment]]
 
 ### [[liking-similarity]]
+- [[charm-offensive]]
 - [[love-bombing]]
 - [[mirroring-false-identity]]
 
@@ -89,6 +100,9 @@
 - [[love-bombing]]
 - [[weaponized-incompetence]]
 
+### [[scarcity-urgency]]
+- [[manufactured-urgency]]
+
 ### [[shame-leverage]]
 - [[darvo]]
 - [[negging]]
@@ -99,12 +113,14 @@
 - [[triangulation]]
 
 ### [[trust-mechanics]]
+- [[charm-offensive]]
 - [[darvo]]
 - [[gaslighting]]
 - [[history-rewriting]]
 - [[isolation-tactics]]
 - [[lying-typologies]]
 - [[mirroring-false-identity]]
+- [[non-apology-patterns]]
 - [[pity-plays]]
 - [[proxy-recruitment]]
 - [[smear-campaigns]]
@@ -115,8 +131,10 @@
 
 ## By tactic (which levers this move pulls)
 
+- [[bad-faith-argumentation]] → [[cognitive-overload-confusion]], [[framing-anchoring]]
 - [[boundary-testing]] → [[commitment-consistency]], [[dissonance-exploitation]]
 - [[breadcrumbing]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]]
+- [[charm-offensive]] → [[liking-similarity]], [[trust-mechanics]]
 - [[circular-conversation]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[emotional-flooding]]
 - [[darvo]] → [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
 - [[double-binds]] → [[cognitive-overload-confusion]], [[fear-exploitation]], [[guilt-leverage]]
@@ -129,15 +147,18 @@
 - [[isolation-tactics]] → [[attachment-needs]], [[information-asymmetry]], [[trust-mechanics]]
 - [[love-bombing]] → [[attachment-needs]], [[intermittent-reinforcement]], [[liking-similarity]], [[reciprocity]]
 - [[lying-typologies]] → [[information-asymmetry]], [[trust-mechanics]]
+- [[manufactured-urgency]] → [[cognitive-overload-confusion]], [[scarcity-urgency]]
 - [[mirroring-false-identity]] → [[attachment-needs]], [[liking-similarity]], [[trust-mechanics]]
 - [[moving-goalposts]] → [[commitment-consistency]], [[hope-greed]], [[intermittent-reinforcement]]
 - [[negging]] → [[attachment-needs]], [[shame-leverage]]
+- [[non-apology-patterns]] → [[guilt-leverage]], [[trust-mechanics]]
 - [[pity-plays]] → [[guilt-leverage]], [[trust-mechanics]]
 - [[projection-blame-shifting]] → [[dissonance-exploitation]], [[guilt-leverage]], [[memory-fallibility]]
 - [[proxy-recruitment]] → [[social-proof]], [[trust-mechanics]]
 - [[self-harm-threats]] → [[attachment-needs]], [[fear-exploitation]], [[guilt-leverage]]
 - [[silent-treatment]] → [[attachment-needs]], [[intermittent-reinforcement]]
 - [[smear-campaigns]] → [[social-proof]], [[trust-mechanics]]
+- [[therapy-speak-weaponization]] → [[authority]], [[framing-anchoring]]
 - [[thought-terminating-cliches]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[unity-ingroup]]
 - [[triangulation]] → [[attachment-needs]], [[information-asymmetry]], [[social-proof]]
 - [[veiled-threats]] → [[fear-exploitation]]

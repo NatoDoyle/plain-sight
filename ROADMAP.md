@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–2 COMPLETE · Tier 3 Dynamics: 7/10 (intimate-abuse + fraud clusters done) · 69/147 complete · next: `cult-conversion-funnel` (ideological/entrapment cluster: + radicalization-pipeline, escalation-entrapment closes Tier 3) · last updated 2026-06-20
+**Status:** Tiers 0–3 COMPLETE (foundations + 23 mechanisms + 33 tactics + 3 keystone defenses + 10 dynamics) · 72/147 complete · next: Tier 4a context dossiers, starting `intimate-relationships` · last updated 2026-06-20
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -86,11 +86,11 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `coercive-control` — the architecture of domination: micro-regulation, surveillance, credible threat (Stark)
 - [x] `grooming-sequence` — staged trust-building toward exploitation: selection, access, trust, desensitization, maintenance
 - [x] `con-anatomy` — the classic stages: put-up, play, rope, tale, convincer, breakdown, send, touch, blow-off
-- [ ] `cult-conversion-funnel` — recruitment → love-bomb → escalating commitment → identity replacement (Lifton, Hassan, Singer)
-- [ ] `radicalization-pipeline` — grievance → ideology → echo chamber → action funnel
+- [x] `cult-conversion-funnel` — recruitment → love-bomb → escalating commitment → identity replacement (Lifton, Hassan, Singer)
+- [x] `radicalization-pipeline` — grievance → ideology → echo chamber → action funnel
 - [x] `romance-scam-arc` — profile → grooming → crisis/investment ask → escalation → pig butchering
 - [x] `mlm-lifecycle` — recruitment dream → sunk-cost deepening → inventory loading → exit shaming
-- [ ] `escalation-entrapment` — how exit costs are engineered upward over time (commitments, secrets, dependents, debts)
+- [x] `escalation-entrapment` — how exit costs are engineered upward over time (commitments, secrets, dependents, debts)
 
 ## Tier 4a — Context dossiers (contexts/)
 

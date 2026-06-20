@@ -12,7 +12,7 @@ distinguished-from: [legitimate-activism]
 severity: high
 evidence: contested
 safety: crisis-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 
@@ -43,7 +43,7 @@ As a social-influence process it shares moves with other group dynamics (declare
 
 ## Escalation markers & timeline
 
-Where movement occurs, markers include: a hardening us-vs-them frame; dehumanizing language about an out-group; immersion in a closed information environment that treats outside sources as enemy propaganda; severing of relationships with those outside the cause; and — the genuinely concerning shift — movement from *expressing* belief to *planning or endorsing specific action*. **The opinion→action shift is the only marker that reliably matters for violence**, and it is rare: the vast majority who hold even extreme views never approach it. Online, access-community-reinforcement can accelerate belief, but claims that algorithms *cause* radicalization in otherwise-uninterested people are not well established (see Evidence).
+Where movement occurs, markers include: a hardening us-vs-them frame; dehumanizing language about an out-group; immersion in a closed information environment that treats outside sources as enemy propaganda; severing of relationships with those outside the cause; and — the genuinely concerning shift — movement from *expressing* belief to *planning or endorsing specific action*. **What credible-threat concern turns on is that opinion→action shift — specific, planned action — not the strength or strangeness of belief**; but even that shift is rare and is **not** a reliable predictor of who will act (most who approach it still never do). Belief-strength is the wrong thing to watch; specific intent is — and specific intent is a matter for authorities, not amateur risk-scoring (see Safety notes). Online, access-community-reinforcement can accelerate belief, but claims that algorithms *cause* radicalization in otherwise-uninterested people are not well established (see Evidence).
 
 ## Exit windows
 

@@ -12,7 +12,7 @@ distinguished-from: [genuine-community, legitimate-religion]
 severity: high
 evidence: supported
 safety: cult-exit-support
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 
@@ -29,7 +29,7 @@ The cult conversion funnel is **the staged process by which a high-control group
 A descriptive composite (Lifton + Singer + Hassan + recruitment research) — **not a fixed or universal sequence**; real trajectories vary, stages overlap, and most people exit before the late stages [1][2][3]:
 
 1. **Recruitment.** Friendly, often deceptive contact (the group's nature, demands, or leader's claims are hidden), frequently aimed at people in transition or seeking meaning/belonging [2].
-2. **Love-bombing.** An intense flood of affection, attention, and instant belonging ([[love-bombing]] — a term coined by the Unification Church in the 1970s). The newcomer feels uniquely seen and welcomed.
+2. **Love-bombing.** An intense flood of affection, attention, and instant belonging ([[love-bombing]] — a term associated with the Unification Church in the 1970s). The newcomer feels uniquely seen and welcomed.
 3. **Induction & isolation.** Time and environment get absorbed by the group; outside ties are gently then firmly crowded out (Lifton's *milieu control*; [[isolation-tactics]]). The group becomes the primary, then sole, frame of reference.
 4. **Escalating commitment.** Time, money, confession, and public acts of devotion ratchet up ([[future-faking]]'s promised transcendence justifies the sacrifice; cf. [[escalation-entrapment]]). Each step invests the member further and is justified after the fact.
 5. **Identity replacement / totalism.** A new in-group self, "loaded language" that ends thought ([[thought-terminating-cliches]]), and rigid us-vs-them. The old self is reframed as wrong or dangerous.
@@ -73,7 +73,7 @@ Graded **`supported`** for the *recognition* models — but with a prominent, **
 
 1. Lifton, R. J. (1961). *Thought Reform and the Psychology of Totalism: A Study of "Brainwashing" in China.* — the eight themes of thought reform (incl. "loading the language" → thought-terminating clichés; "dispensing of existence"). Clinical/foundational; based on Korean War POW and Chinese thought-reform interviews.
 2. Singer, M. T. (1995). *Cults in Our Midst.* — six conditions for thought reform; deceptive recruitment targeting life transitions; "bright, educated people are recruited" (situational, not dispositional, vulnerability). Clinical; also the central figure in the rejected DIMPAC science — cite descriptively.
-3. Hassan, S. *Combating Cult Mind Control* (1988) / Freedom of Mind — the **BITE model** (Behavior/Information/Thought/Emotional control) and the influence continuum. Practitioner framework (Hassan is a former Unification Church member turned exit counselor); widely used, not an empirically validated instrument.
+3. Hassan, S. *Combating Cult Mind Control* (1988; BITE model elaborated in later editions) / Freedom of Mind — the **BITE model** (Behavior/Information/Thought/Emotional control) and the influence continuum. Practitioner framework (Hassan is a former Unification Church member turned exit counselor); widely used, not an empirically validated instrument.
 4. Lalich, J. (2004). *Bounded Choice: True Believers and Charismatic Cults.* UC Press — members as active choosers within a self-sealing system ("bounded choice"); a more agentic model than classic brainwashing.
 5. The contested science: Barker, E. (1984). *The Making of a Moonie* (<1 in 200 contacts remained at 2 years; free to leave and did); APA BSERP rejection of the DIMPAC report (1987) and Singer's failed suit (1994); critiques by Richardson and Bromley (*The Brainwashing/Deprogramming Controversy*, 1983). The "brainwashing as irresistible mind control" thesis is **contested/rejected** in NRM scholarship and US courts.
 

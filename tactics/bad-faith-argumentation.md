@@ -10,7 +10,7 @@ countered-by: [jade-avoidance, detection-heuristics]
 distinguished-from: [honest-disagreement, genuine-inquiry]
 severity: medium
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 
@@ -66,7 +66,7 @@ Online and social-media discourse (the native habitat of sealioning, gish gallop
 
 ## Typical sequences & co-occurrence
 
-A toolkit that overlaps the other "you-can-never-resolve-it" tactics: it pairs with [[circular-conversation]] (the unresolvable loop) and [[moving-goalposts]] (the rising bar) — both declared here — and supplies the argumentative engine behind [[thought-terminating-cliches]] (the slogan that ends thought) and propaganda's [[disinformation-playbooks]] (firehose/flooding). It exploits [[cognitive-overload-confusion]] (volume, exhaustion) and [[framing-anchoring]] (substituting the proposition), and frequently rides alongside [[gaslighting]] and [[darvo]] when the bad-faith arguing is also rewriting what was said.
+A toolkit that overlaps the other "you-can-never-resolve-it" tactics: it pairs with [[circular-conversation]] (the unresolvable loop) and [[moving-goalposts]] (the rising bar) — both declared here. **Boundary with [[circular-conversation]]:** circular-conversation names the *shape* of the exchange (the loop that won't resolve, the word-salad); bad-faith argumentation names the *engine and intent* driving it (the move-set deployed to win/exhaust rather than resolve) — the same conversation can be described as both. It also supplies the argumentative engine behind [[thought-terminating-cliches]] (the slogan that ends thought) and propaganda's [[disinformation-playbooks]] (firehose/flooding). It exploits [[cognitive-overload-confusion]] (volume, exhaustion) and [[framing-anchoring]] (substituting the proposition), and frequently rides alongside [[gaslighting]] and [[darvo]] when the bad-faith arguing is also rewriting what was said.
 
 ## Counter-strategies
 

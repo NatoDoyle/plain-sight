@@ -15,5 +15,5 @@ GRADE supported. Core mechanism (time pressure degrades decision quality): Maule
 ## Edges
 domains [sales, scams-fraud, digital-platforms, intimate-relationships]; exploits [scarcity-urgency, cognitive-overload-confusion]; countered-by [verification-rituals, detection-heuristics]; distinguished-from [genuine-deadline, hard-bargaining]. No co-occurs declared (scarcity-urgency is a mechanism→exploits, not co-occurs; verified scarcity-urgency.md declares no edge back). severity medium; evidence supported.
 
-## PENDING
-- [ ] Red-team review (batch 8, all five tactics).
+## Red-team (2026-06-20, batch 8)
+- [x] PASS clean ("best-calibrated file in the batch"; time-pressure claim represented accurately against Maule 2000 / Payne 1993 / Ariely-Zakay 2001; `supported` grade defensible; "your own urgency" innocent twin praised; Cooling-Off Rule correctly jurisdiction-labeled). Fixed: stray self-link `[[manufactured-urgency]]` in Escalation signs → "its scam cousins." Status: complete.

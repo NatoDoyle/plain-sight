@@ -16,5 +16,8 @@ GRADE folk (journalistic/cultural-criticism construct on firmer foundations). Bo
 ## Edges
 domains [intimate-relationships, family-parents, workplace-bosses]; exploits [authority, framing-anchoring] (borrowed clinical legitimacy + relabeling); co-occurs-with [darvo, victim-posturing] (declared here — verified neither reciprocates: darvo co-occurs=[projection,non-apology,smear,victim-posturing]; victim-posturing co-occurs=[smear-campaigns]); countered-by [detection-heuristics, boundary-scripts]; distinguished-from [boundary-setting, assertiveness]. severity medium; evidence folk.
 
-## PENDING
-- [ ] Red-team review (batch 8, all five tactics). NOTE: reversal/label-weaponization caveat must survive hard adversarial scrutiny (this file's caveats are its core, like gaslighting/victim-posturing).
+## Red-team (2026-06-20, batch 8) — REVISE, resolved
+- Reversal caveat judged "excellent and genuinely load-bearing" (the abuser-using-the-file example would survive a manipulator turning the file on a victim). `folk` grade honest.
+- BLOCKING (resolved): safety flag required. File explicitly describes laundering [[coercive-control]] + surveillance/punishment/contact-control + centers Bancroft DV material, yet lacked the flag its KB peers `silent-treatment`/`love-bombing` carry for the same non-physical-but-DV-adjacent reason. FIX APPLIED: added `safety: dv-escalation` + a Safety notes section (severity override; "don't assume confronting a therapy-speak-fluent controller is safe"; NDVH/UK hotlines + [[dv-safety-planning]]).
+- Optional fix applied: explicit therapy-speak (vocabulary layer) vs [[darvo]] (reversal sequence) boundary line.
+- [x] Status: complete.

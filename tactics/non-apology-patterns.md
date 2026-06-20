@@ -10,7 +10,7 @@ countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [genuine-apology, assertiveness]
 severity: medium
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 
@@ -28,7 +28,7 @@ A non-apology is **an utterance that takes the grammatical form of an apology wh
 - **The reaction-blamer** — "I'm sorry you *feel* that way," "I'm sorry you *took it* like that" — the offense is relocated from the speaker's act to the target's sensitivity ([[projection-blame-shifting]] overlap; close cousin of "you're too sensitive").
 - **The agentless passive** — "mistakes were made," "things were said," "it happened" — no subject, no actor, no owner; the canonical political/corporate non-apology [3].
 - **The non-apology apology / "sorry-not-sorry"** — "I'm sorry, *but* you provoked me / I was tired / you started it" — the "but" introduces the justification that cancels the apology, often a [[darvo]] pivot to grievance.
-- **The over-apology-as-deflection** — a flood of "I'm such a terrible person, I'm the worst" that makes *you* comfort *them*, converting their accountability moment into your reassurance task (overlaps [[victim-posturing]], [[guilt-tripping]]).
+- **The over-apology-as-deflection** — a flood of "I'm such a terrible person, I'm the worst" that makes *you* comfort *them*, converting their accountability moment into your reassurance task (overlaps [[victim-posturing]], [[guilt-tripping]]; the distinction: a non-apology is bound to a specific *accountability moment*, whereas [[victim-posturing]] is a standing *identity claim* the person carries across situations).
 
 ## How it works
 

@@ -10,8 +10,8 @@ countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [genuine-charisma, genuine-rapport]
 severity: medium
 evidence: clinical
-status: drafted
-last-updated: 2026-06-18
+status: complete
+last-updated: 2026-06-20
 ---
 
 # Charm Offensive
@@ -65,7 +65,7 @@ Cons and fraud (charm as the entry/trust tool — [[con-anatomy]], [[scams-fraud
 
 ## Typical sequences & co-occurrence
 
-The trust-building front end: pairs with [[love-bombing]] (romantic charm flood) and [[mirroring-false-identity]] (charm + tailored persona; both declared here), and serves [[con-anatomy]] / [[romance-scam-arc]] as the entry stage. It exploits [[liking-similarity]] and [[trust-mechanics]] deliberately, and sets up later [[future-faking]] and [[manufactured-urgency]] for the ask. The public-charm/private-cruelty split feeds [[smear-campaigns]] (the charming one is believed over the target).
+The trust-building front end: pairs with [[love-bombing]] (romantic charm flood) and [[mirroring-false-identity]] (charm + tailored persona; both declared here), and serves [[con-anatomy]] / [[romance-scam-arc]] as the entry stage. **Boundary with [[love-bombing]]:** charm is disarming *likeability* and can target anyone in any domain (a mark, a boss, a jury); love-bombing is an overwhelming *idealization-and-affection flood* specific to intimate bonding — they co-occur in romance but are different moves. It exploits [[liking-similarity]] and [[trust-mechanics]] deliberately, and sets up later [[future-faking]] and [[manufactured-urgency]] for the ask. The public-charm/private-cruelty split feeds [[smear-campaigns]] (the charming one is believed over the target).
 
 ## Counter-strategies
 

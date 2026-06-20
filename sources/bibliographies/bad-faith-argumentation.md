@@ -16,5 +16,8 @@ GRADE supported. Good-faith baseline: Grice 1975 "Logic and Conversation" — Co
 ## Edges
 domains [propaganda-politics, digital-platforms, intimate-relationships, competitors-business]; exploits [cognitive-overload-confusion, framing-anchoring] (volume/exhaustion + proposition-substitution); co-occurs-with [circular-conversation, moving-goalposts] (declared here — verified neither reciprocates: circular=[moving-goalposts,projection]; moving-goalposts=[conditional-love,pip-weaponization]); countered-by [jade-avoidance, detection-heuristics]; distinguished-from [honest-disagreement, genuine-inquiry]. severity medium; evidence supported.
 
-## PENDING
-- [ ] Red-team review (batch 8, all five tactics). NOTE: reversal caveat (bad-faith ACCUSATION is itself weaponizable) must survive hard adversarial scrutiny — this file's caveats are its core.
+## Red-team (2026-06-20, batch 8) — REVISE, resolved
+- Reversal caveat judged "strongest in the batch" (Singal [7]; "be at least as suspicious of the accusation as of the behavior"). Shackel "Doctrine"-not-"fallacy" attribution judged "exactly right."
+- BLOCKING raised: aliases `[sealioning, gish gallop, motte-and-bailey, strawman, whataboutism, JAQing off, …]` over-claim equivalence / risk id-collision. OVERRIDDEN by established KB precedent: `lying-typologies` aliases `[paltering, bullshit, lies of omission]` and `double-binds` aliases `[catch-22, kafkatrap]` — the KB convention IS to alias distinct named sub-variants of a consolidated concept for retrieval; ROADMAP line 77 explicitly bundles "sealioning, gish gallop, motte-and-bailey, strawman" under this id (so never separate files → no collision; verified zero id/alias collisions). The body already grades each variant distinctly (Evidence section), which addresses the underlying concern. Aliases kept; retrieval for the future defense agent depends on them.
+- Optional fix applied: explicit bad-faith (engine/intent) vs [[circular-conversation]] (shape of the exchange) boundary line.
+- [x] Status: complete.

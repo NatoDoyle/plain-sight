@@ -15,5 +15,5 @@ GRADE clinical. Substrate is morally neutral & universal: Leary & Kowalski 1990 
 ## Edges
 domains [intimate-relationships, workplace-bosses, scams-fraud, sales]; exploits [liking-similarity, trust-mechanics]; co-occurs-with [love-bombing, mirroring-false-identity] (both declared here — verified neither reciprocates); countered-by [detection-heuristics, verification-rituals]; distinguished-from [genuine-charisma, genuine-rapport]. severity medium; evidence clinical.
 
-## PENDING
-- [ ] Red-team review (batch 8, all five tactics).
+## Red-team (2026-06-20, batch 8)
+- [x] PASS clean. Evidence honesty praised (the "~3.9%" flag in three places; psychopathy kept to behavior, construct disclaimed; "no validated real-time test" admission correct for `clinical`). Optional fix applied: added explicit charm-vs-love-bombing boundary line (charm = disarming likeability, any domain; love-bombing = idealization flood specific to intimate bonding). Status: complete.

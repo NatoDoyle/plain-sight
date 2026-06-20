@@ -15,5 +15,5 @@ GRADE supported. Six-component apology (citation/components/key finding ALL veri
 ## Edges
 domains [intimate-relationships, workplace-bosses, propaganda-politics, family-parents]; exploits [trust-mechanics, guilt-leverage] (hijacks the trust-repair script + reaction-blame inverts guilt); co-occurs-with [projection-blame-shifting] (declared here — verified projection co-occurs=[gaslighting,victim-posturing], no reciprocal; darvo↔non-apology ALREADY declared by darvo, so NOT reciprocated here); countered-by [detection-heuristics, boundary-scripts]; distinguished-from [genuine-apology, assertiveness]. severity medium; evidence supported.
 
-## PENDING
-- [ ] Red-team review (batch 8, all five tactics).
+## Red-team (2026-06-20, batch 8)
+- [x] PASS clean. Lewicki/Polin/Lount 2016 represented exactly (six components; acknowledgment-of-responsibility "most important by far"; forgiveness-request least); "past exonerative" correctly attributed to Schneider (Safire = "passive-evasive"); goalpost-weaponization caveat present. Safety flag correctly OMITTED (escalation pointers, not coercive-control action-coaching; per-instance severity genuinely medium). Optional fix applied: added non-apology (accountability moment) vs victim-posturing (standing identity claim) distinction clause. Status: complete.

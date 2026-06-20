@@ -9,8 +9,8 @@ countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-deadline, hard-bargaining]
 severity: medium
 evidence: supported
-status: drafted
-last-updated: 2026-06-18
+status: complete
+last-updated: 2026-06-20
 ---
 
 # Manufactured Urgency
@@ -56,7 +56,7 @@ Two stacked levers. **Scarcity-urgency** ([[scarcity-urgency]]): a closing windo
 
 ### Escalation signs
 
-Urgency tightening as you hesitate (the window shrinking from "this week" to "right now"); pressure fused with [[manufactured-urgency]]'s scam cousins — secrecy ("don't tell anyone"), isolation from advisors, and irreversible payment rails [3]; in relationships, time-pressured ultimatums on major commitments escalating toward control. In fraud, the urgency-plus-secrecy-plus-untraceable-payment triad is the late-stage signature of a scam closing ([[romance-scam-arc]], [[con-anatomy]]).
+Urgency tightening as you hesitate (the window shrinking from "this week" to "right now"); pressure fused with its scam cousins — secrecy ("don't tell anyone"), isolation from advisors, and irreversible payment rails [3]; in relationships, time-pressured ultimatums on major commitments escalating toward control. In fraud, the urgency-plus-secrecy-plus-untraceable-payment triad is the late-stage signature of a scam closing ([[romance-scam-arc]], [[con-anatomy]]).
 
 ## Where it appears
 

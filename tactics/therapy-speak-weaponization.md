@@ -10,7 +10,8 @@ countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [boundary-setting, assertiveness]
 severity: medium
 evidence: folk
-status: drafted
+safety: dv-escalation
+status: complete
 last-updated: 2026-06-20
 ---
 
@@ -65,7 +66,7 @@ Intimate relationships (the "Mr. Sensitive" controller; weaponized boundaries �
 
 ## Typical sequences & co-occurrence
 
-A reframing overlay that rides on top of other tactics rather than a standalone arc: it supplies the *vocabulary* for [[darvo]] (therapized reversal) and [[victim-posturing]] (both declared here), dresses [[gaslighting]] and [[isolation-tactics]] in healthy-sounding language, and converts ordinary [[projection-blame-shifting]] into clinical-sounding verdicts. Its engine is the same concept-creep that [[epistemic-guardrails]] tracks — the more the vocabulary expands, the more available it is to weaponize.
+A reframing overlay that rides on top of other tactics rather than a standalone arc: it supplies the *vocabulary* for [[darvo]] (therapized reversal) and [[victim-posturing]] (both declared here), dresses [[gaslighting]] and [[isolation-tactics]] in healthy-sounding language, and converts ordinary [[projection-blame-shifting]] into clinical-sounding verdicts. **Boundary with [[darvo]]:** therapy-speak weaponization is the *vocabulary layer* (the borrowed words — "boundary," "triggered," "unsafe"); DARVO is the *reversal sequence* (Deny, Attack, Reverse Victim and Offender). DARVO often *uses* therapy-speak, but the words and the move are distinct — you can have either without the other. Its engine is the same concept-creep that [[epistemic-guardrails]] tracks — the more the vocabulary expands, the more available it is to weaponize.
 
 ## Counter-strategies
 
@@ -94,6 +95,10 @@ A reframing overlay that rides on top of other tactics rather than a standalone 
 ### Base rates & severity calibration
 
 Most people using therapy language mean it sincerely; the weaponized form is the marked exception, not the rule. The tactic-grade signature: **the term is used against its own definition (a "boundary" that controls *you*) + deployed to win/dismiss/dodge rather than self-regulate + the speaker's conduct contradicts the healthy vocabulary + it surfaces at accountability moments** ([[epistemic-guardrails]]; someone setting a real limit and calling it a boundary is rung-1 evidence of a healthy boundary). Severity is `medium`: the harm is real — it can launder coercive control and dismiss genuine grievances — but the over-detection risk is unusually high because the accusation is so easily turned against real boundaries and real victims.
+
+## Safety notes
+
+When therapeutic vocabulary is laundering surveillance, contact-control, or punishment — "my boundary is you don't see your family," "I'm just keeping us both safe" — the underlying pattern is [[coercive-control]], and the severity override governs ([[epistemic-guardrails]]): respond to the controlling *conduct*, not the reasonable-sounding words. **Do not assume confronting a controlling partner who is fluent in therapy-speak is safe** — articulate, feelings-literate abusers can escalate when their framing is challenged; plan the conversation (or the exit) with that in mind, not in the heat of being out-talked. **US:** National Domestic Violence Hotline 1-800-799-7233 / thehotline.org · **UK:** 0808 2000 247 · standing list in `README.md`; protocol at [[dv-safety-planning]].
 
 ## Evidence & debates
 

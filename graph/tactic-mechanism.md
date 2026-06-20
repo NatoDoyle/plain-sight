@@ -14,6 +14,7 @@
 - [[love-bombing]]
 - [[mirroring-false-identity]]
 - [[negging]]
+- [[romance-scam-arc]]
 - [[self-harm-threats]]
 - [[silent-treatment]]
 - [[trauma-bonding]]
@@ -36,8 +37,11 @@
 
 ### [[commitment-consistency]]
 - [[boundary-testing]]
+- [[con-anatomy]]
 - [[future-faking]]
+- [[mlm-lifecycle]]
 - [[moving-goalposts]]
+- [[romance-scam-arc]]
 
 ### [[dissonance-exploitation]]
 - [[boundary-testing]]
@@ -70,9 +74,12 @@
 
 ### [[hope-greed]]
 - [[breadcrumbing]]
+- [[con-anatomy]]
 - [[future-faking]]
 - [[hoovering]]
+- [[mlm-lifecycle]]
 - [[moving-goalposts]]
+- [[romance-scam-arc]]
 
 ### [[information-asymmetry]]
 - [[isolation-tactics]]
@@ -112,12 +119,14 @@
 - [[negging]]
 
 ### [[social-proof]]
+- [[mlm-lifecycle]]
 - [[proxy-recruitment]]
 - [[smear-campaigns]]
 - [[triangulation]]
 
 ### [[trust-mechanics]]
 - [[charm-offensive]]
+- [[con-anatomy]]
 - [[darvo]]
 - [[gaslighting]]
 - [[grooming-sequence]]
@@ -132,6 +141,7 @@
 - [[victim-posturing]]
 
 ### [[unity-ingroup]]
+- [[mlm-lifecycle]]
 - [[thought-terminating-cliches]]
 
 ## By tactic (which levers this move pulls)
@@ -143,6 +153,7 @@
 - [[charm-offensive]] → [[liking-similarity]], [[trust-mechanics]]
 - [[circular-conversation]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[emotional-flooding]]
 - [[coercive-control]] → [[fear-exploitation]]
+- [[con-anatomy]] → [[commitment-consistency]], [[hope-greed]], [[trust-mechanics]]
 - [[darvo]] → [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
 - [[double-binds]] → [[cognitive-overload-confusion]], [[fear-exploitation]], [[guilt-leverage]]
 - [[emotional-blackmail]] → [[attachment-needs]], [[fear-exploitation]], [[guilt-leverage]]
@@ -157,12 +168,14 @@
 - [[lying-typologies]] → [[information-asymmetry]], [[trust-mechanics]]
 - [[manufactured-urgency]] → [[cognitive-overload-confusion]], [[scarcity-urgency]]
 - [[mirroring-false-identity]] → [[attachment-needs]], [[liking-similarity]], [[trust-mechanics]]
+- [[mlm-lifecycle]] → [[commitment-consistency]], [[hope-greed]], [[social-proof]], [[unity-ingroup]]
 - [[moving-goalposts]] → [[commitment-consistency]], [[hope-greed]], [[intermittent-reinforcement]]
 - [[negging]] → [[attachment-needs]], [[shame-leverage]]
 - [[non-apology-patterns]] → [[guilt-leverage]], [[trust-mechanics]]
 - [[pity-plays]] → [[guilt-leverage]], [[trust-mechanics]]
 - [[projection-blame-shifting]] → [[dissonance-exploitation]], [[guilt-leverage]], [[memory-fallibility]]
 - [[proxy-recruitment]] → [[social-proof]], [[trust-mechanics]]
+- [[romance-scam-arc]] → [[attachment-needs]], [[commitment-consistency]], [[hope-greed]]
 - [[self-harm-threats]] → [[attachment-needs]], [[fear-exploitation]], [[guilt-leverage]]
 - [[silent-treatment]] → [[attachment-needs]], [[intermittent-reinforcement]]
 - [[smear-campaigns]] → [[social-proof]], [[trust-mechanics]]

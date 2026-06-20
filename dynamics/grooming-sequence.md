@@ -11,7 +11,7 @@ distinguished-from: [ordinary-mentorship]
 severity: critical
 evidence: supported
 safety: crisis-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 

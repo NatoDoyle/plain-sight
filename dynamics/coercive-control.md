@@ -11,7 +11,7 @@ distinguished-from: [situational-couple-violence, normal-relationship-conflict]
 severity: critical
 evidence: supported
 safety: dv-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 

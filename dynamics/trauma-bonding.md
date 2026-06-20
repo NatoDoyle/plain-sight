@@ -11,7 +11,7 @@ distinguished-from: [stockholm-syndrome, shared-hardship-bonding]
 severity: high
 evidence: supported
 safety: dv-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 
@@ -61,7 +61,7 @@ Because the bond resists extinction, willpower alone rarely breaks it — and am
 
 ## Safety notes
 
-Trauma bonding explains why leaving is so hard — and leaving an abuser is itself the **highest-risk period** for serious violence (see [[abuse-cycle]], [[coercive-control]]). The bond is a barrier to exit, not a reason to stay; recognizing it does not obligate immediate action, and separation should be *planned and supported*, not impulsive. **US:** National Domestic Violence Hotline 1-800-799-7233 / thehotline.org · **UK:** 0808 2000 247 · standing list in `README.md`; protocol at [[dv-safety-planning]] and [[no-contact-exit-planning]].
+Trauma bonding explains why leaving is so hard — and leaving an abuser is itself the **highest-risk period** for serious violence (see [[abuse-cycle]], [[coercive-control]]). The bond is a barrier to exit, not a reason to stay; recognizing it does not obligate immediate action, and separation should be *planned and supported*, not impulsive. **Plan exit with a domestic-violence advocate and do not announce your plans to the person** — the moment they sense you're leaving is the moment risk peaks. **US:** National Domestic Violence Hotline 1-800-799-7233 / thehotline.org · **UK:** 0808 2000 247 · standing list in `README.md`; protocol at [[dv-safety-planning]] and [[no-contact-exit-planning]].
 
 ## Evidence & debates
 

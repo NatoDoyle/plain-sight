@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–2 COMPLETE (Tier 2: 33 tactics + 3 keystone defenses, all done) · 62/147 complete · next: Tier 3 Dynamics, starting `abuse-cycle` · last updated 2026-06-20
+**Status:** Tiers 0–2 COMPLETE · Tier 3 Dynamics: 4/10 (intimate-abuse cluster done: abuse-cycle, trauma-bonding, coercive-control, grooming-sequence) · 66/147 complete · next: `con-anatomy` (fraud cluster) · last updated 2026-06-20
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -81,10 +81,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 
 ## Tier 3 — Dynamics (dynamics/) — how it unfolds over time
 
-- [ ] `abuse-cycle` — tension → incident → reconciliation → calm (Walker) + critiques of cycle universality
-- [ ] `trauma-bonding` — attachment to an abuser via intermittent reinforcement + power asymmetry (Dutton & Painter)
-- [ ] `coercive-control` — the architecture of domination: micro-regulation, surveillance, credible threat (Stark)
-- [ ] `grooming-sequence` — staged trust-building toward exploitation: selection, access, trust, desensitization, maintenance
+- [x] `abuse-cycle` — tension → incident → reconciliation → calm (Walker) + critiques of cycle universality
+- [x] `trauma-bonding` — attachment to an abuser via intermittent reinforcement + power asymmetry (Dutton & Painter)
+- [x] `coercive-control` — the architecture of domination: micro-regulation, surveillance, credible threat (Stark)
+- [x] `grooming-sequence` — staged trust-building toward exploitation: selection, access, trust, desensitization, maintenance
 - [ ] `con-anatomy` — the classic stages: put-up, play, rope, tale, convincer, breakdown, send, touch, blow-off
 - [ ] `cult-conversion-funnel` — recruitment → love-bomb → escalating commitment → identity replacement (Lifton, Hassan, Singer)
 - [ ] `radicalization-pipeline` — grievance → ideology → echo chamber → action funnel

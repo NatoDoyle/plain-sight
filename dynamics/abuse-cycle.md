@@ -12,7 +12,7 @@ distinguished-from: [normal-relationship-conflict]
 severity: critical
 evidence: contested
 safety: dv-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 

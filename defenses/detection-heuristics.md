@@ -5,7 +5,7 @@ name: Detection Heuristics
 aliases: [red-flag screen, manipulation red flags, the universal screen, smell test, when to run an audit]
 distinguished-from: [verification-rituals]
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 

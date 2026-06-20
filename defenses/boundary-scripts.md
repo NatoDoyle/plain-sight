@@ -6,7 +6,7 @@ aliases: [assertiveness scripts, saying no, holding the line, broken record, DEA
 distinguished-from: [gray-rock]
 evidence: supported
 safety: dv-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 
@@ -40,6 +40,7 @@ These are templates to adapt, not scripts to recite robotically. The throughline
 > "When plans get cancelled an hour before [Describe], I feel disrespected [Express]. I'd like at least a day's notice [Specify]. If that works, I'll keep planning things with you [Consequences]."
 
 **DEAR MAN** [3] — the DBT version for a harder ask (Linehan): **D**escribe, **E**xpress, **A**ssert (ask clearly / say no clearly), **R**einforce — delivered while staying **M**indful (stay on the goal; broken-record past sidetracks), **A**ppearing confident, and willing to **N**egotiate. (DEAR is *what you say*; MAN is *how you carry it*.)
+> "The report missed the deadline [Describe]. That frustrates me because it holds up the whole team [Express]. I need it by Friday [Assert]. If we stay on schedule, it's easier for all of us [Reinforce]." — said calmly, on-topic, without backing off, while open to "what do you need to make Friday work?" [Negotiate].
 
 **Hold the consequence, not the other person.** A boundary you state is only real if it governs *your* action: "If the yelling continues, I'm going to end the call" — and then you do, regardless of their response [6]. You are not trying to make them stop; you are deciding what *you* will do when they don't.
 

@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–1 complete · Tier 2: 33/36 (all 33 cross-domain tactics complete; 3 keystone defenses remain) · 59/147 complete · next: `detection-heuristics` · last updated 2026-06-20
+**Status:** Tiers 0–2 COMPLETE (Tier 2: 33 tactics + 3 keystone defenses, all done) · 62/147 complete · next: Tier 3 Dynamics, starting `abuse-cycle` · last updated 2026-06-20
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -75,9 +75,9 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `therapy-speak-weaponization` — "boundaries"/"toxic"/"gaslighting" vocabulary misused as control
 - [x] `non-apology-patterns` — fauxpologies: "sorry you feel that way", conditional and blame-shifting apologies
 - [x] `bad-faith-argumentation` — sealioning, gish gallop, motte-and-bailey, strawman cycles
-- [ ] `detection-heuristics` (defenses) — the universal screen: pressure+urgency+emotion+isolation+secrecy → audit
-- [ ] `boundary-scripts` (defenses) — concrete language for setting/holding limits under pressure
-- [ ] `verification-rituals` (defenses) — callbacks, second opinions, cooling-off periods, independent channels
+- [x] `detection-heuristics` (defenses) — the universal screen: pressure+urgency+emotion+isolation+secrecy → audit
+- [x] `boundary-scripts` (defenses) — concrete language for setting/holding limits under pressure
+- [x] `verification-rituals` (defenses) — callbacks, second opinions, cooling-off periods, independent channels
 
 ## Tier 3 — Dynamics (dynamics/) — how it unfolds over time
 

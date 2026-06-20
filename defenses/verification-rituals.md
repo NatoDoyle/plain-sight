@@ -4,7 +4,7 @@ type: defense
 name: Verification Rituals
 aliases: [out-of-band verification, callback verification, trust but verify, second opinion, cooling-off period, independent-channel check]
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 
@@ -61,7 +61,7 @@ Verification targets *claims, identities, and deadlines* — not people's worth.
 2. FBI / IC3 guidance — grandparent/family-emergency scam ("hang up and call a family member to verify … even if told to keep it secret") and business-email-compromise ("verify payment/purchase requests in person or by calling the person directly; don't rely on email"). Regulatory.
 3. FTC gift-card guidance: anyone demanding payment by gift card is a scammer; secrecy and "pay right now" are core indicators. Regulatory consensus (FTC/FBI/AARP).
 4. FTC Cooling-Off Rule, 16 CFR Part 429 — 3-business-day right to cancel certain off-premises/door-to-door sales over $25 (refund within 10 business days). Established law; scope-limited (not online/phone/in-store) — illustration of the cooling-off principle, not a general undo. (US; not legal advice.)
-5. Whitty, M., & Buchanan, T. — online romance-scam research (romantic idealization predicts victimization; staged persuasion model). FTC/CFTC romance-scam guidance: reverse-image-search photos, insist on a live video call, never send money to someone unmet; a refusal to video/meet is a warning sign. Reverse-image tools (TinEye/Google/Yandex) and video calls are practitioner techniques with documented limits (clean result ≠ authentic; deepfakes weaken video). Supported (psychology) / practitioner (countermeasures).
+5. Whitty, M., & Buchanan, T. (2012, "The online dating romance scam," and Whitty 2013, "The Scammers Persuasive Techniques Model," *British Journal of Criminology* 53(4)) — online romance-scam research (romantic idealization predicts victimization; staged persuasion model). FTC/CFTC romance-scam guidance: reverse-image-search photos, insist on a live video call, never send money to someone unmet; a refusal to video/meet is a warning sign. Reverse-image tools (TinEye/Google/Yandex) and video calls are practitioner techniques with documented limits (clean result ≠ authentic; deepfakes weaken video). Supported (psychology) / practitioner (countermeasures).
 6. AARP fraud-victim susceptibility research: victims report more loneliness, less social/family support, and more recent stressful events; isolation (and manufactured secrecy) increases susceptibility, social connection is protective. Supported but correlational/observational.
 
 ## See also

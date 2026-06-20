@@ -47,7 +47,7 @@ Connections are explicit, typed, and machine-readable (in each file's YAML front
 
 ## Status
 
-Built topic-by-topic per `METHODOLOGY.md`; progress tracked in `ROADMAP.md` (~147 topics across 8 tiers). Run `python3 tools/kb.py stats` for live coverage. **Checkpoint 1 (2026-06-12):** 19/147 complete — foundations + 16/23 mechanisms, all red-teamed and citation-verified; 104 compiled edges; five-scenario retrieval spot-test passed (correct mechanisms and caveats surfaced for the boss/partner/crypto/church/deadline scenarios).
+Built topic-by-topic per `METHODOLOGY.md`; progress tracked in `ROADMAP.md` (~147 topics across 8 tiers). Run `python3 tools/kb.py stats` for live coverage. **Checkpoint 1 (2026-06-12):** 19/147 complete — foundations + 16/23 mechanisms, all red-teamed and citation-verified; 104 compiled edges; five-scenario retrieval spot-test passed (correct mechanisms and caveats surfaced for the boss/partner/crypto/church/deadline scenarios). **Checkpoint 2 (2026-06-20):** 62/147 complete — **Tiers 0–2 done**: foundations + 23 mechanisms + 33 cross-domain tactics + the 3 keystone defenses (detection-heuristics, boundary-scripts, verification-rituals); ~660 compiled edges; all red-teamed; retrieval spot-tests confirm tactic→counter wiring (every tactic routes to its keystone defense). Next: Tier 3 dynamics.
 
 ## Ethics
 

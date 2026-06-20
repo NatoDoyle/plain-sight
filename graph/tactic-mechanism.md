@@ -6,6 +6,7 @@
 
 ### [[attachment-needs]]
 - [[breadcrumbing]]
+- [[cult-conversion-funnel]]
 - [[emotional-blackmail]]
 - [[future-faking]]
 - [[gaslighting]]
@@ -25,7 +26,9 @@
 
 ### [[certainty-needs]]
 - [[circular-conversation]]
+- [[cult-conversion-funnel]]
 - [[gaslighting]]
+- [[radicalization-pipeline]]
 - [[thought-terminating-cliches]]
 
 ### [[cognitive-overload-confusion]]
@@ -38,6 +41,7 @@
 ### [[commitment-consistency]]
 - [[boundary-testing]]
 - [[con-anatomy]]
+- [[escalation-entrapment]]
 - [[future-faking]]
 - [[mlm-lifecycle]]
 - [[moving-goalposts]]
@@ -45,6 +49,8 @@
 
 ### [[dissonance-exploitation]]
 - [[boundary-testing]]
+- [[cult-conversion-funnel]]
+- [[escalation-entrapment]]
 - [[projection-blame-shifting]]
 
 ### [[emotional-flooding]]
@@ -54,6 +60,7 @@
 - [[coercive-control]]
 - [[double-binds]]
 - [[emotional-blackmail]]
+- [[radicalization-pipeline]]
 - [[self-harm-threats]]
 - [[veiled-threats]]
 
@@ -100,6 +107,9 @@
 - [[love-bombing]]
 - [[mirroring-false-identity]]
 
+### [[loss-aversion-endowment]]
+- [[escalation-entrapment]]
+
 ### [[memory-fallibility]]
 - [[darvo]]
 - [[gaslighting]]
@@ -141,7 +151,9 @@
 - [[victim-posturing]]
 
 ### [[unity-ingroup]]
+- [[cult-conversion-funnel]]
 - [[mlm-lifecycle]]
+- [[radicalization-pipeline]]
 - [[thought-terminating-cliches]]
 
 ## By tactic (which levers this move pulls)
@@ -154,9 +166,11 @@
 - [[circular-conversation]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[emotional-flooding]]
 - [[coercive-control]] → [[fear-exploitation]]
 - [[con-anatomy]] → [[commitment-consistency]], [[hope-greed]], [[trust-mechanics]]
+- [[cult-conversion-funnel]] → [[attachment-needs]], [[certainty-needs]], [[dissonance-exploitation]], [[unity-ingroup]]
 - [[darvo]] → [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
 - [[double-binds]] → [[cognitive-overload-confusion]], [[fear-exploitation]], [[guilt-leverage]]
 - [[emotional-blackmail]] → [[attachment-needs]], [[fear-exploitation]], [[guilt-leverage]]
+- [[escalation-entrapment]] → [[commitment-consistency]], [[dissonance-exploitation]], [[loss-aversion-endowment]]
 - [[future-faking]] → [[attachment-needs]], [[commitment-consistency]], [[hope-greed]]
 - [[gaslighting]] → [[attachment-needs]], [[certainty-needs]], [[memory-fallibility]], [[trust-mechanics]]
 - [[grooming-sequence]] → [[trust-mechanics]]
@@ -175,6 +189,7 @@
 - [[pity-plays]] → [[guilt-leverage]], [[trust-mechanics]]
 - [[projection-blame-shifting]] → [[dissonance-exploitation]], [[guilt-leverage]], [[memory-fallibility]]
 - [[proxy-recruitment]] → [[social-proof]], [[trust-mechanics]]
+- [[radicalization-pipeline]] → [[certainty-needs]], [[fear-exploitation]], [[unity-ingroup]]
 - [[romance-scam-arc]] → [[attachment-needs]], [[commitment-consistency]], [[hope-greed]]
 - [[self-harm-threats]] → [[attachment-needs]], [[fear-exploitation]], [[guilt-leverage]]
 - [[silent-treatment]] → [[attachment-needs]], [[intermittent-reinforcement]]

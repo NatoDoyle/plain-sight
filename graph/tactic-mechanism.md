@@ -16,6 +16,7 @@
 - [[negging]]
 - [[self-harm-threats]]
 - [[silent-treatment]]
+- [[trauma-bonding]]
 - [[triangulation]]
 
 ### [[authority]]
@@ -46,6 +47,7 @@
 - [[circular-conversation]]
 
 ### [[fear-exploitation]]
+- [[coercive-control]]
 - [[double-binds]]
 - [[emotional-blackmail]]
 - [[self-harm-threats]]
@@ -78,11 +80,13 @@
 - [[triangulation]]
 
 ### [[intermittent-reinforcement]]
+- [[abuse-cycle]]
 - [[breadcrumbing]]
 - [[hoovering]]
 - [[love-bombing]]
 - [[moving-goalposts]]
 - [[silent-treatment]]
+- [[trauma-bonding]]
 
 ### [[liking-similarity]]
 - [[charm-offensive]]
@@ -116,6 +120,7 @@
 - [[charm-offensive]]
 - [[darvo]]
 - [[gaslighting]]
+- [[grooming-sequence]]
 - [[history-rewriting]]
 - [[isolation-tactics]]
 - [[lying-typologies]]
@@ -131,16 +136,19 @@
 
 ## By tactic (which levers this move pulls)
 
+- [[abuse-cycle]] → [[intermittent-reinforcement]]
 - [[bad-faith-argumentation]] → [[cognitive-overload-confusion]], [[framing-anchoring]]
 - [[boundary-testing]] → [[commitment-consistency]], [[dissonance-exploitation]]
 - [[breadcrumbing]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]]
 - [[charm-offensive]] → [[liking-similarity]], [[trust-mechanics]]
 - [[circular-conversation]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[emotional-flooding]]
+- [[coercive-control]] → [[fear-exploitation]]
 - [[darvo]] → [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
 - [[double-binds]] → [[cognitive-overload-confusion]], [[fear-exploitation]], [[guilt-leverage]]
 - [[emotional-blackmail]] → [[attachment-needs]], [[fear-exploitation]], [[guilt-leverage]]
 - [[future-faking]] → [[attachment-needs]], [[commitment-consistency]], [[hope-greed]]
 - [[gaslighting]] → [[attachment-needs]], [[certainty-needs]], [[memory-fallibility]], [[trust-mechanics]]
+- [[grooming-sequence]] → [[trust-mechanics]]
 - [[guilt-tripping]] → [[guilt-leverage]], [[reciprocity]]
 - [[history-rewriting]] → [[memory-fallibility]], [[trust-mechanics]]
 - [[hoovering]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]]
@@ -160,6 +168,7 @@
 - [[smear-campaigns]] → [[social-proof]], [[trust-mechanics]]
 - [[therapy-speak-weaponization]] → [[authority]], [[framing-anchoring]]
 - [[thought-terminating-cliches]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[unity-ingroup]]
+- [[trauma-bonding]] → [[attachment-needs]], [[intermittent-reinforcement]]
 - [[triangulation]] → [[attachment-needs]], [[information-asymmetry]], [[social-proof]]
 - [[veiled-threats]] → [[fear-exploitation]]
 - [[victim-posturing]] → [[guilt-leverage]], [[trust-mechanics]]

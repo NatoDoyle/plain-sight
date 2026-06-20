@@ -10,7 +10,7 @@ countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-opportunity]
 severity: high
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 

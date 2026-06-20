@@ -12,7 +12,7 @@ distinguished-from: [genuine-online-relationship]
 severity: high
 evidence: supported
 safety: crisis-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 

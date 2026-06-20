@@ -4,7 +4,7 @@ type: context
 name: Workplace & Bosses
 aliases: [workplace, bosses, abusive supervision, toxic workplace, work, managers]
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 
@@ -50,7 +50,7 @@ By pattern, not a single rough week:
 
 ## Legal protections & reporting
 
-*US federal, jurisdiction-labeled; not legal advice.* **The crucial correction: a "hostile work environment" is illegal only when the hostility is *based on a protected characteristic*** (race, color, religion, sex — including orientation/gender identity per *Bostock* 2020 — national origin, age 40+, disability, genetic information) **and is "severe or pervasive."** A boss who is cruel, arbitrary, or humiliating to *everyone equally* is generally **not breaking federal law** — the Supreme Court held Title VII is "not a general civility code" (*Oncale*, 1998), and there is **no general federal anti-bullying statute**; the Healthy Workplace Bill has been introduced in ~31 states but **passed in none** (only Puerto Rico, 2019) [3]. Other doctrines: **at-will employment** (default; Montana the exception); **constructive discharge** (intolerable conditions forcing resignation — a high bar); **retaliation** protections (for *protected activity* — discrimination complaints, whistleblowing); **NLRA §7** (protected concerted activity, e.g., discussing pay — but excludes supervisors/contractors). **EEOC charge deadline: 180 days (300 where a state agency covers it)**; federal employees must contact an EEO counselor within 45 days [3]. Many other countries regulate bullying directly (e.g., France's *harcèlement moral*, Australia's stop-bullying orders) — "bullying is mostly legal" is a US-specific statement.
+*US federal, jurisdiction-labeled; not legal advice.* **The crucial correction: a "hostile work environment" is illegal only when the hostility is *based on a protected characteristic*** (race, color, religion, sex — including orientation/gender identity per *Bostock* 2020 — national origin, age 40+, disability, genetic information) **and is "severe or pervasive."** A boss who is cruel, arbitrary, or humiliating to *everyone equally* is generally **not breaking federal law** — the Supreme Court held Title VII is "not a general civility code" (*Oncale*, 1998), and there is **no general federal anti-bullying statute**; the Healthy Workplace Bill has been introduced in ~31 states but **passed in none** (only Puerto Rico, 2019) [3]. Other doctrines: **at-will employment** (default; Montana the exception); **constructive discharge** (intolerable conditions forcing resignation — a high bar); **retaliation** protections (for *protected activity* — discrimination complaints, whistleblowing); **NLRA §7** (protected concerted activity, e.g., discussing pay — but excludes supervisors/contractors). **EEOC charge deadline: 180 days (300 where a state agency covers it)**; federal employees must contact an EEO counselor within 45 days [3]. Many other countries regulate bullying directly (e.g., France's *harcèlement moral*, Australia's stop-bullying orders) — "bullying is mostly legal" is a US-specific statement. (**Public-sector** US employees often have additional due-process and First-Amendment protections that private at-will workers lack — the "law rescues few" frame below is truest for private at-will employment.)
 
 ## Exit & resources
 

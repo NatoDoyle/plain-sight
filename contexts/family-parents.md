@@ -5,7 +5,7 @@ name: Family & Parents
 aliases: [family, parents, abusive parents, toxic family, adult-child dynamics, relatives]
 evidence: supported
 safety: dv-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 

@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–3 COMPLETE (foundations + 23 mechanisms + 33 tactics + 3 keystone defenses + 10 dynamics) · 72/147 complete · next: Tier 4a context dossiers, starting `intimate-relationships` · last updated 2026-06-20
+**Status:** Tiers 0–3 COMPLETE · Tier 4a context dossiers: 3/12 (intimate-relationships, family-parents, workplace-bosses) · 75/147 complete · next: `competitors-business` (commercial-arena dossiers) · last updated 2026-06-20
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -94,9 +94,9 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 
 ## Tier 4a — Context dossiers (contexts/)
 
-- [ ] `intimate-relationships` — dating → partnership: prevalence, top tactics, escalation map, legal protections, exit resources
-- [ ] `family-parents` — abusive/controlling parents and relatives; adult-child dynamics; estrangement decisions
-- [ ] `workplace-bosses` — abusive supervision, org cover dynamics, HR realities, documentation & exit
+- [x] `intimate-relationships` — dating → partnership: prevalence, top tactics, escalation map, legal protections, exit resources
+- [x] `family-parents` — abusive/controlling parents and relatives; adult-child dynamics; estrangement decisions
+- [x] `workplace-bosses` — abusive supervision, org cover dynamics, HR realities, documentation & exit
 - [ ] `competitors-business` — FUD, astroturfing, poaching, bad-faith partnerships, espionage-adjacent social engineering
 - [ ] `sales` — pressure systems by industry; where persuasion ends and deception begins; consumer rights
 - [ ] `advertising-marketing` — emotional conditioning, targeting, pricing psychology; regulation and self-defense

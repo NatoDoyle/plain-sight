@@ -5,7 +5,7 @@ name: Intimate Relationships
 aliases: [dating, romantic relationships, partners, domestic relationships, couples]
 evidence: supported
 safety: dv-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-20
 ---
 
@@ -77,7 +77,7 @@ This arena is `safety: dv-escalation`. If you recognize coercive control, escala
 
 1. CDC National Intimate Partner and Sexual Violence Survey (NISVS): 2023/24 data brief (released Feb 2026; lifetime partner contact SV/physical/stalking ~34% women, ~17% men); 2010 baseline (severe physical IPV ~24% women / ~14% men — Black et al., 2011); 2016/17 report (psychological aggression ~49% women; past-12-mo any-IPV ~7% women). **Label the wave when citing** — 2023/24 methodology lowered headline figures.
 2. Johnson, M. P. (2008). *A Typology of Domestic Violence: Intimate Terrorism, Violent Resistance, and Situational Couple Violence.* — the IT vs SCV distinction. See [[coercive-control]], [[epistemic-guardrails]].
-3. Campbell, J. C., et al. (2003). "Risk Factors for Femicide in Abusive Relationships." *American Journal of Public Health* 93(7) — strangulation, firearm access, threats to kill, controlling behavior, and estrangement as homicide risk factors (the Danger Assessment basis); ~55% of IP-femicide victims were estranged; controlling abuser + separation ≈ 5× risk.
+3. Campbell, J. C., et al. (2003). "Risk Factors for Femicide in Abusive Relationships." *American Journal of Public Health* 93(7) — the multisite case-control study behind the Danger Assessment: prior domestic violence, the abuser's firearm access, threats to kill, controlling behavior, and estrangement (leaving — especially a highly controlling partner) are among the strongest risk factors; prior non-fatal strangulation is a documented independent risk factor (see also Glass et al., 2008, *J. Emergency Medicine*). Specific odds ratios are study-specific; the load-bearing, well-replicated point is that **leaving a controlling partner is a peak-danger window** — which is why exit needs a safety plan.
 4. Legal: civil protective orders (all 50 states); Serious Crime Act 2015 s.76 (E&W); Domestic Abuse (Scotland) Act 2018; California / Connecticut (civil) and Hawaii (2021, criminal) coercive-control provisions; VAWA reauthorization 2022 (funding/grants; tribal jurisdiction). US, jurisdiction- and date-specific; not legal advice.
 5. Gottman, J. & J. — the "Four Horsemen" (criticism, contempt, defensiveness, stonewalling; contempt the strongest divorce predictor) vs. healthy-conflict markers (soft start-up, repair attempts, ~5:1 positive-to-negative). Predicts relationship distress/divorce, not abuse.
 

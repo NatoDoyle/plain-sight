@@ -5,7 +5,7 @@ name: Cults & High-Control Groups
 aliases: [cults, high-control groups, new religious movements, LGATs, undue influence groups]
 evidence: supported
 safety: cult-exit-support
-status: drafted
+status: complete
 last-updated: 2026-06-23
 ---
 

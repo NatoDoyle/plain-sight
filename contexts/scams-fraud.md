@@ -5,7 +5,7 @@ name: Scams & Fraud
 aliases: [scams, fraud, con games, financial fraud, the fraud landscape]
 evidence: supported
 safety: crisis-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-23
 ---
 

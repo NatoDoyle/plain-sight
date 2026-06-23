@@ -13,7 +13,7 @@ severity: high
 evidence: supported
 safety: cult-exit-support
 status: complete
-last-updated: 2026-06-20
+last-updated: 2026-06-23
 ---
 
 # Cult Conversion Funnel
@@ -57,7 +57,7 @@ Recognition is easiest early — before isolation and identity-replacement advan
 ## Caveats & false positives
 
 - **Intensity, devotion, and strange beliefs are NOT what make a group harmful** ([[legitimate-religion]], [[genuine-community]]): mainstream religions and healthy intense communities all feature deep commitment, unusual beliefs, charismatic leaders, and tight belonging. The distinguishing markers are **deception in recruitment, exploitation (financial/labor/sexual) for leadership's benefit, totalistic control of information and relationships, and prohibition/punishment of exit**. The single cleanest line: **can you leave freely, with your relationships, money, and selfhood intact?** If yes, it's not a high-control group, however weird or fervent.
-- **Most people exposed do not join, and many who join leave on their own** [5]: in Eileen Barker's landmark study, fewer than 1 in 200 contacts remained two years later, and participants were free to leave and did. "Brainwashing" cannot explain the overwhelming majority who walk away. Don't model recruits as helpless or pre-determined.
+- **Most people exposed do not join, and many who join leave on their own** [5]: in Eileen Barker's landmark study, fewer than 1 in 200 of those who attended a recruitment workshop remained members two years later (and a far smaller fraction of all initial contacts), and participants were free to leave and did. "Brainwashing" cannot explain the overwhelming majority who walk away. Don't model recruits as helpless or pre-determined.
 - **"Cult" is a loaded, contested label**: applying it is itself a social weapon (used against minority religions, ex-partners, political out-groups). Describe the *behaviors* (deception, exploitation, control, punished exit), don't brand the people — and beware the term's use to dismiss legitimate but unfamiliar faith ([[epistemic-guardrails]]).
 - **It's a funnel, not a guarantee**: exposure is rung-1 evidence of curiosity, not capture. The conjunction — deceptive recruitment + engineered isolation + escalating extraction + punished exit — is what marks the harmful pattern, not attendance at an intense retreat.
 
@@ -75,7 +75,7 @@ Graded **`supported`** for the *recognition* models — but with a prominent, **
 2. Singer, M. T. (1995). *Cults in Our Midst.* — six conditions for thought reform; deceptive recruitment targeting life transitions; "bright, educated people are recruited" (situational, not dispositional, vulnerability). Clinical; also the central figure in the rejected DIMPAC science — cite descriptively.
 3. Hassan, S. *Combating Cult Mind Control* (1988; BITE model elaborated in later editions) / Freedom of Mind — the **BITE model** (Behavior/Information/Thought/Emotional control) and the influence continuum. Practitioner framework (Hassan is a former Unification Church member turned exit counselor); widely used, not an empirically validated instrument.
 4. Lalich, J. (2004). *Bounded Choice: True Believers and Charismatic Cults.* UC Press — members as active choosers within a self-sealing system ("bounded choice"); a more agentic model than classic brainwashing.
-5. The contested science: Barker, E. (1984). *The Making of a Moonie* (<1 in 200 contacts remained at 2 years; free to leave and did); APA BSERP rejection of the DIMPAC report (1987) and Singer's failed suit (1994); critiques by Richardson and Bromley (*The Brainwashing/Deprogramming Controversy*, 1983). The "brainwashing as irresistible mind control" thesis is **contested/rejected** in NRM scholarship and US courts.
+5. The contested science: Barker, E. (1984). *The Making of a Moonie* (<1 in 200 of those who attended a recruitment workshop remained members at 2 years — fewer still of all contacts; free to leave and did); APA BSERP rejection of the DIMPAC report (1987) and Singer's failed suit (1994); critiques by Richardson and Bromley (*The Brainwashing/Deprogramming Controversy*, 1983). The "brainwashing as irresistible mind control" thesis is **contested/rejected** in NRM scholarship and US courts.
 
 ## See also
 

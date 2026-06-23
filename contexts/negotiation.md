@@ -4,7 +4,7 @@ type: context
 name: Negotiation
 aliases: [bargaining, deal-making, hard bargaining, distributive negotiation, haggling]
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-23
 ---
 

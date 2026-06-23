@@ -4,7 +4,7 @@ type: context
 name: Propaganda & Politics
 aliases: [propaganda, political manipulation, disinformation, information warfare, influence operations]
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-23
 ---
 

@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–3 COMPLETE · Tier 4a context dossiers: 7/12 (interpersonal-power + commercial clusters done) · 79/147 complete · next: `scams-fraud` (predatory/institutional dossiers: + cults-high-control, propaganda-politics, institutions, negotiation closes Tier 4a) · last updated 2026-06-23
+**Status:** Tiers 0–3 COMPLETE · Tier 4a context dossiers COMPLETE (12/12) · 84/147 complete · next: Tier 4b domain-specific tactics, starting `financial-abuse` (~30 tactics, incl. financial-abuse + stalkerware-monitoring which resolve coercive-control's pending composed-of edges) · last updated 2026-06-23
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -101,11 +101,11 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `sales` — pressure systems by industry; where persuasion ends and deception begins; consumer rights
 - [x] `advertising-marketing` — emotional conditioning, targeting, pricing psychology; regulation and self-defense
 - [x] `digital-platforms` — attention engineering, dark patterns, algorithmic amplification, parasocial economies
-- [ ] `scams-fraud` — the fraud landscape: typologies, current trends, reporting channels, recovery scams
-- [ ] `cults-high-control` — groups: religious, political, commercial (LGATs), wellness; assessment checklists
-- [ ] `propaganda-politics` — state/movement persuasion machinery; disinformation ecosystems; voter-facing defenses
-- [ ] `institutions` — gatekeeping abuse: medical dismissal, legal process abuse, financial steering, school/HR betrayal
-- [ ] `negotiation` — hardball vs manipulation: recognized dirty tricks and counters at the table
+- [x] `scams-fraud` — the fraud landscape: typologies, current trends, reporting channels, recovery scams
+- [x] `cults-high-control` — groups: religious, political, commercial (LGATs), wellness; assessment checklists
+- [x] `propaganda-politics` — state/movement persuasion machinery; disinformation ecosystems; voter-facing defenses
+- [x] `institutions` — gatekeeping abuse: medical dismissal, legal process abuse, financial steering, school/HR betrayal
+- [x] `negotiation` — hardball vs manipulation: recognized dirty tricks and counters at the table
 
 ## Tier 4b — Domain-specific tactics (tactics/)
 

@@ -4,7 +4,7 @@ type: context
 name: Institutions & Gatekeepers
 aliases: [institutions, medical, legal, financial gatekeeping, professional power, bureaucracies]
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-23
 ---
 

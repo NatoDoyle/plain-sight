@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–3 COMPLETE · Tier 4a context dossiers COMPLETE (12/12) · 84/147 complete · next: Tier 4b domain-specific tactics, starting `financial-abuse` (~30 tactics, incl. financial-abuse + stalkerware-monitoring which resolve coercive-control's pending composed-of edges) · last updated 2026-06-23
+**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 4/~30 (intimate-abuse cluster: financial-abuse, stalkerware-monitoring, sexual-coercion, reactive-abuse-provocation) · 88/147 complete · next: family-tactics cluster (`parentification`, `golden-child-scapegoat`, `conditional-love`, `elder-targeting`) · last updated 2026-06-23
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -109,10 +109,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 
 ## Tier 4b — Domain-specific tactics (tactics/)
 
-- [ ] `financial-abuse` — allowances, sabotaged employment, debt-loading, account control in relationships
-- [ ] `sexual-coercion` — pressure, guilt, obligation framing short of force; consent erosion
-- [ ] `reactive-abuse-provocation` — baiting a target into reactions used as evidence against them
-- [ ] `stalkerware-monitoring` — phone checking, location tracking, spyware, account takeover as control
+- [x] `financial-abuse` — allowances, sabotaged employment, debt-loading, account control in relationships
+- [x] `sexual-coercion` — pressure, guilt, obligation framing short of force; consent erosion
+- [x] `reactive-abuse-provocation` — baiting a target into reactions used as evidence against them
+- [x] `stalkerware-monitoring` — phone checking, location tracking, spyware, account takeover as control
 - [ ] `parentification` — children conscripted into adult emotional/practical roles
 - [ ] `golden-child-scapegoat` — engineered sibling role assignment and comparison control
 - [ ] `conditional-love` — approval rationing contingent on compliance

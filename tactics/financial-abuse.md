@@ -10,7 +10,7 @@ distinguished-from: [shared-financial-management]
 severity: high
 evidence: supported
 safety: dv-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-23
 ---
 

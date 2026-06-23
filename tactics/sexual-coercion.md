@@ -11,7 +11,7 @@ distinguished-from: [sexual-negotiation]
 severity: high
 safety: dv-escalation
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-23
 ---
 

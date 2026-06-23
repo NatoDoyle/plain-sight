@@ -4,7 +4,7 @@ type: context
 name: Digital Platforms
 aliases: [social media, apps, tech platforms, attention economy, dark patterns, online platforms]
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-23
 ---
 

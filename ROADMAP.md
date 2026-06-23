@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–3 COMPLETE · Tier 4a context dossiers: 3/12 (intimate-relationships, family-parents, workplace-bosses) · 75/147 complete · next: `competitors-business` (commercial-arena dossiers) · last updated 2026-06-20
+**Status:** Tiers 0–3 COMPLETE · Tier 4a context dossiers: 7/12 (interpersonal-power + commercial clusters done) · 79/147 complete · next: `scams-fraud` (predatory/institutional dossiers: + cults-high-control, propaganda-politics, institutions, negotiation closes Tier 4a) · last updated 2026-06-23
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -97,10 +97,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `intimate-relationships` — dating → partnership: prevalence, top tactics, escalation map, legal protections, exit resources
 - [x] `family-parents` — abusive/controlling parents and relatives; adult-child dynamics; estrangement decisions
 - [x] `workplace-bosses` — abusive supervision, org cover dynamics, HR realities, documentation & exit
-- [ ] `competitors-business` — FUD, astroturfing, poaching, bad-faith partnerships, espionage-adjacent social engineering
-- [ ] `sales` — pressure systems by industry; where persuasion ends and deception begins; consumer rights
-- [ ] `advertising-marketing` — emotional conditioning, targeting, pricing psychology; regulation and self-defense
-- [ ] `digital-platforms` — attention engineering, dark patterns, algorithmic amplification, parasocial economies
+- [x] `competitors-business` — FUD, astroturfing, poaching, bad-faith partnerships, espionage-adjacent social engineering
+- [x] `sales` — pressure systems by industry; where persuasion ends and deception begins; consumer rights
+- [x] `advertising-marketing` — emotional conditioning, targeting, pricing psychology; regulation and self-defense
+- [x] `digital-platforms` — attention engineering, dark patterns, algorithmic amplification, parasocial economies
 - [ ] `scams-fraud` — the fraud landscape: typologies, current trends, reporting channels, recovery scams
 - [ ] `cults-high-control` — groups: religious, political, commercial (LGATs), wellness; assessment checklists
 - [ ] `propaganda-politics` — state/movement persuasion machinery; disinformation ecosystems; voter-facing defenses

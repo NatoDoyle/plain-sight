@@ -4,7 +4,7 @@ type: context
 name: Advertising & Marketing
 aliases: [advertising, marketing, ads, pricing psychology, consumer marketing]
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-23
 ---
 

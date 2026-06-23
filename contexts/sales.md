@@ -4,7 +4,7 @@ type: context
 name: Sales
 aliases: [selling, high-pressure sales, salespeople, closing, retail and direct sales]
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-23
 ---
 
@@ -45,7 +45,7 @@ The signature pattern is the **high-pressure close**: build rapport → manufact
 
 ## Legal protections & reporting
 
-*US, jurisdiction-labeled; not legal advice; some rules are in flux.* **Puffery** (subjective exaggeration — "best deal in town") is legal; **specific factual falsehoods are not**, and are **deceptive** under **FTC Act §5** (likely to mislead a reasonable consumer + material) and **state UDAP laws** (which, unlike federal §5, often give consumers a *private right of action*). **Cooling-Off Rule (16 CFR Part 429):** a 3-business-day right to cancel certain off-premises sales — **$25+ at your home, $130+ at other temporary locations** (hotel rooms, fairgrounds) — but **not** online, phone, mail, or in-store purchases (many states add their own home-solicitation rules). **Bait-and-switch is illegal.** **Auto-renewal/"negative option":** the FTC's "Click-to-Cancel" Rule was **vacated by the Eighth Circuit (July 2025) and is not in force** — auto-renewal is instead governed by **ROSCA** (federal) and state auto-renewal laws, and the FTC still sues deceptive cancellation under §5. Industry-specific: the **FTC Funeral Rule** (itemized pricing), the **Telemarketing Sales Rule** + **Do Not Call Registry**. (Penalty figures are inflation-adjusted yearly.)
+*US, jurisdiction-labeled; not legal advice; some rules are in flux.* **Puffery** (subjective exaggeration — "best deal in town") is legal; **specific factual falsehoods are not**, and are **deceptive** under **FTC Act §5** (likely to mislead a reasonable consumer + material) and **state UDAP laws** (which, unlike federal §5, often give consumers a *private right of action*). **Cooling-Off Rule (16 CFR Part 429):** a 3-business-day right to cancel certain off-premises sales — **$25+ at your home, $130+ at other temporary locations** (hotel rooms, fairgrounds) — but **not** online, phone, mail, or in-store purchases (many states add their own home-solicitation rules). **Bait-and-switch is illegal.** **Auto-renewal/"negative option":** the FTC's "Click-to-Cancel" Rule was **vacated by the Eighth Circuit (July 2025) and is not in force** — auto-renewal is instead governed by **ROSCA** (federal) and state auto-renewal laws, and the FTC continues to pursue deceptive-cancellation practices under §5. Industry-specific: the **FTC Funeral Rule** (itemized pricing), the **Telemarketing Sales Rule** + **Do Not Call Registry**. (Penalty figures are inflation-adjusted yearly.)
 
 ## Exit & resources
 
@@ -62,7 +62,7 @@ The master counter is **time**: "I don't make decisions this size on the spot �
 
 1. Puffery doctrine; FTC Act §5 (deceptive = likely-to-mislead + material; unfair = substantial injury not reasonably avoidable); state UDAP "Little FTC Acts" (often with private right of action). Established law (US).
 2. FTC Cooling-Off Rule, 16 CFR Part 429 — 3-business-day cancellation; $25 at residence / $130 at other temporary locations (2015 amendment); excludes online/phone/in-store. Bait-and-switch illegal (FTC). US; jurisdiction-specific; not legal advice.
-3. FTC Negative Option / "Click-to-Cancel" Rule **vacated** by the 8th Circuit (*Custom Communications, Inc. v. FTC*, July 2025) — not in force; auto-renewal governed by ROSCA + state auto-renewal laws; FTC §5 enforcement continues (e.g., 2025 action against an LA Fitness operator). Current as of 2026; verify.
+3. FTC Negative Option / "Click-to-Cancel" Rule **vacated** by the 8th Circuit (*Custom Communications, Inc. v. FTC*, July 2025) — not in force; auto-renewal governed by ROSCA + state auto-renewal laws; FTC §5 enforcement of deceptive-cancellation practices continues. Current as of 2026; verify.
 4. Compliance tactics: **door-in-the-face** (Cialdini et al. 1975; replicated 2020) and **that's-not-all** (Burger 1986, *JPSP*) are experimentally established; **low-ball** (Cialdini, Cacioppo, Bassett & Miller 1978) = commitment/consistency. Four-square, payment-packing, puppy-dog close, and timeshare grind are industry/journalistic-documented (Consumer Reports, Edmunds) — supported/folk.
 5. Industry-specific: FTC Funeral Rule (itemized pricing); Telemarketing Sales Rule + National Do Not Call Registry; CFPB/state lending laws for payday/subprime. Sales methodology (SPIN — Rackham; Challenger — Dixon & Adamson; consultative selling) is needs-based, not coercion — the base-rate anchor.
 

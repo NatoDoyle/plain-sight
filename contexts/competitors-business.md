@@ -4,7 +4,7 @@ type: context
 name: Competitors & Business
 aliases: [business competition, competitors, corporate rivalry, B2B manipulation, commercial disparagement]
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-23
 ---
 
@@ -22,7 +22,7 @@ There is **no reliable quantitative base rate** for how often businesses face ma
 
 ## Top tactics in this arena
 
-- **[[fud-competitor-tactics]]** — Fear, Uncertainty, Doubt (popularized by Gene Amdahl ~1975 describing IBM's tactics): sowing doubt about a rival's product/viability to freeze buyers, switching-cost terror, and **vaporware** (pre-announcing products to stall a competitor's sales — IBM's System/360 Model 91 vs. CDC is the classic case).
+- **[[fud-competitor-tactics]]** — Fear, Uncertainty, Doubt (popularized by Gene Amdahl ~1975 describing IBM's tactics): sowing doubt about a rival's product/viability to freeze buyers, switching-cost terror, and **vaporware** (pre-announcing products to stall a competitor's sales — IBM's high-end System/360 announcements timed against Control Data's 6600 are the classic case).
 - **[[fake-reviews-astroturfing]]** — manufactured grassroots support or reviews; sockpuppets, review farms, front groups that hide their sponsor (now squarely illegal — see Legal).
 - **[[smear-campaigns]]** / commercial disparagement — false statements about a competitor's goods (lawful comparison is fine; *false* comparison is actionable).
 - **[[bad-faith-argumentation]]** in negotiations and partnerships — bad-faith contracting, sham negotiations to extract information or stall, "nibbling," and manufactured leverage.

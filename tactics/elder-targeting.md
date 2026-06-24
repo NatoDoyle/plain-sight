@@ -11,7 +11,7 @@ distinguished-from: [legitimate-caregiving]
 severity: high
 safety: elder-abuse-escalation
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-24
 ---
 
@@ -91,7 +91,7 @@ Most relationships around an elder are caring; exploitation is the marked except
 
 ## Safety notes
 
-`safety: elder-abuse-escalation`. Suspected elder abuse or financial exploitation is a matter to **escalate to professionals/authorities, not handle alone**. **US:** report to **Adult Protective Services** (find your local agency via the **Eldercare Locator, 1-800-677-1116**); for elder fraud/scams, the **DOJ National Elder Fraud Hotline, 1-833-372-8311**; if an elder is in immediate danger, 911. Banks and the **Uniform Power of Attorney Act** allow institutions to flag/refuse suspect transactions. The **Elder Justice Act (2010)** funds APS and protections. Balance escalation with the autonomy caveat above: protect against exploitation *and* against wrongly overriding a competent elder's choices.
+`safety: elder-abuse-escalation`. Suspected elder abuse or financial exploitation is a matter to **escalate to professionals/authorities, not handle alone**. **US:** report to **Adult Protective Services** (find your local agency via the **Eldercare Locator, 1-800-677-1116**); for elder fraud/scams, the **DOJ National Elder Fraud Hotline, 1-833-372-8311**; if an elder is in immediate danger, 911. Banks and the **Uniform Power of Attorney Act** allow institutions to flag/refuse suspect transactions. The **Elder Justice Act (2010)** funds APS and protections. **UK:** Hourglass (elder-abuse helpline) 0808 808 8141; elsewhere, contact local adult-safeguarding services or police. Balance escalation with the autonomy caveat above: protect against exploitation *and* against wrongly overriding a competent elder's choices.
 
 ## Evidence & debates
 

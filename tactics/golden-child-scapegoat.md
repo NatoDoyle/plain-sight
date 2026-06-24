@@ -10,7 +10,7 @@ countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [parental-differential-treatment]
 severity: medium
 evidence: clinical
-status: drafted
+status: complete
 last-updated: 2026-06-24
 ---
 

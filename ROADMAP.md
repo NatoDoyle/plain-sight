@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 4/~30 (intimate-abuse cluster: financial-abuse, stalkerware-monitoring, sexual-coercion, reactive-abuse-provocation) · 88/147 complete · next: family-tactics cluster (`parentification`, `golden-child-scapegoat`, `conditional-love`, `elder-targeting`) · last updated 2026-06-23
+**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 8/~30 (intimate-abuse + family clusters done) · 92/147 complete · next: workplace-tactics cluster (`credit-theft-visibility`, `pip-weaponization`, `mobbing`, `we-are-family-rhetoric`) · last updated 2026-06-24
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -113,10 +113,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `sexual-coercion` — pressure, guilt, obligation framing short of force; consent erosion
 - [x] `reactive-abuse-provocation` — baiting a target into reactions used as evidence against them
 - [x] `stalkerware-monitoring` — phone checking, location tracking, spyware, account takeover as control
-- [ ] `parentification` — children conscripted into adult emotional/practical roles
-- [ ] `golden-child-scapegoat` — engineered sibling role assignment and comparison control
-- [ ] `conditional-love` — approval rationing contingent on compliance
-- [ ] `elder-targeting` — isolation, dependency engineering, inheritance/caregiver leverage
+- [x] `parentification` — children conscripted into adult emotional/practical roles
+- [x] `golden-child-scapegoat` — engineered sibling role assignment and comparison control
+- [x] `conditional-love` — approval rationing contingent on compliance
+- [x] `elder-targeting` — isolation, dependency engineering, inheritance/caregiver leverage
 - [ ] `credit-theft-visibility` — idea appropriation, contribution erasure, visibility starvation at work
 - [ ] `pip-weaponization` — performance processes as pretext: paper trails, impossible metrics, managed exits
 - [ ] `we-are-family-rhetoric` — loyalty framing to extract unpaid labor and suppress complaints

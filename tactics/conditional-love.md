@@ -9,7 +9,7 @@ countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [loving-discipline]
 severity: medium
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-24
 ---
 

@@ -9,7 +9,7 @@ countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [healthy-persuasion]
 severity: low
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-24
 ---
 

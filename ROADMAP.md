@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 12/~30 (intimate-abuse + family + workplace clusters done) · 96/147 complete · next: sales/dark-patterns cluster (`foot-in-the-door`, `door-in-the-face`, `lowballing`, `thats-not-all-decoys`, `four-square-payment-packing`, `timeshare-playbook`, `dark-patterns-obstruction`, `dark-patterns-social-urgency`, `fake-reviews-astroturfing`, `parasocial-influencer-tactics`, `mlm-recruitment-scripts`) · last updated 2026-06-24
+**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 16/~30 (intimate-abuse + family + workplace + compliance-techniques done) · 100/147 complete · next: sales-playbooks + dark-patterns (`four-square-payment-packing`, `timeshare-playbook`, `mlm-recruitment-scripts`, `dark-patterns-obstruction`, `dark-patterns-social-urgency`, `fake-reviews-astroturfing`, `parasocial-influencer-tactics`) then fraud + propaganda clusters · last updated 2026-06-24
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -121,10 +121,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `pip-weaponization` — performance processes as pretext: paper trails, impossible metrics, managed exits
 - [x] `we-are-family-rhetoric` — loyalty framing to extract unpaid labor and suppress complaints
 - [x] `mobbing` — coordinated workplace ostracism and reputation destruction
-- [ ] `foot-in-the-door` — small ask → large ask compliance laddering
-- [ ] `door-in-the-face` — outrageous ask → "concession" to the real ask
-- [ ] `lowballing` — commitment first, true cost revealed after
-- [ ] `thats-not-all-decoys` — sweeteners, bundle fog, decoy options steering choice
+- [x] `foot-in-the-door` — small ask → large ask compliance laddering
+- [x] `door-in-the-face` — outrageous ask → "concession" to the real ask
+- [x] `lowballing` — commitment first, true cost revealed after
+- [x] `thats-not-all-decoys` — sweeteners, bundle fog, decoy options steering choice
 - [ ] `four-square-payment-packing` — car-dealership worksheet games and finance-office add-on stuffing
 - [ ] `timeshare-playbook` — captive presentations: gift hooks, 90-minute grinds, today-only pricing
 - [ ] `mlm-recruitment-scripts` — income puffery, lifestyle theater, "be your own boss", warm-market mining

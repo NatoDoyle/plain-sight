@@ -9,7 +9,7 @@ countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [puffery]
 severity: low
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-24
 ---
 

@@ -9,7 +9,7 @@ countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [hard-bargaining]
 severity: low
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-24
 ---
 

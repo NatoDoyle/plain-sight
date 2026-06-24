@@ -9,7 +9,7 @@ countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [hard-bargaining]
 severity: low
 evidence: established
-status: drafted
+status: complete
 last-updated: 2026-06-24
 ---
 
@@ -74,11 +74,11 @@ The large-ask-first mirror of [[foot-in-the-door]] (small-ask-first) — the two
 
 ## Evidence & debates
 
-Graded **`established`**: Cialdini et al. (1975) demonstrated it [1]; it has meta-analytic support (O'Keefe & Hale, 1998, mean r ≈ .10) and a well-powered **2020 direct replication** (Genschow et al., *JPSP*) reproduced the original almost exactly [1]. The effect size is small in absolute terms (typical for social-influence effects) and depends on same-requester / no-delay / prosocial-cause moderators, but the phenomenon is robust and the reciprocal-concessions mechanism is well-supported. Not contested — just modest in magnitude.
+Graded **`established`**: Cialdini et al. (1975) demonstrated it [1]; it has meta-analytic support (O'Keefe & Hale, 1998, mean r ≈ .10) and a well-powered **2020 direct replication** (Genschow et al.) reproduced the original almost exactly [1]. The effect size is small in absolute terms (typical for social-influence effects) and depends on same-requester / no-delay / prosocial-cause moderators, but the phenomenon is robust and the reciprocal-concessions mechanism is well-supported. Not contested — just modest in magnitude.
 
 ## Sources
 
-1. Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L. (1975). "Reciprocal Concessions Procedure for Inducing Compliance: The Door-in-the-Face Technique." *Journal of Personality and Social Psychology* 31(2), 206–215. Meta-analysis: O'Keefe, D. J., & Hale, S. L. (1998), *Communication Yearbook* 21 (mean r ≈ .10). Direct replication: Genschow, O., et al. (2020), *JPSP* (N≈391; ~51% vs 34% compliance — a single high-powered direct replication). Moderators: same requester, minimal delay, prosocial beneficiary; concession size does not moderate. Established.
+1. Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L. (1975). "Reciprocal Concessions Procedure for Inducing Compliance: The Door-in-the-Face Technique." *Journal of Personality and Social Psychology* 31(2), 206–215. Meta-analysis: O'Keefe, D. J., & Hale, S. L. (1998), *Communication Yearbook* 21 (mean r ≈ .10). Direct replication: Genschow, O., et al. (2020/2021), "Does social psychology persist over half a century? A direct replication of Cialdini et al.'s (1975)…" (N≈391; ~51% vs 34% compliance — a single high-powered direct replication; verify the exact journal before citing — sources differ between *JPSP* and *J. Experimental Social Psychology*). Moderators: same requester, minimal delay, prosocial beneficiary; concession size does not moderate. Established.
 
 ## See also
 

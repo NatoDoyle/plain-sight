@@ -26,6 +26,7 @@
 - [[triangulation]]
 
 ### [[authority]]
+- [[credit-theft-visibility]]
 - [[therapy-speak-weaponization]]
 
 ### [[certainty-needs]]
@@ -66,6 +67,7 @@
 - [[double-binds]]
 - [[emotional-blackmail]]
 - [[financial-abuse]]
+- [[pip-weaponization]]
 - [[radicalization-pipeline]]
 - [[self-harm-threats]]
 - [[sexual-coercion]]
@@ -87,6 +89,7 @@
 - [[self-harm-threats]]
 - [[sexual-coercion]]
 - [[victim-posturing]]
+- [[we-are-family-rhetoric]]
 - [[weaponized-incompetence]]
 
 ### [[hope-greed]]
@@ -140,6 +143,7 @@
 
 ### [[social-proof]]
 - [[mlm-lifecycle]]
+- [[mobbing]]
 - [[proxy-recruitment]]
 - [[smear-campaigns]]
 - [[triangulation]]
@@ -164,8 +168,10 @@
 ### [[unity-ingroup]]
 - [[cult-conversion-funnel]]
 - [[mlm-lifecycle]]
+- [[mobbing]]
 - [[radicalization-pipeline]]
 - [[thought-terminating-cliches]]
+- [[we-are-family-rhetoric]]
 
 ## By tactic (which levers this move pulls)
 
@@ -178,6 +184,7 @@
 - [[coercive-control]] → [[fear-exploitation]]
 - [[con-anatomy]] → [[commitment-consistency]], [[hope-greed]], [[trust-mechanics]]
 - [[conditional-love]] → [[attachment-needs]]
+- [[credit-theft-visibility]] → [[authority]]
 - [[cult-conversion-funnel]] → [[attachment-needs]], [[certainty-needs]], [[dissonance-exploitation]], [[unity-ingroup]]
 - [[darvo]] → [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
 - [[double-binds]] → [[cognitive-overload-confusion]], [[fear-exploitation]], [[guilt-leverage]]
@@ -198,10 +205,12 @@
 - [[manufactured-urgency]] → [[cognitive-overload-confusion]], [[scarcity-urgency]]
 - [[mirroring-false-identity]] → [[attachment-needs]], [[liking-similarity]], [[trust-mechanics]]
 - [[mlm-lifecycle]] → [[commitment-consistency]], [[hope-greed]], [[social-proof]], [[unity-ingroup]]
+- [[mobbing]] → [[social-proof]], [[unity-ingroup]]
 - [[moving-goalposts]] → [[commitment-consistency]], [[hope-greed]], [[intermittent-reinforcement]]
 - [[negging]] → [[attachment-needs]], [[shame-leverage]]
 - [[non-apology-patterns]] → [[guilt-leverage]], [[trust-mechanics]]
 - [[parentification]] → [[attachment-needs]], [[guilt-leverage]]
+- [[pip-weaponization]] → [[fear-exploitation]]
 - [[pity-plays]] → [[guilt-leverage]], [[trust-mechanics]]
 - [[projection-blame-shifting]] → [[dissonance-exploitation]], [[guilt-leverage]], [[memory-fallibility]]
 - [[proxy-recruitment]] → [[social-proof]], [[trust-mechanics]]
@@ -219,4 +228,5 @@
 - [[triangulation]] → [[attachment-needs]], [[information-asymmetry]], [[social-proof]]
 - [[veiled-threats]] → [[fear-exploitation]]
 - [[victim-posturing]] → [[guilt-leverage]], [[trust-mechanics]]
+- [[we-are-family-rhetoric]] → [[guilt-leverage]], [[unity-ingroup]]
 - [[weaponized-incompetence]] → [[guilt-leverage]], [[reciprocity]]

@@ -4,6 +4,9 @@
 
 ## By context (what operates in this arena)
 
+### [[advertising-marketing]]
+- [[thats-not-all-decoys]]
+
 ### [[competitors-business]]
 - [[bad-faith-argumentation]]
 - [[smear-campaigns]]
@@ -123,6 +126,9 @@
 - [[victim-posturing]]
 - [[weaponized-incompetence]]
 
+### [[negotiation]]
+- [[door-in-the-face]]
+
 ### [[propaganda-politics]]
 - [[bad-faith-argumentation]]
 - [[darvo]]
@@ -137,16 +143,21 @@
 
 ### [[sales]]
 - [[charm-offensive]]
+- [[door-in-the-face]]
+- [[foot-in-the-door]]
 - [[future-faking]]
+- [[lowballing]]
 - [[lying-typologies]]
 - [[manufactured-urgency]]
 - [[mlm-lifecycle]]
+- [[thats-not-all-decoys]]
 
 ### [[scams-fraud]]
 - [[charm-offensive]]
 - [[con-anatomy]]
 - [[elder-targeting]]
 - [[escalation-entrapment]]
+- [[foot-in-the-door]]
 - [[future-faking]]
 - [[isolation-tactics]]
 - [[love-bombing]]
@@ -201,11 +212,13 @@
 - [[credit-theft-visibility]] → [[workplace-bosses]]
 - [[cult-conversion-funnel]] → [[cults-high-control]]
 - [[darvo]] → [[family-parents]], [[institutions]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
+- [[door-in-the-face]] → [[negotiation]], [[sales]]
 - [[double-binds]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[elder-targeting]] → [[family-parents]], [[scams-fraud]]
 - [[emotional-blackmail]] → [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[escalation-entrapment]] → [[cults-high-control]], [[intimate-relationships]], [[scams-fraud]]
 - [[financial-abuse]] → [[family-parents]], [[intimate-relationships]]
+- [[foot-in-the-door]] → [[sales]], [[scams-fraud]]
 - [[future-faking]] → [[intimate-relationships]], [[sales]], [[scams-fraud]], [[workplace-bosses]]
 - [[gaslighting]] → [[cults-high-control]], [[family-parents]], [[institutions]], [[intimate-relationships]], [[workplace-bosses]]
 - [[golden-child-scapegoat]] → [[family-parents]]
@@ -215,6 +228,7 @@
 - [[hoovering]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]]
 - [[isolation-tactics]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[scams-fraud]]
 - [[love-bombing]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[scams-fraud]]
+- [[lowballing]] → [[sales]]
 - [[lying-typologies]] → [[intimate-relationships]], [[propaganda-politics]], [[sales]], [[scams-fraud]]
 - [[manufactured-urgency]] → [[digital-platforms]], [[intimate-relationships]], [[sales]], [[scams-fraud]]
 - [[mirroring-false-identity]] → [[cults-high-control]], [[intimate-relationships]], [[scams-fraud]]
@@ -236,6 +250,7 @@
 - [[silent-treatment]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[smear-campaigns]] → [[competitors-business]], [[family-parents]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
 - [[stalkerware-monitoring]] → [[family-parents]], [[intimate-relationships]]
+- [[thats-not-all-decoys]] → [[advertising-marketing]], [[sales]]
 - [[therapy-speak-weaponization]] → [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[thought-terminating-cliches]] → [[cults-high-control]], [[family-parents]], [[propaganda-politics]], [[workplace-bosses]]
 - [[trauma-bonding]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]]

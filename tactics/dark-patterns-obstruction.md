@@ -10,7 +10,7 @@ countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [good-faith-ux]
 severity: medium
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-24
 ---
 

@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 16/~30 (intimate-abuse + family + workplace + compliance-techniques done) · 100/147 complete · next: sales-playbooks + dark-patterns (`four-square-payment-packing`, `timeshare-playbook`, `mlm-recruitment-scripts`, `dark-patterns-obstruction`, `dark-patterns-social-urgency`, `fake-reviews-astroturfing`, `parasocial-influencer-tactics`) then fraud + propaganda clusters · last updated 2026-06-24
+**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 20/~30 (intimate-abuse + family + workplace + compliance + dark-patterns done) · 104/147 complete · next: sales-playbooks (`four-square-payment-packing`, `timeshare-playbook`, `mlm-recruitment-scripts`) then fraud (`phishing-pretexting`, `ai-enabled-manipulation`, `cold-reading`, `affinity-fraud`, `ponzi-psychology`) + propaganda (`propaganda-devices`, `disinformation-playbooks`) close Tier 4b · last updated 2026-06-24
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -128,10 +128,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [ ] `four-square-payment-packing` — car-dealership worksheet games and finance-office add-on stuffing
 - [ ] `timeshare-playbook` — captive presentations: gift hooks, 90-minute grinds, today-only pricing
 - [ ] `mlm-recruitment-scripts` — income puffery, lifestyle theater, "be your own boss", warm-market mining
-- [ ] `dark-patterns-obstruction` — roach motel, forced continuity, cancellation mazes, sneak-into-basket
-- [ ] `dark-patterns-social-urgency` — fake counters, fake low-stock, confirmshaming, fabricated activity feeds
-- [ ] `fake-reviews-astroturfing` — manufactured social proof: review farms, sockpuppets, front groups
-- [ ] `parasocial-influencer-tactics` — manufactured intimacy monetized: hauls, "link in bio", guru funnels
+- [x] `dark-patterns-obstruction` — roach motel, forced continuity, cancellation mazes, sneak-into-basket
+- [x] `dark-patterns-social-urgency` — fake counters, fake low-stock, confirmshaming, fabricated activity feeds
+- [x] `fake-reviews-astroturfing` — manufactured social proof: review farms, sockpuppets, front groups
+- [x] `parasocial-influencer-tactics` — manufactured intimacy monetized: hauls, "link in bio", guru funnels
 - [ ] `phishing-pretexting` — social engineering attacks: urgency+authority impersonation across channels
 - [ ] `ai-enabled-manipulation` — voice cloning, deepfakes, chatbot romance/investment scams, synthetic personas
 - [ ] `cold-reading` — Barnum statements, shotgunning, sleight of tongue (psychics, "intuitives", interviewers)

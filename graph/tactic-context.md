@@ -5,10 +5,14 @@
 ## By context (what operates in this arena)
 
 ### [[advertising-marketing]]
+- [[dark-patterns-social-urgency]]
+- [[fake-reviews-astroturfing]]
+- [[parasocial-influencer-tactics]]
 - [[thats-not-all-decoys]]
 
 ### [[competitors-business]]
 - [[bad-faith-argumentation]]
+- [[fake-reviews-astroturfing]]
 - [[smear-campaigns]]
 - [[veiled-threats]]
 
@@ -34,8 +38,12 @@
 
 ### [[digital-platforms]]
 - [[bad-faith-argumentation]]
+- [[dark-patterns-obstruction]]
+- [[dark-patterns-social-urgency]]
+- [[fake-reviews-astroturfing]]
 - [[grooming-sequence]]
 - [[manufactured-urgency]]
+- [[parasocial-influencer-tactics]]
 - [[radicalization-pipeline]]
 - [[romance-scam-arc]]
 
@@ -143,6 +151,8 @@
 
 ### [[sales]]
 - [[charm-offensive]]
+- [[dark-patterns-obstruction]]
+- [[dark-patterns-social-urgency]]
 - [[door-in-the-face]]
 - [[foot-in-the-door]]
 - [[future-faking]]
@@ -211,12 +221,15 @@
 - [[conditional-love]] → [[family-parents]], [[intimate-relationships]]
 - [[credit-theft-visibility]] → [[workplace-bosses]]
 - [[cult-conversion-funnel]] → [[cults-high-control]]
+- [[dark-patterns-obstruction]] → [[digital-platforms]], [[sales]]
+- [[dark-patterns-social-urgency]] → [[advertising-marketing]], [[digital-platforms]], [[sales]]
 - [[darvo]] → [[family-parents]], [[institutions]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
 - [[door-in-the-face]] → [[negotiation]], [[sales]]
 - [[double-binds]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[elder-targeting]] → [[family-parents]], [[scams-fraud]]
 - [[emotional-blackmail]] → [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[escalation-entrapment]] → [[cults-high-control]], [[intimate-relationships]], [[scams-fraud]]
+- [[fake-reviews-astroturfing]] → [[advertising-marketing]], [[competitors-business]], [[digital-platforms]]
 - [[financial-abuse]] → [[family-parents]], [[intimate-relationships]]
 - [[foot-in-the-door]] → [[sales]], [[scams-fraud]]
 - [[future-faking]] → [[intimate-relationships]], [[sales]], [[scams-fraud]], [[workplace-bosses]]
@@ -237,6 +250,7 @@
 - [[moving-goalposts]] → [[cults-high-control]], [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[negging]] → [[intimate-relationships]], [[workplace-bosses]]
 - [[non-apology-patterns]] → [[family-parents]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
+- [[parasocial-influencer-tactics]] → [[advertising-marketing]], [[digital-platforms]]
 - [[parentification]] → [[family-parents]]
 - [[pip-weaponization]] → [[workplace-bosses]]
 - [[pity-plays]] → [[family-parents]], [[intimate-relationships]], [[scams-fraud]]

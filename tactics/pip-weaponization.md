@@ -9,7 +9,7 @@ countered-by: [documentation-practices, detection-heuristics]
 distinguished-from: [legitimate-performance-management]
 severity: medium
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-24
 ---
 

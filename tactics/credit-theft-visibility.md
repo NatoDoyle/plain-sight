@@ -9,7 +9,7 @@ countered-by: [documentation-practices, detection-heuristics]
 distinguished-from: [collaborative-credit]
 severity: medium
 evidence: supported
-status: drafted
+status: complete
 last-updated: 2026-06-24
 ---
 
@@ -95,7 +95,7 @@ Graded `supported`: the core mechanisms rest on peer-reviewed work — leader cr
 ## Sources
 
 1. Chen, J., et al. (2022). "The Idea Is Mine! … Leaders' Credit Claiming on Employees' Work Outcomes." *Frontiers in Psychology* 13:818454 (leader credit-claiming → anger/perceived unfairness → reduced voice and performance). Knowledge-theft research (victims disengage, hide work, persists after job change). Supported.
-2. "Social inattentional blindness to idea stealing in meetings" (2024), *Scientific Reports* — ~30% of observers correctly identified who said an idea first; perceived status affects who's credited; notes idea-stealing is hard to distinguish from legitimate amplification. Supported.
+2. A 2024 controlled (VR) study on inattentional blindness to idea-stealing in meetings (reported as "Social inattentional blindness to idea stealing in meetings," *Scientific Reports*) — observers frequently failed to identify who voiced an idea first (the cited figure ~30%), with perceived status shaping attribution; it also notes idea-stealing is hard to distinguish from legitimate amplification. Single recent study — verify the exact venue/figure before relying on the number; the directional finding (status biases meeting attribution) is corroborated by the broader literature. Supported.
 3. Sarsons, H. (2017). "Recognition for Group Work: Gender Differences in Academia." *American Economic Review* 107(5), 141–145 — women credited less for co-authored work, especially with male co-authors (discipline-specific to economics; not universal). Williams, J. — "office housework"/non-promotable tasks (Babcock et al.). Supported (with boundary conditions).
 4. Flynn, F., & Anderson, C. (2003) — the "Heidi/Howard" study: identical résumé/case rated differently by the author's gender (the upstream evaluation/likeability bias, not direct proof of credit theft). The "amplification" counter-tactic: Eilperin, *Washington Post* (2016) — journalism. "Hepeating"/"rewhiting" — folk/vernacular recognition terms.
 

@@ -11,13 +11,13 @@ distinguished-from: [legitimate-collective-feedback]
 severity: high
 evidence: supported
 safety: crisis-escalation
-status: drafted
+status: complete
 last-updated: 2026-06-24
 ---
 
 # Mobbing
 
-> A group — or a leader plus recruited colleagues — systematically ganging up on one person to degrade, isolate, and ultimately drive them out. Unlike one-on-one bullying, the *collective* nature makes the target look like the problem ("if everyone says so…"), and management usually sides with the crowd. **The mental-health toll is severe and well-documented — see Safety notes.**
+> A group — or a leader plus recruited colleagues — systematically ganging up on one person to degrade, isolate, and ultimately drive them out. Unlike one-on-one bullying, the *collective* nature makes the target look like the problem ("if everyone says so…"), and management often sides with the crowd. **The mental-health toll is severe and well-documented — see Safety notes.**
 
 ## Definition
 

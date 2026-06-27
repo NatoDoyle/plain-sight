@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 28/~30 (intimate-abuse + family + workplace + compliance + dark-patterns + sales-playbooks + FRAUD cluster all done) · 112/147 complete · next: propaganda (`propaganda-devices`, `disinformation-playbooks`) CLOSES Tier 4 → then Tiers 5 (profiles/vulnerabilities), 6 (defenses/recovery), 7 (synthesis + defense-agent-spec). SYNTHESIS CHECKPOINT due now (matrices + retrieval spot-tests + terminology pass). · last updated 2026-06-27
+**Status:** **TIER 4 COMPLETE** — Tiers 0–4 all done (foundations + 23 mechanisms + 33 cross-domain tactics + 3 keystone defenses + 10 dynamics + 12 context dossiers + 30 domain tactics) · 114/147 complete · next: **Tier 5** — profiles (`narcissistic-patterns`, `psychopathic-patterns`, `machiavellianism`, `dark-triad-overview`, `con-artist-typologies`, `everyday-manipulators`) + vulnerabilities (`why-smart-people-fall`, `crisis-windows`, `loneliness-isolation`, `trauma-history-revictimization`, `people-pleasing-fawn`, `cognitive-decline-age`, `optimism-overconfidence`, `scarcity-stress`, `betrayal-blindness`) → then Tier 6 (defenses/recovery), Tier 7 (synthesis + defense-agent-spec). · last updated 2026-06-27
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -139,8 +139,8 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `ponzi-psychology` — why returns-too-good survive scrutiny: exclusivity, redemption theater, social proof
 - [ ] `fud-competitor-tactics` — fear-uncertainty-doubt against rivals; switching-cost terror; vaporware promises
 - [ ] `bad-faith-negotiation` — good cop/bad cop, higher authority, nibbling, brinkmanship, false deadlines
-- [ ] `propaganda-devices` — the classic device set (IPA seven + modern descendants)
-- [ ] `disinformation-playbooks` — firehose of falsehood, flooding, manufactured consensus, source laundering
+- [x] `propaganda-devices` — the classic device set (IPA seven + modern descendants)
+- [x] `disinformation-playbooks` — firehose of falsehood, flooding, manufactured consensus, source laundering
 
 ## Tier 5 — Profiles (profiles/) & Vulnerabilities (vulnerabilities/)
 

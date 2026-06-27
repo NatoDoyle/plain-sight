@@ -8,10 +8,11 @@ exploits: [liking-similarity, trust-mechanics]
 co-occurs-with: [love-bombing, mirroring-false-identity]
 countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [genuine-charisma, genuine-rapport]
+favored-by: [psychopathic-patterns, machiavellianism]
 severity: medium
 evidence: clinical
 status: complete
-last-updated: 2026-06-20
+last-updated: 2026-06-27
 ---
 
 # Charm Offensive

@@ -8,10 +8,11 @@ exploits: [liking-similarity, trust-mechanics, attachment-needs]
 co-occurs-with: [pity-plays]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-rapport, false-self]
+favored-by: [psychopathic-patterns]
 severity: high
 evidence: clinical
 status: complete
-last-updated: 2026-06-18
+last-updated: 2026-06-27
 ---
 
 # Mirroring & False Identity

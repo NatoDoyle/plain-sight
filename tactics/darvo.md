@@ -9,10 +9,11 @@ co-occurs-with: [projection-blame-shifting, non-apology-patterns, smear-campaign
 enables: [history-rewriting]
 countered-by: [documentation-practices, jade-avoidance]
 distinguished-from: [honest-disagreement, self-protection]
+favored-by: [narcissistic-patterns]
 severity: high
 evidence: supported
 status: complete
-last-updated: 2026-06-12
+last-updated: 2026-06-27
 ---
 
 # DARVO

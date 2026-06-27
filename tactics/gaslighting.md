@@ -9,11 +9,12 @@ co-occurs-with: [isolation-tactics, darvo, history-rewriting, circular-conversat
 escalates-to: [coercive-control]
 countered-by: [documentation-practices, verification-rituals]
 distinguished-from: [memory-divergence, honest-disagreement]
+favored-by: [narcissistic-patterns]
 severity: high
 evidence: supported
 safety: dv-escalation
 status: complete
-last-updated: 2026-06-12
+last-updated: 2026-06-27
 ---
 
 # Gaslighting

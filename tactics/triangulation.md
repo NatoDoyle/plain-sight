@@ -8,10 +8,11 @@ exploits: [attachment-needs, social-proof, information-asymmetry]
 co-occurs-with: [golden-child-scapegoat, proxy-recruitment, smear-campaigns]
 countered-by: [boundary-scripts, verification-rituals]
 distinguished-from: [honest-disagreement, genuine-rapport]
+favored-by: [narcissistic-patterns, machiavellianism]
 severity: medium
 evidence: supported
 status: complete
-last-updated: 2026-06-12
+last-updated: 2026-06-27
 ---
 
 # Triangulation

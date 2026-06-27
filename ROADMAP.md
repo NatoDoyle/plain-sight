@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** **TIER 4 COMPLETE** — Tiers 0–4 all done (foundations + 23 mechanisms + 33 cross-domain tactics + 3 keystone defenses + 10 dynamics + 12 context dossiers + 30 domain tactics) · 114/147 complete · next: **Tier 5** — profiles (`narcissistic-patterns`, `psychopathic-patterns`, `machiavellianism`, `dark-triad-overview`, `con-artist-typologies`, `everyday-manipulators`) + vulnerabilities (`why-smart-people-fall`, `crisis-windows`, `loneliness-isolation`, `trauma-history-revictimization`, `people-pleasing-fawn`, `cognitive-decline-age`, `optimism-overconfidence`, `scarcity-stress`, `betrayal-blindness`) → then Tier 6 (defenses/recovery), Tier 7 (synthesis + defense-agent-spec). · last updated 2026-06-27
+**Status:** Tiers 0–4 COMPLETE · **Tier 5 underway: 4/15** — dark-triad profiles done (`narcissistic-patterns`, `psychopathic-patterns`, `machiavellianism`, `dark-triad-overview`) · 118/147 complete · next: remaining profiles (`con-artist-typologies`, `everyday-manipulators`) + 9 vulnerabilities (`why-smart-people-fall`, `crisis-windows`, `loneliness-isolation`, `trauma-history-revictimization`, `people-pleasing-fawn`, `cognitive-decline-age`, `optimism-overconfidence`, `scarcity-stress`, `betrayal-blindness`) → then Tier 6 (defenses/recovery), Tier 7 (synthesis + defense-agent-spec). · last updated 2026-06-27
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -144,10 +144,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 
 ## Tier 5 — Profiles (profiles/) & Vulnerabilities (vulnerabilities/)
 
-- [ ] `narcissistic-patterns` — NPD-informed manipulation signatures (carefully: traits ≠ diagnosis)
-- [ ] `psychopathic-patterns` — callous-instrumental signatures (Hare); glibness, parasitism, dual masks
-- [ ] `machiavellianism` — strategic long-game manipulation as trait; workplace expression
-- [ ] `dark-triad-overview` — measurement, overlap, critiques of pop usage
+- [x] `narcissistic-patterns` — NPD-informed manipulation signatures (carefully: traits ≠ diagnosis)
+- [x] `psychopathic-patterns` — callous-instrumental signatures (Hare); glibness, parasitism, dual masks
+- [x] `machiavellianism` — strategic long-game manipulation as trait; workplace expression
+- [x] `dark-triad-overview` — measurement, overlap, critiques of pop usage
 - [ ] `con-artist-typologies` — professional fraud operator patterns and role specialization
 - [ ] `everyday-manipulators` — situational, non-pathological manipulation: the most common case
 - [ ] `why-smart-people-fall` — intelligence ≠ immunity; expertise overconfidence; the fraud-victim profile myth

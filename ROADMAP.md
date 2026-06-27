@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–4 COMPLETE · **Tier 5 underway: 4/15** — dark-triad profiles done (`narcissistic-patterns`, `psychopathic-patterns`, `machiavellianism`, `dark-triad-overview`) · 118/147 complete · next: remaining profiles (`con-artist-typologies`, `everyday-manipulators`) + 9 vulnerabilities (`why-smart-people-fall`, `crisis-windows`, `loneliness-isolation`, `trauma-history-revictimization`, `people-pleasing-fawn`, `cognitive-decline-age`, `optimism-overconfidence`, `scarcity-stress`, `betrayal-blindness`) → then Tier 6 (defenses/recovery), Tier 7 (synthesis + defense-agent-spec). · last updated 2026-06-27
+**Status:** Tiers 0–4 COMPLETE · **Tier 5 PROFILES COMPLETE (6/6)** — narcissistic/psychopathic/machiavellianism/dark-triad-overview/con-artist-typologies/everyday-manipulators all done · 120/147 complete · next: **9 vulnerabilities** (`why-smart-people-fall`, `crisis-windows`, `loneliness-isolation`, `trauma-history-revictimization`, `people-pleasing-fawn`, `cognitive-decline-age`, `optimism-overconfidence`, `scarcity-stress`, `betrayal-blindness`) to close Tier 5 → then Tier 6 (defenses/recovery), Tier 7 (synthesis + defense-agent-spec). · last updated 2026-06-27
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -148,8 +148,8 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `psychopathic-patterns` — callous-instrumental signatures (Hare); glibness, parasitism, dual masks
 - [x] `machiavellianism` — strategic long-game manipulation as trait; workplace expression
 - [x] `dark-triad-overview` — measurement, overlap, critiques of pop usage
-- [ ] `con-artist-typologies` — professional fraud operator patterns and role specialization
-- [ ] `everyday-manipulators` — situational, non-pathological manipulation: the most common case
+- [x] `con-artist-typologies` — professional fraud operator patterns and role specialization
+- [x] `everyday-manipulators` — situational, non-pathological manipulation: the most common case
 - [ ] `why-smart-people-fall` — intelligence ≠ immunity; expertise overconfidence; the fraud-victim profile myth
 - [ ] `crisis-windows` — bereavement, divorce, illness, relocation, job loss as targeting windows
 - [ ] `loneliness-isolation` — social hunger as attack surface

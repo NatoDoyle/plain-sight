@@ -7,10 +7,11 @@ domains: [scams-fraud, intimate-relationships, family-parents]
 exploits: [guilt-leverage, trust-mechanics]
 countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [genuine-victimhood, honest-hurt]
+favored-by: [con-artist-typologies]
 severity: medium
 evidence: clinical
 status: complete
-last-updated: 2026-06-18
+last-updated: 2026-06-27
 ---
 
 # Pity Plays

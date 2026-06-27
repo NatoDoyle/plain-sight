@@ -8,6 +8,7 @@ exploits: [certainty-needs, flattery-ego, trust-mechanics]
 co-occurs-with: [pity-plays, elder-targeting]
 countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [genuine-perceptiveness]
+favored-by: [con-artist-typologies]
 severity: medium
 evidence: supported
 status: complete

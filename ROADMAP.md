@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 20/~30 (intimate-abuse + family + workplace + compliance + dark-patterns done) · 104/147 complete · next: sales-playbooks (`four-square-payment-packing`, `timeshare-playbook`, `mlm-recruitment-scripts`) then fraud (`phishing-pretexting`, `ai-enabled-manipulation`, `cold-reading`, `affinity-fraud`, `ponzi-psychology`) + propaganda (`propaganda-devices`, `disinformation-playbooks`) close Tier 4b · last updated 2026-06-24
+**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 23/~30 (intimate-abuse + family + workplace + compliance + dark-patterns + sales-playbooks done) · 107/147 complete · next: fraud (`phishing-pretexting`, `ai-enabled-manipulation`, `cold-reading`, `affinity-fraud`, `ponzi-psychology`) then propaganda (`propaganda-devices`, `disinformation-playbooks`) close Tier 4b → then Tiers 5 (profiles/vulnerabilities), 6 (defenses/recovery), 7 (synthesis + defense-agent-spec) · last updated 2026-06-27
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -125,9 +125,9 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `door-in-the-face` — outrageous ask → "concession" to the real ask
 - [x] `lowballing` — commitment first, true cost revealed after
 - [x] `thats-not-all-decoys` — sweeteners, bundle fog, decoy options steering choice
-- [ ] `four-square-payment-packing` — car-dealership worksheet games and finance-office add-on stuffing
-- [ ] `timeshare-playbook` — captive presentations: gift hooks, 90-minute grinds, today-only pricing
-- [ ] `mlm-recruitment-scripts` — income puffery, lifestyle theater, "be your own boss", warm-market mining
+- [x] `four-square-payment-packing` — car-dealership worksheet games and finance-office add-on stuffing
+- [x] `timeshare-playbook` — captive presentations: gift hooks, 90-minute grinds, today-only pricing
+- [x] `mlm-recruitment-scripts` — income puffery, lifestyle theater, "be your own boss", warm-market mining
 - [x] `dark-patterns-obstruction` — roach motel, forced continuity, cancellation mazes, sneak-into-basket
 - [x] `dark-patterns-social-urgency` — fake counters, fake low-stock, confirmshaming, fabricated activity feeds
 - [x] `fake-reviews-astroturfing` — manufactured social proof: review farms, sockpuppets, front groups

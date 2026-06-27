@@ -4,7 +4,7 @@ type: dynamic
 name: MLM Lifecycle
 aliases: [multi-level marketing, network marketing, MLM, direct-sales trap, the MLM funnel]
 domains: [scams-fraud, sales, cults-high-control]
-composed-of: [future-faking, love-bombing, thought-terminating-cliches, isolation-tactics, manufactured-urgency]
+composed-of: [mlm-recruitment-scripts, future-faking, love-bombing, thought-terminating-cliches, isolation-tactics, manufactured-urgency]
 exploits: [commitment-consistency, hope-greed, social-proof, unity-ingroup]
 co-occurs-with: [proxy-recruitment]
 countered-by: [detection-heuristics, verification-rituals]
@@ -12,7 +12,7 @@ distinguished-from: [legitimate-small-business, illegal-pyramid-scheme]
 severity: high
 evidence: supported
 status: complete
-last-updated: 2026-06-20
+last-updated: 2026-06-27
 ---
 
 # MLM Lifecycle

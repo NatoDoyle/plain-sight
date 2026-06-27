@@ -26,6 +26,7 @@
 - [[triangulation]]
 
 ### [[authority]]
+- [[affinity-fraud]]
 - [[ai-enabled-manipulation]]
 - [[credit-theft-visibility]]
 - [[phishing-pretexting]]
@@ -33,6 +34,7 @@
 
 ### [[certainty-needs]]
 - [[circular-conversation]]
+- [[cold-reading]]
 - [[cult-conversion-funnel]]
 - [[gaslighting]]
 - [[radicalization-pipeline]]
@@ -85,6 +87,9 @@
 - [[stalkerware-monitoring]]
 - [[veiled-threats]]
 
+### [[flattery-ego]]
+- [[cold-reading]]
+
 ### [[framing-anchoring]]
 - [[bad-faith-argumentation]]
 - [[thats-not-all-decoys]]
@@ -112,6 +117,7 @@
 - [[mlm-lifecycle]]
 - [[mlm-recruitment-scripts]]
 - [[moving-goalposts]]
+- [[ponzi-psychology]]
 - [[romance-scam-arc]]
 
 ### [[information-asymmetry]]
@@ -119,6 +125,7 @@
 - [[isolation-tactics]]
 - [[lying-typologies]]
 - [[phishing-pretexting]]
+- [[ponzi-psychology]]
 - [[triangulation]]
 
 ### [[intermittent-reinforcement]]
@@ -167,18 +174,22 @@
 - [[negging]]
 
 ### [[social-proof]]
+- [[affinity-fraud]]
 - [[dark-patterns-social-urgency]]
 - [[fake-reviews-astroturfing]]
 - [[mlm-lifecycle]]
 - [[mlm-recruitment-scripts]]
 - [[mobbing]]
+- [[ponzi-psychology]]
 - [[proxy-recruitment]]
 - [[smear-campaigns]]
 - [[triangulation]]
 
 ### [[trust-mechanics]]
+- [[affinity-fraud]]
 - [[ai-enabled-manipulation]]
 - [[charm-offensive]]
+- [[cold-reading]]
 - [[con-anatomy]]
 - [[darvo]]
 - [[elder-targeting]]
@@ -192,11 +203,13 @@
 - [[parasocial-influencer-tactics]]
 - [[phishing-pretexting]]
 - [[pity-plays]]
+- [[ponzi-psychology]]
 - [[proxy-recruitment]]
 - [[smear-campaigns]]
 - [[victim-posturing]]
 
 ### [[unity-ingroup]]
+- [[affinity-fraud]]
 - [[cult-conversion-funnel]]
 - [[mlm-lifecycle]]
 - [[mobbing]]
@@ -207,6 +220,7 @@
 ## By tactic (which levers this move pulls)
 
 - [[abuse-cycle]] → [[intermittent-reinforcement]]
+- [[affinity-fraud]] → [[authority]], [[social-proof]], [[trust-mechanics]], [[unity-ingroup]]
 - [[ai-enabled-manipulation]] → [[authority]], [[fear-exploitation]], [[liking-similarity]], [[trust-mechanics]]
 - [[bad-faith-argumentation]] → [[cognitive-overload-confusion]], [[framing-anchoring]]
 - [[boundary-testing]] → [[commitment-consistency]], [[dissonance-exploitation]]
@@ -214,6 +228,7 @@
 - [[charm-offensive]] → [[liking-similarity]], [[trust-mechanics]]
 - [[circular-conversation]] → [[certainty-needs]], [[cognitive-overload-confusion]], [[emotional-flooding]]
 - [[coercive-control]] → [[fear-exploitation]]
+- [[cold-reading]] → [[certainty-needs]], [[flattery-ego]], [[trust-mechanics]]
 - [[con-anatomy]] → [[commitment-consistency]], [[hope-greed]], [[trust-mechanics]]
 - [[conditional-love]] → [[attachment-needs]]
 - [[credit-theft-visibility]] → [[authority]]
@@ -254,6 +269,7 @@
 - [[phishing-pretexting]] → [[authority]], [[fear-exploitation]], [[information-asymmetry]], [[scarcity-urgency]], [[trust-mechanics]]
 - [[pip-weaponization]] → [[fear-exploitation]]
 - [[pity-plays]] → [[guilt-leverage]], [[trust-mechanics]]
+- [[ponzi-psychology]] → [[hope-greed]], [[information-asymmetry]], [[social-proof]], [[trust-mechanics]]
 - [[projection-blame-shifting]] → [[dissonance-exploitation]], [[guilt-leverage]], [[memory-fallibility]]
 - [[proxy-recruitment]] → [[social-proof]], [[trust-mechanics]]
 - [[radicalization-pipeline]] → [[certainty-needs]], [[fear-exploitation]], [[unity-ingroup]]

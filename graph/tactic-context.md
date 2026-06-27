@@ -37,6 +37,7 @@
 - [[we-are-family-rhetoric]]
 
 ### [[digital-platforms]]
+- [[ai-enabled-manipulation]]
 - [[bad-faith-argumentation]]
 - [[dark-patterns-obstruction]]
 - [[dark-patterns-social-urgency]]
@@ -45,6 +46,7 @@
 - [[manufactured-urgency]]
 - [[mlm-recruitment-scripts]]
 - [[parasocial-influencer-tactics]]
+- [[phishing-pretexting]]
 - [[radicalization-pipeline]]
 - [[romance-scam-arc]]
 
@@ -167,6 +169,7 @@
 - [[timeshare-playbook]]
 
 ### [[scams-fraud]]
+- [[ai-enabled-manipulation]]
 - [[charm-offensive]]
 - [[con-anatomy]]
 - [[elder-targeting]]
@@ -179,6 +182,7 @@
 - [[manufactured-urgency]]
 - [[mirroring-false-identity]]
 - [[mlm-lifecycle]]
+- [[phishing-pretexting]]
 - [[pity-plays]]
 - [[romance-scam-arc]]
 
@@ -215,6 +219,7 @@
 ## By tactic (where this move appears)
 
 - [[abuse-cycle]] → [[family-parents]], [[intimate-relationships]]
+- [[ai-enabled-manipulation]] → [[digital-platforms]], [[scams-fraud]]
 - [[bad-faith-argumentation]] → [[competitors-business]], [[digital-platforms]], [[intimate-relationships]], [[propaganda-politics]]
 - [[boundary-testing]] → [[family-parents]], [[intimate-relationships]], [[workplace-bosses]]
 - [[breadcrumbing]] → [[intimate-relationships]]
@@ -258,6 +263,7 @@
 - [[non-apology-patterns]] → [[family-parents]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]
 - [[parasocial-influencer-tactics]] → [[advertising-marketing]], [[digital-platforms]]
 - [[parentification]] → [[family-parents]]
+- [[phishing-pretexting]] → [[digital-platforms]], [[scams-fraud]]
 - [[pip-weaponization]] → [[workplace-bosses]]
 - [[pity-plays]] → [[family-parents]], [[intimate-relationships]], [[scams-fraud]]
 - [[projection-blame-shifting]] → [[family-parents]], [[intimate-relationships]], [[propaganda-politics]], [[workplace-bosses]]

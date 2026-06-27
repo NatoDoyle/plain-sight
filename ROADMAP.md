@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 23/~30 (intimate-abuse + family + workplace + compliance + dark-patterns + sales-playbooks done) · 107/147 complete · next: fraud (`phishing-pretexting`, `ai-enabled-manipulation`, `cold-reading`, `affinity-fraud`, `ponzi-psychology`) then propaganda (`propaganda-devices`, `disinformation-playbooks`) close Tier 4b → then Tiers 5 (profiles/vulnerabilities), 6 (defenses/recovery), 7 (synthesis + defense-agent-spec) · last updated 2026-06-27
+**Status:** Tiers 0–3 COMPLETE · Tier 4a COMPLETE (12/12 dossiers) · Tier 4b domain tactics: 25/~30 (intimate-abuse + family + workplace + compliance + dark-patterns + sales-playbooks + fraud-digital done) · 109/147 complete · next: fraud-belief trio (`cold-reading`, `affinity-fraud`, `ponzi-psychology`) then propaganda (`propaganda-devices`, `disinformation-playbooks`) close Tier 4b → then Tiers 5 (profiles/vulnerabilities), 6 (defenses/recovery), 7 (synthesis + defense-agent-spec) · last updated 2026-06-27
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -132,8 +132,8 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `dark-patterns-social-urgency` — fake counters, fake low-stock, confirmshaming, fabricated activity feeds
 - [x] `fake-reviews-astroturfing` — manufactured social proof: review farms, sockpuppets, front groups
 - [x] `parasocial-influencer-tactics` — manufactured intimacy monetized: hauls, "link in bio", guru funnels
-- [ ] `phishing-pretexting` — social engineering attacks: urgency+authority impersonation across channels
-- [ ] `ai-enabled-manipulation` — voice cloning, deepfakes, chatbot romance/investment scams, synthetic personas
+- [x] `phishing-pretexting` — social engineering attacks: urgency+authority impersonation across channels
+- [x] `ai-enabled-manipulation` — voice cloning, deepfakes, chatbot romance/investment scams, synthetic personas
 - [ ] `cold-reading` — Barnum statements, shotgunning, sleight of tongue (psychics, "intuitives", interviewers)
 - [ ] `affinity-fraud` — exploiting shared faith/ethnicity/community trust networks
 - [ ] `ponzi-psychology` — why returns-too-good survive scrutiny: exclusivity, redemption theater, social proof

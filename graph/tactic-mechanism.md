@@ -26,7 +26,9 @@
 - [[triangulation]]
 
 ### [[authority]]
+- [[ai-enabled-manipulation]]
 - [[credit-theft-visibility]]
+- [[phishing-pretexting]]
 - [[therapy-speak-weaponization]]
 
 ### [[certainty-needs]]
@@ -70,10 +72,12 @@
 - [[timeshare-playbook]]
 
 ### [[fear-exploitation]]
+- [[ai-enabled-manipulation]]
 - [[coercive-control]]
 - [[double-binds]]
 - [[emotional-blackmail]]
 - [[financial-abuse]]
+- [[phishing-pretexting]]
 - [[pip-weaponization]]
 - [[radicalization-pipeline]]
 - [[self-harm-threats]]
@@ -114,6 +118,7 @@
 - [[four-square-payment-packing]]
 - [[isolation-tactics]]
 - [[lying-typologies]]
+- [[phishing-pretexting]]
 - [[triangulation]]
 
 ### [[intermittent-reinforcement]]
@@ -126,6 +131,7 @@
 - [[trauma-bonding]]
 
 ### [[liking-similarity]]
+- [[ai-enabled-manipulation]]
 - [[charm-offensive]]
 - [[love-bombing]]
 - [[mirroring-false-identity]]
@@ -153,6 +159,7 @@
 - [[dark-patterns-social-urgency]]
 - [[manufactured-urgency]]
 - [[mlm-recruitment-scripts]]
+- [[phishing-pretexting]]
 - [[timeshare-playbook]]
 
 ### [[shame-leverage]]
@@ -170,6 +177,7 @@
 - [[triangulation]]
 
 ### [[trust-mechanics]]
+- [[ai-enabled-manipulation]]
 - [[charm-offensive]]
 - [[con-anatomy]]
 - [[darvo]]
@@ -182,6 +190,7 @@
 - [[mirroring-false-identity]]
 - [[non-apology-patterns]]
 - [[parasocial-influencer-tactics]]
+- [[phishing-pretexting]]
 - [[pity-plays]]
 - [[proxy-recruitment]]
 - [[smear-campaigns]]
@@ -198,6 +207,7 @@
 ## By tactic (which levers this move pulls)
 
 - [[abuse-cycle]] → [[intermittent-reinforcement]]
+- [[ai-enabled-manipulation]] → [[authority]], [[fear-exploitation]], [[liking-similarity]], [[trust-mechanics]]
 - [[bad-faith-argumentation]] → [[cognitive-overload-confusion]], [[framing-anchoring]]
 - [[boundary-testing]] → [[commitment-consistency]], [[dissonance-exploitation]]
 - [[breadcrumbing]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]]
@@ -241,6 +251,7 @@
 - [[non-apology-patterns]] → [[guilt-leverage]], [[trust-mechanics]]
 - [[parasocial-influencer-tactics]] → [[liking-similarity]], [[trust-mechanics]]
 - [[parentification]] → [[attachment-needs]], [[guilt-leverage]]
+- [[phishing-pretexting]] → [[authority]], [[fear-exploitation]], [[information-asymmetry]], [[scarcity-urgency]], [[trust-mechanics]]
 - [[pip-weaponization]] → [[fear-exploitation]]
 - [[pity-plays]] → [[guilt-leverage]], [[trust-mechanics]]
 - [[projection-blame-shifting]] → [[dissonance-exploitation]], [[guilt-leverage]], [[memory-fallibility]]

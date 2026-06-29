@@ -9,11 +9,12 @@ co-occurs-with: [mirroring-false-identity, boundary-testing, future-faking]
 precedes: [isolation-tactics, conditional-love]
 countered-by: [verification-rituals, boundary-scripts]
 distinguished-from: [limerence, genuine-rapport]
+targets: [loneliness-isolation]
 severity: high
 evidence: clinical
 safety: dv-escalation
 status: complete
-last-updated: 2026-06-12
+last-updated: 2026-06-29
 ---
 
 # Love Bombing

@@ -9,11 +9,12 @@ exploits: [attachment-needs, hope-greed, commitment-consistency]
 co-occurs-with: [grooming-sequence, con-anatomy]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-online-relationship]
+targets: [loneliness-isolation, crisis-windows]
 severity: high
 evidence: supported
 safety: crisis-escalation
 status: complete
-last-updated: 2026-06-20
+last-updated: 2026-06-29
 ---
 
 # Romance Scam Arc

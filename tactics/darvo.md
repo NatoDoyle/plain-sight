@@ -10,10 +10,11 @@ enables: [history-rewriting]
 countered-by: [documentation-practices, jade-avoidance]
 distinguished-from: [honest-disagreement, self-protection]
 favored-by: [narcissistic-patterns]
+targets: [betrayal-blindness]
 severity: high
 evidence: supported
 status: complete
-last-updated: 2026-06-27
+last-updated: 2026-06-29
 ---
 
 # DARVO

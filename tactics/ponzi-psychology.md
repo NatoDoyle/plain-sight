@@ -7,10 +7,11 @@ domains: [scams-fraud]
 exploits: [hope-greed, trust-mechanics, social-proof, information-asymmetry]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-opportunity, illegal-pyramid-scheme]
+targets: [optimism-overconfidence]
 severity: high
 evidence: supported
 status: complete
-last-updated: 2026-06-27
+last-updated: 2026-06-29
 ---
 
 # Ponzi Psychology

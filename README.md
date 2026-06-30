@@ -1,4 +1,6 @@
-# Mind Protector
+# Plain Sight
+
+*Manipulation works by staying hidden — this is the field guide that drags it into plain sight.*
 
 A defensive knowledge base on manipulation: every major tactic, the psychological mechanisms it exploits, the arenas it appears in, the people who use it, the people it targets, and — above all — how to recognize and counter it.
 
@@ -41,14 +43,14 @@ Scroll up to the file list at the top of this page, click a folder (e.g. **`tact
 
 **Step 1 — Download the files to your computer.**
 - On this page, click the green **`<> Code`** button (top right of the file list) → **Download ZIP**.
-- Find the downloaded `mind-protector-main.zip`, double-click it to unzip, and you'll get a folder called `mind-protector-main` (rename it to `mind-protector` if you like). Remember where you put it.
+- Find the downloaded `plain-sight-main.zip`, double-click it to unzip, and you'll get a folder called `plain-sight-main` (rename it to `plain-sight` if you like). Remember where you put it.
 
 **Step 2 — Install Obsidian (free).**
 - Go to **[obsidian.md](https://obsidian.md)** → click **Download** → install it like any normal app (Windows, macOS, or Linux) → open it.
 
 **Step 3 — Open the folder as a "vault".**
 - A *vault* is just Obsidian's word for "a folder of notes."
-- On Obsidian's start screen, click **Open folder as vault** → select the `mind-protector` folder you unzipped → **Open**.
+- On Obsidian's start screen, click **Open folder as vault** → select the `plain-sight` folder you unzipped → **Open**.
 - If Obsidian asks whether to **Trust author and enable plugins**, you can trust it — these are plain text files; no code runs. (You don't need any plugins to read it.)
 
 **Step 4 — Look around.**
@@ -72,10 +74,10 @@ Every file is plain **Markdown** (`.md`). Open them in Notepad, TextEdit, VS Cod
 If you'd like to *pull updates* instead of re-downloading the ZIP: install **[Git](https://git-scm.com/downloads)**, then in a terminal run
 
 ```
-git clone https://github.com/NatoDoyle/mind-protector.git
+git clone https://github.com/NatoDoyle/plain-sight.git
 ```
 
-Later, `cd mind-protector` and run `git pull` to get the latest. (This is optional — the ZIP download above is perfectly fine.)
+Later, `cd plain-sight` and run `git pull` to get the latest. (This is optional — the ZIP download above is perfectly fine.)
 
 ---
 

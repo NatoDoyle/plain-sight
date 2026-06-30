@@ -1,4 +1,4 @@
-# CLAUDE.md — AI operating manual for the Mind Protector knowledge base
+# CLAUDE.md — AI operating manual for the Plain Sight knowledge base
 
 This repo is a defensive knowledge base on manipulation, built to ground a future defense agent. You (the AI session) are both its librarian and its researcher. This file tells you how to query it, extend it, and never corrupt it.
 

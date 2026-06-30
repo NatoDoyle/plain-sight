@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Mind Protector KB toolchain (stdlib only).
+"""Plain Sight KB toolchain (stdlib only).
 
 Commands:
   validate  schema, enums, id=filename, edge/wikilink resolution, section gates

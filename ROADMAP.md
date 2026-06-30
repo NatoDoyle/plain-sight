@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–5 COMPLETE · **Tier 6 at 12/15** (only recover/help/systems left) · 138/147 complete · next: `recovery-rebuilding`, `helping-others`, `organizational-defenses` close Tier 6 → then Tier 7 (tactic×mechanism matrix, tactic×context matrix, playbooks-compendium, defense-agent-spec, 4). · last updated 2026-06-30
+**Status:** **TIERS 0–6 COMPLETE** (all 15 defenses done) · 141/147 complete · **only Tier 7 remains (the synthesis finale, 4): tactic×mechanism matrix, tactic×context matrix, playbooks-compendium, defense-agent-spec.** · last updated 2026-06-30
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -170,10 +170,10 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `no-contact-exit-planning` — graded disengagement: limited contact → no contact; relationships/family/jobs/groups
 - [x] `dv-safety-planning` — leaving safely is the highest-risk window; professional protocols, hotlines (safety-critical)
 - [x] `cult-exit-support` — exit counseling vs deprogramming; identity reconstruction; family do's/don'ts
-- [ ] `recovery-rebuilding` — self-trust repair, therapy modalities with evidence notes, post-exploitation finances
-- [ ] `helping-others` — intervening without pushing them deeper (motivational-interviewing stance, ultimatum risks)
+- [x] `recovery-rebuilding` — self-trust repair, therapy modalities with evidence notes, post-exploitation finances
+- [x] `helping-others` — intervening without pushing them deeper (motivational-interviewing stance, ultimatum risks)
 - [x] `inoculation-prebunking` — attitudinal vaccines: weakened-dose exposure to tactics (van der Linden, McGuire)
-- [ ] `organizational-defenses` — procurement gates, hiring screens, anti-fraud controls, speak-up cultures
+- [x] `organizational-defenses` — procurement gates, hiring screens, anti-fraud controls, speak-up cultures
 
 ## Tier 7 — Synthesis (taxonomy/, meta/)
 

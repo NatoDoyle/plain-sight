@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** **TIERS 0–6 COMPLETE** (all 15 defenses done) · 141/147 complete · **only Tier 7 remains (the synthesis finale, 4): tactic×mechanism matrix, tactic×context matrix, playbooks-compendium, defense-agent-spec.** · last updated 2026-06-30
+**Status:** ✅ **ALL TIERS COMPLETE — 147/147.** Tiers 0–7 done: 3 foundations · 23 mechanisms · 65 tactics · 10 dynamics · 12 contexts · 6 profiles · 9 vulnerabilities · 15 defenses · 7 meta/synthesis. Validates with 0 errors; graph + both matrices regenerate clean; 49 safety-flagged files; 78 false-positive contrast concepts. The synthesis finale ([[felt-sense-index]], [[playbooks-compendium]], [[defense-agent-spec]], [[coverage-audit]]) is in. Remaining work is maintenance: localize resources beyond US/UK, refresh fast-moving files, thicken causal edges (see [[coverage-audit]]). · last updated 2026-06-30
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -177,7 +177,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 
 ## Tier 7 — Synthesis (taxonomy/, meta/)
 
-- [ ] `playbooks-compendium` (taxonomy) — named multi-tactic sequences cataloged across domains
-- [ ] `felt-sense-index` (taxonomy) — reverse index: what the target feels → candidate tactics ("confused after every talk" → …)
-- [ ] `defense-agent-spec` (meta) — system prompt, retrieval strategy, confidence calibration, safety escalation rules
-- [ ] `coverage-audit` (taxonomy) — final gap analysis: orphan nodes, missing edges, untested scenarios
+- [x] `playbooks-compendium` (taxonomy) — named multi-tactic sequences cataloged across domains
+- [x] `felt-sense-index` (taxonomy) — reverse index: what the target feels → candidate tactics ("confused after every talk" → …)
+- [x] `defense-agent-spec` (meta) — system prompt, retrieval strategy, confidence calibration, safety escalation rules
+- [x] `coverage-audit` (taxonomy) — final gap analysis: orphan nodes, missing edges, untested scenarios

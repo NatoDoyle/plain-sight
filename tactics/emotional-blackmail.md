@@ -9,11 +9,12 @@ co-occurs-with: [guilt-tripping, veiled-threats, self-harm-threats]
 escalates-to: [coercive-control]
 countered-by: [boundary-scripts, jade-avoidance]
 distinguished-from: [honest-hurt, assertiveness]
+targets: [people-pleasing-fawn]
 severity: high
 evidence: clinical
 safety: dv-escalation
 status: complete
-last-updated: 2026-06-18
+last-updated: 2026-06-30
 ---
 
 # Emotional Blackmail

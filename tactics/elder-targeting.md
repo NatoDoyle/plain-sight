@@ -8,11 +8,12 @@ exploits: [trust-mechanics, attachment-needs]
 co-occurs-with: [isolation-tactics, financial-abuse]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [legitimate-caregiving]
+targets: [cognitive-decline-age]
 severity: high
 safety: elder-abuse-escalation
 evidence: supported
 status: complete
-last-updated: 2026-06-24
+last-updated: 2026-06-30
 ---
 
 # Elder Targeting

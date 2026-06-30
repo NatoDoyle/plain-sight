@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–4 COMPLETE · **Tier 5 at 12/15** — all 6 profiles + 6 vulnerabilities done · 126/147 complete · next: **3 remaining vulnerabilities** (`trauma-history-revictimization`, `people-pleasing-fawn`, `cognitive-decline-age`) close Tier 5 → then Tier 6 (defenses/recovery, 12), Tier 7 (synthesis + defense-agent-spec, 4). · last updated 2026-06-29
+**Status:** **TIERS 0–5 COMPLETE** — foundations + 23 mechanisms + 33 cross-domain tactics + 30 domain tactics + 10 dynamics + 12 contexts + 6 profiles + 9 vulnerabilities + 3 keystone defenses · 129/147 complete · next: **Tier 6** (defenses/recovery, 12: `universal-red-flags`, `manipulation-audit`, `gray-rock`, `jade-avoidance`, `documentation-practices`, `no-contact-exit-planning`, `dv-safety-planning`, `cult-exit-support`, `recovery-rebuilding`, `helping-others`, `inoculation-prebunking`, `organizational-defenses`) → then Tier 7 (synthesis matrices + playbooks + defense-agent-spec, 4). · last updated 2026-06-30
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -153,9 +153,9 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `why-smart-people-fall` — intelligence ≠ immunity; expertise overconfidence; the fraud-victim profile myth
 - [x] `crisis-windows` — bereavement, divorce, illness, relocation, job loss as targeting windows
 - [x] `loneliness-isolation` — social hunger as attack surface
-- [ ] `trauma-history-revictimization` — normalized red flags and re-selection dynamics
-- [ ] `people-pleasing-fawn` — conflict-avoidant compliance and exploitability
-- [ ] `cognitive-decline-age` — aging, decision fatigue, and financial-exploitation susceptibility
+- [x] `trauma-history-revictimization` — normalized red flags and re-selection dynamics
+- [x] `people-pleasing-fawn` — conflict-avoidant compliance and exploitability
+- [x] `cognitive-decline-age` — aging, decision fatigue, and financial-exploitation susceptibility
 - [x] `optimism-overconfidence` — "it can't happen to me"; bias blind spot
 - [x] `scarcity-stress` — financial desperation narrowing judgment (tunneling)
 - [x] `betrayal-blindness` — motivated unawareness when dependence is high (Freyd)

@@ -8,11 +8,12 @@ composed-of: [mirroring-false-identity, pity-plays, boundary-testing, isolation-
 exploits: [trust-mechanics]
 countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [ordinary-mentorship]
+targets: [trauma-history-revictimization]
 severity: critical
 evidence: supported
 safety: crisis-escalation
 status: complete
-last-updated: 2026-06-20
+last-updated: 2026-06-30
 ---
 
 # Grooming Sequence

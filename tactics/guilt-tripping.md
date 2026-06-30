@@ -10,11 +10,12 @@ escalates-to: [emotional-blackmail]
 countered-by: [boundary-scripts, jade-avoidance]
 distinguished-from: [honest-hurt, assertiveness]
 favored-by: [everyday-manipulators]
+targets: [people-pleasing-fawn]
 severity: medium
 evidence: supported
 safety: crisis-escalation
 status: complete
-last-updated: 2026-06-27
+last-updated: 2026-06-30
 ---
 
 # Guilt-Tripping

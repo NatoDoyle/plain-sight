@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** **TIERS 0–5 COMPLETE** — foundations + 23 mechanisms + 33 cross-domain tactics + 30 domain tactics + 10 dynamics + 12 contexts + 6 profiles + 9 vulnerabilities + 3 keystone defenses · 129/147 complete · next: **Tier 6** (defenses/recovery, 12: `universal-red-flags`, `manipulation-audit`, `gray-rock`, `jade-avoidance`, `documentation-practices`, `no-contact-exit-planning`, `dv-safety-planning`, `cult-exit-support`, `recovery-rebuilding`, `helping-others`, `inoculation-prebunking`, `organizational-defenses`) → then Tier 7 (synthesis matrices + playbooks + defense-agent-spec, 4). · last updated 2026-06-30
+**Status:** Tiers 0–5 COMPLETE · **Tier 6 at 6/15** (3 keystone defenses + universal-red-flags, manipulation-audit, gray-rock) · 132/147 complete · next: remaining Tier-6 defenses — batch 2 (`jade-avoidance`, `documentation-practices`, `inoculation-prebunking`), batch 3 exit/safety (`no-contact-exit-planning`, `dv-safety-planning`, `cult-exit-support`), batch 4 (`recovery-rebuilding`, `helping-others`, `organizational-defenses`) → then Tier 7 (synthesis matrices + playbooks + defense-agent-spec, 4). · last updated 2026-06-30
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -162,9 +162,9 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 
 ## Tier 6 — Defenses & recovery (defenses/)
 
-- [ ] `universal-red-flags` — the master cross-context warning list, ranked by diagnosticity
-- [ ] `manipulation-audit` — structured self-check protocol when something feels off (the agent's core procedure)
-- [ ] `gray-rock` — low-information unresponsiveness: how, when, risks (can escalate some abusers)
+- [x] `universal-red-flags` — the master cross-context warning list, ranked by diagnosticity
+- [x] `manipulation-audit` — structured self-check protocol when something feels off (the agent's core procedure)
+- [x] `gray-rock` — low-information unresponsiveness: how, when, risks (can escalate some abusers)
 - [ ] `jade-avoidance` — don't Justify, Argue, Defend, Explain; resisting engagement hooks
 - [ ] `documentation-practices` — contemporaneous records, message preservation, witnesses, legality of recording
 - [ ] `no-contact-exit-planning` — graded disengagement: limited contact → no contact; relationships/family/jobs/groups

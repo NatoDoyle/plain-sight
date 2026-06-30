@@ -130,3 +130,12 @@ Built topic-by-topic per `METHODOLOGY.md`.
 ## Ethics
 
 This knowledge base documents manipulation the way security research documents attacks: because defenders need the playbook more than attackers do (attackers already have it). Entries describe mechanics sufficient for recognition and defense, lead with counters, flag weak evidence, and insist on alternative innocent explanations. **Label behaviors, not people; patterns, not incidents.** Nothing here is therapy, legal advice, or a tool for diagnosing a real person.
+
+## License
+
+Dual-licensed, so the writing and the code each carry the right terms:
+
+- **The knowledge base** — every Markdown topic file, template, and doc outside `tools/` — is **[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)**. You may share and adapt it, including commercially, as long as you give appropriate credit. © 2026 Nathan Doyle.
+- **The tooling** under [`tools/`](tools/) (e.g. `kb.py`) is **[MIT](tools/LICENSE)**.
+
+Suggested attribution: *"Plain Sight by Nathan Doyle (github.com/NatoDoyle/plain-sight), CC BY 4.0."* None of this is legal, medical, or therapeutic advice — see *What this is (and is not)* above.

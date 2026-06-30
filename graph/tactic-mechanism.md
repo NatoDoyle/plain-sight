@@ -28,6 +28,7 @@
 ### [[authority]]
 - [[affinity-fraud]]
 - [[ai-enabled-manipulation]]
+- [[bad-faith-negotiation]]
 - [[credit-theft-visibility]]
 - [[phishing-pretexting]]
 - [[propaganda-devices]]
@@ -44,6 +45,7 @@
 
 ### [[cognitive-overload-confusion]]
 - [[bad-faith-argumentation]]
+- [[bad-faith-negotiation]]
 - [[circular-conversation]]
 - [[dark-patterns-obstruction]]
 - [[disinformation-playbooks]]
@@ -54,6 +56,7 @@
 - [[timeshare-playbook]]
 
 ### [[commitment-consistency]]
+- [[bad-faith-negotiation]]
 - [[boundary-testing]]
 - [[con-anatomy]]
 - [[escalation-entrapment]]
@@ -82,6 +85,7 @@
 - [[double-binds]]
 - [[emotional-blackmail]]
 - [[financial-abuse]]
+- [[fud-competitor-tactics]]
 - [[phishing-pretexting]]
 - [[pip-weaponization]]
 - [[radicalization-pipeline]]
@@ -95,6 +99,7 @@
 
 ### [[framing-anchoring]]
 - [[bad-faith-argumentation]]
+- [[bad-faith-negotiation]]
 - [[disinformation-playbooks]]
 - [[propaganda-devices]]
 - [[thats-not-all-decoys]]
@@ -127,6 +132,7 @@
 
 ### [[information-asymmetry]]
 - [[four-square-payment-packing]]
+- [[fud-competitor-tactics]]
 - [[isolation-tactics]]
 - [[lying-typologies]]
 - [[phishing-pretexting]]
@@ -152,6 +158,7 @@
 
 ### [[loss-aversion-endowment]]
 - [[escalation-entrapment]]
+- [[fud-competitor-tactics]]
 
 ### [[memory-fallibility]]
 - [[darvo]]
@@ -160,6 +167,7 @@
 - [[projection-blame-shifting]]
 
 ### [[reciprocity]]
+- [[bad-faith-negotiation]]
 - [[door-in-the-face]]
 - [[guilt-tripping]]
 - [[love-bombing]]
@@ -168,6 +176,7 @@
 - [[weaponized-incompetence]]
 
 ### [[scarcity-urgency]]
+- [[bad-faith-negotiation]]
 - [[dark-patterns-social-urgency]]
 - [[manufactured-urgency]]
 - [[mlm-recruitment-scripts]]
@@ -231,6 +240,7 @@
 - [[affinity-fraud]] → [[authority]], [[social-proof]], [[trust-mechanics]], [[unity-ingroup]]
 - [[ai-enabled-manipulation]] → [[authority]], [[fear-exploitation]], [[liking-similarity]], [[trust-mechanics]]
 - [[bad-faith-argumentation]] → [[cognitive-overload-confusion]], [[framing-anchoring]]
+- [[bad-faith-negotiation]] → [[authority]], [[cognitive-overload-confusion]], [[commitment-consistency]], [[framing-anchoring]], [[reciprocity]], [[scarcity-urgency]]
 - [[boundary-testing]] → [[commitment-consistency]], [[dissonance-exploitation]]
 - [[breadcrumbing]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]]
 - [[charm-offensive]] → [[liking-similarity]], [[trust-mechanics]]
@@ -254,6 +264,7 @@
 - [[financial-abuse]] → [[fear-exploitation]]
 - [[foot-in-the-door]] → [[commitment-consistency]]
 - [[four-square-payment-packing]] → [[cognitive-overload-confusion]], [[commitment-consistency]], [[information-asymmetry]]
+- [[fud-competitor-tactics]] → [[fear-exploitation]], [[information-asymmetry]], [[loss-aversion-endowment]]
 - [[future-faking]] → [[attachment-needs]], [[commitment-consistency]], [[hope-greed]]
 - [[gaslighting]] → [[attachment-needs]], [[certainty-needs]], [[memory-fallibility]], [[trust-mechanics]]
 - [[golden-child-scapegoat]] → [[attachment-needs]]

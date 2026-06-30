@@ -137,8 +137,8 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `cold-reading` — Barnum statements, shotgunning, sleight of tongue (psychics, "intuitives", interviewers)
 - [x] `affinity-fraud` — exploiting shared faith/ethnicity/community trust networks
 - [x] `ponzi-psychology` — why returns-too-good survive scrutiny: exclusivity, redemption theater, social proof
-- [ ] `fud-competitor-tactics` — fear-uncertainty-doubt against rivals; switching-cost terror; vaporware promises
-- [ ] `bad-faith-negotiation` — good cop/bad cop, higher authority, nibbling, brinkmanship, false deadlines
+- [x] `fud-competitor-tactics` — fear-uncertainty-doubt against rivals; switching-cost terror; vaporware promises
+- [x] `bad-faith-negotiation` — good cop/bad cop, higher authority, nibbling, brinkmanship, false deadlines
 - [x] `propaganda-devices` — the classic device set (IPA seven + modern descendants)
 - [x] `disinformation-playbooks` — firehose of falsehood, flooding, manufactured consensus, source laundering
 

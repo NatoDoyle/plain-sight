@@ -6,7 +6,7 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** Tiers 0–5 COMPLETE · **Tier 6 at 6/15** (3 keystone defenses + universal-red-flags, manipulation-audit, gray-rock) · 132/147 complete · next: remaining Tier-6 defenses — batch 2 (`jade-avoidance`, `documentation-practices`, `inoculation-prebunking`), batch 3 exit/safety (`no-contact-exit-planning`, `dv-safety-planning`, `cult-exit-support`), batch 4 (`recovery-rebuilding`, `helping-others`, `organizational-defenses`) → then Tier 7 (synthesis matrices + playbooks + defense-agent-spec, 4). · last updated 2026-06-30
+**Status:** Tiers 0–5 COMPLETE · **Tier 6 at 9/15** (3 keystone + universal-red-flags, manipulation-audit, gray-rock, jade-avoidance, documentation-practices, inoculation-prebunking) · 135/147 complete · next: Tier-6 exit/safety batch (`no-contact-exit-planning`, `dv-safety-planning`, `cult-exit-support`) + recover/help/systems (`recovery-rebuilding`, `helping-others`, `organizational-defenses`) → then Tier 7 (synthesis matrices + playbooks + defense-agent-spec, 4). · last updated 2026-06-30
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -165,14 +165,14 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `universal-red-flags` — the master cross-context warning list, ranked by diagnosticity
 - [x] `manipulation-audit` — structured self-check protocol when something feels off (the agent's core procedure)
 - [x] `gray-rock` — low-information unresponsiveness: how, when, risks (can escalate some abusers)
-- [ ] `jade-avoidance` — don't Justify, Argue, Defend, Explain; resisting engagement hooks
-- [ ] `documentation-practices` — contemporaneous records, message preservation, witnesses, legality of recording
+- [x] `jade-avoidance` — don't Justify, Argue, Defend, Explain; resisting engagement hooks
+- [x] `documentation-practices` — contemporaneous records, message preservation, witnesses, legality of recording
 - [ ] `no-contact-exit-planning` — graded disengagement: limited contact → no contact; relationships/family/jobs/groups
 - [ ] `dv-safety-planning` — leaving safely is the highest-risk window; professional protocols, hotlines (safety-critical)
 - [ ] `cult-exit-support` — exit counseling vs deprogramming; identity reconstruction; family do's/don'ts
 - [ ] `recovery-rebuilding` — self-trust repair, therapy modalities with evidence notes, post-exploitation finances
 - [ ] `helping-others` — intervening without pushing them deeper (motivational-interviewing stance, ultimatum risks)
-- [ ] `inoculation-prebunking` — attitudinal vaccines: weakened-dose exposure to tactics (van der Linden, McGuire)
+- [x] `inoculation-prebunking` — attitudinal vaccines: weakened-dose exposure to tactics (van der Linden, McGuire)
 - [ ] `organizational-defenses` — procurement gates, hiring screens, anti-fraud controls, speak-up cultures
 
 ## Tier 7 — Synthesis (taxonomy/, meta/)

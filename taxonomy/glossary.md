@@ -42,6 +42,12 @@ One-line definitions and alias routing. Terms that have their own file point to 
 - **loss aversion & endowment** → [[loss-aversion-endowment]] — manufacture ownership, then price the taking-away
 - **dissonance exploitation** → [[dissonance-exploitation]] — implicate the target; self-justification locks the door
 - **memory fallibility** → [[memory-fallibility]] — reconstructive memory as gaslighting's substrate; first tellings are best evidence
+- **tone policing** → [[tone-policing]] — dismissing a message for its emotional tone instead of its content
+- **trauma dumping** → [[pity-plays]], [[emotional-blackmail]] — weaponized oversharing of distress to manufacture forced intimacy or obligation; distinct from a person in genuine distress simply needing support (not manipulation)
+- **coaching / guru funnels** → [[parasocial-influencer-tactics]], [[mlm-recruitment-scripts]] — high-ticket coaching / mastermind / webinar sales built on manufactured intimacy, income puffery, and scarcity
+- **love fraud / double life** → [[mirroring-false-identity]], [[romance-scam-arc]] — an in-person long con of a fabricated romantic persona or secret double life (bigamy, sweetheart swindles)
+- **guilt by association** → [[propaganda-devices]], [[smear-campaigns]] — discrediting a target by linking them to a disfavored group or person rather than engaging their actual position (the "transfer"/association device)
+- **shifting the Overton window** → [[overton-window-shifting]] — normalizing a once-fringe position by repetition and extreme anchoring so the perceived center drifts
 
 ## Contrast concepts
 
@@ -78,6 +84,7 @@ Innocent or neighboring look-alikes that the KB distinguishes manipulation **fro
 - `evolving-requirements` — standards that honestly change with circumstances: announced, symmetric, with the change acknowledged and prior work credited
 - `genuine-reconciliation` — a sincere, behavior-backed attempt to repair and change after a breakup or rupture: takes responsibility, accepts "no," respects boundaries, and shows changed conduct over time rather than a flood of words
 - `honest-feedback` — accurate, useful critique delivered to help the recipient improve; survives being asked "what specifically, and how do I fix it?" and is not timed to lower the recipient's standing
+- `legitimate-civility-request` — asking someone to stop contempt, insults, threats, or abuse and engage respectfully — applied symmetrically, with a reachable standard, and *while still engaging the substance*; a genuine communication-repair request, distinct from [[tone-policing]], which substitutes a complaint about delivery *for* answering the point, keeps the goalposts moving, and is applied by status
 - `playful-teasing` — mutual, affectionate banter between equals that both enjoy and either can stop; distinct from status-lowering put-downs aimed one direction
 - `genuine-dilemma` — a real hard choice with actual competing costs in the world, not engineered by a person who punishes every option; the tradeoff is in reality, not manufactured to trap
 - `honest-reinterpretation` — sincerely understanding a past event differently over time (growth, new information, therapy) without asserting the new view is what everyone always agreed; non-deceptive, owns itself as a changed perspective

@@ -1,0 +1,15 @@
+# Bibliography log — spiritual-abuse
+
+Sweep date 2026-07-01: researched in the 2026-07-01 Tier 8 maintenance pass via a parallel source-sweep (academic + practitioner + regulatory + skeptic categories) with web verification of every load-bearing citation, then passed adversarial red-team review before completion (all spot-checked citations verified accurate). See `tactics/spiritual-abuse.md` for the citations in context and METHODOLOGY.md for the pipeline.
+
+## Sources
+
+1. Oakley, L., Kinmond, K., & Humphreys, J. (2018). "Spiritual abuse in Christian faith settings: definition, policy and practice guidance." *Journal of Adult Protection* 20(3/4), 144–154. doi:10.1108/JAP-03-2018-0005 — the peer-reviewed anchor (definition; Bournemouth/NCPQSW survey). See also Oakley, L. & Kinmond, K. (2013). *Breaking the Silence on Spiritual Abuse.* Palgrave Macmillan. `supported`.
+2. Thirtyone:eight (formerly CCPAS) (2018). "Spiritual Abuse — A Position Paper." thirtyoneeight.org — carries the Oakley definition; frames spiritual abuse as a distinct expression of emotional/psychological abuse.
+3. Church of England, Safeguarding e-manual §4.2 "Spiritual Abuse" — institutional adoption of the category. Real-case anchor: the 2018 Bishop's Disciplinary Tribunal finding against Revd Timothy Davis ("abuse of spiritual power and authority"; 2-year prohibition), widely reported as the CoE's first such finding (presented as the documented 2018 outcome; later appellate history not confirmed here).
+4. Enroth, R. M. (1992). *Churches That Abuse.* Zondervan — ten traits of abusive churches (control-oriented leadership, spiritual elitism, manipulation, suppression of dissent, harsh discipline, painful exit). Christian-sociology, case-based; practitioner grade.
+5. Winell, M. (2011). "Religious Trauma Syndrome," *Cognitive Behaviour Therapy Today* (BABCP), 3-part series; journeyfree.org. Practitioner construct — **`folk`**, not a recognized diagnosis.
+6. Truong, M., & Ghafournia, N. (2024). "Understanding spiritual and religious abuse in the context of intimate partner violence." Australian Institute of Family Studies — government research; the key nuance that religion is *both* a risk factor for and a protective resource against IPV. See also Baird, J. & Gleeson, H. (2017), ABC News (Australia), on "submit to your husbands" theology and DV [7].
+7. Baird & Gleeson (2017), ABC News investigation into male-headship theology (Ephesians 5:22) used to keep women in abusive marriages; prompted denominational responses. Anchor for the submission-theology/DV dimension.
+8. Klein, L. K. (2018). *Pure.* Simon & Schuster — purity culture, shame, and sexual control (evidence: memoir + reportage; `folk`/phenomenology for recognition language).
+9. Evangelical Alliance, "Reviewing the Discourse of 'Spiritual Abuse'" (eauk.org) — the steelman critique: formalizing the category risks criminalizing communities over disputed theology; the term lacks a settled legal/diagnostic definition. The distinct-category status is `contested`.

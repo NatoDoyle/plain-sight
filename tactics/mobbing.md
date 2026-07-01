@@ -6,13 +6,13 @@ aliases: [workplace mobbing, group bullying, psychological terror at work, gangi
 domains: [workplace-bosses]
 exploits: [social-proof, unity-ingroup]
 co-occurs-with: [smear-campaigns, isolation-tactics]
-countered-by: [documentation-practices, detection-heuristics]
+countered-by: [documentation-practices, detection-heuristics, organizational-defenses]
 distinguished-from: [legitimate-collective-feedback]
 severity: high
 evidence: supported
 safety: crisis-escalation
 status: complete
-last-updated: 2026-06-24
+last-updated: 2026-07-01
 ---
 
 # Mobbing

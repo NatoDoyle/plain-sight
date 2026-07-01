@@ -7,10 +7,11 @@ domains: [sales, scams-fraud, digital-platforms, intimate-relationships]
 exploits: [scarcity-urgency, cognitive-overload-confusion]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-deadline, hard-bargaining]
+targets: [scarcity-stress]
 severity: medium
 evidence: supported
 status: complete
-last-updated: 2026-06-20
+last-updated: 2026-07-01
 ---
 
 # Manufactured Urgency

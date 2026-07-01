@@ -8,11 +8,12 @@ exploits: [guilt-leverage, fear-exploitation]
 co-occurs-with: [emotional-blackmail]
 countered-by: [boundary-scripts, detection-heuristics]
 distinguished-from: [sexual-negotiation]
+targets: [people-pleasing-fawn, trauma-history-revictimization]
 severity: high
 safety: dv-escalation
 evidence: supported
 status: complete
-last-updated: 2026-06-23
+last-updated: 2026-07-01
 ---
 
 # Sexual Coercion

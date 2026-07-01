@@ -6,12 +6,12 @@ aliases: [fud, fear uncertainty and doubt, vaporware, doubt-mongering, fudding, 
 domains: [competitors-business, advertising-marketing, sales]
 exploits: [fear-exploitation, loss-aversion-endowment, information-asymmetry]
 co-occurs-with: [smear-campaigns, manufactured-urgency]
-countered-by: [verification-rituals, detection-heuristics]
+countered-by: [verification-rituals, detection-heuristics, organizational-defenses]
 distinguished-from: [genuine-warning]
 severity: medium
 evidence: supported
 status: complete
-last-updated: 2026-06-30
+last-updated: 2026-07-01
 ---
 
 # FUD (Fear, Uncertainty, Doubt) Against Competitors

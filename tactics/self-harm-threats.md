@@ -7,11 +7,12 @@ domains: [intimate-relationships, family-parents]
 exploits: [fear-exploitation, guilt-leverage, attachment-needs]
 countered-by: [dv-safety-planning, boundary-scripts]
 distinguished-from: [genuine-crisis]
+targets: [people-pleasing-fawn]
 severity: critical
 evidence: clinical
 safety: crisis-escalation
 status: complete
-last-updated: 2026-06-18
+last-updated: 2026-07-01
 ---
 
 # Self-Harm Threats as Control

@@ -7,11 +7,12 @@ domains: [intimate-relationships, family-parents]
 exploits: [fear-exploitation]
 countered-by: [dv-safety-planning, documentation-practices]
 distinguished-from: [shared-financial-management]
+targets: [scarcity-stress]
 severity: high
 evidence: supported
 safety: dv-escalation
 status: complete
-last-updated: 2026-06-23
+last-updated: 2026-07-01
 ---
 
 # Financial Abuse

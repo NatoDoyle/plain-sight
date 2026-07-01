@@ -6,12 +6,13 @@ aliases: [phishing, pretexting, spear-phishing, whaling, business email compromi
 domains: [scams-fraud, digital-platforms]
 exploits: [authority, fear-exploitation, scarcity-urgency, trust-mechanics, information-asymmetry]
 co-occurs-with: [ai-enabled-manipulation]
-countered-by: [verification-rituals, detection-heuristics]
+countered-by: [verification-rituals, detection-heuristics, organizational-defenses]
 distinguished-from: [genuine-warning]
+targets: [why-smart-people-fall]
 severity: high
 evidence: supported
 status: complete
-last-updated: 2026-06-27
+last-updated: 2026-07-01
 ---
 
 # Phishing & Pretexting

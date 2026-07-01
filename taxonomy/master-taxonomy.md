@@ -103,7 +103,7 @@ Every well-known framework is a partial map — mechanism-level, tactic-level, o
 
 ## Caveats
 
-- **Categories blur at the edges.** Tactics are fractal (gaslighting contains lying; coercive control contains nearly everything). The `variant-of` and `composed-of` edges express containment without pretending categories are crisp.
+- **Categories blur at the edges.** Tactics are fractal (gaslighting contains lying; coercive control contains nearly everything). The `composed-of` edge expresses containment without pretending categories are crisp; `variant-of` is defined in the schema but currently carries no edges — the KB expresses tactic specialization through separate files plus `distinguished-from`/`co-occurs-with` rather than a strict subtype hierarchy.
 - **A taxonomy is a tool, not a truth.** Kellermann & Cole's verdict on 74 prior influence taxonomies — overlapping, atheoretical, non-equivalent [3] — is a warning label for this one too. The crosswalk keeps this KB falsifiable against the literatures it synthesizes.
 - **The crosswalk is WEIRD-heavy.** Nearly every framework above is US/Western in origin and sample. Cross-cultural validity varies by layer — core mechanisms like [[reciprocity]] appear near-universal; specific tactics, norms, and thresholds shift across cultures (*cultural difference*). Domain files flag cultural scope where it bites.
 - **Framework critiques carry into their files.** BITE/thought-reform models have academic critics (and the APA's 1987 DIMPAC memo declined to endorse brainwashing theory) [8]; the Duluth model is criticized for gender asymmetry and weak intervention-outcome evidence [9]; IDT was famously challenged on explanatory grounds [11]. Domain files inherit these debates in their Evidence sections.

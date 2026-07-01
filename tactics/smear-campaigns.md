@@ -8,6 +8,7 @@ exploits: [social-proof, trust-mechanics]
 co-occurs-with: [proxy-recruitment]
 countered-by: [documentation-practices, detection-heuristics]
 distinguished-from: [genuine-warning, honest-disagreement]
+favored-by: [narcissistic-patterns]
 severity: high
 evidence: supported
 safety: dv-escalation

@@ -8,10 +8,11 @@ exploits: [memory-fallibility, guilt-leverage, dissonance-exploitation]
 co-occurs-with: [gaslighting, victim-posturing]
 countered-by: [documentation-practices, jade-avoidance]
 distinguished-from: [honest-disagreement, honest-hurt]
+favored-by: [narcissistic-patterns]
 severity: medium
 evidence: supported
 status: complete
-last-updated: 2026-06-12
+last-updated: 2026-07-01
 ---
 
 # Projection & Blame-Shifting

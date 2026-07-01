@@ -10,11 +10,12 @@ co-occurs-with: [grooming-sequence, con-anatomy]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-online-relationship]
 targets: [loneliness-isolation, crisis-windows]
+favored-by: [con-artist-typologies]
 severity: high
 evidence: supported
 safety: crisis-escalation
 status: complete
-last-updated: 2026-06-29
+last-updated: 2026-07-01
 ---
 
 # Romance Scam Arc

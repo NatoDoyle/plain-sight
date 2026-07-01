@@ -9,11 +9,12 @@ exploits: [trust-mechanics]
 countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [ordinary-mentorship]
 targets: [trauma-history-revictimization]
+favored-by: [psychopathic-patterns]
 severity: critical
 evidence: supported
 safety: crisis-escalation
 status: complete
-last-updated: 2026-06-30
+last-updated: 2026-07-01
 ---
 
 # Grooming Sequence

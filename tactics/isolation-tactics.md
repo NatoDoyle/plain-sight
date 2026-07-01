@@ -9,11 +9,12 @@ co-occurs-with: [stalkerware-monitoring, financial-abuse, smear-campaigns]
 enables: [coercive-control]
 countered-by: [boundary-scripts, documentation-practices]
 distinguished-from: [genuine-rapport, self-protective-distance]
+targets: [loneliness-isolation]
 severity: critical
 evidence: established
 safety: dv-escalation
 status: complete
-last-updated: 2026-06-12
+last-updated: 2026-07-01
 ---
 
 # Isolation Tactics

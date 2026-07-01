@@ -92,8 +92,8 @@ If pacing requests reliably produce punishment, if isolation pressure follows th
 
 ### Not love bombing when…
 
-- **Mutual [[limerence]]** — naturally intense early infatuation, *symmetric and unscripted*, that respects pacing requests and survives them. Intensity alone is the worst single cue in this file.
-- **Cultural and personal courtship styles** — fast timelines are conventional in some cultures and temperaments ([[cultural-difference]]); generous gift-giving is many people's sincere love language ([[genuine-generosity]]: no strings, survives non-repayment).
+- **Mutual *limerence*** — naturally intense early infatuation, *symmetric and unscripted*, that respects pacing requests and survives them. Intensity alone is the worst single cue in this file.
+- **Cultural and personal courtship styles** — fast timelines are conventional in some cultures and temperaments (*cultural difference*); generous gift-giving is many people's sincere love language (*genuine generosity*: no strings, survives non-repayment).
 - **New-relationship enthusiasm** with ordinary insecurity — texting a lot because smitten, not as saturation strategy. The discriminators: **response to pacing requests, strings on the generosity, and what follows the flood** (steady warmth vs rationing).
 
 ### Base rates & severity calibration
@@ -119,4 +119,4 @@ Grade `clinical`, stated plainly: the founding documentation is cult-recruitment
 
 ## See also
 
-[[attachment-needs]] · [[mirroring-false-identity]] · [[conditional-love]] · [[intermittent-reinforcement]] · [[isolation-tactics]] · [[future-faking]] · [[romance-scam-arc]] · [[cult-conversion-funnel]] · [[hoovering]] · [[limerence]]
+[[attachment-needs]] · [[mirroring-false-identity]] · [[conditional-love]] · [[intermittent-reinforcement]] · [[isolation-tactics]] · [[future-faking]] · [[romance-scam-arc]] · [[cult-conversion-funnel]] · [[hoovering]] · *limerence*

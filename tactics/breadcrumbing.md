@@ -86,7 +86,7 @@ Runs on the same [[intermittent-reinforcement]] schedule as [[hoovering]] and th
 
 - **Genuinely busy but interested**: a sincere person with a packed life shows it differently — they *protect* and *prioritize* the limited time they have, investment trends *up*, and they're clear about constraints ("slammed till Friday — can we lock in Saturday?"). The discriminator is trajectory and congruence: rising, clarifying signals vs flat, ambiguous minimum [3].
 - **Honest ambivalence / slow-burn**: someone genuinely uncertain or cautious isn't necessarily manipulating — and uncertainty research finds ambiguity tends to *dampen* attraction rather than being a reliable strategy [5]. Honest ambivalence resolves toward clearer signals; breadcrumbing sustains the ambiguity indefinitely because the ambiguity *is* the hook.
-- **Different communication styles** ([[neurodivergent-communication]]): infrequent texters, people who hate phones, or those who show care in non-verbal ways aren't breadcrumbing — the tell is the words-deeds *incongruence* and the timed-to-your-fading pattern, not low text volume per se.
+- **Different communication styles** (*neurodivergent communication*): infrequent texters, people who hate phones, or those who show care in non-verbal ways aren't breadcrumbing — the tell is the words-deeds *incongruence* and the timed-to-your-fading pattern, not low text volume per se.
 - **Early-dating fog**: mixed signals are normal early on; one stretch of ambiguity is rung-1 evidence ([[epistemic-guardrails]]).
 
 ### Base rates & severity calibration

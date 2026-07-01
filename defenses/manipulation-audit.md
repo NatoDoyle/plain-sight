@@ -56,7 +56,7 @@ Graded `supported` as a **synthesis** of recognized tools — there is **no sing
 - **Avoid both errors** ([[epistemic-guardrails]]): over-detection (paranoia, labeling) is as harmful as under-detection (minimizing real abuse). Require conjunction + persistence + the base-rate check.
 - **Not a diagnosis of the other person** — assess the situation and its effect on you; describe behavior, never pin a disorder on someone.
 - **The symmetry trap**: apply the five criteria to *both* parties, including yourself — "you're manipulating me" is itself a classic manipulator's move ([[manipulation-vs-influence]]).
-- **Distinguish [[normal-relationship-conflict]]**: ordinary friction with repair, respect for "no," and preserved autonomy is not manipulation.
+- **Distinguish *normal relationship conflict***: ordinary friction with repair, respect for "no," and preserved autonomy is not manipulation.
 
 ## Safety notes
 
@@ -74,4 +74,4 @@ If the audit points toward abuse or coercive control, this is a moment to bring 
 
 ## See also
 
-[[detection-heuristics]] · [[verification-rituals]] · [[boundary-scripts]] · [[universal-red-flags]] · [[manipulation-vs-influence]] · [[epistemic-guardrails]] · [[betrayal-blindness]] · [[gaslighting]] · [[coercive-control]] · [[dv-safety-planning]] · [[no-contact-exit-planning]] · [[normal-relationship-conflict]]
+[[detection-heuristics]] · [[verification-rituals]] · [[boundary-scripts]] · [[universal-red-flags]] · [[manipulation-vs-influence]] · [[epistemic-guardrails]] · [[betrayal-blindness]] · [[gaslighting]] · [[coercive-control]] · [[dv-safety-planning]] · [[no-contact-exit-planning]] · *normal relationship conflict*

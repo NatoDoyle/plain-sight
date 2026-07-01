@@ -42,7 +42,7 @@ The recurring exploit: **a persona calibrated to the target, liking accelerated 
 
 ## Ethical use vs exploitation
 
-Finding common ground, being warm, remembering names — this is ordinary social competence and most of it is sincere ([[genuine-rapport]]). The line ([[manipulation-vs-influence]]): exploitation shows **calibration** (the persona assembled from research on you), **speed** (intimacy accelerating faster than knowledge plausibly allows), **ask-proximity** (rapport reliably preceding requests), and **asymmetry** (they know everything about you; verification about them comes up empty).
+Finding common ground, being warm, remembering names — this is ordinary social competence and most of it is sincere (*genuine rapport*). The line ([[manipulation-vs-influence]]): exploitation shows **calibration** (the persona assembled from research on you), **speed** (intimacy accelerating faster than knowledge plausibly allows), **ask-proximity** (rapport reliably preceding requests), and **asymmetry** (they know everything about you; verification about them comes up empty).
 
 ## Recognition
 
@@ -63,8 +63,8 @@ Finding common ground, being warm, remembering names — this is ordinary social
 ## Caveats
 
 - **Liking and similarity are the glue of normal life** — most warmth is real, most common ground is luck, and most flattery is mere politeness. Run base rates before suspicion ([[epistemic-guardrails]]).
-- **Intense fast connection happens honestly** — mutual [[limerence]], shared niche obsessions, neurodivergent enthusiasm-matching ([[neurodivergent-communication]]), and anxious people-pleasing ([[people-pleasing-fawn]]: wall-to-wall agreement driven by fear of conflict, not strategy) all mimic the "too fast" or "no edges" tells without any exploitation. The discriminators are asymmetry, verification-failure, and what happens at your first "no".
-- **Cultural calibration:** flattery density, politeness registers, and courtship pacing are culturally set ([[cultural-difference]]) — effusive compliments are baseline warmth in some cultures, and rapid relationship escalation is conventional in others. Calibrate the "too fast" tell to the norms both parties share.
+- **Intense fast connection happens honestly** — mutual *limerence*, shared niche obsessions, neurodivergent enthusiasm-matching (*neurodivergent communication*), and anxious people-pleasing ([[people-pleasing-fawn]]: wall-to-wall agreement driven by fear of conflict, not strategy) all mimic the "too fast" or "no edges" tells without any exploitation. The discriminators are asymmetry, verification-failure, and what happens at your first "no".
+- **Cultural calibration:** flattery density, politeness registers, and courtship pacing are culturally set (*cultural difference*) — effusive compliments are baseline warmth in some cultures, and rapid relationship escalation is conventional in others. Calibrate the "too fast" tell to the norms both parties share.
 - **Boundary with [[unity-ingroup]]:** liking is *dyadic* — I enjoy and feel akin to *you*; unity is *categorical* — you and I are members of one *we* (family, faith, tribe). Similarity opens the door; shared identity removes the locks. [[affinity-fraud]] runs on the second, often opened by the first.
 - **Halo sizes are moderate, not magical** [5]; and mimicry effect sizes are debated [3] — the mechanism is real, but don't over-read any single cue ([[epistemic-guardrails]]).
 

@@ -19,7 +19,7 @@ last-updated: 2026-06-24
 
 ## Definition
 
-"We're a family" rhetoric is **the use of family/loyalty framing to import norms of unconditional sacrifice, guilt, and permanence into an employment relationship that is actually conditional and transactional** — extracting overwork and devotion while suppressing the boundary-setting, negotiation, and exit that the framing makes feel like disloyalty. The canonical counter-framing is Netflix's: Reed Hastings and Patty McCord (Culture Deck, 2009; McCord's *Powerful*, 2018) explicitly rejected "family" for **"we're a team, not a family"** — a pro sports team that picks the best players and cuts underperformers — precisely *because* the family metaphor is misleading about a relationship that can end at any time [1]. The critique is well-attested in management discourse [2]. The diagnostic line — the file's center — is **family rhetoric weaponized to override fair pay, reasonable hours, boundaries, or the right to leave**, distinguished from genuine workplace warmth ([[genuine-workplace-camaraderie]]).
+"We're a family" rhetoric is **the use of family/loyalty framing to import norms of unconditional sacrifice, guilt, and permanence into an employment relationship that is actually conditional and transactional** — extracting overwork and devotion while suppressing the boundary-setting, negotiation, and exit that the framing makes feel like disloyalty. The canonical counter-framing is Netflix's: Reed Hastings and Patty McCord (Culture Deck, 2009; McCord's *Powerful*, 2018) explicitly rejected "family" for **"we're a team, not a family"** — a pro sports team that picks the best players and cuts underperformers — precisely *because* the family metaphor is misleading about a relationship that can end at any time [1]. The critique is well-attested in management discourse [2]. The diagnostic line — the file's center — is **family rhetoric weaponized to override fair pay, reasonable hours, boundaries, or the right to leave**, distinguished from genuine workplace warmth (*genuine workplace camaraderie*).
 
 ## Variants & aliases
 
@@ -75,7 +75,7 @@ It pulls the same in-group belonging lever as [[love-bombing]] and [[unity-ingro
 
 ### Not the tactic when…
 
-- **Genuine warmth and camaraderie are good** ([[genuine-workplace-camaraderie]]): real care for employees, close-knit supportive teams, friendship at work, and a positive culture are healthy and valuable — *not* exploitation. Many workplaces use "family" language sincerely and treat people well. The tactic is family rhetoric *weaponized* to override fair pay, hours, boundaries, or exit — not the presence of warmth.
+- **Genuine warmth and camaraderie are good** (*genuine workplace camaraderie*): real care for employees, close-knit supportive teams, friendship at work, and a positive culture are healthy and valuable — *not* exploitation. Many workplaces use "family" language sincerely and treat people well. The tactic is family rhetoric *weaponized* to override fair pay, hours, boundaries, or exit — not the presence of warmth.
 - **The tell is contradiction, not the word**: "family" language is only manipulative when it's *contradicted by behavior* at decision time (layoffs, denied raises, punished complaints) and used to extract one-way sacrifice. A company that says "family" *and* pays fairly, respects boundaries, and supports leavers isn't running the tactic.
 - **Don't pathologize loving your job or your team** ([[epistemic-guardrails]]): enjoying your workplace, feeling loyal, and going the extra mile by genuine choice are fine. The harm is *guilt-driven, asymmetric extraction*, not enthusiasm.
 
@@ -94,4 +94,4 @@ Graded `supported`, but honestly weighted toward **commentary**: the critique is
 
 ## See also
 
-[[unity-ingroup]] · [[guilt-tripping]] · [[emotional-blackmail]] · [[love-bombing]] · [[cults-high-control]] · [[mlm-lifecycle]] · [[cult-conversion-funnel]] · [[boundary-scripts]] · [[workplace-bosses]] · [[genuine-workplace-camaraderie]]
+[[unity-ingroup]] · [[guilt-tripping]] · [[emotional-blackmail]] · [[love-bombing]] · [[cults-high-control]] · [[mlm-lifecycle]] · [[cult-conversion-funnel]] · [[boundary-scripts]] · [[workplace-bosses]] · *genuine workplace camaraderie*

@@ -38,7 +38,7 @@ After leaving or ending any manipulative/abusive situation, and during the long 
 
 ## Failure modes & risks
 
-- **Toxic positivity / spiritual bypassing / premature forgiveness** ([[toxic-positivity]]): "just stay positive," "everything happens for a reason," or being pushed to forgive *before* the pain is processed — suppression with a hopeful label, which stalls recovery.
+- **Toxic positivity / spiritual bypassing / premature forgiveness** (*toxic positivity*): "just stay positive," "everything happens for a reason," or being pushed to forgive *before* the pain is processed — suppression with a hopeful label, which stalls recovery.
 - **Self-blame spiral**: treating having-been-manipulated as a character verdict; it isn't ([[why-smart-people-fall]]).
 - **Re-traumatization**: forcing the "remembrance" work too fast, without safety and support, can overwhelm rather than heal.
 - **Imposed timelines/labels**: there's no schedule, and "survivor" is a frame to offer, not require.
@@ -52,7 +52,7 @@ Graded `supported`. **Herman's phase-based model** is the canonical, widely-used
 - **Non-linear, no timetable** — looping back is normal, not failure.
 - **Safety first** — you can't heal in the fire ([[dv-safety-planning]]).
 - **Not your fault** — self-blame is the central obstacle; aim responsibility at the manipulator.
-- **Don't bypass the pain** ([[toxic-positivity]]) — and don't force forgiveness; it can come later, on your terms, or not at all.
+- **Don't bypass the pain** (*toxic positivity*) — and don't force forgiveness; it can come later, on your terms, or not at all.
 - **Professional help** matters for significant trauma; this file orients, it doesn't treat ([[epistemic-guardrails]]).
 
 ## Safety notes
@@ -73,4 +73,4 @@ Recovery after abuse, a cult, or a devastating scam can bring depression and sui
 
 ## See also
 
-[[dv-safety-planning]] · [[no-contact-exit-planning]] · [[cult-exit-support]] · [[documentation-practices]] · [[trauma-history-revictimization]] · [[why-smart-people-fall]] · [[gaslighting]] · [[trauma-bonding]] · [[coercive-control]] · [[epistemic-guardrails]] · [[toxic-positivity]]
+[[dv-safety-planning]] · [[no-contact-exit-planning]] · [[cult-exit-support]] · [[documentation-practices]] · [[trauma-history-revictimization]] · [[why-smart-people-fall]] · [[gaslighting]] · [[trauma-bonding]] · [[coercive-control]] · [[epistemic-guardrails]] · *toxic positivity*

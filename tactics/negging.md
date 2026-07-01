@@ -39,7 +39,7 @@ The PUA theory borrows real psychology — **sociometer theory** holds that self
 ### Behavioral markers
 
 - **Compliments that leave you feeling worse** — praise with a hook you can't quite object to without seeming oversensitive (the deniability is the design).
-- **The barb runs one direction**: it lowers *you* and elevates *them*, reliably, rather than being mutual ribbing ([[playful-teasing]] goes both ways and both enjoy it).
+- **The barb runs one direction**: it lowers *you* and elevates *them*, reliably, rather than being mutual ribbing (*playful teasing* goes both ways and both enjoy it).
 - **Timed to your confidence**: negs arrive when you seem secure or are getting attention — calibrated to knock you off balance.
 - **Escalation if it works**: a target who starts seeking approval gets *more* negs, not fewer (the schedule tightening — [[intermittent-reinforcement]]).
 - **Pattern in a relationship**: idealization curdling into a steady drip of put-downs ([[love-bombing]] → devaluation).
@@ -85,9 +85,9 @@ Negging is the opposite-pole twin of [[flattery-ego]] — both fish for validati
 
 ### Not negging when…
 
-- **Honest feedback** ([[honest-feedback]]): real, useful critique — even unflattering — is delivered to *help you*, survives "what specifically, and how do I fix it?", and isn't timed to lower your standing. The discriminators: intent to help vs intent to destabilize, and specificity vs vague worth-denting.
-- **Playful teasing between equals** ([[playful-teasing]]): mutual, affectionate ribbing that both enjoy and either can stop is not a neg — the neg runs one direction, lands on confidence, and isn't fun for the target.
-- **Blunt or literal communication** ([[neurodivergent-communication]]): some people deliver observations without social cushioning, or miss that a remark stings, with zero strategic intent. The tell is response-to-feedback: "ouch" gets an apology from the blunt friend and a doubling-down (or "you're too sensitive") from the negger.
+- **Honest feedback** (*honest feedback*): real, useful critique — even unflattering — is delivered to *help you*, survives "what specifically, and how do I fix it?", and isn't timed to lower your standing. The discriminators: intent to help vs intent to destabilize, and specificity vs vague worth-denting.
+- **Playful teasing between equals** (*playful teasing*): mutual, affectionate ribbing that both enjoy and either can stop is not a neg — the neg runs one direction, lands on confidence, and isn't fun for the target.
+- **Blunt or literal communication** (*neurodivergent communication*): some people deliver observations without social cushioning, or miss that a remark stings, with zero strategic intent. The tell is response-to-feedback: "ouch" gets an apology from the blunt friend and a doubling-down (or "you're too sensitive") from the negger.
 - **Your own insecurity reading attacks into neutral remarks**: a single awkward compliment is rung-1 evidence of an awkward complimenter ([[epistemic-guardrails]]); run the symmetric check before concluding strategy.
 
 ### Base rates & severity calibration
@@ -106,4 +106,4 @@ Graded `contested` — deliberately, because the dispute *is* the finding. The b
 
 ## See also
 
-[[flattery-ego]] · [[shame-leverage]] · [[love-bombing]] · [[intermittent-reinforcement]] · [[conditional-love]] · [[isolation-tactics]] · [[honest-feedback]] · [[playful-teasing]] · [[detection-heuristics]]
+[[flattery-ego]] · [[shame-leverage]] · [[love-bombing]] · [[intermittent-reinforcement]] · [[conditional-love]] · [[isolation-tactics]] · *honest feedback* · *playful teasing* · [[detection-heuristics]]

@@ -31,7 +31,7 @@ Two of the most robust findings in judgment research. **Anchoring**: estimates a
 The recurring exploit: **a reference point chosen for what it does to you, not for what's true.**
 
 - **Fictitious reference prices** — "was $499, now $199" where $499 was never charged: the anchor is simply invented [7] ([[sales]], [[advertising-marketing]]; outlet "compare at" tags; inflated MSRP games).
-- **Aggressive first anchors** — the opening number in negotiations, salary discussions, and settlements, set high/low precisely because final agreements gravitate toward it [3] ([[bad-faith-negotiation]]; within disclosed haggling norms it's [[hard-bargaining]] — the lever is identical, the concealment differs).
+- **Aggressive first anchors** — the opening number in negotiations, salary discussions, and settlements, set high/low precisely because final agreements gravitate toward it [3] ([[bad-faith-negotiation]]; within disclosed haggling norms it's *hard bargaining* — the lever is identical, the concealment differs).
 - **Decoy menus** — the overpriced middle option existing solely to make the target option look reasonable [4]; subscription-tier design; popcorn sizes ([[thats-not-all-decoys]]).
 - **Drip and partitioned pricing** — the advertised number anchoring the decision before mandatory fees surface at checkout [6][7] ([[dark-patterns-obstruction]] adjacent; now illegal in covered US sectors [7]).
 - **Frame selection in pitches** — "saves 200 lives" vs "400 still die"; "90% fat free" vs "10% fat"; insurance sold in loss frames, investments in gain frames [1] ([[loss-aversion-endowment]] supplies the asymmetry frames exploit; [[propaganda-devices]]: card stacking is frame control at scale).
@@ -62,10 +62,10 @@ All communication frames; all negotiation anchors — choosing emphasis is unavo
 
 ## Caveats
 
-- **Framing and anchoring are universal cognition**, not malice — everyone who quotes a price or opens a negotiation anchors; teachers and doctors frame honestly to communicate ([[healthy-persuasion]]). The diagnostics are fabrication, concealment, and pure-distortion sets ([[epistemic-guardrails]]).
+- **Framing and anchoring are universal cognition**, not malice — everyone who quotes a price or opens a negotiation anchors; teachers and doctors frame honestly to communicate (*healthy persuasion*). The diagnostics are fabrication, concealment, and pure-distortion sets ([[epistemic-guardrails]]).
 - **True reference prices are information** — a genuine markdown is real news; the law's line (fictitious vs actual former prices [7]) is the right one.
 - **Decoy effects are real but fragile** [4] — don't over-attribute menu design to dark psychology; much of it is ordinary merchandising.
-- **First offers are legitimate strategy** within recognized norms ([[hard-bargaining]]); the manipulation grade attaches to fabricated constraints and concealed totals, not to opening strong.
+- **First offers are legitimate strategy** within recognized norms (*hard bargaining*); the manipulation grade attaches to fabricated constraints and concealed totals, not to opening strong.
 - **Boundary with [[loss-aversion-endowment]]:** that file owns the *asymmetry* (losses loom larger); this one owns *reference-point placement* — frames work largely by deciding what counts as a loss. ([[scarcity-urgency]]'s availability-constraint boundary is declared in that file, against loss-aversion.)
 
 ## Sources

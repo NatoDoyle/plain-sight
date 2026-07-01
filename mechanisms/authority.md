@@ -41,7 +41,7 @@ The recurring exploits: **counterfeited signals, borrowed institutions, transfer
 
 ## Ethical use vs exploitation
 
-Deferring to genuine, verifiable, in-domain expertise is one of the smartest things humans do ([[legitimate-expertise]]). The line ([[manipulation-vs-influence]]): exploitation shows **counterfeit or unverifiable signals**, **domain transfer** (authority in X directing you in Y), **verification punished or foreclosed** ("don't hang up", "don't tell anyone", "questioning me is insubordination/sin"), and **benefit flowing to the authority**.
+Deferring to genuine, verifiable, in-domain expertise is one of the smartest things humans do (*legitimate expertise*). The line ([[manipulation-vs-influence]]): exploitation shows **counterfeit or unverifiable signals**, **domain transfer** (authority in X directing you in Y), **verification punished or foreclosed** ("don't hang up", "don't tell anyone", "questioning me is insubordination/sin"), and **benefit flowing to the authority**.
 
 ## Recognition
 
@@ -65,7 +65,7 @@ Deferring to genuine, verifiable, in-domain expertise is one of the smartest thi
 - **Anti-authority reflex is its own exploit**: "they don't want you to know" is the contrarian guru's authority claim, selling distrust of experts while demanding trust in himself ([[propaganda-politics]], [[cults-high-control]]). The defense is calibrated verification, not reflexive defiance.
 - **Milgram's numbers are widely overstated** — 65% was one condition, not the human constant; obedience swung enormously with situation, and the mechanism (blind obedience vs engaged followership) is genuinely debated [1][3] ([[epistemic-guardrails]]).
 - **Most authority encounters are legitimate** — the doctor, the building inspector, your manager. Base rates first; the diagnostic is counterfeit signals + verification hostility + benefit asymmetry, not the presence of authority itself.
-- **Cultural calibration:** deference norms vary widely across cultures (power-distance differences), and cross-national obedience-paradigm results vary substantially — what reads as servility in one context is ordinary respect in another ([[cultural-difference]]). Judge the *verification-tolerance* test against local norms, not against one culture's comfort with challenging superiors.
+- **Cultural calibration:** deference norms vary widely across cultures (power-distance differences), and cross-national obedience-paradigm results vary substantially — what reads as servility in one context is ordinary respect in another (*cultural difference*). Judge the *verification-tolerance* test against local norms, not against one culture's comfort with challenging superiors.
 - **Boundary with [[trust-mechanics]]:** trust is the broad ledger of warmth, competence, and integrity built across interactions; authority is a *shortcut* that substitutes role-signals for that ledger. Authority exploits skip trust-building entirely by importing pre-installed deference — which is why verification, not vibes, is the counter.
 
 ## Sources

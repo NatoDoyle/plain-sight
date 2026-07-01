@@ -19,7 +19,7 @@ last-updated: 2026-06-24
 
 ## Definition
 
-Fake reviews and astroturfing are **the fabrication of independent-looking social proof — reviews, testimonials, ratings, followers, or "grassroots" support — to manufacture trust the product/company/cause hasn't earned**. *Astroturfing* (coined by Senator Lloyd Bentsen, 1985 — fake "grass roots") covers orchestrated campaigns disguised as spontaneous public support; fake reviews are its retail-commerce form. The US now regulates this directly: the **FTC Rule on the Use of Consumer Reviews and Testimonials (16 CFR Part 465, effective Oct 21, 2024)** bans fake/AI-generated reviews, buying positive *or* negative reviews, undisclosed insider reviews, company-controlled "independent" review sites, review suppression, and fake social-media indicators (bought followers/views), with civil penalties up to ~$51,744 per violation (inflation-adjusted) [1]. The diagnostic — the file's center — is **fakery, undisclosed material connection, or sentiment-conditioned payment**, not enthusiasm or honest opinion ([[genuine-reviews]]).
+Fake reviews and astroturfing are **the fabrication of independent-looking social proof — reviews, testimonials, ratings, followers, or "grassroots" support — to manufacture trust the product/company/cause hasn't earned**. *Astroturfing* (coined by Senator Lloyd Bentsen, 1985 — fake "grass roots") covers orchestrated campaigns disguised as spontaneous public support; fake reviews are its retail-commerce form. The US now regulates this directly: the **FTC Rule on the Use of Consumer Reviews and Testimonials (16 CFR Part 465, effective Oct 21, 2024)** bans fake/AI-generated reviews, buying positive *or* negative reviews, undisclosed insider reviews, company-controlled "independent" review sites, review suppression, and fake social-media indicators (bought followers/views), with civil penalties up to ~$51,744 per violation (inflation-adjusted) [1]. The diagnostic — the file's center — is **fakery, undisclosed material connection, or sentiment-conditioned payment**, not enthusiasm or honest opinion (*genuine reviews*).
 
 ## Variants & aliases
 
@@ -67,14 +67,14 @@ E-commerce and app stores, advertising/marketing, influencer ecosystems ([[adver
 
 ## Caveats & false positives
 
-- **Genuine reviews and real grassroots opinion are normal and valuable** ([[genuine-reviews]]): authentic enthusiasm, organic word-of-mouth, real customer reviews (even glowing ones), and genuine coordinated advocacy (a real community rallying) are legitimate. The violation is **fakery, undisclosed material connection, or payment conditioned on a particular sentiment** — not popularity or enthusiasm.
+- **Genuine reviews and real grassroots opinion are normal and valuable** (*genuine reviews*): authentic enthusiasm, organic word-of-mouth, real customer reviews (even glowing ones), and genuine coordinated advocacy (a real community rallying) are legitimate. The violation is **fakery, undisclosed material connection, or payment conditioned on a particular sentiment** — not popularity or enthusiasm.
 - **Disclosed incentivized reviews can be lawful**: "I got this free to review" with honest opinion is permitted; the problem is *undisclosed* connections or *sentiment-conditioned* incentives.
 - **Don't cry "astroturf" at real support** ([[epistemic-guardrails]]): dismissing a genuine grassroots backlash or authentic positive reviews as "fake" is itself a bad-faith move (and the mirror error). Reserve the label for evidence of fabrication/coordination.
 - **It's medium-severity**: the harm is misled purchases/decisions and distorted markets — real, but a single bad buy, not abuse.
 
 ## Evidence & debates
 
-Graded `supported` — and the most **regulatorily grounded** of the dark-patterns set: 16 CFR Part 465 is binding US law as of 2024 [1], astroturfing is a long-documented practice (Bentsen, 1985), and the underlying mechanism ([[social-proof]]) is established psychology. Detection heuristics (review bursts, J-curves, verified-purchase rates, AI-phrasing tells) are practitioner signals, not perfect diagnostics — fake-review detection is an arms race, especially with AI-generated text. The honest line, foregrounded in the file: the offense is fabrication/non-disclosure, so the boundary from [[genuine-reviews]] turns on authenticity and disclosure, not on how positive the reviews are.
+Graded `supported` — and the most **regulatorily grounded** of the dark-patterns set: 16 CFR Part 465 is binding US law as of 2024 [1], astroturfing is a long-documented practice (Bentsen, 1985), and the underlying mechanism ([[social-proof]]) is established psychology. Detection heuristics (review bursts, J-curves, verified-purchase rates, AI-phrasing tells) are practitioner signals, not perfect diagnostics — fake-review detection is an arms race, especially with AI-generated text. The honest line, foregrounded in the file: the offense is fabrication/non-disclosure, so the boundary from *genuine reviews* turns on authenticity and disclosure, not on how positive the reviews are.
 
 ## Sources
 
@@ -82,4 +82,4 @@ Graded `supported` — and the most **regulatorily grounded** of the dark-patter
 
 ## See also
 
-[[dark-patterns-social-urgency]] · [[parasocial-influencer-tactics]] · [[social-proof]] · [[smear-campaigns]] · [[disinformation-playbooks]] · [[verification-rituals]] · [[advertising-marketing]] · [[competitors-business]] · [[propaganda-politics]] · [[genuine-reviews]]
+[[dark-patterns-social-urgency]] · [[parasocial-influencer-tactics]] · [[social-proof]] · [[smear-campaigns]] · [[disinformation-playbooks]] · [[verification-rituals]] · [[advertising-marketing]] · [[competitors-business]] · [[propaganda-politics]] · *genuine reviews*

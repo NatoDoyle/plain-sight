@@ -85,8 +85,8 @@ Pairs with [[flattery-ego]] ("you're better at it" cements the handoff) and [[mo
 
 ### Not weaponized incompetence when…
 
-- **Genuine skill gaps and learning curves** ([[incompetence-not-malice]]): people really are differentially skilled, and a partner who's never managed a budget isn't faking — they're inexperienced. The discriminator is *selectivity and trajectory*: real gaps *close* with practice; weaponized ones never do because closing them means keeping the task.
-- **Executive-function and neurodivergent differences** ([[neurodivergent-communication]]): ADHD, depression, and executive-function challenges produce genuine, non-strategic follow-through difficulties — not deniable strategy. (This is the KB's own caveat, not a cited finding, but it's a critical one: pathologizing a struggling partner as "weaponizing" is its own harm.)
+- **Genuine skill gaps and learning curves** (*incompetence not malice*): people really are differentially skilled, and a partner who's never managed a budget isn't faking — they're inexperienced. The discriminator is *selectivity and trajectory*: real gaps *close* with practice; weaponized ones never do because closing them means keeping the task.
+- **Executive-function and neurodivergent differences** (*neurodivergent communication*): ADHD, depression, and executive-function challenges produce genuine, non-strategic follow-through difficulties — not deniable strategy. (This is the KB's own caveat, not a cited finding, but it's a critical one: pathologizing a struggling partner as "weaponizing" is its own harm.)
 - **Maternal/parental gatekeeping** [5]: sometimes the apparent incompetence is *gatekept* — the higher-standards partner criticizes, redoes, and crowds out the other until they withdraw, then reads the withdrawal as incompetence. Rigid standards and reluctance to relinquish control manufacture the very helplessness being complained about. Run the symmetric check: am I making space for a different-but-adequate way, or demanding mine?
 - **Genuine learned helplessness** [3]: a partner ground down by criticism or depression into real passivity is not running a strategy — the opposite.
 
@@ -108,4 +108,4 @@ Graded `folk`: the *named* tactic has no research base (a journalistic coinage [
 
 ## See also
 
-[[reciprocity]] · [[guilt-leverage]] · [[flattery-ego]] · [[moving-goalposts]] · [[financial-abuse]] · [[incompetence-not-malice]] · [[boundary-scripts]] · [[documentation-practices]]
+[[reciprocity]] · [[guilt-leverage]] · [[flattery-ego]] · [[moving-goalposts]] · [[financial-abuse]] · *incompetence not malice* · [[boundary-scripts]] · [[documentation-practices]]

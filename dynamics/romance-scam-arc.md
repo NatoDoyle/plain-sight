@@ -59,7 +59,7 @@ The cleanest exit is **before the first money or "investment" moves** — which 
 
 ## Caveats & false positives
 
-- **Not every online or long-distance relationship is a scam** ([[genuine-online-relationship]]): real love begins online and across distance all the time. The distinguishing features are *verifiability and the absence of money asks*: a genuine partner will (eventually) video-call and meet, their identity checks out, disclosure is mutual, and they don't steer you toward sending money or investing. Suspicion should attach to the **unmet-plus-unverifiable-plus-money-ask** pattern, not to online dating itself — and not to your partner simply living far away.
+- **Not every online or long-distance relationship is a scam** (*genuine online relationship*): real love begins online and across distance all the time. The distinguishing features are *verifiability and the absence of money asks*: a genuine partner will (eventually) video-call and meet, their identity checks out, disclosure is mutual, and they don't steer you toward sending money or investing. Suspicion should attach to the **unmet-plus-unverifiable-plus-money-ask** pattern, not to online dating itself — and not to your partner simply living far away.
 - **Do not weaponize this into blame.** Telling a victim (or yourself) "how could you fall for that?" is both cruel and wrong: these scams are professionally engineered, often by organized operations, to exploit universal human needs. Smart, careful, and skeptical people are victimized routinely. Shame is the scammer's last tool — it keeps victims silent and re-victimizable.
 - **A partner being far away, busy, or shy on camera is not proof of a scam.** Plenty of genuine relationships have real logistical barriers. The flag is the *conjunction* (unverifiable identity + can never meet + eventual money/investment ask), not distance or reticence alone.
 
@@ -80,4 +80,4 @@ Graded **`supported`**: Whitty's stage model and the psychological-harm findings
 
 ## See also
 
-[[con-anatomy]] · [[grooming-sequence]] · [[mirroring-false-identity]] · [[love-bombing]] · [[pity-plays]] · [[future-faking]] · [[manufactured-urgency]] · [[attachment-needs]] · [[verification-rituals]] · [[genuine-online-relationship]]
+[[con-anatomy]] · [[grooming-sequence]] · [[mirroring-false-identity]] · [[love-bombing]] · [[pity-plays]] · [[future-faking]] · [[manufactured-urgency]] · [[attachment-needs]] · [[verification-rituals]] · *genuine online relationship*

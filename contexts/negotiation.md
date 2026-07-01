@@ -62,7 +62,7 @@ The evidence-based defenses are structural, not counter-pressure:
 
 ## Caveats
 
-- **Negotiation is legitimate; hard bargaining is not manipulation** ([[hard-bargaining]]). Aggressive anchoring you can walk away from, withholding your reservation price, competitive distributive tactics, and assertive self-advocacy are normal and ethical ([[epistemic-guardrails]]). Don't pathologize a tough negotiator.
+- **Negotiation is legitimate; hard bargaining is not manipulation** (*hard bargaining*). Aggressive anchoring you can walk away from, withholding your reservation price, competitive distributive tactics, and assertive self-advocacy are normal and ethical ([[epistemic-guardrails]]). Don't pathologize a tough negotiator.
 - **Much "manipulation" here is mutually-understood gamesmanship.** Both sides know the opening offer is inflated and the "final offer" may not be final; bluffing within these norms is expected, not fraud.
 - **The line is material deception, bad faith, and coercion:** false statements of *verifiable fact* intended to induce reliance (fraud), negotiating with no genuine intent to agree (bad faith), or pressure that crosses from "walk away" into threats (coercion). Puffery about value and positioning is on the legitimate side of that line.
 - **"You're manipulating me" is itself a negotiating move** — used to gain moral leverage or extract concessions. Reserve the charge for actual material deception or coercion, not for hard bargaining you dislike.
@@ -77,4 +77,4 @@ The evidence-based defenses are structural, not counter-pressure:
 
 ## See also
 
-[[bad-faith-negotiation]] · [[sales]] · [[manufactured-urgency]] · [[framing-anchoring]] · [[lying-typologies]] · [[con-anatomy]] · [[detection-heuristics]] · [[verification-rituals]] · [[hard-bargaining]] · [[epistemic-guardrails]]
+[[bad-faith-negotiation]] · [[sales]] · [[manufactured-urgency]] · [[framing-anchoring]] · [[lying-typologies]] · [[con-anatomy]] · [[detection-heuristics]] · [[verification-rituals]] · *hard bargaining* · [[epistemic-guardrails]]

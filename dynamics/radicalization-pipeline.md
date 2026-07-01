@@ -64,7 +64,7 @@ Two distinct exits, and the distinction matters [4]: **disengagement** (leaving 
 - **The base-rate / over-detection catastrophe**: violent action is an *extremely* low-base-rate event, so any attempt to "screen" or flag individuals for radicalization generates overwhelmingly **false positives** — labeling vast numbers of harmless people as threats. Risk-assessment tools (VERA-2R, TRAP-18) face exactly this validation problem [5]. **This model must never be used to flag, surveil, or report an individual based on beliefs, identity, or "warning signs."**
 - **Real-world harm of over-detection** [5]: programs built on weak radicalization models (e.g., critiques of the UK's *Prevent*) have constructed entire communities (notably Muslims) as a "suspect community," chilled lawful speech, and alienated the people they aimed to protect. Over-detection is not a harmless error here; it is itself a serious harm.
 - **Mental illness is not the cause**: the link between mental disorder and terrorism is weak and complicated; most people who radicalize are psychologically unremarkable. (Lone actors show somewhat higher rates than group actors, partly a selection effect — don't generalize.)
-- **Dissent is not extremism** ([[legitimate-activism]]): lawful protest, radical politics, strong religious conviction, and unpopular opinions are protected and normal. The line this file draws is **mobilization to violence**, not strength or strangeness of belief. Conflating activism with radicalization is both an analytical error and a tool of repression.
+- **Dissent is not extremism** (*legitimate activism*): lawful protest, radical politics, strong religious conviction, and unpopular opinions are protected and normal. The line this file draws is **mobilization to violence**, not strength or strangeness of belief. Conflating activism with radicalization is both an analytical error and a tool of repression.
 
 ## Safety notes
 
@@ -84,4 +84,4 @@ Graded **`contested`** — deliberately, and the file leads with what that means
 
 ## See also
 
-[[cult-conversion-funnel]] · [[escalation-entrapment]] · [[thought-terminating-cliches]] · [[isolation-tactics]] · [[unity-ingroup]] · [[certainty-needs]] · [[fear-exploitation]] · [[inoculation-prebunking]] · [[epistemic-guardrails]] · [[legitimate-activism]]
+[[cult-conversion-funnel]] · [[escalation-entrapment]] · [[thought-terminating-cliches]] · [[isolation-tactics]] · [[unity-ingroup]] · [[certainty-needs]] · [[fear-exploitation]] · [[inoculation-prebunking]] · [[epistemic-guardrails]] · *legitimate activism*

@@ -52,7 +52,7 @@ These run inside the [[con-anatomy]] sequence and its domain variants ([[romance
 ## Caveats
 
 - **"Con artist" is a pattern of deception for gain, not a diagnosable personality** ([[epistemic-guardrails]]). Describe the behavior; don't armchair-diagnose the person.
-- **Genuine charisma, salesmanship, and persuasion are NOT conning** ([[genuine-charisma]]): the line is **deception for unjust gain**, not charm, confidence, or a good pitch. Don't brand every persuasive or charismatic person a con artist.
+- **Genuine charisma, salesmanship, and persuasion are NOT conning** (*genuine charisma*): the line is **deception for unjust gain**, not charm, confidence, or a good pitch. Don't brand every persuasive or charismatic person a con artist.
 - **Reject the victim-blaming myths — this is the file's payload:**
   - **"You can't cheat an honest man" is false folklore** (it's a W.C. Fields comedy line, not criminology). Most cons exploit ordinary trust, kindness, hope, fear, or loneliness — not dishonesty or greed. Many have no "greedy hook" at all (romance-scam victims want connection, not gain) [2].
   - **Intelligence is not protective.** Smart, educated people are conned routinely — investment-fraud victims skew *more* educated, and skepticism can backfire by making you overconfident; the strongest risk factor is simply *being targeted* [2][3].
@@ -67,4 +67,4 @@ These run inside the [[con-anatomy]] sequence and its domain variants ([[romance
 
 ## See also
 
-[[dark-triad-overview]] · [[machiavellianism]] · [[psychopathic-patterns]] · [[everyday-manipulators]] · [[con-anatomy]] · [[romance-scam-arc]] · [[ponzi-psychology]] · [[affinity-fraud]] · [[charm-offensive]] · [[mirroring-false-identity]] · [[cold-reading]] · [[verification-rituals]] · [[detection-heuristics]] · [[scams-fraud]] · [[genuine-charisma]]
+[[dark-triad-overview]] · [[machiavellianism]] · [[psychopathic-patterns]] · [[everyday-manipulators]] · [[con-anatomy]] · [[romance-scam-arc]] · [[ponzi-psychology]] · [[affinity-fraud]] · [[charm-offensive]] · [[mirroring-false-identity]] · [[cold-reading]] · [[verification-rituals]] · [[detection-heuristics]] · [[scams-fraud]] · *genuine charisma*

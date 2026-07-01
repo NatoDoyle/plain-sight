@@ -21,7 +21,7 @@ last-updated: 2026-06-27
 
 ## Definition
 
-AI-enabled manipulation is **the use of generative AI — voice clones, deepfake video/images, chatbots, and synthetic personas — to impersonate real people or fabricate convincing "evidence," so a target trusts and complies with a deception**. The novelty is not the goal (fraud, extortion, romance scams are old) but the **synthetic realism**: AI cheaply produces a relative's exact voice, an executive's face on a live call, or a fake romantic partner at scale. The diagnostic — the file's center — is **covert impersonation or deception about identity/authenticity**, not the use of AI itself; disclosed, consensual AI (assistants, accessibility voices, labeled synthetic media) is legitimate ([[legitimate-ai-use]]). It is largely a force-multiplier for [[phishing-pretexting]], [[romance-scam-arc]], and [[con-anatomy]] — making impersonation more believable than ever.
+AI-enabled manipulation is **the use of generative AI — voice clones, deepfake video/images, chatbots, and synthetic personas — to impersonate real people or fabricate convincing "evidence," so a target trusts and complies with a deception**. The novelty is not the goal (fraud, extortion, romance scams are old) but the **synthetic realism**: AI cheaply produces a relative's exact voice, an executive's face on a live call, or a fake romantic partner at scale. The diagnostic — the file's center — is **covert impersonation or deception about identity/authenticity**, not the use of AI itself; disclosed, consensual AI (assistants, accessibility voices, labeled synthetic media) is legitimate (*legitimate ai use*). It is largely a force-multiplier for [[phishing-pretexting]], [[romance-scam-arc]], and [[con-anatomy]] — making impersonation more believable than ever.
 
 ## Variants & aliases
 
@@ -88,7 +88,7 @@ If money was sent, contact your bank immediately to attempt recall and report to
 
 ### Not this tactic when…
 
-- **Disclosed, consensual AI is not manipulation** ([[legitimate-ai-use]]): AI assistants, accessibility/text-to-speech voices, dubbing, and clearly labeled synthetic media in entertainment are legitimate. The tactic is **covert impersonation or deception about identity/authenticity** — not AI per se.
+- **Disclosed, consensual AI is not manipulation** (*legitimate ai use*): AI assistants, accessibility/text-to-speech voices, dubbing, and clearly labeled synthetic media in entertainment are legitimate. The tactic is **covert impersonation or deception about identity/authenticity** — not AI per se.
 - **"It's AI/a deepfake" is itself sometimes a false accusation** — the *liar's dividend*: the mere existence of deepfakes lets real wrongdoers dismiss **genuine** audio, video, or photos as "fake" (the "deepfake defense" has been raised in real court cases). Reflexively branding anything unusual "AI" wrongly discredits real people and authentic evidence.
 
 ### Base rates & severity calibration
@@ -120,4 +120,4 @@ Graded `supported` for documented cases, with a **prominent honesty flag on infl
 
 ## See also
 
-[[phishing-pretexting]] · [[romance-scam-arc]] · [[con-anatomy]] · [[fake-reviews-astroturfing]] · [[manufactured-urgency]] · [[trust-mechanics]] · [[fear-exploitation]] · [[authority]] · [[liking-similarity]] · [[verification-rituals]] · [[detection-heuristics]] · [[scams-fraud]] · [[digital-platforms]] · [[legitimate-ai-use]] · [[genuine-online-relationship]]
+[[phishing-pretexting]] · [[romance-scam-arc]] · [[con-anatomy]] · [[fake-reviews-astroturfing]] · [[manufactured-urgency]] · [[trust-mechanics]] · [[fear-exploitation]] · [[authority]] · [[liking-similarity]] · [[verification-rituals]] · [[detection-heuristics]] · [[scams-fraud]] · [[digital-platforms]] · *legitimate ai use* · *genuine online relationship*

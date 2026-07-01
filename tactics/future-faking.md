@@ -85,7 +85,7 @@ A core component of [[love-bombing]] (declared there: the promised future is par
 
 ### Not future-faking when…
 
-- **Genuine aspiration** ([[genuine-aspiration]]): people sincerely share hopes and plans they *intend* and take real steps toward — and sometimes life intervenes and they don't pan out. Honest future-talk is most of love and ambition. The discriminators: **intent and steps** (real near-term movement toward the vision), **not extracting present payment** against it, and **present conduct consistent** with the promise — versus vivid words that buy something now and never concretize.
+- **Genuine aspiration** (*genuine aspiration*): people sincerely share hopes and plans they *intend* and take real steps toward — and sometimes life intervenes and they don't pan out. Honest future-talk is most of love and ambition. The discriminators: **intent and steps** (real near-term movement toward the vision), **not extracting present payment** against it, and **present conduct consistent** with the promise — versus vivid words that buy something now and never concretize.
 - **Plans that fail for real reasons**: the promotion that fell through in a restructure, the trip cancelled by money or illness — circumstance defeating a sincere plan is not deception. The tactic-grade requires a *pattern* of promise-to-extract-then-recede, not a disappointment.
 - **Optimism and dreaming together**: couples and teams imagine futures aloud as bonding and motivation, with no manipulation; shared daydreaming is not a contract being faked.
 - **Your own impatience**: wanting milestones faster than a sincere partner can deliver is not their deception ([[epistemic-guardrails]]; run the symmetric check before concluding intent).
@@ -110,4 +110,4 @@ Graded `folk`: the *named* tactic has no research base of its own, popularized b
 
 ## See also
 
-[[love-bombing]] · [[hoovering]] · [[hope-greed]] · [[attachment-needs]] · [[commitment-consistency]] · [[mirroring-false-identity]] · [[moving-goalposts]] · [[romance-scam-arc]] · [[verification-rituals]] · [[genuine-aspiration]]
+[[love-bombing]] · [[hoovering]] · [[hope-greed]] · [[attachment-needs]] · [[commitment-consistency]] · [[mirroring-false-identity]] · [[moving-goalposts]] · [[romance-scam-arc]] · [[verification-rituals]] · *genuine aspiration*

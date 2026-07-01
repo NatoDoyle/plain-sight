@@ -54,7 +54,7 @@ This section is the file's whole reason to exist ([[epistemic-guardrails]]):
 - **This is the base rate / the norm — not a disorder or a "type of person."** Most difficult, selfish, or manipulative behavior comes from ordinary people in situations, not from the [[dark-triad-overview|dark triad]]. **Pathologizing is a more common error than under-detecting** — reaching for "narcissist" or "psychopath" is usually wrong and harmful (and the labels are weaponizable).
 - **The mirror error is just as real: do NOT let "everyone does it" minimize genuine abuse.** Coercive control, [[narcissistic-patterns|narcissistic]] and [[psychopathic-patterns|psychopathic]] harm, and systematic exploitation are real, serious, and must not be excused as ordinary ([[coercive-control]], [[betrayal-blindness]]). "Everybody manipulates sometimes" is true *and* is itself a line abusers use.
 - **Calibrated recognition is the goal** — neither paranoid over-detection (seeing a predator in every stressed partner) nor naïve under-detection (waving away a real pattern). The dividing lines are *intensity, pattern, intent, and direction*, not the presence of a single tactic.
-- It sits just above honest influence: ordinary manipulation shades toward [[healthy-persuasion]] at the benign end (the boundary is drawn in [[manipulation-vs-influence]]).
+- It sits just above honest influence: ordinary manipulation shades toward *healthy persuasion* at the benign end (the boundary is drawn in [[manipulation-vs-influence]]).
 
 ## Sources
 
@@ -64,4 +64,4 @@ This section is the file's whole reason to exist ([[epistemic-guardrails]]):
 
 ## See also
 
-[[dark-triad-overview]] · [[narcissistic-patterns]] · [[psychopathic-patterns]] · [[con-artist-typologies]] · [[manipulation-vs-influence]] · [[epistemic-guardrails]] · [[guilt-tripping]] · [[silent-treatment]] · [[flattery-ego]] · [[foot-in-the-door]] · [[coercive-control]] · [[boundary-scripts]] · [[gray-rock]] · [[healthy-persuasion]]
+[[dark-triad-overview]] · [[narcissistic-patterns]] · [[psychopathic-patterns]] · [[con-artist-typologies]] · [[manipulation-vs-influence]] · [[epistemic-guardrails]] · [[guilt-tripping]] · [[silent-treatment]] · [[flattery-ego]] · [[foot-in-the-door]] · [[coercive-control]] · [[boundary-scripts]] · [[gray-rock]] · *healthy persuasion*

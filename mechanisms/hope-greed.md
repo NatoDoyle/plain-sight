@@ -41,7 +41,7 @@ The recurring exploit: **a vivid phantom, a plausible path, and escalating fees 
 
 ## Ethical use vs exploitation
 
-Selling hope honestly is most of legitimate commerce and all of mentorship: real opportunities, disclosed odds, proportionate claims. The line ([[manipulation-vs-influence]]): exploitation shows **disproportion** (returns/outcomes far beyond market reality), **fee-gated phantoms** (the reward always one payment away), **engineered almost-wins**, and **hostility to diversification, delay, or due diligence** ([[genuine-opportunity]] tolerates all three).
+Selling hope honestly is most of legitimate commerce and all of mentorship: real opportunities, disclosed odds, proportionate claims. The line ([[manipulation-vs-influence]]): exploitation shows **disproportion** (returns/outcomes far beyond market reality), **fee-gated phantoms** (the reward always one payment away), **engineered almost-wins**, and **hostility to diversification, delay, or due diligence** (*genuine opportunity* tolerates all three).
 
 ## Recognition
 
@@ -62,7 +62,7 @@ Selling hope honestly is most of legitimate commerce and all of mentorship: real
 
 ## Caveats
 
-- **Hope is not the enemy** — ambition, courtship, entrepreneurship, and faith all run on it, and most opportunity-sellers are merely optimistic, not predatory ([[epistemic-guardrails]]; [[genuine-opportunity]]).
+- **Hope is not the enemy** — ambition, courtship, entrepreneurship, and faith all run on it, and most opportunity-sellers are merely optimistic, not predatory ([[epistemic-guardrails]]; *genuine opportunity*).
 - **Real asymmetric wins exist** (early-stage equity, genuine windfalls); the diagnostics are verification-tolerance and fee-direction, not upside size alone.
 - **Victim-blaming inversion guard**: phantom fixation is a human universal under the right targeting — fraud victims include the financially literate [6]; "greedy victims deserved it" is both false and exactly the shame that suppresses reporting ([[shame-leverage]]).
 - **The "99% lose money" MLM figure is advocacy analysis** — directionally consistent with FTC's conservative findings but not an official statistic; this KB cites both with their grades [5].

@@ -38,7 +38,7 @@ A **crisis window** is the period during and after an acute transition when a pe
 
 ## Caveats
 
-- **A crisis is a normal life event and a state of temporarily reduced bandwidth + raised need — never a weakness or a character flaw** ([[normal-life-stress]], [[epistemic-guardrails]]). The responsibility for any exploitation is the manipulator's; "they should have known better while grieving" is victim-blaming.
+- **A crisis is a normal life event and a state of temporarily reduced bandwidth + raised need — never a weakness or a character flaw** (*normal life stress*, [[epistemic-guardrails]]). The responsibility for any exploitation is the manipulator's; "they should have known better while grieving" is victim-blaming.
 - **Most people in transition are not victimized.** A new friend after a move, a charity after a disaster, a new relationship after a divorce are *usually exactly what they appear to be*. A crisis raises *exposure and odds*, it does not prove manipulation — don't read predation into every kindness offered at a hard time.
 - **Frame "unfreezing"/identity-malleability as metaphor, not mechanism.** The "brainwashing/mind-control" model of transition exploitation is contested (Singer's DIMPAC thought-reform model was rejected by the APA in 1987); what's well-supported is the *social-influence-at-transitions* pattern, not a coercive mind-control mechanism [3].
 - **Avoid victim-profile traps.** Beyond the situational loss/transition factors, "types of people who fall for romance scams" trait profiles are inconsistent across studies and slide easily into blame — weight the *moment*, not the supposed character type.
@@ -52,4 +52,4 @@ A **crisis window** is the period during and after an acute transition when a pe
 
 ## See also
 
-[[loneliness-isolation]] · [[scarcity-stress]] · [[why-smart-people-fall]] · [[romance-scam-arc]] · [[cult-conversion-funnel]] · [[love-bombing]] · [[manufactured-urgency]] · [[verification-rituals]] · [[detection-heuristics]] · [[epistemic-guardrails]] · [[normal-life-stress]]
+[[loneliness-isolation]] · [[scarcity-stress]] · [[why-smart-people-fall]] · [[romance-scam-arc]] · [[cult-conversion-funnel]] · [[love-bombing]] · [[manufactured-urgency]] · [[verification-rituals]] · [[detection-heuristics]] · [[epistemic-guardrails]] · *normal life stress*

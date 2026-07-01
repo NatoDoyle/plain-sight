@@ -86,8 +86,8 @@ The trust-building front end: pairs with [[love-bombing]] (romantic charm flood)
 
 ### Not a charm offensive when…
 
-- **Genuine charisma** ([[genuine-charisma]]): some people are simply warm, funny, attentive, and likeable — that's a personality, not a plot, and the overwhelming majority of charming people aren't running anything. Charm is not evidence of manipulation.
-- **Normal impression management** [1]: everyone presents a polished, best-foot-forward self — in dating, interviews, first meetings. That's universal social behavior, not a con ([[genuine-rapport]] builds from it).
+- **Genuine charisma** (*genuine charisma*): some people are simply warm, funny, attentive, and likeable — that's a personality, not a plot, and the overwhelming majority of charming people aren't running anything. Charm is not evidence of manipulation.
+- **Normal impression management** [1]: everyone presents a polished, best-foot-forward self — in dating, interviews, first meetings. That's universal social behavior, not a con (*genuine rapport* builds from it).
 - **Extraversion and social skill**: being good with people, working a room, making others feel at ease — ordinary competence, often generous. The tell is *calibration-to-extraction and cross-audience inconsistency*, not sociability.
 - **No reliable real-time test exists**: there is *no validated way* to distinguish strategic from genuine warmth in the moment (an honest evidence gap — see below). So this file's diagnostics are **pattern-based** (calibration + ask-timing + cross-audience split + substance gap, over time), never "this person is too charming to trust." Over-reading charm as predatory is a real false positive that corrodes ordinary warmth ([[epistemic-guardrails]]).
 
@@ -107,4 +107,4 @@ Graded `clinical`: the *substrate* (impression management) is established [1], t
 
 ## See also
 
-[[liking-similarity]] · [[trust-mechanics]] · [[love-bombing]] · [[mirroring-false-identity]] · [[con-anatomy]] · [[future-faking]] · [[smear-campaigns]] · [[detection-heuristics]] · [[genuine-charisma]]
+[[liking-similarity]] · [[trust-mechanics]] · [[love-bombing]] · [[mirroring-false-identity]] · [[con-anatomy]] · [[future-faking]] · [[smear-campaigns]] · [[detection-heuristics]] · *genuine charisma*

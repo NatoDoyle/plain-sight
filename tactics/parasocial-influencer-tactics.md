@@ -19,7 +19,7 @@ last-updated: 2026-06-24
 
 ## Definition
 
-Parasocial influencer tactics are **the covert monetization of a parasocial relationship — the one-sided feeling of intimacy and friendship an audience develops toward a media figure — by converting that manufactured trust into sales while hiding the commercial relationship**. The construct is old and well-established: Horton & Wohl (1956) named "para-social interaction," the "intimacy at a distance" audiences feel toward performers [1]. Modern influencer marketing leverages it: parasocial relationship (PSR) raises purchase intention, largely *indirectly via trust* in the creator [2]. The tactic is not the bond (which is healthy — [[genuine-parasocial-bond]]) but its **covert exploitation**: undisclosed sponsorship, affiliate "recommendations" presented as friendly tips, and guru/coaching funnels that trade on manufactured closeness. US law requires disclosure of material connections (FTC Endorsement Guides, updated 2023) [3]. The diagnostic line — the file's center — is **hidden commercial exploitation of the bond**, not the bond or honest, disclosed promotion.
+Parasocial influencer tactics are **the covert monetization of a parasocial relationship — the one-sided feeling of intimacy and friendship an audience develops toward a media figure — by converting that manufactured trust into sales while hiding the commercial relationship**. The construct is old and well-established: Horton & Wohl (1956) named "para-social interaction," the "intimacy at a distance" audiences feel toward performers [1]. Modern influencer marketing leverages it: parasocial relationship (PSR) raises purchase intention, largely *indirectly via trust* in the creator [2]. The tactic is not the bond (which is healthy — *genuine parasocial bond*) but its **covert exploitation**: undisclosed sponsorship, affiliate "recommendations" presented as friendly tips, and guru/coaching funnels that trade on manufactured closeness. US law requires disclosure of material connections (FTC Endorsement Guides, updated 2023) [3]. The diagnostic line — the file's center — is **hidden commercial exploitation of the bond**, not the bond or honest, disclosed promotion.
 
 ## Variants & aliases
 
@@ -67,7 +67,7 @@ It exploits [[liking-similarity]] and [[trust-mechanics]], pairs with [[fake-rev
 
 ## Caveats & false positives
 
-- **The parasocial bond itself is normal and healthy** ([[genuine-parasocial-bond]]): feeling you "know" a creator, enjoying their content, even feeling fond of them is an ordinary part of media life — not manipulation, and not something to be ashamed of. The tactic is the *covert monetization* of that bond, not the bond.
+- **The parasocial bond itself is normal and healthy** (*genuine parasocial bond*): feeling you "know" a creator, enjoying their content, even feeling fond of them is an ordinary part of media life — not manipulation, and not something to be ashamed of. The tactic is the *covert monetization* of that bond, not the bond.
 - **Honest, disclosed promotion is fine**: creators are allowed to make a living; a *clearly disclosed* sponsorship or "I get a commission" is legitimate advertising. The violation is *hiding* the commercial relationship — undisclosed or buried.
 - **"#ad" is the convention but not a magic word** [3]: the FTC requires disclosure that's *clear and conspicuous* ("unavoidable"), and a buried/ambiguous hashtag may not suffice — but the existence of a disclosure isn't itself manipulation; the absence of one is the tell.
 - **It's low-severity** ([[epistemic-guardrails]]) for ordinary undisclosed-ad cases (a sub-optimal purchase), rising toward [[con-anatomy]]/[[mlm-lifecycle]] severity when it becomes a high-ticket guru funnel.
@@ -84,4 +84,4 @@ Graded `supported`: the parasocial-relationship construct is well-established (H
 
 ## See also
 
-[[fake-reviews-astroturfing]] · [[con-anatomy]] · [[mlm-lifecycle]] · [[love-bombing]] · [[manufactured-urgency]] · [[liking-similarity]] · [[trust-mechanics]] · [[digital-platforms]] · [[advertising-marketing]] · [[genuine-parasocial-bond]]
+[[fake-reviews-astroturfing]] · [[con-anatomy]] · [[mlm-lifecycle]] · [[love-bombing]] · [[manufactured-urgency]] · [[liking-similarity]] · [[trust-mechanics]] · [[digital-platforms]] · [[advertising-marketing]] · *genuine parasocial bond*

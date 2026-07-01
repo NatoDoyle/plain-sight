@@ -25,7 +25,7 @@ Financial (or economic) abuse is **the use of money and economic resources to co
 - **Economic exploitation** — destroying the target's resources: stealing, running up debt, and **coerced debt** (debt incurred by fraud or coercion in the victim's name — Littwin, 2012) that wrecks credit and forecloses escape [2].
 - **Employment sabotage** — preventing or interfering with work or school: harassment at the job, hiding car keys, inflicting visible injuries before interviews, sabotaging childcare.
 
-The defining line is **coercive restriction of economic freedom that manufactures dependence** — not the mere fact that one partner manages the money ([[shared-financial-management]]).
+The defining line is **coercive restriction of economic freedom that manufactures dependence** — not the mere fact that one partner manages the money (*shared financial management*).
 
 ## Variants & aliases
 
@@ -90,7 +90,7 @@ A structural pillar of [[coercive-control]] (declared there as a constituent) th
 
 ### Not financial abuse when…
 
-- **One partner manages the money by agreement** ([[shared-financial-management]]): plenty of healthy couples have one person handle the budget, pool finances, or support a stay-at-home partner — *by mutual, transparent agreement, with both retaining knowledge, access, and autonomy*. That is not abuse; the abuse is *coercive restriction that manufactures dependence*.
+- **One partner manages the money by agreement** (*shared financial management*): plenty of healthy couples have one person handle the budget, pool finances, or support a stay-at-home partner — *by mutual, transparent agreement, with both retaining knowledge, access, and autonomy*. That is not abuse; the abuse is *coercive restriction that manufactures dependence*.
 - **Ordinary financial disagreements and constraints**: arguing about spending, being broke, disagreeing on a budget, or one partner being genuinely better with money are normal ([[epistemic-guardrails]]). Poverty is not abuse; conflict about money is not control.
 - **Cultural and religious financial arrangements**: single-earner models, pooled family finances, and culturally normative divisions of financial labor are not abuse by Western individualist default — the test is consent, transparency, and retained autonomy, not the arrangement's shape.
 - **The diagnostic is the *substantial adverse effect on economic freedom*** (the UK statute's threshold): a *pattern* of control/exploitation/sabotage that restricts the target's ability to acquire, use, or keep money — not a single financial decision or rough patch.
@@ -116,4 +116,4 @@ Graded `supported`: economic abuse is a measured construct with validated instru
 
 ## See also
 
-[[coercive-control]] · [[isolation-tactics]] · [[elder-targeting]] · [[escalation-entrapment]] · [[stalkerware-monitoring]] · [[emotional-blackmail]] · [[dv-safety-planning]] · [[documentation-practices]] · [[intimate-relationships]] · [[shared-financial-management]]
+[[coercive-control]] · [[isolation-tactics]] · [[elder-targeting]] · [[escalation-entrapment]] · [[stalkerware-monitoring]] · [[emotional-blackmail]] · [[dv-safety-planning]] · [[documentation-practices]] · [[intimate-relationships]] · *shared financial management*

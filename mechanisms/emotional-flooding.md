@@ -67,8 +67,8 @@ Where rage cycles include violence, threats, or control, the severity override i
 ## Caveats
 
 - **Everyone floods.** Flooding is a normal physiological response, not evidence of manipulation by whoever's present — most arguments that go hot involve two flooded people and zero strategy ([[epistemic-guardrails]]; Gottman's construct comes from ordinary couples [1]).
-- **Strong emotion in others is usually sincere** — someone crying, raging, or panicking is most often *in* the state, not deploying it ([[honest-hurt]]). The diagnostics are engineering (who lit the fire?), timing (asks inside the state), and the across-occasions correlation — in conjunction.
-- **Walking away to calm down is healthy**, not stonewalling-as-abuse ([[self-protective-distance]]); demanding someone stay in a flooded argument is itself a pressure move.
+- **Strong emotion in others is usually sincere** — someone crying, raging, or panicking is most often *in* the state, not deploying it (*honest hurt*). The diagnostics are engineering (who lit the fire?), timing (asks inside the state), and the across-occasions correlation — in conjunction.
+- **Walking away to calm down is healthy**, not stonewalling-as-abuse (*self protective distance*); demanding someone stay in a flooded argument is itself a pressure move.
 - **Emotion isn't the enemy of judgment** — the affect heuristic is often a decent guide [5], and some hot-state choices (fleeing real danger) are exactly right ([[fear-exploitation]]'s genuine-warning caveat). The target is *engineered* states harvested for *their* benefit.
 - **Boundaries:** [[fear-exploitation]] and [[hope-greed]] own the specific emotional *contents* (threat, phantom reward); this file owns the *state* — arousal that suspends deliberation regardless of flavor. [[cognitive-overload-confusion]] is the cognitive sibling: confusion rather than arousal doing the suspending.
 

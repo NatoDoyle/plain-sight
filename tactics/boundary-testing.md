@@ -90,9 +90,9 @@ Boundary-testing that has reached autonomy, money, sexual coercion, or safety is
 
 ### Not boundary-testing when…
 
-- **Genuine early-relationship calibration** ([[genuine-calibration]]): people *do* have to learn each other's limits, and that's mutual, responsive, and non-escalating — when you say "I don't like that," they adjust, and *they* have limits too. The tester's signature is the opposite: one-directional, escalating, and unresponsive to "no" [2].
-- **Cultural and personal-norm differences** ([[cultural-difference]]): directness, physical space, gift/favor expectations, and humor norms vary widely — a misread limit is not a probe. Someone from a more physically-affectionate or more direct culture isn't testing you; they're operating on different defaults.
-- **Children and neurodivergent limit-testing**: children developmentally test limits to learn the world's structure (non-strategic autonomy-seeking), and neurodivergent people may miss implicit norms without any mapping-for-exploitation intent ([[neurodivergent-communication]]). The discriminator is strategic escalation, not the existence of an overstep.
+- **Genuine early-relationship calibration** (*genuine calibration*): people *do* have to learn each other's limits, and that's mutual, responsive, and non-escalating — when you say "I don't like that," they adjust, and *they* have limits too. The tester's signature is the opposite: one-directional, escalating, and unresponsive to "no" [2].
+- **Cultural and personal-norm differences** (*cultural difference*): directness, physical space, gift/favor expectations, and humor norms vary widely — a misread limit is not a probe. Someone from a more physically-affectionate or more direct culture isn't testing you; they're operating on different defaults.
+- **Children and neurodivergent limit-testing**: children developmentally test limits to learn the world's structure (non-strategic autonomy-seeking), and neurodivergent people may miss implicit norms without any mapping-for-exploitation intent (*neurodivergent communication*). The discriminator is strategic escalation, not the existence of an overstep.
 - **Honest mistakes**: people genuinely forget a stated preference or misjudge a line once. The tactic-grade requires the *escalating, refusal-ignoring pattern*, not a single overstep ([[epistemic-guardrails]]).
 
 ### Base rates & severity calibration
@@ -112,4 +112,4 @@ Graded `folk` — honestly: "boundary-testing" names a real and recognizable pat
 
 ## See also
 
-[[commitment-consistency]] · [[foot-in-the-door]] · [[dissonance-exploitation]] · [[grooming-sequence]] · [[escalation-entrapment]] · [[love-bombing]] · [[coercive-control]] · [[boundary-scripts]] · [[genuine-calibration]]
+[[commitment-consistency]] · [[foot-in-the-door]] · [[dissonance-exploitation]] · [[grooming-sequence]] · [[escalation-entrapment]] · [[love-bombing]] · [[coercive-control]] · [[boundary-scripts]] · *genuine calibration*

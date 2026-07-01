@@ -94,10 +94,10 @@ Guilt-tripping alone is rarely exit-grade — it's the most human tactic in this
 
 ### Not guilt-tripping when…
 
-- **Honest hurt, plainly stated** ([[honest-hurt]]): "It hurt that you missed it" is feedback that *discharges when addressed* — the anti-guilt-trip. People are allowed to have feelings about your choices and say so; that's [[assertiveness]] from their side.
+- **Honest hurt, plainly stated** (*honest hurt*): "It hurt that you missed it" is feedback that *discharges when addressed* — the anti-guilt-trip. People are allowed to have feelings about your choices and say so; that's *assertiveness* from their side.
 - **Real obligations exist**: families and teams run on legitimate mutual duty; being reminded of a commitment you actually made is accountability, not a trip.
 - **Anxious or apologetic asking** — the sigh of someone afraid to need things is not the sigh of the strategist ([[guilt-leverage]]'s egocentric-bias caveat: both honest partners over-count their own contributions, and everyone occasionally guilt-flavors a request).
-- **Cultural obligation registers** ([[cultural-difference]]): filial-piety and strong-duty cultures conduct ordinary requests in obligation language; judge disproportion and dischargeability *within* the local frame.
+- **Cultural obligation registers** (*cultural difference*): filial-piety and strong-duty cultures conduct ordinary requests in obligation language; judge disproportion and dischargeability *within* the local frame.
 
 ### Base rates & severity calibration
 
@@ -122,4 +122,4 @@ Unusually well-grounded for a "folk" term: the technique typology is empirically
 
 ## See also
 
-[[guilt-leverage]] · [[emotional-blackmail]] · [[victim-posturing]] · [[conditional-love]] · [[self-harm-threats]] · [[we-are-family-rhetoric]] · [[honest-hurt]] · [[jade-avoidance]] · [[boundary-scripts]]
+[[guilt-leverage]] · [[emotional-blackmail]] · [[victim-posturing]] · [[conditional-love]] · [[self-harm-threats]] · [[we-are-family-rhetoric]] · *honest hurt* · [[jade-avoidance]] · [[boundary-scripts]]

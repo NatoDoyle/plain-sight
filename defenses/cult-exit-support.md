@@ -37,7 +37,7 @@ When someone is in, or has left, a destructive high-control group (religious, po
 ## When NOT to use it
 
 - **Never coercively.** No abduction, confinement, or forced "intervention" — it's illegal, harmful, retraumatizing, and tends to backfire (deepening the member's belief they're persecuted).
-- **Not on every intense or unusual group** ([[legitimate-religion]]): fervent belief, strict practice, and tight community are not, by themselves, a destructive cult. The markers are deception, exploitation, and punished exit — not intensity or strangeness. Don't pathologize sincere faith or a demanding-but-free community.
+- **Not on every intense or unusual group** (*legitimate religion*): fervent belief, strict practice, and tight community are not, by themselves, a destructive cult. The markers are deception, exploitation, and punished exit — not intensity or strangeness. Don't pathologize sincere faith or a demanding-but-free community.
 
 ## Failure modes & risks
 
@@ -61,7 +61,7 @@ Graded `supported` for the **exit-support practices and recovery challenges** �
 
 - **Voluntary and autonomy-respecting, always** — the person must choose; that's both the ethical line and what actually works.
 - **The mechanism is contested; the support is sound** — keep the two separate.
-- **Intensity ≠ coercion** ([[legitimate-religion]]) — reserve "cult"/"high-control" for groups that deceive, exploit, and punish exit.
+- **Intensity ≠ coercion** (*legitimate religion*) — reserve "cult"/"high-control" for groups that deceive, exploit, and punish exit.
 - **It's their decision and timeline** — your job is connection and open doors, not force.
 
 ## Safety notes
@@ -80,4 +80,4 @@ Leaving a high-control group can bring acute distress, dissociation, and suicida
 
 ## See also
 
-[[cult-conversion-funnel]] · [[radicalization-pipeline]] · [[cults-high-control]] · [[recovery-rebuilding]] · [[inoculation-prebunking]] · [[thought-terminating-cliches]] · [[isolation-tactics]] · [[detection-heuristics]] · [[epistemic-guardrails]] · [[legitimate-religion]]
+[[cult-conversion-funnel]] · [[radicalization-pipeline]] · [[cults-high-control]] · [[recovery-rebuilding]] · [[inoculation-prebunking]] · [[thought-terminating-cliches]] · [[isolation-tactics]] · [[detection-heuristics]] · [[epistemic-guardrails]] · *legitimate religion*

@@ -64,7 +64,7 @@ Leaving is gradual, often dangerous psychologically (loss of community and ident
 
 ## Caveats
 
-- **Intensity and strangeness are not the test** ([[legitimate-religion]], [[genuine-community]]): mainstream and minority religions, devout communities, activist movements, and close-knit groups share fervor, unusual beliefs, and charismatic leaders without being high-control. The differentiator is the control *pattern* (deception/exploitation/punished-exit), not the beliefs.
+- **Intensity and strangeness are not the test** (*legitimate religion*, *genuine community*): mainstream and minority religions, devout communities, activist movements, and close-knit groups share fervor, unusual beliefs, and charismatic leaders without being high-control. The differentiator is the control *pattern* (deception/exploitation/punished-exit), not the beliefs.
 - **"Cult" is a weaponizable, pejorative label** — historically used to attack minority religions and disliked groups; scholars prefer "new religious movement" and practitioners "high-control group." Describe the *behaviors*, don't brand the people ([[epistemic-guardrails]]).
 - **Contested constructs:** the "brainwashing/mind-control" thesis is scientifically disputed (APA rejected Singer's DIMPAC report, 1987) — see [[cult-conversion-funnel]]. Influence here is powerful and gradual, not an irresistible override of free will.
 - **Named living organizations require care:** LGATs (e.g., Landmark) and groups like Scientology are best described as *contested / cult-like / extensively litigated* rather than flatly labeled — the documented concern is specific practices, not a verdict on the whole.
@@ -83,4 +83,4 @@ Leaving is gradual, often dangerous psychologically (loss of community and ident
 
 ## See also
 
-[[cult-conversion-funnel]] · [[mlm-lifecycle]] · [[coercive-control]] · [[trauma-bonding]] · [[escalation-entrapment]] · [[isolation-tactics]] · [[thought-terminating-cliches]] · [[cult-exit-support]] · [[legitimate-religion]] · [[epistemic-guardrails]]
+[[cult-conversion-funnel]] · [[mlm-lifecycle]] · [[coercive-control]] · [[trauma-bonding]] · [[escalation-entrapment]] · [[isolation-tactics]] · [[thought-terminating-cliches]] · [[cult-exit-support]] · *legitimate religion* · [[epistemic-guardrails]]

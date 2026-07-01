@@ -99,7 +99,7 @@ Sustained emotional blackmail is a documented on-ramp to [[coercive-control]], a
 
 ### Not emotional blackmail when…
 
-- **Honest expression of hurt or needs** ([[honest-hurt]], [[assertiveness]]): "It hurts me when you cancel" or "I need more help around the house" carry *no contingent threat* — they state a feeling or request and leave you free to respond. The line is the **comply-or-penalty** structure; its absence means it's just communication, even uncomfortable communication.
+- **Honest expression of hurt or needs** (*honest hurt*, *assertiveness*): "It hurts me when you cancel" or "I need more help around the house" carry *no contingent threat* — they state a feeling or request and leave you free to respond. The line is the **comply-or-penalty** structure; its absence means it's just communication, even uncomfortable communication.
 - **Natural consequences honestly stated**: "If this keeps happening, I'll need to leave" can be a real boundary, not blackmail — the difference is whether it's a manipulative lever to control a *specific* compliance vs an honest statement of one's own limit. (Genuine boundaries are about the speaker's own actions; blackmail is about controlling yours.)
 - **A person genuinely in distress**: someone overwhelmed and reaching out is not blackmailing you — even clumsily expressed need isn't a threat. And critically, **a genuine self-harm crisis is a safety matter first**, never to be dismissed as "just blackmail" ([[self-harm-threats]]).
 - **Your own conflict-avoidance**: feeling pressured isn't proof of blackmail; sometimes a fair request feels heavy because saying no is simply hard ([[epistemic-guardrails]]; run the symmetric check — and note "you're emotionally blackmailing me" can itself deflect a legitimate need, [[therapy-speak-weaponization]]).
@@ -120,4 +120,4 @@ Graded `clinical`: Forward's FOG framework — the four types and six-step cycle
 
 ## See also
 
-[[guilt-tripping]] · [[guilt-leverage]] · [[fear-exploitation]] · [[veiled-threats]] · [[self-harm-threats]] · [[victim-posturing]] · [[coercive-control]] · [[honest-hurt]] · [[boundary-scripts]]
+[[guilt-tripping]] · [[guilt-leverage]] · [[fear-exploitation]] · [[veiled-threats]] · [[self-harm-threats]] · [[victim-posturing]] · [[coercive-control]] · *honest hurt* · [[boundary-scripts]]

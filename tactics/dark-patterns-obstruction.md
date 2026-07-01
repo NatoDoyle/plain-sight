@@ -20,7 +20,7 @@ last-updated: 2026-06-24
 
 ## Definition
 
-Obstruction dark patterns are **interface designs that deliberately impede actions in the user's interest — cancelling, leaving, declining, protecting privacy — while making the company-favored action frictionless** (Brignull's "deceptive patterns," 2010; Mathur et al.'s "Dark Patterns at Scale," 2019, which catalogs *obstruction*, *sneaking*, and *forced action* among its categories) [1]. The signatures: the **roach motel** (easy to enter, hard to exit), **forced continuity** (a free trial that auto-converts to charges and is hard to cancel), **sneak into basket** (items added by default/side-path without explicit consent), and **privacy zuckering** (coined by EFF's Tim Jones, 2010 — confusing UIs that trick users into oversharing data). The diagnostic — the file's center — is **asymmetry and intent**: friction engineered to trap or extract, distinguished from the legitimate confirmation and security steps of honest design ([[good-faith-ux]]).
+Obstruction dark patterns are **interface designs that deliberately impede actions in the user's interest — cancelling, leaving, declining, protecting privacy — while making the company-favored action frictionless** (Brignull's "deceptive patterns," 2010; Mathur et al.'s "Dark Patterns at Scale," 2019, which catalogs *obstruction*, *sneaking*, and *forced action* among its categories) [1]. The signatures: the **roach motel** (easy to enter, hard to exit), **forced continuity** (a free trial that auto-converts to charges and is hard to cancel), **sneak into basket** (items added by default/side-path without explicit consent), and **privacy zuckering** (coined by EFF's Tim Jones, 2010 — confusing UIs that trick users into oversharing data). The diagnostic — the file's center — is **asymmetry and intent**: friction engineered to trap or extract, distinguished from the legitimate confirmation and security steps of honest design (*good faith ux*).
 
 ## Variants & aliases
 
@@ -77,13 +77,13 @@ The "easy-in/hard-out" half of the dark-patterns playbook: it co-occurs with [[d
 
 ## Caveats & false positives
 
-- **Not all friction is a dark pattern** ([[good-faith-ux]]): confirmation steps ("are you sure you want to delete?"), security friction (2FA, re-authentication for sensitive actions), and genuinely multi-step processes are honest, user-protective design. The line is **asymmetry and intent** — friction that serves the *company* against your clear intent (trivially easy in, deliberately hard out), not friction that protects *you*.
+- **Not all friction is a dark pattern** (*good faith ux*): confirmation steps ("are you sure you want to delete?"), security friction (2FA, re-authentication for sensitive actions), and genuinely multi-step processes are honest, user-protective design. The line is **asymmetry and intent** — friction that serves the *company* against your clear intent (trivially easy in, deliberately hard out), not friction that protects *you*.
 - **Some complexity is unavoidable**: real cancellations sometimes involve genuine steps (final billing, data export). Obstruction is the *engineered* maze, not every multi-click flow.
 - **It's medium-severity**: the harm is financial (unwanted charges, lock-in) and privacy, recoverable but real ([[epistemic-guardrails]]); don't read every confirmation dialog as manipulation.
 
 ## Evidence & debates
 
-Graded `supported` and regulatory-grounded: the patterns are empirically documented (Mathur et al.'s large crawl) [1], catalogued by Brignull/deceptive.design, named in the FTC's 2022 dark-patterns staff report, prohibited by EU DSA Art. 25, and actively enforced (Amazon, Epic) [1][2]. Brignull's specific terms ("roach motel," etc.) are practitioner coinages now adopted by regulators. The honest note: the regulatory line is *deception/coercion/obstruction against the user's interest*, not friction per se — so the construct is solid while its boundary (the [[good-faith-ux]] caveat) requires judgment.
+Graded `supported` and regulatory-grounded: the patterns are empirically documented (Mathur et al.'s large crawl) [1], catalogued by Brignull/deceptive.design, named in the FTC's 2022 dark-patterns staff report, prohibited by EU DSA Art. 25, and actively enforced (Amazon, Epic) [1][2]. Brignull's specific terms ("roach motel," etc.) are practitioner coinages now adopted by regulators. The honest note: the regulatory line is *deception/coercion/obstruction against the user's interest*, not friction per se — so the construct is solid while its boundary (the *good faith ux* caveat) requires judgment.
 
 ## Sources
 
@@ -92,4 +92,4 @@ Graded `supported` and regulatory-grounded: the patterns are empirically documen
 
 ## See also
 
-[[dark-patterns-social-urgency]] · [[manufactured-urgency]] · [[fake-reviews-astroturfing]] · [[cognitive-overload-confusion]] · [[verification-rituals]] · [[detection-heuristics]] · [[digital-platforms]] · [[sales]] · [[epistemic-guardrails]] · [[good-faith-ux]]
+[[dark-patterns-social-urgency]] · [[manufactured-urgency]] · [[fake-reviews-astroturfing]] · [[cognitive-overload-confusion]] · [[verification-rituals]] · [[detection-heuristics]] · [[digital-platforms]] · [[sales]] · [[epistemic-guardrails]] · *good faith ux*

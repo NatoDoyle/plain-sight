@@ -49,7 +49,7 @@ Graded `supported`, with an honest split. The **acronym "JADE" is a practitioner
 
 ## Caveats
 
-- **Bad faith is the precondition.** Confirm you're dealing with a manipulator, not a partner having a bad day, before withholding explanation ([[normal-relationship-conflict]]).
+- **Bad faith is the precondition.** Confirm you're dealing with a manipulator, not a partner having a bad day, before withholding explanation (*normal relationship conflict*).
 - **It's about *over*-explaining, not communication itself.** The healthy version still says the one clear sentence; it just doesn't get dragged into round two.
 - **Not a character verdict or a weapon** — it governs *your* engagement, not a label you pin on someone.
 
@@ -67,4 +67,4 @@ Like other disengagement tactics, refusing the argument an abuser is used to can
 
 ## See also
 
-[[boundary-scripts]] · [[gray-rock]] · [[detection-heuristics]] · [[dv-safety-planning]] · [[circular-conversation]] · [[moving-goalposts]] · [[darvo]] · [[bad-faith-argumentation]] · [[guilt-tripping]] · [[emotional-blackmail]] · [[epistemic-guardrails]] · [[normal-relationship-conflict]]
+[[boundary-scripts]] · [[gray-rock]] · [[detection-heuristics]] · [[dv-safety-planning]] · [[circular-conversation]] · [[moving-goalposts]] · [[darvo]] · [[bad-faith-argumentation]] · [[guilt-tripping]] · [[emotional-blackmail]] · [[epistemic-guardrails]] · *normal relationship conflict*

@@ -41,7 +41,7 @@ The recurring exploit: **praise calibrated to the target's self-image, with the 
 
 ## Ethical use vs exploitation
 
-Sincere, accurate, proportionate recognition is one of the kindest things humans do, and even mild social lubricant flattery is harmless convention. The line ([[manipulation-vs-influence]]): exploitation shows **calibration to your self-image rather than your conduct**, **timing locked to asks**, **identity-conferral that creates obligations** ("someone like you would…"), and **withdrawal of esteem the moment you decline** ([[earned-praise]] survives your "no" and your failure to reciprocate).
+Sincere, accurate, proportionate recognition is one of the kindest things humans do, and even mild social lubricant flattery is harmless convention. The line ([[manipulation-vs-influence]]): exploitation shows **calibration to your self-image rather than your conduct**, **timing locked to asks**, **identity-conferral that creates obligations** ("someone like you would…"), and **withdrawal of esteem the moment you decline** (*earned praise* survives your "no" and your failure to reciprocate).
 
 ## Recognition
 
@@ -62,7 +62,7 @@ Sincere, accurate, proportionate recognition is one of the kindest things humans
 ## Caveats
 
 - **Most praise is sincere or harmless courtesy** — and accepting compliments graciously is healthy; chronic suspicion of all warmth is its own injury ([[epistemic-guardrails]]; base rates first).
-- **Mentors genuinely single people out** — "I see something in you" is also how real talent development sounds ([[earned-praise]]). The discriminators: conduct-grounded specifics, no ask-coupling, esteem surviving disagreement, and the mentor's benefit being *your* growth.
+- **Mentors genuinely single people out** — "I see something in you" is also how real talent development sounds (*earned praise*). The discriminators: conduct-grounded specifics, no ask-coupling, esteem surviving disagreement, and the mentor's benefit being *your* growth.
 - **The flattery literature is lab-scale** — effect sizes are modest and contextual [1][2][3]; a compliment is never, alone, evidence of exploitation ([[epistemic-guardrails]]).
 - **Self-image is the co-conspirator** — this lever runs on *our* willingness to believe the best fits ([[optimism-overconfidence]], [[why-smart-people-fall]]); calibrating it means auditing one's own ego, which no checklist outsources.
 - **Boundary with [[liking-similarity]]:** compliments there serve *liking the flatterer*; here the target is made to like *themselves through the flatterer* — dependence on the verdict-giver is the difference. Boundary with [[negging]]: same status game, opposite pole (lower their worth vs inflate it); both fish for validation-seeking.

@@ -91,8 +91,8 @@ Escalating threats, weapon displays, threats to harm you/children/pets, or threa
 
 ### Not a veiled threat when…
 
-- **Actual jokes and banter** ([[playful-teasing]]): real humor between people at ease, with no fear and no power-line being drawn, isn't a threat — and most dark humor is just humor. The discriminators: does it land as fear? is it timed to your autonomy? does the "joke" retreat appear *only* when challenged? Isolated edgy humor with a friend is rung-1 evidence of nothing.
-- **Genuine warnings** ([[genuine-warning]]): "be careful walking there at night" or "heads up, the boss is in a mood" is *information offered for your benefit*, not intimidation aimed at controlling you — the warner doesn't gain from your fear and isn't the source of the danger.
+- **Actual jokes and banter** (*playful teasing*): real humor between people at ease, with no fear and no power-line being drawn, isn't a threat — and most dark humor is just humor. The discriminators: does it land as fear? is it timed to your autonomy? does the "joke" retreat appear *only* when challenged? Isolated edgy humor with a friend is rung-1 evidence of nothing.
+- **Genuine warnings** (*genuine warning*): "be careful walking there at night" or "heads up, the boss is in a mood" is *information offered for your benefit*, not intimidation aimed at controlling you — the warner doesn't gain from your fear and isn't the source of the danger.
 - **Hyperbole and venting**: "I'm going to kill my brother" about an annoyance, "I could strangle this printer" — emotional exaggeration with no target-directed intimidation. Context and direction distinguish venting-to-you from threatening-you.
 - **Your own heightened state**: anxiety, trauma history, or a tense moment can make neutral remarks feel menacing ([[epistemic-guardrails]]; run the symmetric check). The tactic-grade requires the conjunction — *lands as fear + deniability construction + timed to your autonomy + the on-challenge retreat* — as a pattern, not a single ambiguous comment.
 

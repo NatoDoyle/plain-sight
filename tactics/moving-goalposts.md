@@ -73,7 +73,7 @@ Pairs with [[conditional-love]] (the standard guards the affection supply) and [
 ### In the moment
 
 - **Pin it in writing, kindly, every time** ([[documentation-practices]]): "So we're agreed — X by Y constitutes done?" Then, on completion: "X delivered as agreed on [date]." The move requires fog; receipts are floodlights. The *reaction to pinning* is itself the test ([[manipulation-vs-influence]]).
-- **Name the move once, neutrally**: "The target's moved — that's fine if requirements changed, but let's acknowledge the change and re-scope" ([[evolving-requirements]] is the legitimate frame; offering it flushes out whether change or control is operating).
+- **Name the move once, neutrally**: "The target's moved — that's fine if requirements changed, but let's acknowledge the change and re-scope" (*evolving requirements* is the legitimate frame; offering it flushes out whether change or control is operating).
 - **Bank the credit yourself**: state completions as facts, not requests for approval ("that's done; what's next?") — withholding acknowledgment loses force when you stop bidding for it.
 
 ### Structural / long-term
@@ -90,10 +90,10 @@ A game whose rules guarantee your fault is not a performance problem — it's a 
 
 ### Not moving the goalposts when…
 
-- **Requirements genuinely evolve** ([[evolving-requirements]]): markets shift, projects re-scope, parents recalibrate to a child's growth. The honest version is *announced, symmetric, acknowledges the change, and credits prior work* — change with a changelog.
-- **The standard was misunderstood, not moved** ([[honest-disagreement]]): two sincere readings of "done" diverge constantly; the first revision is communication, not tactics.
+- **Requirements genuinely evolve** (*evolving requirements*): markets shift, projects re-scope, parents recalibrate to a child's growth. The honest version is *announced, symmetric, acknowledges the change, and credits prior work* — change with a changelog.
+- **The standard was misunderstood, not moved** (*honest disagreement*): two sincere readings of "done" diverge constantly; the first revision is communication, not tactics.
 - **Your performance genuinely misses** — run the symmetric check before concluding: a neutral third party reviewing the agreement and the work ([[epistemic-guardrails]]; the completion ledger cuts both ways, and sometimes it convicts the keeper).
-- **Anxious perfectionism isn't strategy**: bosses and parents transmitting their own unappeasable anxiety produce shifting standards without design ([[incompetence-not-malice]]); harmful either way, but the response differs.
+- **Anxious perfectionism isn't strategy**: bosses and parents transmitting their own unappeasable anxiety produce shifting standards without design (*incompetence not malice*); harmful either way, but the response differs.
 
 ### Base rates & severity calibration
 
@@ -113,4 +113,4 @@ Graded `folk`, plainly: no dedicated empirical literature exists on goalpost-mov
 
 ## See also
 
-[[conditional-love]] · [[pip-weaponization]] · [[intermittent-reinforcement]] · [[hope-greed]] · [[double-binds]] · [[history-rewriting]] · [[future-faking]] · [[documentation-practices]] · [[evolving-requirements]]
+[[conditional-love]] · [[pip-weaponization]] · [[intermittent-reinforcement]] · [[hope-greed]] · [[double-binds]] · [[history-rewriting]] · [[future-faking]] · [[documentation-practices]] · *evolving requirements*

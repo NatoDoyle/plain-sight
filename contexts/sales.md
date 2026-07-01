@@ -55,8 +55,8 @@ The master counter is **time**: "I don't make decisions this size on the spot �
 
 - **Selling is not manipulation, and persuasion is legitimate.** A salesperson making a confident case, offering a real discount, or pointing out a genuine deadline is doing their job ([[epistemic-guardrails]]). Don't treat ordinary commerce as predation.
 - **The line is deception + engineered pressure + exploitation:** (a) false/misleading claims about the product, **price, or terms**; (b) undisclosed pressure designed to *prevent deliberation* (manufactured urgency, marathon presentations, commitment traps); (c) targeting vulnerable buyers (elderly, grieving, financially desperate). Puffery, enthusiasm, and real scarcity are not that.
-- **A real deadline is information, not a trap** ([[genuine-deadline]]): genuine inventory limits, true sale-end dates, and time-sensitive offers exist. The flag is the *arbitrary, resetting, or unexplained* deadline used to stop you thinking — not every deadline.
-- **High price or hard bargaining ≠ fraud** ([[hard-bargaining]]): an aggressive negotiating posture you can walk away from is disclosed hardball, not manipulation.
+- **A real deadline is information, not a trap** (*genuine deadline*): genuine inventory limits, true sale-end dates, and time-sensitive offers exist. The flag is the *arbitrary, resetting, or unexplained* deadline used to stop you thinking — not every deadline.
+- **High price or hard bargaining ≠ fraud** (*hard bargaining*): an aggressive negotiating posture you can walk away from is disclosed hardball, not manipulation.
 
 ## Sources
 
@@ -68,4 +68,4 @@ The master counter is **time**: "I don't make decisions this size on the spot �
 
 ## See also
 
-[[manufactured-urgency]] · [[four-square-payment-packing]] · [[lowballing]] · [[thats-not-all-decoys]] · [[timeshare-playbook]] · [[charm-offensive]] · [[verification-rituals]] · [[advertising-marketing]] · [[genuine-deadline]] · [[epistemic-guardrails]]
+[[manufactured-urgency]] · [[four-square-payment-packing]] · [[lowballing]] · [[thats-not-all-decoys]] · [[timeshare-playbook]] · [[charm-offensive]] · [[verification-rituals]] · [[advertising-marketing]] · *genuine deadline* · [[epistemic-guardrails]]

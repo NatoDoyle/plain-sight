@@ -59,7 +59,7 @@ The model implies a cruel paradox: the **reconciliation/calm phase feels safest*
 
 ## Caveats & false positives
 
-- **Not every up-and-down relationship is an abuse cycle** ([[normal-relationship-conflict]]): all relationships have conflict, rough patches, and reconciliations. The difference is *fear, power-over, and escalation* — ordinary conflict is between equals, doesn't run on intimidation, and repairs are mutual and genuine rather than a contrition-phase that resets the same harm. Apology after a fight is not "love-bombing"; making up is not "the honeymoon phase." Don't pathologize normal friction.
+- **Not every up-and-down relationship is an abuse cycle** (*normal relationship conflict*): all relationships have conflict, rough patches, and reconciliations. The difference is *fear, power-over, and escalation* — ordinary conflict is between equals, doesn't run on intimidation, and repairs are mutual and genuine rather than a contrition-phase that resets the same harm. Apology after a fight is not "love-bombing"; making up is not "the honeymoon phase." Don't pathologize normal friction.
 - **The bigger error is the opposite — missing abuse that has *no* cycle.** Because the cycle is so famous, people (and even professionals) can fail to recognize abuse that doesn't fit it: the relationship with no "honeymoon," or with constant low-grade domination and no discrete "incidents." That is often [[coercive-control]], and it is no less serious for being uncyclical [3]. Absence of a cycle is **not** evidence of absence of abuse.
 - **The model can induce its own harms:** waiting for a vanished honeymoon, assuming some phase is "safe to leave," or sliding into the fatalism/learned-helplessness the cyclical framing can imply. Use it to recognize and plan, not to predict or to wait.
 
@@ -80,4 +80,4 @@ Graded **`contested`** — and the honesty of that grade is the point. The cycle
 
 ## See also
 
-[[coercive-control]] · [[trauma-bonding]] · [[intermittent-reinforcement]] · [[love-bombing]] · [[hoovering]] · [[non-apology-patterns]] · [[future-faking]] · [[dv-safety-planning]] · [[detection-heuristics]] · [[normal-relationship-conflict]]
+[[coercive-control]] · [[trauma-bonding]] · [[intermittent-reinforcement]] · [[love-bombing]] · [[hoovering]] · [[non-apology-patterns]] · [[future-faking]] · [[dv-safety-planning]] · [[detection-heuristics]] · *normal relationship conflict*

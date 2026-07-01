@@ -91,9 +91,9 @@ A community or relationship where questions *cannot* be asked in ordinary langua
 ### Not thought-terminating when…
 
 - **Comfort isn't argument**: "everything happens for a reason" said to a grieving friend is consolation, not manipulation — clichés legitimately *regulate emotion*, close ruminative loops, and express solidarity. The tactic-grade requires deployment *against live questions* whose answers matter to the deployer's interests.
-- **Compression isn't evasion**: experts and parents legitimately compress ("we'll discuss it when you're older," "long story — bottom line is X") when the offer to unpack later is real ([[legitimate-expertise]]; the discriminator is whether unpacking is *available* or *punished*).
+- **Compression isn't evasion**: experts and parents legitimately compress ("we'll discuss it when you're older," "long story — bottom line is X") when the offer to unpack later is real (*legitimate expertise*; the discriminator is whether unpacking is *available* or *punished*).
 - **Acceptance practices are real**: "it is what it is" is also a genuine coping stance (radical acceptance, serenity-prayer territory) — chosen by the speaker for their own equanimity, not imposed to end your inquiry.
-- **Everyone speaks in formulas sometimes** — tired people reach for stock phrases without strategy ([[incompetence-not-malice]]); the tactic-grade conjunction: **formulas at interest-bearing pressure points + punishment of unpacking + lexicon density growing over time** ([[epistemic-guardrails]]; a shrugged "it is what it is" is rung-1 evidence of fatigue).
+- **Everyone speaks in formulas sometimes** — tired people reach for stock phrases without strategy (*incompetence not malice*); the tactic-grade conjunction: **formulas at interest-bearing pressure points + punishment of unpacking + lexicon density growing over time** ([[epistemic-guardrails]]; a shrugged "it is what it is" is rung-1 evidence of fatigue).
 
 ### Base rates & severity calibration
 

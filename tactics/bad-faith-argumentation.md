@@ -87,8 +87,8 @@ A toolkit that overlaps the other "you-can-never-resolve-it" tactics: it pairs w
 ### This section is core — the accusation is as weaponizable as the tactic
 
 - **"You're sealioning / arguing in bad faith" is itself a silencing move** [4][7]: the single biggest false-positive risk. Labeling someone a bad-faith arguer is a standard way to **dismiss legitimate questions, honest disagreement, and inconvenient evidence** without engaging them — to exit a debate you're losing while claiming the high ground. The accusation carries the *same* burden the tactic does, and (as one critic put it) sometimes the persistent questioner is simply *right*. Be at least as suspicious of the accusation as of the behavior.
-- **Genuine inquiry** ([[genuine-inquiry]]): sincere questions — even persistent, even naive, even inconvenient ones — aimed at understanding are *good*, and responsive to answers. Persistence alone is not sealioning; the difference is whether the questioner *updates* when answered. Don't pathologize curiosity or skepticism.
-- **Honest disagreement** ([[honest-disagreement]]): people can sincerely hold a different view, argue hard for it, and still be in good faith. Strength of conviction, repetition, or refusing to concede a point you find obvious is not bad faith — it may just be disagreement.
+- **Genuine inquiry** (*genuine inquiry*): sincere questions — even persistent, even naive, even inconvenient ones — aimed at understanding are *good*, and responsive to answers. Persistence alone is not sealioning; the difference is whether the questioner *updates* when answered. Don't pathologize curiosity or skepticism.
+- **Honest disagreement** (*honest disagreement*): people can sincerely hold a different view, argue hard for it, and still be in good faith. Strength of conviction, repetition, or refusing to concede a point you find obvious is not bad faith — it may just be disagreement.
 - **Non-fallacious cousins** [5]: pointing out a real inconsistency in someone's position (not pure tu quoque deflection), refining a claim when legitimately challenged (not a motte-and-bailey bait-and-switch), or asking for a source on an extraordinary assertion (not sealioning) are all *legitimate*. The strawman/weak-man/hollow-man distinctions exist precisely because some criticisms of weak arguments are fair.
 - **The line is the pattern, not the message** [7]: no single question, request for evidence, or hard-fought point can be diagnosed as bad faith. Only the pattern — positions that shift and revert, questions answered yet re-asked, a standard of proof that rises whenever it's met, effort demanded but never reciprocated — distinguishes bad faith from vigorous good-faith argument.
 
@@ -112,4 +112,4 @@ Graded `supported`: the family rests on solid argumentation theory and pragmatic
 
 ## See also
 
-[[circular-conversation]] · [[moving-goalposts]] · [[thought-terminating-cliches]] · [[cognitive-overload-confusion]] · [[framing-anchoring]] · [[gaslighting]] · [[disinformation-playbooks]] · [[jade-avoidance]] · [[detection-heuristics]] · [[genuine-inquiry]]
+[[circular-conversation]] · [[moving-goalposts]] · [[thought-terminating-cliches]] · [[cognitive-overload-confusion]] · [[framing-anchoring]] · [[gaslighting]] · [[disinformation-playbooks]] · [[jade-avoidance]] · [[detection-heuristics]] · *genuine inquiry*

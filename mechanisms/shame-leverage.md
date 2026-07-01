@@ -67,8 +67,8 @@ Sextortion targeting minors is an emergency: involve a trusted adult immediately
 ## Caveats
 
 - **Embarrassment ≠ shame-leverage**: ordinary social friction, teasing among equals, and accountability for real misconduct all sting without being control systems. The diagnostics are globalization, fabrication/disproportion, verdict monopoly, and harvested compliance — in conjunction ([[epistemic-guardrails]]). Note too that "you always…" globalizing is ubiquitous in ordinary couple conflict as *criticism* (Gottman's research treats it as common and corrosive, not as a control system by itself).
-- **Honest criticism targets behavior** ([[honest-hurt]]): "that comment hurt people" is feedback; "you're a toxic person" as a recurring lever is the pattern to watch.
-- **Cultural calibration** ([[cultural-difference]]): honor- and face-based cultures run legitimate social-standing economies; public correction norms differ. Judge disproportion and verdict-monopoly within the local frame.
+- **Honest criticism targets behavior** (*honest hurt*): "that comment hurt people" is feedback; "you're a toxic person" as a recurring lever is the pattern to watch.
+- **Cultural calibration** (*cultural difference*): honor- and face-based cultures run legitimate social-standing economies; public correction norms differ. Judge disproportion and verdict-monopoly within the local frame.
 - **Shame-proneness varies** — high-shame-prone targets hear verdicts no one issued; the felt-sense bullets are *prompts to assess*, not proof of an attacker ([[epistemic-guardrails]]).
 - **Boundary with [[guilt-leverage]]:** declared there (did vs are; service vs silence).
 

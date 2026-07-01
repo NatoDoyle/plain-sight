@@ -69,7 +69,7 @@ Supporting levers: manufactured switching-deadline pressure ([[manufactured-urge
 
 This is the line most easily abused — **honest competition is not FUD**:
 
-- **Disclosing a competitor's genuine, verifiable risks is legitimate** — and so is prudent due diligence about a vendor's security, finances, or longevity. The innocent twin is [[genuine-warning]]: a real risk, honestly conveyed, where the warner *welcomes* independent verification and the danger is checkable.
+- **Disclosing a competitor's genuine, verifiable risks is legitimate** — and so is prudent due diligence about a vendor's security, finances, or longevity. The innocent twin is *genuine warning*: a real risk, honestly conveyed, where the warner *welcomes* independent verification and the danger is checkable.
 - **Comparative advertising and hard selling are normal.** Pointing out real, demonstrable advantages over a rival is fair competition, not manipulation.
 - **The discriminators** (use all three): *Is the asserted risk real and checkable, or vague and unfalsifiable? Does the warner profit from your fear specifically? Is independent verification welcomed or discouraged?* Manufactured/exaggerated/unevidenced fear that the seller benefits from and shields from checking = FUD. A documented, verifiable problem you can confirm yourself = legitimate warning.
 - **Some "FUD" labeling is itself a tactic.** Dismissing every genuine safety, security, or solvency concern as "just FUD" is a way to *suppress* legitimate warnings — don't let the word become a thought-terminator.
@@ -84,4 +84,4 @@ This is the line most easily abused — **honest competition is not FUD**:
 
 ## See also
 
-[[competitors-business]] · [[smear-campaigns]] · [[manufactured-urgency]] · [[bad-faith-negotiation]] · [[fear-exploitation]] · [[loss-aversion-endowment]] · [[information-asymmetry]] · [[verification-rituals]] · [[detection-heuristics]] · [[genuine-warning]] · [[advertising-marketing]] · [[sales]]
+[[competitors-business]] · [[smear-campaigns]] · [[manufactured-urgency]] · [[bad-faith-negotiation]] · [[fear-exploitation]] · [[loss-aversion-endowment]] · [[information-asymmetry]] · [[verification-rituals]] · [[detection-heuristics]] · *genuine warning* · [[advertising-marketing]] · [[sales]]

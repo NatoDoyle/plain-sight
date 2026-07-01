@@ -26,51 +26,51 @@ last-updated: 2026-07-01
 
 ### "I feel confused or disoriented after talking — like I'm losing my grip on reality"
 **Candidates:** [[gaslighting]] · [[circular-conversation|circular conversation / word salad]] · [[history-rewriting]] · [[double-binds]] · [[moving-goalposts]]
-**Could also be:** [[memory-divergence]] or [[honest-disagreement]] — two people genuinely remember/see it differently, with no one rewriting reality. → [[documentation-practices]]
+**Could also be:** *memory divergence* or *honest disagreement* — two people genuinely remember/see it differently, with no one rewriting reality. → [[documentation-practices]]
 
 ### "I'm always walking on eggshells / bracing for the next blow-up"
 **Candidates:** [[coercive-control]] · [[intermittent-reinforcement]] · [[silent-treatment]] · [[veiled-threats]] · [[abuse-cycle]] · [[emotional-flooding]]
-**Could also be:** [[normal-relationship-conflict]] or someone going through a genuinely hard stretch — tension that is mutual, discussable, and not enforced by fear. → [[detection-heuristics]]
+**Could also be:** *normal relationship conflict* or someone going through a genuinely hard stretch — tension that is mutual, discussable, and not enforced by fear. → [[detection-heuristics]]
 
 ### "I feel guilty all the time / responsible for their feelings"
 **Candidates:** [[guilt-tripping]] · [[emotional-blackmail]] · [[self-harm-threats]] · [[conditional-love]] · [[pity-plays]]
 **Targets the vulnerability:** [[people-pleasing-fawn]]
-**Could also be:** [[honest-hurt]] — a person naming real pain you caused, without using it to control you. → [[boundary-scripts]]
+**Could also be:** *honest hurt* — a person naming real pain you caused, without using it to control you. → [[boundary-scripts]]
 
 ### "Somehow I'm always the bad guy — I came to complain and ended up apologizing"
 **Candidates:** [[darvo]] · [[projection-blame-shifting]] · [[reactive-abuse-provocation]] · [[victim-posturing]] · [[non-apology-patterns]]
-**Could also be:** [[genuine-victimhood]] — sometimes the other person really was hurt, or you really were (partly) wrong. Check who has power and who keeps the harm. → [[detection-heuristics]]
+**Could also be:** *genuine victimhood* — sometimes the other person really was hurt, or you really were (partly) wrong. Check who has power and who keeps the harm. → [[detection-heuristics]]
 
 ### "It moved so fast / it feels too good to be true / I was swept off my feet"
 **Candidates:** [[love-bombing]] · [[future-faking]] · [[mirroring-false-identity]] · [[romance-scam-arc]] · [[charm-offensive]]
-**Could also be:** [[limerence]] or [[genuine-rapport]] — real early-relationship intensity and real compatibility exist. The tell is pressure, idealization, and speed that *resists slowing down*. → [[verification-rituals]]
+**Could also be:** *limerence* or *genuine rapport* — real early-relationship intensity and real compatibility exist. The tell is pressure, idealization, and speed that *resists slowing down*. → [[verification-rituals]]
 
 ### "I feel pressured to decide RIGHT NOW"
 **Candidates:** [[manufactured-urgency]] · [[scarcity-urgency]] · [[foot-in-the-door]] · [[dark-patterns-social-urgency]] · [[four-square-payment-packing]] · [[bad-faith-negotiation]]
-**Could also be:** [[genuine-deadline]] or [[genuine-opportunity]] — some deadlines are real. The test: does it survive you saying "I need to sleep on it"? → [[detection-heuristics]]
+**Could also be:** *genuine deadline* or *genuine opportunity* — some deadlines are real. The test: does it survive you saying "I need to sleep on it"? → [[detection-heuristics]]
 
 ### "I feel smaller, drained, never quite good enough around them"
 **Candidates:** [[negging]] · [[conditional-love]] · [[flattery-ego]] (praise that comes and goes) · [[triangulation]] (constant comparison)
 **Look at the actor:** [[narcissistic-patterns]]
-**Could also be:** [[honest-feedback]] or your own insecurity — real feedback is specific, consistent, and meant to help you, not to keep you off balance. → [[gray-rock]]
+**Could also be:** *honest feedback* or your own insecurity — real feedback is specific, consistent, and meant to help you, not to keep you off balance. → [[gray-rock]]
 
 ### "I feel cut off from my friends and family"
 **Candidates:** [[isolation-tactics]] · [[coercive-control]] · [[cult-conversion-funnel]] · [[financial-abuse]] (no means to leave)
 **Targets the vulnerability:** [[loneliness-isolation]]
-**Could also be:** [[self-protective-distance]] (yours, by choice) or natural life drift. The tell is *someone else engineering* the isolation. → [[helping-others]] (for a worried friend) · [[no-contact-exit-planning]]
+**Could also be:** *self protective distance* (yours, by choice) or natural life drift. The tell is *someone else engineering* the isolation. → [[helping-others]] (for a worried friend) · [[no-contact-exit-planning]]
 
 ### "I feel watched, tracked, or checked up on"
 **Candidates:** [[stalkerware-monitoring]] · [[coercive-control]]
-**Could also be:** [[consensual-monitoring]] or [[shared-financial-management]] — monitoring both freely agreed to and can revoke. The tell is secrecy, coercion, or no opt-out. → **SAFETY:** [[dv-safety-planning]] (assume devices may be monitored)
+**Could also be:** *consensual monitoring* or *shared financial management* — monitoring both freely agreed to and can revoke. The tell is secrecy, coercion, or no opt-out. → **SAFETY:** [[dv-safety-planning]] (assume devices may be monitored)
 
 ### "I want to believe it so much — the returns/opportunity are incredible"
 **Candidates:** [[hope-greed]] · [[ponzi-psychology]] · [[affinity-fraud]] · [[mlm-recruitment-scripts]] · [[romance-scam-arc]] (pig-butchering) · [[future-faking]]
-**Could also be:** [[genuine-opportunity]] or [[legitimate-small-business]] — but verify independently; legitimate offers welcome scrutiny and "no." → [[verification-rituals]]
+**Could also be:** *genuine opportunity* or *legitimate small business* — but verify independently; legitimate offers welcome scrutiny and "no." → [[verification-rituals]]
 
 ### "They're so charming and everyone loves them — but something's off"
 **Candidates:** [[charm-offensive]] · [[mirroring-false-identity]] · [[triangulation]]
 **Look at the actor:** [[psychopathic-patterns]] · [[con-artist-typologies]]
-**Could also be:** [[genuine-charisma]] — charm is not a crime. Watch the *gap* between charm in public and conduct in private. → [[universal-red-flags]]
+**Could also be:** *genuine charisma* — charm is not a crime. Watch the *gap* between charm in public and conduct in private. → [[universal-red-flags]]
 
 ### "My gut says something is wrong, but I can't explain why"
 **Candidates / start:** [[universal-red-flags]] · [[detection-heuristics]] · [[trust-mechanics]] · [[betrayal-blindness]]
@@ -82,16 +82,16 @@ last-updated: 2026-07-01
 
 ### "I can never win an argument / they bury me in points / nothing ever gets resolved"
 **Candidates:** [[circular-conversation]] · [[moving-goalposts]] · [[bad-faith-argumentation]] (sealioning, gish gallop, motte-and-bailey) · [[thought-terminating-cliches]] · [[history-rewriting]]
-**Could also be:** [[honest-disagreement]] — a real, good-faith disagreement that's simply unresolved. → [[jade-avoidance]] (stop over-explaining)
+**Could also be:** *honest disagreement* — a real, good-faith disagreement that's simply unresolved. → [[jade-avoidance]] (stop over-explaining)
 
 ### "Just when I try to pull away, they pull me back in"
 **Candidates:** [[hoovering]] · [[intermittent-reinforcement]] · [[breadcrumbing]] · [[future-faking]] · [[non-apology-patterns]]
 **Why it's so sticky:** [[trauma-bonding]]
-**Could also be:** [[genuine-reconciliation]] — real repair involves changed behavior over time, not just words at the moment you're leaving. → [[no-contact-exit-planning]]
+**Could also be:** *genuine reconciliation* — real repair involves changed behavior over time, not just words at the moment you're leaving. → [[no-contact-exit-planning]]
 
 ### "I feel special and chosen — this group/person finally *gets* me"
 **Candidates:** [[love-bombing]] · [[cult-conversion-funnel]] · [[unity-ingroup]] · [[radicalization-pipeline]] · [[we-are-family-rhetoric]]
-**Could also be:** [[genuine-community]] or [[legitimate-religion]] — belonging is a real human good. The markers of harm are deception, exploitation, and *punished exit* — not intensity or sincerity. → [[cult-exit-support]]
+**Could also be:** *genuine community* or *legitimate religion* — belonging is a real human good. The markers of harm are deception, exploitation, and *punished exit* — not intensity or sincerity. → [[cult-exit-support]]
 
 ### "I'm overwhelmed by the paperwork/terms/details and just want it to be over"
 **Candidates:** [[cognitive-overload-confusion]] · [[bad-faith-negotiation]] (snow job) · [[dark-patterns-obstruction]] · [[thats-not-all-decoys]] · [[four-square-payment-packing]]
@@ -103,17 +103,17 @@ last-updated: 2026-07-01
 
 ### "A fog of obligation, guilt, and fear runs the relationship" (FOG)
 **Candidate:** [[emotional-blackmail]] (Forward's FOG) · [[veiled-threats]] · [[self-harm-threats]] · [[guilt-tripping]]
-**Could also be:** [[honest-hurt]] or a relationship under genuine strain — obligation, guilt, and fear can arise without anyone engineering them; the tell is whether they're *used* to steer your choices.
+**Could also be:** *honest hurt* or a relationship under genuine strain — obligation, guilt, and fear can arise without anyone engineering them; the tell is whether they're *used* to steer your choices.
 → [[boundary-scripts]] · [[detection-heuristics]]
 
 ### "I feel responsible for adult problems that aren't mine / I was the parent growing up"
 **Candidates:** [[parentification]] · [[golden-child-scapegoat]] · [[conditional-love]] · [[guilt-tripping]]
-**Could also be:** [[age-appropriate-responsibility]] — chores and helping out are healthy; carrying a parent's emotional or practical role is not. → [[recovery-rebuilding]]
+**Could also be:** *age appropriate responsibility* — chores and helping out are healthy; carrying a parent's emotional or practical role is not. → [[recovery-rebuilding]]
 
 ### "An adult or older peer gives my child (or me, as a teen) special attention, gifts, and secret one-on-one time"
 **Candidates:** [[grooming-sequence]] · [[boundary-testing]] (progressive boundary erosion) · [[isolation-tactics]]
 **This is a safety matter, not just an analysis one.** Trust the unease; involve other adults; refuse the "our little secret" frame.
-**Could also be:** [[ordinary-mentorship]] — real mentors welcome transparency and parental involvement, and keep contact open, not secret. The tells are secrecy, engineered alone-time, and escalating boundary-testing.
+**Could also be:** *ordinary mentorship* — real mentors welcome transparency and parental involvement, and keep contact open, not secret. The tells are secrecy, engineered alone-time, and escalating boundary-testing.
 → **SAFETY:** [[grooming-sequence]] · **Childhelp 1-800-422-4453**; if a child is in immediate danger, **911**.
 
 ---

@@ -91,8 +91,8 @@ Proxy *surveillance* (others recruited to monitor or locate you) is stalking-adj
 
 ### Not proxy recruitment when…
 
-- **People legitimately took sides after hearing a true account**: friends who side against someone because they accurately learned what that person did are exercising judgment, not being weaponized ([[honest-disagreement]]). The discriminators: **were the proxies deceived/given a one-sided story, and is there orchestration** — versus people independently concluding from the truth.
-- **A real warning relayed** ([[genuine-warning]]): someone passing along a sincere, true caution ("she mentioned she's worried about you") is care, not recruitment.
+- **People legitimately took sides after hearing a true account**: friends who side against someone because they accurately learned what that person did are exercising judgment, not being weaponized (*honest disagreement*). The discriminators: **were the proxies deceived/given a one-sided story, and is there orchestration** — versus people independently concluding from the truth.
+- **A real warning relayed** (*genuine warning*): someone passing along a sincere, true caution ("she mentioned she's worried about you") is care, not recruitment.
 - **Your OWN support network**: friends and family who advocate *for you*, check on you, or help you are your support — not proxies. (Manipulators invert this, calling a victim's genuine supporters "flying monkeys" — see below.)
 - **Ordinary mutual-friend awkwardness**: shared networks carry messages and gossip organically after any conflict; the tactic-grade is *orchestration + one-sided narrative + the recruiter's deniability*, not the existence of intermediaries.
 
@@ -118,4 +118,4 @@ Graded `clinical`: the "flying monkeys" label is folk, but the pattern rests on 
 
 ## See also
 
-[[triangulation]] · [[smear-campaigns]] · [[hoovering]] · [[isolation-tactics]] · [[guilt-leverage]] · [[victim-posturing]] · [[mobbing]] · [[cults-high-control]] · [[genuine-warning]] · [[dv-safety-planning]]
+[[triangulation]] · [[smear-campaigns]] · [[hoovering]] · [[isolation-tactics]] · [[guilt-leverage]] · [[victim-posturing]] · [[mobbing]] · [[cults-high-control]] · *genuine warning* · [[dv-safety-planning]]

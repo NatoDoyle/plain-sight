@@ -19,7 +19,7 @@ last-updated: 2026-06-24
 
 ## Definition
 
-Foot-in-the-door (FITD) is **a sequential-request technique in which a small initial request is used to increase compliance with a larger later one** (Freedman & Fraser, 1966) [1]. The mechanism is **commitment-consistency / self-perception**: saying yes to the small ask shifts your self-concept ("I'm the kind of person who helps / who's involved with this"), and the larger request then rides on the drive to stay consistent ([[commitment-consistency]]). It sits squarely on the **persuasion–manipulation boundary** — charities, health campaigns, and honest salespeople use it openly and legitimately — so the diagnostic isn't the structure but whether the small yes was a *genuine* ask or **bait engineered to manufacture consistency pressure** for a costly target ([[healthy-persuasion]]). It's also a *modest* effect (see Evidence): a lever, not a mind-control switch.
+Foot-in-the-door (FITD) is **a sequential-request technique in which a small initial request is used to increase compliance with a larger later one** (Freedman & Fraser, 1966) [1]. The mechanism is **commitment-consistency / self-perception**: saying yes to the small ask shifts your self-concept ("I'm the kind of person who helps / who's involved with this"), and the larger request then rides on the drive to stay consistent ([[commitment-consistency]]). It sits squarely on the **persuasion–manipulation boundary** — charities, health campaigns, and honest salespeople use it openly and legitimately — so the diagnostic isn't the structure but whether the small yes was a *genuine* ask or **bait engineered to manufacture consistency pressure** for a costly target (*healthy persuasion*). It's also a *modest* effect (see Evidence): a lever, not a mind-control switch.
 
 ## Variants & aliases
 
@@ -69,7 +69,7 @@ The opening move of laddered compliance: it's the engine [[escalation-entrapment
 
 ## Caveats & false positives
 
-- **It's a legitimate, ubiquitous influence structure** ([[healthy-persuasion]]): charities, public-health campaigns, and honest sales use small-then-large asks openly, and *genuine* engagement often does grow from a small first step. That's normal persuasion, not manipulation. The line is **covert engineering of the ladder to extract a costly target**, not the existence of a small first ask.
+- **It's a legitimate, ubiquitous influence structure** (*healthy persuasion*): charities, public-health campaigns, and honest sales use small-then-large asks openly, and *genuine* engagement often does grow from a small first step. That's normal persuasion, not manipulation. The line is **covert engineering of the ladder to extract a costly target**, not the existence of a small first ask.
 - **A small request leading to a bigger one is often innocent**: people who help once are genuinely more likely to help again — sometimes that's just developing involvement, not a trap.
 - **It's mild and modest** ([[epistemic-guardrails]]): FITD is a small, moderator-dependent effect (about half the original studies found none — see Evidence), so don't over-read every two-step ask as a manipulation campaign. Severity is `low`: the harm is usually a single over-large compliance, not abuse.
 
@@ -83,4 +83,4 @@ Graded **`supported`** — and the honest headline is its *modesty*. Freedman & 
 
 ## See also
 
-[[door-in-the-face]] · [[lowballing]] · [[thats-not-all-decoys]] · [[commitment-consistency]] · [[escalation-entrapment]] · [[boundary-testing]] · [[con-anatomy]] · [[sales]] · [[manipulation-vs-influence]] · [[healthy-persuasion]]
+[[door-in-the-face]] · [[lowballing]] · [[thats-not-all-decoys]] · [[commitment-consistency]] · [[escalation-entrapment]] · [[boundary-testing]] · [[con-anatomy]] · [[sales]] · [[manipulation-vs-influence]] · *healthy persuasion*

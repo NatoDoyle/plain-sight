@@ -91,10 +91,10 @@ When *every* accountability attempt terminates in their injury — when the rela
 
 ### Read this section as the file's core
 
-- **Most victim claims are true.** False-allegation base rates in the best-studied domain run **2–10%** [6] — the overwhelming majority of people naming harm were harmed, and the default injury genuine victims face is *disbelief*. This file must never function as a credibility test for abuse disclosures ([[genuine-victimhood]]); disclosures get support and professional routing, not pattern-matching.
+- **Most victim claims are true.** False-allegation base rates in the best-studied domain run **2–10%** [6] — the overwhelming majority of people naming harm were harmed, and the default injury genuine victims face is *disbelief*. This file must never function as a credibility test for abuse disclosures (*genuine victimhood*); disclosures get support and professional routing, not pattern-matching.
 - **Trauma presentations are diverse**: numbness, performativeness-to-outsiders, inconsistent recall, and audience-seeking validation are all documented features of *genuine* distress. None of this file's markers apply to how someone processes their own abuse — only to the *function* of victim-claims at accountability moments in your direct interactions.
 - **The label is the abuser's favorite**: "she plays the victim" is the standard discrediting move run *against* real victims ([[therapy-speak-weaponization]], [[darvo]]'s attack beat). Anyone deploying this file's vocabulary against a person naming harm owes the full evidence standard — pattern, function, contingency — and usually can't meet it.
-- **[[honest-hurt]] at accountability moments is human**: people genuinely wounded by confrontation cry, withdraw, and say clumsy self-pitying things without strategy. The tactic-grade conjunction: **contingency on accountability + audience-orientation + zero-self-examination biography + extraction**, recurring ([[epistemic-guardrails]]; one tearful argument is rung-1 evidence).
+- ***honest hurt* at accountability moments is human**: people genuinely wounded by confrontation cry, withdraw, and say clumsy self-pitying things without strategy. The tactic-grade conjunction: **contingency on accountability + audience-orientation + zero-self-examination biography + extraction**, recurring ([[epistemic-guardrails]]; one tearful argument is rung-1 evidence).
 - **Evidence scope**: the JPSP program is about *signaling* in general populations [2], TIV is self-report [3], competitive victimhood is intergroup research [4], and Stout is clinical-popular [1] — solid convergence for the pattern's existence; none of it licenses diagnosing individuals.
 
 ## Evidence & debates
@@ -112,4 +112,4 @@ Unusually current evidence base: the virtuous-victim signaling studies [2] and t
 
 ## See also
 
-[[darvo]] · [[pity-plays]] · [[guilt-tripping]] · [[smear-campaigns]] · [[projection-blame-shifting]] · [[genuine-victimhood]] · [[therapy-speak-weaponization]] · [[detection-heuristics]]
+[[darvo]] · [[pity-plays]] · [[guilt-tripping]] · [[smear-campaigns]] · [[projection-blame-shifting]] · *genuine victimhood* · [[therapy-speak-weaponization]] · [[detection-heuristics]]

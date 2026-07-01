@@ -23,7 +23,7 @@ This file covers two related but mechanistically distinct "offer-shaping" techni
 - **That's-not-all (TNA)** — improving the deal (adding a bonus, or dropping the price) *before the target responds*, raising compliance via **reciprocity** ("they just gave me extra") and **anchoring/contrast** (the revised offer looks better than the first) (Burger, 1986) [1].
 - **The decoy effect (asymmetric dominance)** — adding a third, clearly inferior option to a choice set so that a target option (which dominates the decoy) is chosen more often; it manipulates the **choice architecture / framing**, not the options' real value (Huber, Payne & Puto, 1982) [2].
 
-Both exploit **reciprocity** and **framing-anchoring** rather than the merits, and both sit on the **persuasion–manipulation boundary** — genuine discounts, bonuses, and product tiers are normal commerce ([[puffery]] and ordinary assortment). The diagnostic is **a sweetener timed to short-circuit deliberation, or a decoy engineered purely to steer** — not the existence of a deal or a range of options.
+Both exploit **reciprocity** and **framing-anchoring** rather than the merits, and both sit on the **persuasion–manipulation boundary** — genuine discounts, bonuses, and product tiers are normal commerce (*puffery* and ordinary assortment). The diagnostic is **a sweetener timed to short-circuit deliberation, or a decoy engineered purely to steer** — not the existence of a deal or a range of options.
 
 ## Variants & aliases
 
@@ -74,7 +74,7 @@ TNA is a close cousin of [[door-in-the-face]] (both use reciprocity/contrast) an
 
 ## Caveats & false positives
 
-- **Genuine discounts, bonuses, and product tiers are normal** ([[puffery]]): a real sale, a legitimate freebie, or a sensible range of options (good/better/best) that aids choice is ordinary, fair commerce — not manipulation. The line is a sweetener *timed to bypass deliberation* or a decoy *engineered purely to steer*, not the existence of a deal or options.
+- **Genuine discounts, bonuses, and product tiers are normal** (*puffery*): a real sale, a legitimate freebie, or a sensible range of options (good/better/best) that aids choice is ordinary, fair commerce — not manipulation. The line is a sweetener *timed to bypass deliberation* or a decoy *engineered purely to steer*, not the existence of a deal or options.
 - **Comparison shopping is good**: presenting options is helpful; the manipulation is a *deliberately inferior* option whose only purpose is to distort the comparison.
 - **It's mild** ([[epistemic-guardrails]]): severity is `low` — the harm is a single sub-optimal purchase, easily countered by valuing the item on its own and pausing before deciding.
 
@@ -89,4 +89,4 @@ Graded **`supported`**: That's-not-all is a genuine effect (Burger, 1986 — sev
 
 ## See also
 
-[[door-in-the-face]] · [[foot-in-the-door]] · [[lowballing]] · [[reciprocity]] · [[framing-anchoring]] · [[manufactured-urgency]] · [[dark-patterns-social-urgency]] · [[sales]] · [[advertising-marketing]] · [[puffery]]
+[[door-in-the-face]] · [[foot-in-the-door]] · [[lowballing]] · [[reciprocity]] · [[framing-anchoring]] · [[manufactured-urgency]] · [[dark-patterns-social-urgency]] · [[sales]] · [[advertising-marketing]] · *puffery*

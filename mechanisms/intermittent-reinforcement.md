@@ -68,7 +68,7 @@ If the hot-and-cold pattern includes violence, threats, strangulation, surveilla
 
 ## Caveats
 
-- **Inconsistent ≠ manipulative.** Depression, bipolar mood cycling, ADHD, overwork, and avoidant attachment all produce hot-and-cold patterns *without* a controlled schedule or harvested benefit ([[neurodivergent-communication]], [[self-protective-distance]]). The diagnostics: who controls the variability, who benefits from your persistence, and what happens when you ask for steadiness — in conjunction, over time ([[epistemic-guardrails]]).
+- **Inconsistent ≠ manipulative.** Depression, bipolar mood cycling, ADHD, overwork, and avoidant attachment all produce hot-and-cold patterns *without* a controlled schedule or harvested benefit (*neurodivergent communication*, *self protective distance*). The diagnostics: who controls the variability, who benefits from your persistence, and what happens when you ask for steadiness — in conjunction, over time ([[epistemic-guardrails]]).
 - **New relationships are legitimately variable** — early-stage uncertainty is not a schedule; the file targets *established patterns* where consistency is possible and punished.
 - **The extinction burst is common, not universal** [2] — its absence proves nothing, and "it'll get worse before better" should not be weaponized to predict doom for every exit.
 - **Variable reward in design is a spectrum** — surprise-and-delight features differ from engineered compulsion loops; the loot-box correlations [4] are correlational (direction debated), flagged as such.

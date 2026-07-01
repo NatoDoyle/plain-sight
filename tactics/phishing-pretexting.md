@@ -20,7 +20,7 @@ last-updated: 2026-06-27
 
 ## Definition
 
-Phishing and pretexting are the core of **social engineering — deceiving a person into clicking, paying, or disclosing credentials by impersonating a trusted party and supplying a plausible reason to comply**. **Phishing** is the deceptive *lure* (usually email, but also text or voice) that mimics a trusted brand or person; **pretexting** is the fabricated *scenario/backstory* that justifies the ask ("this is IT — there's a breach and I need to confirm your password") [1][2]. Pretexting is the setup; phishing is one delivery of it. The category exploits people, not just machines — Mitnick's framing of the human as the "weakest link" [1]. The diagnostic — the file's center — is **impersonation + a fabricated reason + a request to act (click/pay/disclose) outside a channel you initiated**; it is distinguished from the genuine security alerts and transactional messages legitimate organizations really do send ([[genuine-warning]]).
+Phishing and pretexting are the core of **social engineering — deceiving a person into clicking, paying, or disclosing credentials by impersonating a trusted party and supplying a plausible reason to comply**. **Phishing** is the deceptive *lure* (usually email, but also text or voice) that mimics a trusted brand or person; **pretexting** is the fabricated *scenario/backstory* that justifies the ask ("this is IT — there's a breach and I need to confirm your password") [1][2]. Pretexting is the setup; phishing is one delivery of it. The category exploits people, not just machines — Mitnick's framing of the human as the "weakest link" [1]. The diagnostic — the file's center — is **impersonation + a fabricated reason + a request to act (click/pay/disclose) outside a channel you initiated**; it is distinguished from the genuine security alerts and transactional messages legitimate organizations really do send (*genuine warning*).
 
 ## Variants & aliases
 
@@ -93,7 +93,7 @@ If you clicked, entered credentials, or paid: change the password (and anywhere 
 
 ### Not this tactic when…
 
-- **Legitimate organizations really do send transactional and security messages** ([[genuine-warning]]): genuine "new-device login" alerts, password resets *you just requested*, MFA prompts, shipping notices, and real fraud-hold calls from your bank. **Urgency alone is not phishing** — banks really do freeze cards.
+- **Legitimate organizations really do send transactional and security messages** (*genuine warning*): genuine "new-device login" alerts, password resets *you just requested*, MFA prompts, shipping notices, and real fraud-hold calls from your bank. **Urgency alone is not phishing** — banks really do freeze cards.
 - **The distinguishing tells**, not the urgency: a **mismatched/look-alike domain**; a request to **supply** credentials/OTP/payment (legit alerts tell you to log in *yourself* via the normal site, not hand over secrets); a **fake login** link; a **generic greeting**; the message being **unexpected** relative to your actual activity; a **channel mismatch** (your bank texting a clickable login link).
 
 ### Base rates & severity calibration
@@ -113,4 +113,4 @@ Graded `supported` — measured by industry and government, not lab experiment. 
 
 ## See also
 
-[[ai-enabled-manipulation]] · [[manufactured-urgency]] · [[con-anatomy]] · [[romance-scam-arc]] · [[authority]] · [[fear-exploitation]] · [[scarcity-urgency]] · [[trust-mechanics]] · [[information-asymmetry]] · [[verification-rituals]] · [[detection-heuristics]] · [[scams-fraud]] · [[digital-platforms]] · [[genuine-warning]]
+[[ai-enabled-manipulation]] · [[manufactured-urgency]] · [[con-anatomy]] · [[romance-scam-arc]] · [[authority]] · [[fear-exploitation]] · [[scarcity-urgency]] · [[trust-mechanics]] · [[information-asymmetry]] · [[verification-rituals]] · [[detection-heuristics]] · [[scams-fraud]] · [[digital-platforms]] · *genuine warning*

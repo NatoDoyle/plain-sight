@@ -79,7 +79,7 @@ Hoovering is the **re-entry phase** of the abuse cycle: it redeploys [[love-bomb
 
 ### Structural / long-term
 
-- **Demand demonstrated change over time, never promised change** ([[verification-rituals]]): if reconciliation is ever genuinely on the table ([[genuine-reconciliation]]), it shows as sustained different *conduct* across months with accountability — not a flood of words at week one.
+- **Demand demonstrated change over time, never promised change** ([[verification-rituals]]): if reconciliation is ever genuinely on the table (*genuine reconciliation*), it shows as sustained different *conduct* across months with accountability — not a flood of words at week one.
 - **Document the contact** ([[documentation-practices]]): dates, channels, content — both to see the pattern clearly and because persistent unwanted contact may be legally actionable (harassment/stalking; jurisdiction-dependent, see Safety notes).
 - **Brief your network** against proxy contact: tell mutual friends and family you don't want messages relayed; close the [[triangulation]] channels in advance.
 
@@ -91,8 +91,8 @@ If contact persists after a clear "no," involves threats, surveillance, or showi
 
 ### Not hoovering when…
 
-- **Genuine reconciliation** ([[genuine-reconciliation]]): real repair attempts exist — and they look different: they take responsibility without conditions, accept "no" gracefully, respect stated boundaries, move at the pace the hurt party sets, and show *changed behavior over time* rather than a burst of words. The discriminator is conduct-over-time vs words-on-arrival, and acceptance-of-no vs escalation-on-no ([[manipulation-vs-influence]]'s resistance test).
-- **Sincere grief and reaching out** ([[honest-hurt]]): people honestly miss each other and sometimes say so; one wistful message is not a campaign. The tactic-grade is the *pattern* — timing (spiking at withdrawal), persistence past "no," multi-channel pursuit, and the prior renewal-relapse history [1].
+- **Genuine reconciliation** (*genuine reconciliation*): real repair attempts exist — and they look different: they take responsibility without conditions, accept "no" gracefully, respect stated boundaries, move at the pace the hurt party sets, and show *changed behavior over time* rather than a burst of words. The discriminator is conduct-over-time vs words-on-arrival, and acceptance-of-no vs escalation-on-no ([[manipulation-vs-influence]]'s resistance test).
+- **Sincere grief and reaching out** (*honest hurt*): people honestly miss each other and sometimes say so; one wistful message is not a campaign. The tactic-grade is the *pattern* — timing (spiking at withdrawal), persistence past "no," multi-channel pursuit, and the prior renewal-relapse history [1].
 - **Co-parenting and unavoidable contact**: legitimate logistics (the kids, shared finances, shared work) are not hoovering even when unwelcome; the tell is content-creep — logistics that keep becoming relationship bids.
 - **Both people choosing to try again**: mutual, clear-eyed reconciliation is a valid choice; the research that on-off relationships fare worse [1] is information for that choice, not a prohibition.
 

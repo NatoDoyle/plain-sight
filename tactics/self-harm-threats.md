@@ -95,7 +95,7 @@ This is where the two tracks meet the hardest reality: **leaving is the highest-
 
 **The dangerous error here is the reverse of every other file in this KB.** Elsewhere the risk is over-detection — calling innocent behavior manipulation. Here, the catastrophic false positive is **dismissing a genuine crisis as "just manipulation."** That mistake can kill someone. So this section inverts the usual caution:
 
-- **It may be entirely genuine** ([[genuine-crisis]]): many people who threaten or attempt suicide are in real, severe distress with no manipulative intent — and people in abusive relationships (including the controlling party) have genuinely elevated suicidality. A threat is not evidence of manipulation; it is evidence of risk. Respond to the risk.
+- **It may be entirely genuine** (*genuine crisis*): many people who threaten or attempt suicide are in real, severe distress with no manipulative intent — and people in abusive relationships (including the controlling party) have genuinely elevated suicidality. A threat is not evidence of manipulation; it is evidence of risk. Respond to the risk.
 - **It is often both at once** [3]: distress and coercive effect coexist constantly. "This is just manipulation" is a false binary — the honest position is "this person may be genuinely at risk *and* this is functioning to control me," and both halves get their own response (Tracks 1 and 2).
 - **Do not run a sincerity test** — there isn't a reliable one, and acting on a wrong guess is fatal [4]. Nothing in the Recognition section licenses concluding "they don't mean it." Those markers describe a *control pattern*; they never downgrade the *safety response*.
 - **"They're just manipulating me" is also how genuine cries for help get ignored** — by exhausted partners, by dismissive bystanders, sometimes by the very abuser reframing a victim's distress. The label cuts dangerously in this domain; withhold it as a reason to *not* respond.
@@ -126,4 +126,4 @@ Graded `clinical`: self-harm/suicide threats as a coercive-control tactic are do
 
 ## See also
 
-[[emotional-blackmail]] · [[guilt-leverage]] · [[fear-exploitation]] · [[attachment-needs]] · [[veiled-threats]] · [[coercive-control]] · [[projection-blame-shifting]] · [[dv-safety-planning]] · [[no-contact-exit-planning]] · [[genuine-crisis]]
+[[emotional-blackmail]] · [[guilt-leverage]] · [[fear-exploitation]] · [[attachment-needs]] · [[veiled-threats]] · [[coercive-control]] · [[projection-blame-shifting]] · [[dv-safety-planning]] · [[no-contact-exit-planning]] · *genuine crisis*

@@ -86,10 +86,10 @@ The persona-construction engine beneath [[love-bombing]] (declared there: profil
 
 ### Not false identity when…
 
-- **Genuine compatibility** ([[genuine-rapport]]): people really do meet others who share their values and click fast — real compatibility exists, and it's *mutual, concrete, and verifiable* (they reveal a specific self, tolerate checking, and deepen over time). The line is fabrication-and-calibration, not similarity itself.
+- **Genuine compatibility** (*genuine rapport*): people really do meet others who share their values and click fast — real compatibility exists, and it's *mutual, concrete, and verifiable* (they reveal a specific self, tolerate checking, and deepen over time). The line is fabrication-and-calibration, not similarity itself.
 - **Normal rapport-building and accommodation**: finding common ground, matching someone's energy, emphasizing shared interests — ordinary social skill and good-faith connection, not a manufactured persona. Everyone presents a curated best-foot-forward in dating; that's not catfishing.
 - **Code-switching and adaptive presentation**: people genuinely show different facets in different contexts without fabricating an identity — adaptation ≠ fabrication.
-- **The clinical "false self"** ([[false-self]]): Winnicott's false self is an *unconscious, defensive* facade protecting a vulnerable true self — the opposite of strategic persona-fabrication-for-extraction. Don't conflate a guarded or people-pleasing person with a con artist.
+- **The clinical "false self"** (*false self*): Winnicott's false self is an *unconscious, defensive* facade protecting a vulnerable true self — the opposite of strategic persona-fabrication-for-extraction. Don't conflate a guarded or people-pleasing person with a con artist.
 
 ### Base rates & severity calibration
 
@@ -109,4 +109,4 @@ Graded `clinical`: the underlying mirroring effect is `supported` (Chartrand & B
 
 ## See also
 
-[[liking-similarity]] · [[love-bombing]] · [[future-faking]] · [[pity-plays]] · [[romance-scam-arc]] · [[con-anatomy]] · [[trust-mechanics]] · [[attachment-needs]] · [[verification-rituals]] · [[false-self]]
+[[liking-similarity]] · [[love-bombing]] · [[future-faking]] · [[pity-plays]] · [[romance-scam-arc]] · [[con-anatomy]] · [[trust-mechanics]] · [[attachment-needs]] · [[verification-rituals]] · *false self*

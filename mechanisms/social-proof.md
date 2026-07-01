@@ -64,9 +64,9 @@ Citing *real* norms honestly (towel reuse, tax compliance, vaccination rates) is
 
 ## Caveats
 
-- **Following the crowd is often rational** ([[rational-herding]]): information-cascade models show imitating predecessors can be Bayesian-sound under uncertainty [13]; aggregated independent judgments (genuine review averages, prediction markets) are among the best information sources available. The defense target is *fabricated or curated* proof, not consensus itself.
+- **Following the crowd is often rational** (*rational herding*): information-cascade models show imitating predecessors can be Bayesian-sound under uncertainty [13]; aggregated independent judgments (genuine review averages, prediction markets) are among the best information sources available. The defense target is *fabricated or curated* proof, not consensus itself.
 - **Conformity is prosocial infrastructure** — norms make coordination possible; the Asch result is also a story about how much we cooperate.
-- **Cultural variation is real** [3]: collectivist conformity is a functioning social technology, not a defect ([[cultural-difference]]).
+- **Cultural variation is real** [3]: collectivist conformity is a functioning social technology, not a defect (*cultural difference*).
 - Most "everyone says" claims are lazy shorthand, not engineered manipulation ([[epistemic-guardrails]]); the diagnostic is fabrication, curation, or unauditable invocation under sales/recruitment pressure.
 - **Boundary with [[unity-ingroup]]:** social proof says *many people are doing it* — the crowd as evidence; unity says *we, your people, do this* — the tribe as identity. Proof persuades the head; unity recruits the self. [[affinity-fraud]] stacks both, which is why it is so effective.
 

@@ -42,7 +42,7 @@ The recurring exploit: **suggestion, repetition, and authority applied to a reco
 
 ## Ethical use vs exploitation
 
-Everyone's memory is reconstructive; couples and colleagues sincerely remember differently constantly ([[memory-divergence]] — the KB's foundational contrast concept). The line ([[manipulation-vs-influence]]): exploitation shows **systematic directionality** (the "corrections" always favor one party), **confidence pressure** ("you're crazy, it never happened" vs "I remember it differently"), **resistance to records** (anger at documentation, destroyed evidence), and **contamination behavior** (rehearsing you, isolating you from other witnesses).
+Everyone's memory is reconstructive; couples and colleagues sincerely remember differently constantly (*memory divergence* — the KB's foundational contrast concept). The line ([[manipulation-vs-influence]]): exploitation shows **systematic directionality** (the "corrections" always favor one party), **confidence pressure** ("you're crazy, it never happened" vs "I remember it differently"), **resistance to records** (anger at documentation, destroyed evidence), and **contamination behavior** (rehearsing you, isolating you from other witnesses).
 
 ## Recognition
 
@@ -57,7 +57,7 @@ Everyone's memory is reconstructive; couples and colleagues sincerely remember d
 1. **Write it down, immediately** ([[documentation-practices]]): the first telling is the best evidence you will ever have of your own experience [6] — contemporaneous notes, sent emails ("confirming what we agreed"), message threads. Documentation converts a reconstructive contest into a records contest. (**Safety:** store records outside shared devices and homes — discovered records can escalate a controlling partner; see Safety notes.)
 2. **Trust your initial confidence more than your argued-down confidence** [6]: certainty that erodes only under one person's pressure — not under evidence — is being *contaminated*, not corrected.
 3. **Preserve independent witnesses and channels**: untainted third parties and unedited records ([[isolation-tactics]] and witness-contamination are this lever's enablers; resist both).
-4. **Distinguish the disputes worth solving**: ordinary memory divergence needs grace, not forensics ([[memory-divergence]]); *patterned, directional, stake-laden* divergence needs records ([[epistemic-guardrails]]'s discriminators).
+4. **Distinguish the disputes worth solving**: ordinary memory divergence needs grace, not forensics (*memory divergence*); *patterned, directional, stake-laden* divergence needs records ([[epistemic-guardrails]]'s discriminators).
 5. **Re-anchor before re-discussing**: review your notes *before* conversations where history will be relitigated — suggestion works best on unrehearsed reconstruction [2].
 6. **Don't let the science be used on you**: "all memory is fallible" is true and *symmetric* — their confident version is exactly as reconstructive as yours, minus your contemporaneous notes.
 
@@ -67,7 +67,7 @@ Where sustained reality-denial accompanies control, threats, or violence, this i
 
 ## Caveats
 
-- **Memory divergence is the universal default** ([[memory-divergence]]): two sincere people misremember the same event constantly, in both directions, with no manipulation anywhere — this file's foundational warning, inherited from [[epistemic-guardrails]]. A disputed memory is rung-1 evidence of nothing.
+- **Memory divergence is the universal default** (*memory divergence*): two sincere people misremember the same event constantly, in both directions, with no manipulation anywhere — this file's foundational warning, inherited from [[epistemic-guardrails]]. A disputed memory is rung-1 evidence of nothing.
 - **You misremember too** — the lever lives in *your* head as well; the same humility that protects against gaslighting protects against falsely accusing others of it ([[gaslighting]]'s caveats govern; accusation symmetry per [[manipulation-vs-influence]]).
 - **False-memory science is itself contested at the margins** [2] — implantation rates vary with classification criteria; the KB cites ranges, not certainties.
 - **Initial confidence is informative, not infallible** [6] — "pristine conditions" is a real qualifier; vivid wrongness exists [5].
@@ -85,4 +85,4 @@ Where sustained reality-denial accompanies control, threats, or violence, this i
 
 ## See also
 
-[[gaslighting]] · [[history-rewriting]] · [[epistemic-guardrails]] · [[documentation-practices]] · [[cold-reading]] · [[circular-conversation]] · [[disinformation-playbooks]] · [[memory-divergence]]
+[[gaslighting]] · [[history-rewriting]] · [[epistemic-guardrails]] · [[documentation-practices]] · [[cold-reading]] · [[circular-conversation]] · [[disinformation-playbooks]] · *memory divergence*

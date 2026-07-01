@@ -53,7 +53,7 @@ If betrayal blindness may be obscuring real abuse, you are not stupid or complic
 
 - **Betrayal blindness is an adaptation, never a weakness or complicity.** Asking a victim "how did you not see it?" is itself the victim-blaming the construct refutes — the dependence made not-seeing rational ([[epistemic-guardrails]]).
 - **What's supported vs. what's contested — stated honestly:** the **dependence/motivated-unawareness logic** and the finding that **betrayal is a distinct trauma dimension predicting worse outcomes** (more dissociation, PTSD-avoidance, depression) are well-supported. But the theory's signature claim that betrayal *causes dissociative amnesia / blocked memories of the abuse* is **scientifically contested** — McNally (2007) argues it inherits the evidentiary problems of repressed memory, and the directed-forgetting evidence has been hard to replicate (Freyd, DePrince & Gleaves replied, 2007). This file rests on the dependence logic, **not** on the disputed amnesia mechanism — hence the `contested` grade [1][5].
-- **Don't over-extend it** ([[ordinary-obliviousness]]): not all "not noticing" is betrayal blindness. Ordinary obliviousness, missing information, reasonable trust, and plain mistakes are the base-rate explanations. Betrayal blindness specifically requires a *real betrayal* by a *depended-upon* other where awareness is *motivationally suppressed* — don't read it into every overlooked red flag.
+- **Don't over-extend it** (*ordinary obliviousness*): not all "not noticing" is betrayal blindness. Ordinary obliviousness, missing information, reasonable trust, and plain mistakes are the base-rate explanations. Betrayal blindness specifically requires a *real betrayal* by a *depended-upon* other where awareness is *motivationally suppressed* — don't read it into every overlooked red flag.
 
 ## Sources
 
@@ -65,4 +65,4 @@ If betrayal blindness may be obscuring real abuse, you are not stupid or complic
 
 ## See also
 
-[[why-smart-people-fall]] · [[trauma-bonding]] · [[coercive-control]] · [[grooming-sequence]] · [[gaslighting]] · [[darvo]] · [[institutions]] · [[documentation-practices]] · [[no-contact-exit-planning]] · [[epistemic-guardrails]] · [[ordinary-obliviousness]]
+[[why-smart-people-fall]] · [[trauma-bonding]] · [[coercive-control]] · [[grooming-sequence]] · [[gaslighting]] · [[darvo]] · [[institutions]] · [[documentation-practices]] · [[no-contact-exit-planning]] · [[epistemic-guardrails]] · *ordinary obliviousness*

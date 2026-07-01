@@ -52,7 +52,7 @@ No single criterion settles hard cases; converging criteria do. Score a suspect 
 
 1. **Covertness.** Does it work only if you don't notice it working? Would it survive full disclosure — "I'm telling you this deadline is fake to rush you" — or does disclosure destroy it? (The *transparency test*, developed in the nudge-ethics literature [9][10].) Honest persuasion survives disclosure; manipulation usually cannot.
 2. **Mechanism.** Does it engage your reasons, or exploit your wiring — biases, fears, guilt, hope, attachment ([[attachment-needs]]), confusion ([[cognitive-overload-confusion]])? Fabricated cues are diagnostic: Cialdini's own ethical line distinguishes pointing to influence principles *genuinely present* in a situation ("sleuths") from importing or fabricating them ("smugglers") [8]. A real expiring discount is pressure; a fake countdown timer is manipulation.
-3. **Benefit asymmetry.** Cui bono? Influence aimed at mutual or target benefit (advice, warning, [[paternalism]] at its best) differs from influence that transfers value from you to them. Follow the flow of money, labor, control, and risk.
+3. **Benefit asymmetry.** Cui bono? Influence aimed at mutual or target benefit (advice, warning, *paternalism* at its best) differs from influence that transfers value from you to them. Follow the flow of money, labor, control, and risk.
 4. **Vulnerability targeting.** Was the approach calibrated to a weakness — loneliness ([[loneliness-isolation]]), crisis ([[crisis-windows]]), inexperience, dependence? Undue-influence law makes this explicit: California's statute lists the victim's vulnerability as the first factor [14].
 5. **Response to resistance.** The most diagnostic *single* behavioral test available to a target — though, like any single cue, never sufficient alone (calibration ladder: [[epistemic-guardrails]]): **say no, and watch.** Persuaders accept refusal or return with better arguments. Manipulators punish ([[silent-treatment]]), escalate pressure, re-disguise the ask, or attack your standing to refuse ([[darvo]]). A "no" is cheap to issue and yields high-quality evidence ([[boundary-testing]] works in reverse).
 
@@ -78,23 +78,23 @@ Pattern across all of them: the law repeatedly reaches for the same ingredients 
 
 ## Hard cases and grey zones
 
-- **Negotiation bluffing.** "That's my final offer" when it isn't violates honesty but operates within partially-recognized game norms where both sides expect positioning ([[hard-bargaining]]; see [[bad-faith-negotiation]] for moves that exceed the norms). Test: are both parties playing the same game knowingly?
+- **Negotiation bluffing.** "That's my final offer" when it isn't violates honesty but operates within partially-recognized game norms where both sides expect positioning (*hard bargaining*; see [[bad-faith-negotiation]] for moves that exceed the norms). Test: are both parties playing the same game knowingly?
 - **Advertising.** Runs on [[framing-anchoring]] and emotional association by design. Convention and disclosure ("this is an ad") move it toward the tolerated zone; fabricated cues (fake reviews — [[fake-reviews-astroturfing]], fake scarcity) cross the line. The UCPD blacklist is a decent map of "definitely over" [17].
-- **Surprise parties and tact.** Concealment without exploitation — the beneficiary is the target. Shows covertness alone is insufficient ([[benign-concealment]]).
+- **Surprise parties and tact.** Concealment without exploitation — the beneficiary is the target. Shows covertness alone is insufficient (*benign concealment*).
 - **Nudges.** Default-setting and choice architecture are unavoidable (some default must exist). The mainstream ethical position: nudges should survive publicity — be defensible if fully disclosed [9][10]. Covert, vendor-serving "sludge" fails the test.
 - **Charm and flirtation.** Mutual, enjoyed, and reciprocal — until it's calibrated extraction ([[charm-offensive]], [[love-bombing]]). The discriminators are asymmetry and what happens when it stops working.
-- **Therapy, parenting, intervention.** Influence aimed at the target's own good with role-transparency is [[paternalism]] territory — ethically debatable, but distinct from self-serving covert steering. Beware the *manipulator's borrow*: "it's for your own good" claimed where benefit demonstrably flows the other way.
+- **Therapy, parenting, intervention.** Influence aimed at the target's own good with role-transparency is *paternalism* territory — ethically debatable, but distinct from self-serving covert steering. Beware the *manipulator's borrow*: "it's for your own good" claimed where benefit demonstrably flows the other way.
 - **White lies.** Tact ("dinner was lovely") preserves relationships with trivial stakes and mutual convention. Materiality matters: lies that steer significant decisions are different in kind ([[lying-typologies]]).
 
 ## The symmetry warning
 
-"You're manipulating me" is itself a move available to manipulators. Accusing a partner of manipulation for setting a boundary, calling assertiveness "control," or labeling a request for accountability "emotional blackmail" are recognized patterns ([[darvo]], [[therapy-speak-weaponization]]). Two protections: (1) apply the five-criteria test to *both* parties' behavior, including your own; (2) remember that [[assertiveness]], [[boundary-setting]], and [[self-protective-distance]] are definitionally *not* manipulation — they are overt, they engage reasons ("I won't accept X"), and they accept the other's freedom to respond.
+"You're manipulating me" is itself a move available to manipulators. Accusing a partner of manipulation for setting a boundary, calling assertiveness "control," or labeling a request for accountability "emotional blackmail" are recognized patterns ([[darvo]], [[therapy-speak-weaponization]]). Two protections: (1) apply the five-criteria test to *both* parties' behavior, including your own; (2) remember that *assertiveness*, *boundary setting*, and *self protective distance* are definitionally *not* manipulation — they are overt, they engage reasons ("I won't accept X"), and they accept the other's freedom to respond.
 
 ## Caveats
 
 - **Intent is inferred, never observed.** The criteria above mostly read *behavior* (covertness, response to no) precisely because intent attribution is unreliable. Reserve confident intent claims for patterns plus benefit plus concealment.
 - **Manipulation without a mastermind.** Much manipulative behavior is learned, habitual, or attachment-driven rather than strategically planned — common in [[everyday-manipulators]]. It can be equally harmful while warranting different responses; the test still works because it reads effects and reactions, not inner monologue.
-- **Cultural variation.** Directness norms, haggling cultures, gift-obligation customs, and high-context communication shift where conventional influence ends ([[cultural-difference]]). Calibrate to the *local* game both parties think they're playing.
+- **Cultural variation.** Directness norms, haggling cultures, gift-obligation customs, and high-context communication shift where conventional influence ends (*cultural difference*). Calibrate to the *local* game both parties think they're playing.
 - **Don't moralize the lever, moralize the use.** Reciprocity, social proof, and authority are how cooperative societies function. The mechanisms ([[reciprocity]], [[social-proof]], [[authority]]) are neutral; exploitation is a property of use.
 
 ## Evidence & debates

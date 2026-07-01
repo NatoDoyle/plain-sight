@@ -44,7 +44,7 @@ Abusers and high-control groups actively select and reward the compliant ([[coer
 ## Caveats
 
 - **Fawn is a survival adaptation, not a weakness, a "doormat personality," or a character flaw** — it kept someone safe once ([[epistemic-guardrails]]). Never frame it as fault.
-- **The headline distinction: fawning is NOT healthy kindness** ([[healthy-agreeableness]]). Generosity, empathy, agreeableness, diplomacy, and chosen accommodation are good and normal. The line is *freedom*: fawn is **fear-driven, compulsive self-erasure with no felt ability to say no**; healthy kindness is **chosen, reciprocal, boundaried, and can still refuse**. Don't pathologize ordinary niceness, warmth, or conflict-aversion.
+- **The headline distinction: fawning is NOT healthy kindness** (*healthy agreeableness*). Generosity, empathy, agreeableness, diplomacy, and chosen accommodation are good and normal. The line is *freedom*: fawn is **fear-driven, compulsive self-erasure with no felt ability to say no**; healthy kindness is **chosen, reciprocal, boundaried, and can still refuse**. Don't pathologize ordinary niceness, warmth, or conflict-aversion.
 - **Construct humility.** "Fawn" is a practitioner/popular term (Walker), not a validated DSM category — grade it `clinical` and don't overclaim. (It is also *not* a formal stage of the academic "defense cascade.")
 - **Cultural and gender caveats.** Politeness, deference, and collectivist/communal norms vary by culture and are not trauma responses; and because "tend-and-befriend"/accommodation has been cast as female-typical and women are socialized to please, beware **gendered over-detection** — don't relabel a woman's ordinary kindness as pathology.
 - **Don't cite the viral prevalence stats** ("~20% of survivors," "73% of relationships," etc.) — those circulate in low-quality summaries and are unverified.
@@ -57,4 +57,4 @@ Abusers and high-control groups actively select and reward the compliant ([[coer
 
 ## See also
 
-[[trauma-history-revictimization]] · [[why-smart-people-fall]] · [[guilt-tripping]] · [[emotional-blackmail]] · [[boundary-testing]] · [[conditional-love]] · [[coercive-control]] · [[trauma-bonding]] · [[guilt-leverage]] · [[fear-exploitation]] · [[shame-leverage]] · [[attachment-needs]] · [[boundary-scripts]] · [[recovery-rebuilding]] · [[epistemic-guardrails]] · [[healthy-agreeableness]]
+[[trauma-history-revictimization]] · [[why-smart-people-fall]] · [[guilt-tripping]] · [[emotional-blackmail]] · [[boundary-testing]] · [[conditional-love]] · [[coercive-control]] · [[trauma-bonding]] · [[guilt-leverage]] · [[fear-exploitation]] · [[shame-leverage]] · [[attachment-needs]] · [[boundary-scripts]] · [[recovery-rebuilding]] · [[epistemic-guardrails]] · *healthy agreeableness*

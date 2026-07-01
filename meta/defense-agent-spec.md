@@ -79,7 +79,7 @@ The agent should retrieve in this order — **the Caveats read is not optional**
 1. **Enter through the felt-sense.** Map the person's words to candidates via [[felt-sense-index]] ("confused after every talk" → [[gaslighting]] et al.). If they already named a tactic, go straight to its file.
 2. **Confirm against Recognition.** Open each candidate's **Recognition** section (markers · phrases · felt-sense · escalation signs). Require *observable* markers, not a single feeling.
 3. **Expand via the graph.** Use `graph/edges.yaml` to surface co-occurring tactics, the exploited [[master-taxonomy|mechanisms]], the likely [[playbooks-compendium|sequence/playbook]], and the actor [[everyday-manipulators|profile]] — without over-reaching into diagnosis.
-4. **Always read Caveats & false positives.** Before stating anything, read the candidate's Caveats and the relevant **contrast concept** (e.g., [[honest-disagreement]], [[hard-bargaining]], [[normal-relationship-conflict]]). This is the guardrail against [[epistemic-guardrails|concept creep]].
+4. **Always read Caveats & false positives.** Before stating anything, read the candidate's Caveats and the relevant **contrast concept** (e.g., *honest disagreement*, *hard bargaining*, *normal relationship conflict*). This is the guardrail against [[epistemic-guardrails|concept creep]].
 5. **Anchor on the boundary.** Check [[manipulation-vs-influence]] (intent + asymmetry + concealment) to decide whether this is manipulation, hard-but-fair conduct, or ordinary friction.
 6. **Retrieve the counter and, if flagged, the safety file.** Pull [[detection-heuristics]] / [[boundary-scripts]] / the specific defense, and any file carrying a `safety:` flag.
 

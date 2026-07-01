@@ -21,7 +21,7 @@ last-updated: 2026-06-27
 
 ## Definition
 
-Cold reading is **a set of techniques for creating the impression of specific personal knowledge about someone you know nothing about — using high-probability guesses, statements vague enough that the listener personalizes them, and real-time reading of the listener's reactions**. It runs on the **Barnum/Forer effect** (a.k.a. *subjective validation*): people rate generic personality descriptions as strikingly accurate about themselves. In Bertram Forer's 1949 demonstration, students given an identical generic sketch (lifted from a newsstand astrology column) rated it **4.26 out of 5** for personal accuracy [1]. The diagnostic — the file's center — is **claiming a special or supernatural power (or secret knowledge) for what is actually technique, especially to extract money or control**; it is not the same as genuine perceptiveness, empathy, or openly-disclosed entertainment ([[genuine-perceptiveness]]).
+Cold reading is **a set of techniques for creating the impression of specific personal knowledge about someone you know nothing about — using high-probability guesses, statements vague enough that the listener personalizes them, and real-time reading of the listener's reactions**. It runs on the **Barnum/Forer effect** (a.k.a. *subjective validation*): people rate generic personality descriptions as strikingly accurate about themselves. In Bertram Forer's 1949 demonstration, students given an identical generic sketch (lifted from a newsstand astrology column) rated it **4.26 out of 5** for personal accuracy [1]. The diagnostic — the file's center — is **claiming a special or supernatural power (or secret knowledge) for what is actually technique, especially to extract money or control**; it is not the same as genuine perceptiveness, empathy, or openly-disclosed entertainment (*genuine perceptiveness*).
 
 ## Variants & aliases
 
@@ -88,7 +88,7 @@ If a reading turns into demands for money/valuables to lift a curse or "cleanse"
 
 ### Not this tactic when…
 
-- **Genuine empathy and perceptiveness are real** ([[genuine-perceptiveness]]): a good therapist, a perceptive friend, or an experienced clinician reads true cues (history, microexpressions, base rates) and is not committing fraud. Accurately reading a person is not cold reading.
+- **Genuine empathy and perceptiveness are real** (*genuine perceptiveness*): a good therapist, a perceptive friend, or an experienced clinician reads true cues (history, microexpressions, base rates) and is not committing fraud. Accurately reading a person is not cold reading.
 - **Disclosed entertainment is legitimate**: a stage mentalist or performer who presents it openly as a trick — not a real power — is doing art, not manipulation. (Skeptic-performers like Derren Brown and Ian Rowland demonstrate the techniques precisely to *expose* them.)
 - The manipulation is **specifically the claim of a special/supernatural power or secret knowledge for what is technique** — above all when it is used to take money or control someone.
 
@@ -109,4 +109,4 @@ Graded `supported`, resting on **established** underlying psychology. The **Barn
 
 ## See also
 
-[[affinity-fraud]] · [[ponzi-psychology]] · [[con-anatomy]] · [[pity-plays]] · [[elder-targeting]] · [[certainty-needs]] · [[flattery-ego]] · [[trust-mechanics]] · [[hope-greed]] · [[detection-heuristics]] · [[verification-rituals]] · [[scams-fraud]] · [[genuine-perceptiveness]]
+[[affinity-fraud]] · [[ponzi-psychology]] · [[con-anatomy]] · [[pity-plays]] · [[elder-targeting]] · [[certainty-needs]] · [[flattery-ego]] · [[trust-mechanics]] · [[hope-greed]] · [[detection-heuristics]] · [[verification-rituals]] · [[scams-fraud]] · *genuine perceptiveness*

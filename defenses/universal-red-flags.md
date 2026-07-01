@@ -53,7 +53,7 @@ Graded `supported`, mixed by component: the **FTC scam signs** are regulatory/es
 ## Caveats
 
 - **Red flags are heuristics, not proof.** Most have innocent explanations — a generous neighbor isn't "loan sharking," a detailed talker isn't lying. It is the **conjunction and persistence** that signal manipulation ([[epistemic-guardrails]]).
-- **Normal relationships have conflict, bad days, and clumsiness** ([[normal-relationship-conflict]]): the distinguishing markers point the *other* way — repair attempts, respect for your "no," support for your outside ties, and consistency over time.
+- **Normal relationships have conflict, bad days, and clumsiness** (*normal relationship conflict*): the distinguishing markers point the *other* way — repair attempts, respect for your "no," support for your outside ties, and consistency over time.
 - **Describe behavior, don't label the person.** Use the flags to decide *your* next move (verify, slow down, disengage), not to diagnose someone.
 - If the flags point to abuse or danger, this is recognition only — for what to do, see [[dv-safety-planning]] and the **National DV Hotline 1-800-799-7233** (US).
 
@@ -65,4 +65,4 @@ Graded `supported`, mixed by component: the **FTC scam signs** are regulatory/es
 
 ## See also
 
-[[detection-heuristics]] · [[manipulation-audit]] · [[verification-rituals]] · [[boundary-scripts]] · [[dv-safety-planning]] · [[manufactured-urgency]] · [[isolation-tactics]] · [[love-bombing]] · [[darvo]] · [[coercive-control]] · [[crisis-windows]] · [[epistemic-guardrails]] · [[manipulation-vs-influence]] · [[normal-relationship-conflict]]
+[[detection-heuristics]] · [[manipulation-audit]] · [[verification-rituals]] · [[boundary-scripts]] · [[dv-safety-planning]] · [[manufactured-urgency]] · [[isolation-tactics]] · [[love-bombing]] · [[darvo]] · [[coercive-control]] · [[crisis-windows]] · [[epistemic-guardrails]] · [[manipulation-vs-influence]] · *normal relationship conflict*

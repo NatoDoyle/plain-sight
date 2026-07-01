@@ -62,9 +62,9 @@ Complexity is often genuine — law, medicine, and tax are hard, and honest expe
 
 ## Caveats
 
-- **Most complexity is not a plot** — domains are genuinely hard, bureaucracies are sludgy by incompetence and underfunding ([[incompetence-not-malice]]), and bad explainers are usually just bad explainers ([[legitimate-expertise]] welcomes your clarifying questions — that's the discriminator).
+- **Most complexity is not a plot** — domains are genuinely hard, bureaucracies are sludgy by incompetence and underfunding (*incompetence not malice*), and bad explainers are usually just bad explainers (*legitimate expertise* welcomes your clarifying questions — that's the discriminator).
 - **Confusion is also in the receiver**: fatigue, anxiety, unfamiliarity, and language barriers produce fog without anyone engineering it ([[epistemic-guardrails]]: check your own state before attributing design).
-- **Word salad ≠ disordered speech**: the folk tactic-label should never be applied to people with thought disorders, neurodivergent communication, or second-language speakers ([[neurodivergent-communication]]); the tactic-grade requires the conjunction — confusion *timed to accountability or asks*, clearing instantly when the topic turns safe [6].
+- **Word salad ≠ disordered speech**: the folk tactic-label should never be applied to people with thought disorders, neurodivergent communication, or second-language speakers (*neurodivergent communication*); the tactic-grade requires the conjunction — confusion *timed to accountability or asks*, clearing instantly when the topic turns safe [6].
 - **The decision-fatigue literature is contested** [5]; this file's claims stand on load and disruption evidence, and so should yours.
 - **Boundary with [[emotional-flooding]]:** flooding suspends judgment via *arousal*, overload via *capacity*; the worst environments run both ([[coercive-control]]). [[circular-conversation]] and [[bad-faith-argumentation]] are the tactic files built on this lever.
 

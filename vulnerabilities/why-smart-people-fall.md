@@ -46,7 +46,7 @@ So the strongest predictors of victimization are **being targeted** and **being 
 
 - **This explains targeting; it never excuses the manipulator or blames the target.** "Anyone can be fooled" is the opposite of "you should have known better" — the responsibility is always the manipulator's ([[epistemic-guardrails]]).
 - **Don't flip to fatalism.** Universal vulnerability does *not* mean everyone is helpless — structural defenses measurably reduce risk. The point is to motivate protection, not surrender.
-- **Don't flip to paranoia, either.** "Anyone can be conned" must not become "every loss is a con" or "never trust your own judgment." Bad luck, ordinary risk, and freely-made (if regretted) choices are not victimization, and grounded self-trust is real ([[justified-confidence]]).
+- **Don't flip to paranoia, either.** "Anyone can be conned" must not become "every loss is a con" or "never trust your own judgment." Bad luck, ordinary risk, and freely-made (if regretted) choices are not victimization, and grounded self-trust is real (*justified confidence*).
 - **Shame is the enemy of recovery.** Self-blame and embarrassment are the main reasons fraud is under-reported; dropping the blame is what lets people report, recover, and warn others (AARP; FINRA Foundation) [7].
 - **The sibling risk factors are exposure, not fault** — situational and contextual, never moral failings.
 
@@ -62,4 +62,4 @@ So the strongest predictors of victimization are **being targeted** and **being 
 
 ## See also
 
-[[optimism-overconfidence]] · [[crisis-windows]] · [[loneliness-isolation]] · [[scarcity-stress]] · [[cognitive-decline-age]] · [[betrayal-blindness]] · [[con-anatomy]] · [[romance-scam-arc]] · [[ponzi-psychology]] · [[verification-rituals]] · [[detection-heuristics]] · [[epistemic-guardrails]] · [[manipulation-vs-influence]] · [[justified-confidence]]
+[[optimism-overconfidence]] · [[crisis-windows]] · [[loneliness-isolation]] · [[scarcity-stress]] · [[cognitive-decline-age]] · [[betrayal-blindness]] · [[con-anatomy]] · [[romance-scam-arc]] · [[ponzi-psychology]] · [[verification-rituals]] · [[detection-heuristics]] · [[epistemic-guardrails]] · [[manipulation-vs-influence]] · *justified confidence*

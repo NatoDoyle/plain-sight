@@ -62,9 +62,9 @@ Loss framing can be honest — real risks honestly stated ("uninsured, you'd los
 
 ## Caveats
 
-- **Conserving what you have is often right** — switching costs are real, defaults are sometimes well-chosen, and loyalty to good things isn't bias ([[principled-consistency]]). The diagnostics are manufactured endowments, fabricated losses, and priced exits — not the presence of attachment.
+- **Conserving what you have is often right** — switching costs are real, defaults are sometimes well-chosen, and loyalty to good things isn't bias (*principled consistency*). The diagnostics are manufactured endowments, fabricated losses, and priced exits — not the presence of attachment.
 - **The science itself is contested in scope** [5]: loss aversion is real but contingent (small stakes and some contexts show none); this KB does not treat λ≈2 as a universal constant, and neither should you.
-- **Loss-framed warnings can be honest care** ([[genuine-warning]], [[genuine-deadline]]): the discriminators are whether the loss is real, whether the warner profits, and whether verification is welcome.
+- **Loss-framed warnings can be honest care** (*genuine warning*, *genuine deadline*): the discriminators are whether the loss is real, whether the warner profits, and whether verification is welcome.
 - **The famous 14:1 figure is from hypothetical prices** [3] — vivid, real-effect, inflated magnitude; cite accordingly.
 - **Boundary with [[framing-anchoring]]:** declared there (reference-point placement vs the loss/gain asymmetry itself); with [[scarcity-urgency]]: declared there (the availability-constraint lever built on this asymmetry); with [[commitment-consistency]]: sunk cost is *invested effort* justifying itself, endowment is *possession* inflating value — twins with different engines.
 

@@ -21,7 +21,7 @@ last-updated: 2026-06-24
 
 ## Definition
 
-Mobbing is **systematic, hostile, unethical communication directed by a group (or a leader and recruited others) mainly at one target, repeatedly and over a long period, pushing them into a helpless, defenseless position** — Heinz Leymann's "psychological terror at work," operationalized as hostile acts occurring **at least weekly for at least six months** [1]. Leymann's **LIPT** inventory catalogs ~45 such acts across five domains (attacks on communication, social relations, reputation, occupational situation, and physical health). It is the *collective* form of workplace bullying (Einarsen's research frames bullying by **repetition + power imbalance**) [2] — and that collectiveness is the engine: a crowd against one reads as consensus that the target deserves it. The diagnostic line is **coordinated, persistent hostility aimed at degrading and expelling someone who can't defend themselves**, distinguished from legitimate collective concerns or ordinary conflict ([[legitimate-collective-feedback]]).
+Mobbing is **systematic, hostile, unethical communication directed by a group (or a leader and recruited others) mainly at one target, repeatedly and over a long period, pushing them into a helpless, defenseless position** — Heinz Leymann's "psychological terror at work," operationalized as hostile acts occurring **at least weekly for at least six months** [1]. Leymann's **LIPT** inventory catalogs ~45 such acts across five domains (attacks on communication, social relations, reputation, occupational situation, and physical health). It is the *collective* form of workplace bullying (Einarsen's research frames bullying by **repetition + power imbalance**) [2] — and that collectiveness is the engine: a crowd against one reads as consensus that the target deserves it. The diagnostic line is **coordinated, persistent hostility aimed at degrading and expelling someone who can't defend themselves**, distinguished from legitimate collective concerns or ordinary conflict (*legitimate collective feedback*).
 
 ## Variants & aliases
 
@@ -87,7 +87,7 @@ Mobbing is built from [[smear-campaigns]] (the reputation-destruction component)
 
 ### Not mobbing when…
 
-- **It's legitimate collective feedback or fair criticism** ([[legitimate-collective-feedback]]): several colleagues independently raising genuine, fair concerns about real conduct or performance is not mobbing — nor is an unpopular person being held to the same standards as everyone else, or ordinary team conflict. The tactic is *coordinated, persistent hostility aimed at degrading and expelling*, against someone with little power to defend themselves.
+- **It's legitimate collective feedback or fair criticism** (*legitimate collective feedback*): several colleagues independently raising genuine, fair concerns about real conduct or performance is not mobbing — nor is an unpopular person being held to the same standards as everyone else, or ordinary team conflict. The tactic is *coordinated, persistent hostility aimed at degrading and expelling*, against someone with little power to defend themselves.
 - **The target's perception alone isn't sufficient** ([[epistemic-guardrails]]): feeling disliked or criticized doesn't establish mobbing; behavioral co-occurrence (systematic acts, over time, by a group) does. And mobbing is genuinely hard to distinguish from a badly-but-legitimately-managed performance exit — which is exactly why documentation and the *systematic/coordinated/power-imbalance* test carry the weight.
 - **Not every group disagreement is a campaign**: being outvoted, getting hard feedback from a team, or being unpopular for real reasons is normal work life. The flag is the *conjunction* (group + persistence + hostility + expulsion trajectory + power asymmetry), not friction.
 
@@ -111,4 +111,4 @@ Graded `supported`: mobbing is a well-established construct with a named origina
 
 ## See also
 
-[[smear-campaigns]] · [[isolation-tactics]] · [[proxy-recruitment]] · [[pip-weaponization]] · [[golden-child-scapegoat]] · [[social-proof]] · [[unity-ingroup]] · [[documentation-practices]] · [[workplace-bosses]] · [[legitimate-collective-feedback]]
+[[smear-campaigns]] · [[isolation-tactics]] · [[proxy-recruitment]] · [[pip-weaponization]] · [[golden-child-scapegoat]] · [[social-proof]] · [[unity-ingroup]] · [[documentation-practices]] · [[workplace-bosses]] · *legitimate collective feedback*

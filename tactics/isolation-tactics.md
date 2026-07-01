@@ -96,7 +96,7 @@ Completed or near-complete isolation is not a couples-communication issue — it
 - **New-relationship absorption** — couples naturally cocoon early; the innocent version is *symmetric, temporary, and cost-free* (no punishment when you surface for your friends).
 - **Legitimate concerns about specific people** — "your friend drives drunk with you in the car" is a *specific, evidence-bearing* objection that survives discussion; the tactic version is *systematic and universal* (everyone you're close to, eventually).
 - **Introversion and life-stage shrinkage** — networks thin with moves, kids, and age on their own; the diagnostic is the *cost structure and the narrator*, not the headcount.
-- **Your own protective distance** ([[self-protective-distance]]) — stepping back from genuinely harmful family or friends, including at a partner's sincere urging, is boundary-setting; the difference is who benefits, whether the evidence is real, and whether *other* bonds are encouraged or also targeted.
+- **Your own protective distance** (*self protective distance*) — stepping back from genuinely harmful family or friends, including at a partner's sincere urging, is boundary-setting; the difference is who benefits, whether the evidence is real, and whether *other* bonds are encouraged or also targeted.
 
 ### Base rates & severity calibration
 

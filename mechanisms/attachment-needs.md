@@ -64,9 +64,9 @@ Meeting belonging needs is what love, friendship, and community *are* — the le
 
 - **Needing people is the design, not the defect.** This file describes how a universal need gets exploited — not grounds to pathologize attachment, yours or anyone's ([[epistemic-guardrails]]).
 - **Loneliness ≠ gullibility**: the evidence specifically *failed* to show lonely people get scammed more [5]; don't profile the lonely, and don't let anyone weaponize this file against people seeking connection.
-- **Fast, deep connection happens honestly** — mutual [[limerence]], crisis camaraderie, instant friendships ([[genuine-community]] forms quickly sometimes). The discriminators are supply-rationing, exclusivity engineering, and response to your pacing requests.
+- **Fast, deep connection happens honestly** — mutual *limerence*, crisis camaraderie, instant friendships (*genuine community* forms quickly sometimes). The discriminators are supply-rationing, exclusivity engineering, and response to your pacing requests.
 - **Attachment styles are risk dimensions, not verdicts** [4] — both anxious and avoidant patterns carry associations; neither dooms anyone, and secure people get manipulated too.
-- **Withdrawal of affection isn't always punishment**: people honestly cool, get depressed, or protect themselves ([[self-protective-distance]]); the tell is *contingency on compliance across time*, not any single distance.
+- **Withdrawal of affection isn't always punishment**: people honestly cool, get depressed, or protect themselves (*self protective distance*); the tell is *contingency on compliance across time*, not any single distance.
 - **Welcoming newcomers is what healthy communities do** — campus orientation, new-member dinners, relocation outreach all supply belonging at transitions without exploitation. The discriminators are exclusivity claims, engineered pace, and supply-pricing — not warmth at a vulnerable moment.
 - **Boundary with [[unity-ingroup]]:** unity is identity-fusion (*you and I are one we*); this file is need-supply (*you control my access to belonging*). Instant-family recruitment pulls both — unity supplies the frame, attachment hunger the grip. And vs [[liking-similarity]]: liking is the affinity feeling; attachment is dependence on its continued supply.
 

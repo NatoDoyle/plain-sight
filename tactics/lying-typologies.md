@@ -93,8 +93,8 @@ The substrate beneath many tactics: [[gaslighting]] and [[history-rewriting]] ar
 
 ### Not malicious deception when…
 
-- **Prosocial / white lies** ([[prosocial-lie]]): "dinner was lovely," "you look great," sparing a dying patient — lies that *benefit the recipient* are judged more ethical than harmful truths, and can even build warmth-trust [5]. They carry a real integrity cost [5], but they are not the predatory deception this file targets. Tact, kindness, and social lubrication are not cons.
-- **Privacy and benign concealment** ([[benign-concealment]]): you are not obligated to disclose everything; keeping private matters private, planning a surprise, or declining to answer are not lies. Concealment ≠ deception unless it's *material and exploitative*.
+- **Prosocial / white lies** (*prosocial lie*): "dinner was lovely," "you look great," sparing a dying patient — lies that *benefit the recipient* are judged more ethical than harmful truths, and can even build warmth-trust [5]. They carry a real integrity cost [5], but they are not the predatory deception this file targets. Tact, kindness, and social lubrication are not cons.
+- **Privacy and benign concealment** (*benign concealment*): you are not obligated to disclose everything; keeping private matters private, planning a surprise, or declining to answer are not lies. Concealment ≠ deception unless it's *material and exploitative*.
 - **Honest error and changed minds**: being wrong isn't lying (no intent to deceive), and revising a position with new information is integrity, not a "cascade."
 - **You can't reliably catch liars by vibe** [7]: the felt-sense markers here describe deception *you later confirmed*, not a license to accuse on demeanor. Suspecting everyone is its own harm, and the base rate of ordinary honesty is high ([[epistemic-guardrails]]).
 
@@ -119,4 +119,4 @@ Graded `established`: this is one of the better-grounded files in the KB. The ly
 
 ## See also
 
-[[trust-mechanics]] · [[information-asymmetry]] · [[gaslighting]] · [[history-rewriting]] · [[future-faking]] · [[mirroring-false-identity]] · [[con-anatomy]] · [[verification-rituals]] · [[benign-concealment]] · [[prosocial-lie]]
+[[trust-mechanics]] · [[information-asymmetry]] · [[gaslighting]] · [[history-rewriting]] · [[future-faking]] · [[mirroring-false-identity]] · [[con-anatomy]] · [[verification-rituals]] · *benign concealment* · *prosocial lie*

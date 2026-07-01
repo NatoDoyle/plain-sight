@@ -20,7 +20,7 @@ last-updated: 2026-06-23
 
 ## Definition
 
-Stalkerware (also "spouseware") and digital monitoring are **the use of technology to covertly surveil and control a partner or family member** — a core instrument of tech-facilitated [[coercive-control]]. It spans commercial spyware apps secretly installed on a phone (reading messages, calls, location, even camera/mic), misused location trackers and shared accounts, and account takeover. The defining anchor is research like Citizen Lab's *The Predator in Your Pocket* (2019) and the **Coalition Against Stalkerware** (founded 2019; EFF, Kaspersky, NNEDV, and others) [1]. The diagnostic — and the line from legitimate monitoring — is **covert, non-consensual surveillance used for control**, not the existence of location-sharing or child-safety tools ([[consensual-monitoring]]).
+Stalkerware (also "spouseware") and digital monitoring are **the use of technology to covertly surveil and control a partner or family member** — a core instrument of tech-facilitated [[coercive-control]]. It spans commercial spyware apps secretly installed on a phone (reading messages, calls, location, even camera/mic), misused location trackers and shared accounts, and account takeover. The defining anchor is research like Citizen Lab's *The Predator in Your Pocket* (2019) and the **Coalition Against Stalkerware** (founded 2019; EFF, Kaspersky, NNEDV, and others) [1]. The diagnostic — and the line from legitimate monitoring — is **covert, non-consensual surveillance used for control**, not the existence of location-sharing or child-safety tools (*consensual monitoring*).
 
 ## Variants & aliases
 
@@ -82,7 +82,7 @@ The surveillance pillar of [[coercive-control]] (declared there as a constituent
 
 ### Not stalkerware/abuse when…
 
-- **Consensual location-sharing** ([[consensual-monitoring]]): partners who *mutually agree* to share location (Find My, Life360) are not abusing each other — the line is consent, transparency, and the freedom to turn it off without punishment.
+- **Consensual location-sharing** (*consensual monitoring*): partners who *mutually agree* to share location (Find My, Life360) are not abusing each other — the line is consent, transparency, and the freedom to turn it off without punishment.
 - **Lawful parental monitoring of minor children**: parents monitoring a young child's device/location for safety is context-dependent and broadly legitimate (it shades toward control when applied covertly to teens to dominate rather than protect).
 - **Disclosed employer monitoring of company devices**: monitoring an employer-owned device, with notice, is generally lawful — different from covertly bugging a person's own phone.
 - **The line is secrecy + non-consent + control + power asymmetry**: "we share locations" by genuine mutual agreement is not stalkerware; *covert* surveillance, or "consent" extracted under pressure, is. Don't pathologize ordinary couple location-sharing or legitimate child safety ([[epistemic-guardrails]]).
@@ -107,4 +107,4 @@ Graded `supported`: stalkerware and tech-facilitated abuse are well-documented b
 
 ## See also
 
-[[coercive-control]] · [[isolation-tactics]] · [[financial-abuse]] · [[gaslighting]] · [[dv-safety-planning]] · [[documentation-practices]] · [[phishing-pretexting]] · [[intimate-relationships]] · [[digital-platforms]] · [[consensual-monitoring]]
+[[coercive-control]] · [[isolation-tactics]] · [[financial-abuse]] · [[gaslighting]] · [[dv-safety-planning]] · [[documentation-practices]] · [[phishing-pretexting]] · [[intimate-relationships]] · [[digital-platforms]] · *consensual monitoring*

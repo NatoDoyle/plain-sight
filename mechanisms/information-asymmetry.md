@@ -41,7 +41,7 @@ The recurring exploit: **engineered ignorance — yours — priced, steered, or 
 
 ## Ethical use vs exploitation
 
-Expertise *is* information asymmetry — doctors, lawyers, and mechanics necessarily know more, and confidentiality, privacy, and surprise parties are benign concealment ([[legitimate-expertise]], [[benign-concealment]]). The line ([[manipulation-vs-influence]]): exploitation **profits from your ignorance rather than curing it**, **resists verification** (second opinions, documentation, transparency requests), and **engineers the asymmetry** (hiding what you'd need, punishing learning).
+Expertise *is* information asymmetry — doctors, lawyers, and mechanics necessarily know more, and confidentiality, privacy, and surprise parties are benign concealment (*legitimate expertise*, *benign concealment*). The line ([[manipulation-vs-influence]]): exploitation **profits from your ignorance rather than curing it**, **resists verification** (second opinions, documentation, transparency requests), and **engineers the asymmetry** (hiding what you'd need, punishing learning).
 
 ## Recognition
 
@@ -63,7 +63,7 @@ Expertise *is* information asymmetry — doctors, lawyers, and mechanics necessa
 ## Caveats
 
 - **Asymmetry is the human condition**, not an accusation: every expert, parent, and institution knows things you don't, and nearly all of them aren't exploiting it ([[epistemic-guardrails]]; the diagnostics are profit-from-ignorance + verification hostility + engineering, in conjunction).
-- **Privacy isn't gatekeeping**: people legitimately keep salaries, histories, and feelings private ([[benign-concealment]]); the tactic-grade requires *your* decisions being steered by *their* curation.
+- **Privacy isn't gatekeeping**: people legitimately keep salaries, histories, and feelings private (*benign concealment*); the tactic-grade requires *your* decisions being steered by *their* curation.
 - **"I'll handle it" is usually kindness** — division of labor is how households and teams work; the flag is dependence that deepens over time against your wishes, plus punishment for learning.
 - **Don't weaponize transparency demands**: insisting on access to a partner's every account and message is itself a control pattern ([[coercive-control]] runs both directions; transparency norms should be symmetric).
 - **Boundary with [[cognitive-overload-confusion]]:** overload defeats scrutiny by *flooding* the channel; this lever defeats it by *starving* the channel. The fine-print trick uses both. [[lying-typologies]] (omission, paltering) are the utterance-level tactics built here.

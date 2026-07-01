@@ -15,7 +15,7 @@ last-updated: 2026-06-29
 
 ## The risk factor
 
-Loneliness is the **distressing gap between the connection you have and the connection you want**; it is widespread — the U.S. Surgeon General's 2023 advisory describes an *epidemic* affecting about half of U.S. adults [1]. Three things must be kept distinct: **loneliness** (subjective distress), **social isolation** (objectively few contacts), and **solitude** (aloneness by choice, which is fine — [[healthy-solitude]]). The vulnerability is the first two, not the third. Crucially, Cacioppo's research shows loneliness is an **aversive signal — like hunger — that makes people *more* vigilant for social threat, not less** [2]; so the risk is **not** that lonely people are naive or gullible. The risk is that the *unmet need pulls them toward connection offers*, and that isolation removes the second opinion that would catch a manipulator.
+Loneliness is the **distressing gap between the connection you have and the connection you want**; it is widespread — the U.S. Surgeon General's 2023 advisory describes an *epidemic* affecting about half of U.S. adults [1]. Three things must be kept distinct: **loneliness** (subjective distress), **social isolation** (objectively few contacts), and **solitude** (aloneness by choice, which is fine — *healthy solitude*). The vulnerability is the first two, not the third. Crucially, Cacioppo's research shows loneliness is an **aversive signal — like hunger — that makes people *more* vigilant for social threat, not less** [2]; so the risk is **not** that lonely people are naive or gullible. The risk is that the *unmet need pulls them toward connection offers*, and that isolation removes the second opinion that would catch a manipulator.
 
 ## Why it raises risk
 
@@ -38,7 +38,7 @@ Loneliness is the **distressing gap between the connection you have and the conn
 
 ## Caveats
 
-- **Solitude is not loneliness, and introversion is not a vulnerability** ([[healthy-solitude]]): being alone by choice and content is healthy. The risk factor is *distressing* unmet connection-need or imposed isolation — not enjoying your own company.
+- **Solitude is not loneliness, and introversion is not a vulnerability** (*healthy solitude*): being alone by choice and content is healthy. The risk factor is *distressing* unmet connection-need or imposed isolation — not enjoying your own company.
 - **Loneliness is near-universal and epidemic-level — a state, not a weakness, defect, or anything to be ashamed of** ([[epistemic-guardrails]]). About half of adults feel it; it is not a character flaw, and shame about it only deepens the isolation a manipulator exploits.
 - **The lonely are not gullible.** The hypervigilance evidence (Cacioppo) cuts directly against "lonely = easily fooled" — the mechanism is *unmet need + lost reality-check*, not poor judgment [2]. Don't blame the lonely person.
 - **Mind the evidence limits**: the widely-quoted "loneliness ≈ 15 cigarettes/day" is an awareness benchmark (from Holt-Lunstad's mortality meta-analyses) whose own authors caution against taking the equivalence literally [1]; and the romance-scam "loneliness predictor" is supported by reviews but *not* found in some primary studies (Whitty 2018 didn't measure it) — so state it as a plausible risk factor, not a settled finding.
@@ -51,4 +51,4 @@ Loneliness is the **distressing gap between the connection you have and the conn
 
 ## See also
 
-[[crisis-windows]] · [[why-smart-people-fall]] · [[scarcity-stress]] · [[love-bombing]] · [[isolation-tactics]] · [[coercive-control]] · [[romance-scam-arc]] · [[cult-conversion-funnel]] · [[elder-targeting]] · [[attachment-needs]] · [[unity-ingroup]] · [[detection-heuristics]] · [[epistemic-guardrails]] · [[healthy-solitude]]
+[[crisis-windows]] · [[why-smart-people-fall]] · [[scarcity-stress]] · [[love-bombing]] · [[isolation-tactics]] · [[coercive-control]] · [[romance-scam-arc]] · [[cult-conversion-funnel]] · [[elder-targeting]] · [[attachment-needs]] · [[unity-ingroup]] · [[detection-heuristics]] · [[epistemic-guardrails]] · *healthy solitude*

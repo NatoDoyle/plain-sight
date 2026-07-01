@@ -88,8 +88,8 @@ A reframing overlay that rides on top of other tactics rather than a standalone 
 
 - **The concepts are real and valuable**: boundaries, gaslighting, trauma, and abuse are legitimate, important constructs. This file is about a *misuse of vocabulary*, never a reason to dismiss the vocabulary. Using therapy language correctly — naming a real boundary, naming real abuse — is healthy and should be respected.
 - **"You're weaponizing therapy-speak" is itself a silencing move**: the single biggest false-positive risk. Accusing someone of "weaponizing boundaries" or "throwing around therapy words" is a standard way to **dismiss a genuine boundary or a real disclosure of harm** — the abuser who tells a victim "you just learned those words in therapy, you're being manipulative" is weaponizing *this very accusation* ([[darvo]]). The label carries the same burden of evidence it demands, and in this domain wrongly dismissing a real boundary or a real abuse-claim is the more serious error.
-- **Genuine boundary-setting** ([[boundary-setting]]): "I won't discuss this when you raise your voice; I'll leave the room" is a *correct* boundary — it governs the speaker's own response. Don't mislabel legitimate, self-governing limits as manipulation just because they're inconvenient to you.
-- **Genuine assertiveness** ([[assertiveness]]): plainly stating needs, declining requests, or naming a real dynamic is healthy communication — not "weaponized therapy-speak." People who learned this language in actual therapy use it sincerely and well.
+- **Genuine boundary-setting** (*boundary setting*): "I won't discuss this when you raise your voice; I'll leave the room" is a *correct* boundary — it governs the speaker's own response. Don't mislabel legitimate, self-governing limits as manipulation just because they're inconvenient to you.
+- **Genuine assertiveness** (*assertiveness*): plainly stating needs, declining requests, or naming a real dynamic is healthy communication — not "weaponized therapy-speak." People who learned this language in actual therapy use it sincerely and well.
 - **Concept creep cuts both ways** [3]: yes, terms like "trauma" and "gaslighting" have inflated — *and* dismissing every use as "inflation" is its own distortion that silences real harm. Hold both: the vocabulary can be over-extended, and it can name true things.
 
 ### Base rates & severity calibration
@@ -115,4 +115,4 @@ Graded `folk`: "weaponized therapy-speak" is a **journalistic/cultural-criticism
 
 ## See also
 
-[[darvo]] · [[victim-posturing]] · [[gaslighting]] · [[coercive-control]] · [[isolation-tactics]] · [[projection-blame-shifting]] · [[epistemic-guardrails]] · [[boundary-scripts]] · [[detection-heuristics]] · [[boundary-setting]]
+[[darvo]] · [[victim-posturing]] · [[gaslighting]] · [[coercive-control]] · [[isolation-tactics]] · [[projection-blame-shifting]] · [[epistemic-guardrails]] · [[boundary-scripts]] · [[detection-heuristics]] · *boundary setting*

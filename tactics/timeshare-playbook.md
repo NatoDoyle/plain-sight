@@ -71,7 +71,7 @@ A canonical high-pressure-sales sequence: gift-hook → captive grind → emotio
 
 - **Treat the "free gift" as paid for in hours and pressure.** Go in expecting the grind, or don't go ([[detection-heuristics]]).
 - **Set a hard time limit and physically leave when it's up.** You are allowed to stand up and walk out; the overrun is the tactic.
-- **Refuse to sign the same day.** "I never sign anything the day I see it" defeats the entire close. A real offer survives you sleeping on it ([[genuine-deadline]] test).
+- **Refuse to sign the same day.** "I never sign anything the day I see it" defeats the entire close. A real offer survives you sleeping on it (*genuine deadline* test).
 
 ### Structural / long-term
 
@@ -93,7 +93,7 @@ If you feel trapped, leave — there is no penalty for walking out of a presenta
 
 - **Vacation ownership is a legal, legitimate product for some.** Roughly **10 million U.S. households** own timeshares and many use and enjoy them [4]; a timeshare is not inherently a scam.
 - **High-pressure selling is not, by itself, fraud.** Aggressive sales are lawful; the conduct crosses into actionable territory at **misrepresentation**, **deceptive concealment of true lifetime cost**, or **violation of rescission rights** — not at enthusiasm or a hard close.
-- **A genuinely limited, disclosed offer is information, not manipulation** ([[genuine-deadline]]): a real promotion documented in writing that still exists tomorrow differs from "this vanishes the instant you leave."
+- **A genuinely limited, disclosed offer is information, not manipulation** (*genuine deadline*): a real promotion documented in writing that still exists tomorrow differs from "this vanishes the instant you leave."
 
 ### Base rates & severity calibration
 
@@ -118,4 +118,4 @@ Graded `supported`. Best-sourced is the **exit-scam enforcement** (FTC/DOJ Squar
 
 ## See also
 
-[[manufactured-urgency]] · [[escalation-entrapment]] · [[four-square-payment-packing]] · [[elder-targeting]] · [[con-anatomy]] · [[emotional-flooding]] · [[scarcity-urgency]] · [[reciprocity]] · [[verification-rituals]] · [[detection-heuristics]] · [[sales]] · [[genuine-deadline]]
+[[manufactured-urgency]] · [[escalation-entrapment]] · [[four-square-payment-packing]] · [[elder-targeting]] · [[con-anatomy]] · [[emotional-flooding]] · [[scarcity-urgency]] · [[reciprocity]] · [[verification-rituals]] · [[detection-heuristics]] · [[sales]] · *genuine deadline*

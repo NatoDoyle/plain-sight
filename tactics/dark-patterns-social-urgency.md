@@ -19,7 +19,7 @@ last-updated: 2026-06-24
 
 ## Definition
 
-These dark patterns are **interface elements that fabricate scarcity, urgency, or social proof — or shame the user out of declining — to rush a decision past deliberation** (Mathur et al., 2019, whose taxonomy includes *urgency*, *scarcity*, *social proof*, and *misdirection*) [1]. The signatures: **fake countdown timers** (reset on reload, recur every visit), **fake low-stock / "X left" / "N people viewing" counters** (random or invented), **fabricated recent-activity popups** ("Sarah from Ohio just bought…"), and **confirmshaming** (Brignull — wording the decline to induce guilt: "No thanks, I hate saving money") [1]. The defining line — the file's center — is that these are the **fabricated/false** versions: a timer tied to a *real* sale end or a counter showing *actual* inventory is information, not manipulation ([[good-faith-ux]]). It is the digital, industrialized form of [[manufactured-urgency]] and the weaponization of [[scarcity-urgency]] and [[social-proof]].
+These dark patterns are **interface elements that fabricate scarcity, urgency, or social proof — or shame the user out of declining — to rush a decision past deliberation** (Mathur et al., 2019, whose taxonomy includes *urgency*, *scarcity*, *social proof*, and *misdirection*) [1]. The signatures: **fake countdown timers** (reset on reload, recur every visit), **fake low-stock / "X left" / "N people viewing" counters** (random or invented), **fabricated recent-activity popups** ("Sarah from Ohio just bought…"), and **confirmshaming** (Brignull — wording the decline to induce guilt: "No thanks, I hate saving money") [1]. The defining line — the file's center — is that these are the **fabricated/false** versions: a timer tied to a *real* sale end or a counter showing *actual* inventory is information, not manipulation (*good faith ux*). It is the digital, industrialized form of [[manufactured-urgency]] and the weaponization of [[scarcity-urgency]] and [[social-proof]].
 
 ## Variants & aliases
 
@@ -66,7 +66,7 @@ The "rush-the-decision" half of the dark-patterns playbook (the obstruction file
 
 ## Caveats & false positives
 
-- **Real scarcity and urgency are information, not manipulation** ([[good-faith-ux]]): genuinely limited stock, a true sale end-date, real-time booking availability, and honest "popular item" labels are legitimate and useful. The tactic is the **fabricated** version — a timer that resets, a counter that's invented, a crowd that isn't there. The line is *truth*, not the presence of urgency or popularity signals.
+- **Real scarcity and urgency are information, not manipulation** (*good faith ux*): genuinely limited stock, a true sale end-date, real-time booking availability, and honest "popular item" labels are legitimate and useful. The tactic is the **fabricated** version — a timer that resets, a counter that's invented, a crowd that isn't there. The line is *truth*, not the presence of urgency or popularity signals.
 - **Genuine social proof is fine**: real review counts, true bestseller status, and honest "others bought" data are normal commerce; the manipulation is fabricating or faking them ([[fake-reviews-astroturfing]]).
 - **It's low-severity** ([[epistemic-guardrails]]): the harm is usually a single rushed or sub-optimal purchase, easily countered by reloading and slowing down. Don't read every "sale ends Sunday" as a dark pattern.
 
@@ -80,4 +80,4 @@ Graded `supported`: the patterns are empirically documented in Mathur et al.'s l
 
 ## See also
 
-[[dark-patterns-obstruction]] · [[manufactured-urgency]] · [[fake-reviews-astroturfing]] · [[thats-not-all-decoys]] · [[scarcity-urgency]] · [[social-proof]] · [[detection-heuristics]] · [[digital-platforms]] · [[advertising-marketing]] · [[good-faith-ux]]
+[[dark-patterns-obstruction]] · [[manufactured-urgency]] · [[fake-reviews-astroturfing]] · [[thats-not-all-decoys]] · [[scarcity-urgency]] · [[social-proof]] · [[detection-heuristics]] · [[digital-platforms]] · [[advertising-marketing]] · *good faith ux*

@@ -78,7 +78,7 @@ Pairs with [[conditional-love]] (declared here: approval rationed for caretaking
 
 ### Not parentification when…
 
-- **It's age-appropriate responsibility** ([[age-appropriate-responsibility]]): chores, helping with siblings, pitching in during a genuine family crisis (illness, a death, financial hardship), and growing responsibility with age are *normal and good* — they build competence. Destructive parentification is **chronic, developmentally inappropriate, unacknowledged, and unfair**, serving the parent rather than the child [3]. A responsible kid is not a parentified one.
+- **It's age-appropriate responsibility** (*age appropriate responsibility*): chores, helping with siblings, pitching in during a genuine family crisis (illness, a death, financial hardship), and growing responsibility with age are *normal and good* — they build competence. Destructive parentification is **chronic, developmentally inappropriate, unacknowledged, and unfair**, serving the parent rather than the child [3]. A responsible kid is not a parentified one.
 - **Culture is not pathology** ([[epistemic-guardrails]]): in many families — especially immigrant and collectivist ones — sibling caregiving, shared family labor, and **language/culture brokering** are normative, acknowledged, and tied to belonging, not harm. Judging them by an individualist Western standard is a documented error. *(Caveat-within-caveat: culturally normative ≠ automatically harmless — brokering can still tip into overload; the test remains chronicity, age-appropriateness, acknowledgment, and fairness, read in cultural context.)*
 - **Hardship is not manipulation**: a parent disabled by illness, poverty, or crisis may *need* a child's help without any intent to exploit — that is sad necessity, not a tactic. The harm (to the child's development) can be real *without* a villain.
 - **Don't over-attribute intent**: destructive parentification is best recognized by its *structure and effects* (chronic, inappropriate, unacknowledged role reversal), not by assuming the parent "meant" it. Much of it is unconscious reenactment or incapacity; some is deliberate; the recognition doesn't require deciding which.
@@ -100,4 +100,4 @@ Graded `supported`: parentification is an established family-systems construct (
 
 ## See also
 
-[[conditional-love]] · [[golden-child-scapegoat]] · [[emotional-blackmail]] · [[guilt-tripping]] · [[attachment-needs]] · [[boundary-scripts]] · [[family-parents]] · [[escalation-entrapment]] · [[epistemic-guardrails]] · [[age-appropriate-responsibility]]
+[[conditional-love]] · [[golden-child-scapegoat]] · [[emotional-blackmail]] · [[guilt-tripping]] · [[attachment-needs]] · [[boundary-scripts]] · [[family-parents]] · [[escalation-entrapment]] · [[epistemic-guardrails]] · *age appropriate responsibility*

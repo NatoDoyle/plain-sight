@@ -38,7 +38,7 @@ Two well-documented tendencies combine into a manipulation vulnerability. **Opti
 
 ## Caveats
 
-- **Optimism is largely adaptive and healthy** ([[justified-confidence]]). Dispositional optimism predicts better coping, resilience, and even physical-health outcomes (Scheier & Carver). This file is **not** "optimism is bad" — the vulnerability is narrow: the *invulnerability illusion about manipulation* plus the overconfidence that *suppresses verification*.
+- **Optimism is largely adaptive and healthy** (*justified confidence*). Dispositional optimism predicts better coping, resilience, and even physical-health outcomes (Scheier & Carver). This file is **not** "optimism is bad" — the vulnerability is narrow: the *invulnerability illusion about manipulation* plus the overconfidence that *suppresses verification*.
 - **Don't flip to pessimism or paranoia.** Defensive caution about scams specifically is not global pessimism; reflexive distrust has its own real costs ([[epistemic-guardrails]]). The counter is *structural verification*, not free-floating suspicion.
 - **The measurement of "unrealistic optimism" is contested.** Harris & Hahn (2011) argue much apparent comparative-optimism is a *statistical artifact* (scale effects, regression to the mean) that even rational agents would produce [5]. So: present comparative-optimism as a *debated* construct at the measurement level — while the *applied* finding (overconfidence → skipped verification → worse fraud outcomes) stands on its own behavioral evidence.
 - A risk factor, not a fault or a destiny — optimistic, confident people are not "asking for it"; they're simply less likely to verify, which is fixable structurally.
@@ -53,4 +53,4 @@ Two well-documented tendencies combine into a manipulation vulnerability. **Opti
 
 ## See also
 
-[[why-smart-people-fall]] · [[crisis-windows]] · [[ponzi-psychology]] · [[manufactured-urgency]] · [[hope-greed]] · [[certainty-needs]] · [[framing-anchoring]] · [[verification-rituals]] · [[detection-heuristics]] · [[epistemic-guardrails]] · [[justified-confidence]]
+[[why-smart-people-fall]] · [[crisis-windows]] · [[ponzi-psychology]] · [[manufactured-urgency]] · [[hope-greed]] · [[certainty-needs]] · [[framing-anchoring]] · [[verification-rituals]] · [[detection-heuristics]] · [[epistemic-guardrails]] · *justified confidence*

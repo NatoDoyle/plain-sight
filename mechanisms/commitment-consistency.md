@@ -55,7 +55,7 @@ Consistency is a virtue and commitment devices genuinely help people (savings pl
 ## Resistance
 
 1. **Zero-base the decision** — the single best counter to sunk cost: "Knowing what I know now, if I weren't already in, would I enter?" If no, exit; what's spent is spent either way [4].
-2. **Reserve the right to change your mind.** Treat updated beliefs as competence, not betrayal ([[principled-consistency]] is loyalty to values and evidence — not to past statements extracted from you).
+2. **Reserve the right to change your mind.** Treat updated beliefs as competence, not betrayal (*principled consistency* is loyalty to values and evidence — not to past statements extracted from you).
 3. **Spot the ladder** ([[detection-heuristics]]): trivial first asks from strangers with something to sell are rungs, not requests. Price the *whole* ladder before stepping.
 4. **Slow the escalation** ([[verification-rituals]]): cooling-off periods before any upgrade of commitment; re-read original terms whenever asked to "just" extend.
 5. **Keep early commitments private and small.** Publicity is the manipulator's ratchet — don't hand it over (decline pledge ceremonies, public goal boards run by interested parties).
@@ -67,7 +67,7 @@ Consistency is a virtue and commitment devices genuinely help people (savings pl
 - **Perseverance vs sunk cost** is genuinely hard to distinguish from inside: continuing can be right when future expected value is positive. The test is prospective ("from here, is it worth it?"), never retrospective ("I've come so far").
 - **Self-chosen commitment devices** (deposits, accountability partners) use the same lever *for* you — mechanism ≠ manipulation; check who built the ladder and who benefits.
 - Single small favors or requests are usually just that ([[epistemic-guardrails]]); the diagnostic is the *sequence* and what happens at the exits.
-- **Cultural calibration:** the consistency drive binds hardest where *personal* consistency signals integrity (individualist contexts); cross-national compliance research finds collectivist contexts weight in-group expectations more than prior personal commitments (e.g., Petrova, Cialdini & Sills 2007) — the ladder still works, but the rungs differ ([[cultural-difference]]).
+- **Cultural calibration:** the consistency drive binds hardest where *personal* consistency signals integrity (individualist contexts); cross-national compliance research finds collectivist contexts weight in-group expectations more than prior personal commitments (e.g., Petrova, Cialdini & Sills 2007) — the ladder still works, but the rungs differ (*cultural difference*).
 - **Boundary with [[dissonance-exploitation]]:** dissonance is the *engine* (the discomfort of inconsistency); this file covers the *ladder built on it* — engineered escalating commitments. The dissonance file covers the broader self-justification spirals (e.g., extracting complicity so the target defends the wrongdoing).
 
 ## Sources

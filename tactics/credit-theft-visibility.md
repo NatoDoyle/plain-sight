@@ -19,7 +19,7 @@ last-updated: 2026-06-24
 
 ## Definition
 
-Credit theft and visibility games are **the appropriation of others' work, ideas, or contributions — and the suppression of their visibility — to claim advancement that belongs to someone else**. It ranges from a manager claiming a report's work as their own (which measurably harms employees' voice and performance via perceived unfairness and anger [1]) to the meeting dynamic where an idea is ignored until a higher-status person restates it and is credited (in one controlled study, only ~30% of observers correctly identified who said an idea *first* [2]). It has a well-documented **bias dimension**: women's and underrepresented groups' contributions are systematically under-credited — co-authored work is credited less to women, especially when they collaborate with men [3] (the upstream evaluation bias is captured by the "Heidi/Howard" finding that identical work is rated differently by the author's gender [4]). The diagnostic line is **systematic appropriation of specific contributions + erasure of visibility for one's own advancement** — distinguished from collaboration and legitimate team representation ([[collaborative-credit]]).
+Credit theft and visibility games are **the appropriation of others' work, ideas, or contributions — and the suppression of their visibility — to claim advancement that belongs to someone else**. It ranges from a manager claiming a report's work as their own (which measurably harms employees' voice and performance via perceived unfairness and anger [1]) to the meeting dynamic where an idea is ignored until a higher-status person restates it and is credited (in one controlled study, only ~30% of observers correctly identified who said an idea *first* [2]). It has a well-documented **bias dimension**: women's and underrepresented groups' contributions are systematically under-credited — co-authored work is credited less to women, especially when they collaborate with men [3] (the upstream evaluation bias is captured by the "Heidi/Howard" finding that identical work is rated differently by the author's gender [4]). The diagnostic line is **systematic appropriation of specific contributions + erasure of visibility for one's own advancement** — distinguished from collaboration and legitimate team representation (*collaborative credit*).
 
 ## Variants & aliases
 
@@ -79,7 +79,7 @@ Often part of a broader pattern of being sidelined: it accompanies [[smear-campa
 
 ### Not credit theft when…
 
-- **It's collaboration or legitimate representation** ([[collaborative-credit]]): building on others' ideas, shared credit, and a manager *legitimately* synthesizing and presenting the team's work to leadership are normal and good — that's how organizations function. A leader representing a team isn't stealing from it. The tactic is *systematic appropriation of specific contributions + erasure*, not shared or representative credit.
+- **It's collaboration or legitimate representation** (*collaborative credit*): building on others' ideas, shared credit, and a manager *legitimately* synthesizing and presenting the team's work to leadership are normal and good — that's how organizations function. A leader representing a team isn't stealing from it. The tactic is *systematic appropriation of specific contributions + erasure*, not shared or representative credit.
 - **Independent and simultaneous ideas are real**: the same idea genuinely occurs to multiple people (the sociology of science calls these "multiples"); overlap is not proof someone stole from you.
 - **Much misattribution is unconscious bias, not deliberate theft** ([[epistemic-guardrails]]): people genuinely fail to register who spoke first [2], and gendered/structural under-crediting is often non-deliberate [3][4]. The harm is real either way, but recognize the *pattern* before assuming calculated theft — and don't read one forgotten attribution as a campaign.
 - **Wanting recognition is legitimate**: caring about credit isn't pettiness; advancement depends on it. But not every unshared spotlight is theft — sometimes others genuinely did more.
@@ -101,4 +101,4 @@ Graded `supported`: the core mechanisms rest on peer-reviewed work — leader cr
 
 ## See also
 
-[[smear-campaigns]] · [[mobbing]] · [[pip-weaponization]] · [[authority]] · [[documentation-practices]] · [[detection-heuristics]] · [[workplace-bosses]] · [[competitors-business]] · [[epistemic-guardrails]] · [[collaborative-credit]]
+[[smear-campaigns]] · [[mobbing]] · [[pip-weaponization]] · [[authority]] · [[documentation-practices]] · [[detection-heuristics]] · [[workplace-bosses]] · [[competitors-business]] · [[epistemic-guardrails]] · *collaborative credit*

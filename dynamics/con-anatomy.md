@@ -60,7 +60,7 @@ The cleanest exit is **before the convincer cements your confidence and before t
 
 ## Caveats & false positives
 
-- **Not every great opportunity is a con** ([[genuine-opportunity]]): real deals, jobs, and investments exist. The difference is that a genuine opportunity *tolerates* scrutiny, delay, diversification, and independent verification, and its claimed returns are proportionate and checkable — whereas a con needs you to act fast, alone, and on trust. Don't treat ordinary enthusiasm or a real bargain as fraud; treat the *convincer-plus-urgent-send* pattern as the flag.
+- **Not every great opportunity is a con** (*genuine opportunity*): real deals, jobs, and investments exist. The difference is that a genuine opportunity *tolerates* scrutiny, delay, diversification, and independent verification, and its claimed returns are proportionate and checkable — whereas a con needs you to act fast, alone, and on trust. Don't treat ordinary enthusiasm or a real bargain as fraud; treat the *convincer-plus-urgent-send* pattern as the flag.
 - **The "you can't cheat an honest man" trope is mostly a con-man's self-serving myth.** Maurer documented that big-con tales often dangle a *dishonest* opportunity — making the mark feel they're getting away with something, which both fans greed and buys silence (a "victim" who thinks they were cheating won't call police) [1]. But this is **not** a moral law and **must not be used to victim-blame**: a great many cons (romance, affinity, authority, grief, tech-support, "your grandson's in jail") carry **no** dishonest hook at all and target perfectly honest people through trust, love, fear, or compassion. Honesty is no immunity.
 - **Intelligence is no immunity either** [2]: the data and the literature agree that smart, educated people are conned routinely — sometimes *more* easily, because they trust their own judgment. "I'd never fall for that" is itself a vulnerability. The defense is the *process* (verify, slow down, consult), not self-assessed cleverness.
 
@@ -76,4 +76,4 @@ Graded **`supported`**: the stage arc is a durable, cross-corroborated *descript
 
 ## See also
 
-[[romance-scam-arc]] · [[mirroring-false-identity]] · [[charm-offensive]] · [[future-faking]] · [[pity-plays]] · [[manufactured-urgency]] · [[trust-mechanics]] · [[hope-greed]] · [[verification-rituals]] · [[genuine-opportunity]]
+[[romance-scam-arc]] · [[mirroring-false-identity]] · [[charm-offensive]] · [[future-faking]] · [[pity-plays]] · [[manufactured-urgency]] · [[trust-mechanics]] · [[hope-greed]] · [[verification-rituals]] · *genuine opportunity*

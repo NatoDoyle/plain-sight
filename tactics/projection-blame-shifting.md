@@ -90,7 +90,7 @@ When *no* fault can ever land — when accountability conversations structurally
 
 ### Not projection/blame-shifting when…
 
-- **The counter-grievance is real**: relationships have two-sided ledgers, and "you did X" answered with "and you did Y" is often just… both being true ([[honest-disagreement]], [[honest-hurt]]). The tactic-grade requires the *systematic* one-way fault-flow, not the existence of return fire.
+- **The counter-grievance is real**: relationships have two-sided ledgers, and "you did X" answered with "and you did Y" is often just… both being true (*honest disagreement*, *honest hurt*). The tactic-grade requires the *systematic* one-way fault-flow, not the existence of return fire.
 - **Accurate attribution of your actual fault** — sometimes you *are* the one who's angry/controlling/wrong, and being told so stings identically. The mirror test cuts both ways: check their charge against your conduct before filing it as projection.
 - **Externalizing under distress** — everyone blames traffic, stress, and other people on bad days [2]; base-rate behavior, not architecture.
 - **"You're projecting" as a weapon**: the vocabulary is fully reversible — armchair-diagnosing projection to dismiss legitimate criticism is itself blame-shifting ([[therapy-speak-weaponization]]). The accusation carries the same evidence standard as the behavior.

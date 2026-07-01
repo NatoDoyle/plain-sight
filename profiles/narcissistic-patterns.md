@@ -54,7 +54,7 @@ If you must deal with the pattern (co-parent, boss, relative): **expectation hyg
 This section is the point of the file, not an afterthought ([[epistemic-guardrails]]):
 
 - **You cannot diagnose a person** — least of all from the outside, an ex, or a public figure. The **Goldwater Rule** (APA, 1973) bars even trained psychiatrists from diagnosing-at-a-distance; a layperson labeling someone "a narcissist" is on far thinner ice [1]. Describe behavior; don't diagnose.
-- **"Narcissist" is massively over-used.** Most selfish, difficult, vain, or self-absorbed behavior is **not** NPD. Confidence, success, and ambition are not pathology ([[healthy-self-esteem]]).
+- **"Narcissist" is massively over-used.** Most selfish, difficult, vain, or self-absorbed behavior is **not** NPD. Confidence, success, and ambition are not pathology (*healthy self esteem*).
 - **NPD ≠ abuser, and abuser ≠ NPD.** Most abuse is committed by people without NPD; many people with NPD are themselves suffering (vulnerable narcissism overlaps with shame, depression, suicidality) and are not abusers. The disorder is not a moral verdict.
 - **The label is weaponizable in both directions** — abusers routinely accuse the *victim* of being "the narcissist" (textbook [[darvo]]). An accusation of narcissism carries the same evidentiary burden as any other.
 - **The everyday-manipulator alternative** ([[everyday-manipulators]]): far more often, hurtful behavior is situational, immature, or self-centered without being a personality disorder at all. Reach for that explanation first.
@@ -68,4 +68,4 @@ This section is the point of the file, not an afterthought ([[epistemic-guardrai
 
 ## See also
 
-[[psychopathic-patterns]] · [[machiavellianism]] · [[dark-triad-overview]] · [[everyday-manipulators]] · [[gaslighting]] · [[darvo]] · [[love-bombing]] · [[hoovering]] · [[trauma-bonding]] · [[coercive-control]] · [[gray-rock]] · [[no-contact-exit-planning]] · [[epistemic-guardrails]] · [[healthy-self-esteem]]
+[[psychopathic-patterns]] · [[machiavellianism]] · [[dark-triad-overview]] · [[everyday-manipulators]] · [[gaslighting]] · [[darvo]] · [[love-bombing]] · [[hoovering]] · [[trauma-bonding]] · [[coercive-control]] · [[gray-rock]] · [[no-contact-exit-planning]] · [[epistemic-guardrails]] · *healthy self esteem*

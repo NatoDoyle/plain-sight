@@ -89,8 +89,8 @@ When you can no longer trust your own memory of the relationship's history — w
 
 ### Not history-rewriting when…
 
-- **Genuine memory divergence** ([[memory-divergence]]): this is the default and it is everywhere — two sincere people misremember the same event differently, in *both* directions, constantly, with no manipulation anywhere ([[memory-fallibility]]'s foundational warning, inherited from [[epistemic-guardrails]]). A single disputed memory is rung-1 evidence of nothing.
-- **Honest reinterpretation** ([[honest-reinterpretation]]): "I understand that night differently now" or "I've realized I was wrong about what happened" is growth, not rewriting — it *owns* itself as a changed perspective rather than asserting the new view is what everyone always agreed.
+- **Genuine memory divergence** (*memory divergence*): this is the default and it is everywhere — two sincere people misremember the same event differently, in *both* directions, constantly, with no manipulation anywhere ([[memory-fallibility]]'s foundational warning, inherited from [[epistemic-guardrails]]). A single disputed memory is rung-1 evidence of nothing.
+- **Honest reinterpretation** (*honest reinterpretation*): "I understand that night differently now" or "I've realized I was wrong about what happened" is growth, not rewriting — it *owns* itself as a changed perspective rather than asserting the new view is what everyone always agreed.
 - **Motivated misremembering is often sincere** [4]: people self-servingly misremember their own conduct as fairer than it was — *believing it* — particularly when they fell short of their own standards. This is the hardest case: the "rewriter" may not be lying. The tactic-grade requires *directionality + the checkable being denied + resistance to the record + a pattern*, not a single self-flattering recollection.
 - **You misremember too**: the lever lives in *your* head as well, so the same humility that protects against being rewritten protects against falsely accusing someone of it ([[epistemic-guardrails]]; documentation, not certainty about whose memory is "right," is the move).
 
@@ -111,4 +111,4 @@ Graded `supported`: the underlying memory malleability is `established` science 
 
 ## See also
 
-[[gaslighting]] · [[memory-fallibility]] · [[moving-goalposts]] · [[darvo]] · [[projection-blame-shifting]] · [[documentation-practices]] · [[propaganda-politics]] · [[memory-divergence]] · [[epistemic-guardrails]]
+[[gaslighting]] · [[memory-fallibility]] · [[moving-goalposts]] · [[darvo]] · [[projection-blame-shifting]] · [[documentation-practices]] · [[propaganda-politics]] · *memory divergence* · [[epistemic-guardrails]]

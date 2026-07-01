@@ -46,7 +46,7 @@ Reciprocity is the backbone of cooperation — favors, hospitality, and mutual a
 - Felt obligation disproportionate to what you received; difficulty saying no *because* you accepted something.
 - Public gifting (witnesses raise the social cost of non-repayment).
 - Ledger language: "after everything I've done", itemized favors, generosity that gets *invoked*.
-- Insistence that overrides your refusal ("I insist") *followed by an ask or ledger speech*. Insistence alone is ordinary etiquette in many hospitality cultures ([[cultural-difference]]) — it's the insist-then-invoice conjunction that marks a planted debt.
+- Insistence that overrides your refusal ("I insist") *followed by an ask or ledger speech*. Insistence alone is ordinary etiquette in many hospitality cultures (*cultural difference*) — it's the insist-then-invoice conjunction that marks a planted debt.
 
 ## Resistance
 
@@ -58,8 +58,8 @@ Reciprocity is the backbone of cooperation — favors, hospitality, and mutual a
 
 ## Caveats
 
-- **Most generosity is genuine.** The base rate of kindness vastly exceeds the base rate of gift-as-tactic; applying ledger-suspicion to friends and family corrodes exactly the relationships reciprocity exists to sustain ([[genuine-generosity]]: no calibration, no invoice, survives non-repayment).
-- **Cultural gift norms vary enormously** ([[cultural-difference]]): refusal can insult; obligation cycles (e.g., gift seasons, hospitality codes) are community fabric, not traps. Judge by local norms both parties share.
+- **Most generosity is genuine.** The base rate of kindness vastly exceeds the base rate of gift-as-tactic; applying ledger-suspicion to friends and family corrodes exactly the relationships reciprocity exists to sustain (*genuine generosity*: no calibration, no invoice, survives non-repayment).
+- **Cultural gift norms vary enormously** (*cultural difference*): refusal can insult; obligation cycles (e.g., gift seasons, hospitality codes) are community fabric, not traps. Judge by local norms both parties share.
 - **Indebtedness is healthy in relationships** — mutual, roughly balanced, uninvoiced. The defense posture is for *asymmetric, invoiced, ask-adjacent* giving.
 - Single instances prove little ([[epistemic-guardrails]]); the diagnostic is the gift→ask *pattern* across occasions.
 - **Boundary with [[guilt-leverage]]:** reciprocity runs on the clean discomfort of *owing*; guilt-leverage weaponizes feelings of *moral failure*. "After all I've done for you" starts as a reciprocity invoice and becomes guilt-leverage the moment non-repayment is framed as you being a bad person. Declared edges live here; the deeper mechanics live in that file.

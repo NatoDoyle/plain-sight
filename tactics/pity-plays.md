@@ -87,11 +87,11 @@ The opening, extraction-oriented sympathy bid; pairs with [[mirroring-false-iden
 
 ### Read this section as the core of the file
 
-- **Most hardship is real and most requests for help are sincere** ([[genuine-victimhood]]): people suffer genuinely, ask for help legitimately, and *deserve* compassion. This file describes a functional extraction pattern — it is **never** a license to interrogate someone's suffering or treat need as suspect. Defaulting to suspicion of people in distress is cruelty, and it's wrong far more often than it's right.
+- **Most hardship is real and most requests for help are sincere** (*genuine victimhood*): people suffer genuinely, ask for help legitimately, and *deserve* compassion. This file describes a functional extraction pattern — it is **never** a license to interrogate someone's suffering or treat need as suspect. Defaulting to suspicion of people in distress is cruelty, and it's wrong far more often than it's right.
 - **The tell is the pattern, not the pain** [1]: the diagnostic is *hurts others while campaigning for sympathy* + fabrication/shifting stories + sympathy-converted-to-recurring-extraction + verification refused — **not** the hardship itself, and never a single disclosure. A friend telling you about a real crisis and asking for help is not running a pity play.
 - **Asymmetric-harm rule**: wrongly dismissing a genuine victim or a real plea for help is a serious harm; require *converging* signs (fabrication + extraction + pattern over time) before suspecting a play, and even then, the safe move for a possible real crisis is to *route to help*, not to coldly refuse ([[epistemic-guardrails]]'s severity logic; cf. [[self-harm-threats]] where this is life-or-death).
 - **Sympathy is often the *correct* response** [2]: the ad misericordiam fallacy is *misplaced* pity — pity is frequently relevant and right. Vulnerability is real; the wounded bird is usually a wounded bird.
-- **Honest hurt is not a pity play** ([[honest-hurt]]): expressing pain, sadness, or need without a contingent extraction is just human communication.
+- **Honest hurt is not a pity play** (*honest hurt*): expressing pain, sadness, or need without a contingent extraction is just human communication.
 - **The label is itself weaponizable**: "you're just playing for sympathy" / "that's a pity play" is a standard move for dismissing a genuine victim or a real plea for help ([[therapy-speak-weaponization]], [[darvo]]'s attack on a real victim's credibility) — the accusation carries the same burden of pattern-evidence it claims, and in this domain the cost of getting it wrong falls on someone already suffering.
 
 ### Base rates & severity calibration
@@ -111,4 +111,4 @@ Graded `clinical`: Stout's pity-play framing is a clinical-popular claim, not va
 
 ## See also
 
-[[victim-posturing]] · [[mirroring-false-identity]] · [[guilt-tripping]] · [[emotional-blackmail]] · [[con-anatomy]] · [[romance-scam-arc]] · [[grooming-sequence]] · [[genuine-victimhood]] · [[detection-heuristics]] · [[epistemic-guardrails]]
+[[victim-posturing]] · [[mirroring-false-identity]] · [[guilt-tripping]] · [[emotional-blackmail]] · [[con-anatomy]] · [[romance-scam-arc]] · [[grooming-sequence]] · *genuine victimhood* · [[detection-heuristics]] · [[epistemic-guardrails]]

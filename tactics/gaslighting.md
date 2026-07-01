@@ -103,9 +103,9 @@ Sustained gaslighting inside an intimate relationship is a recognized component 
 
 ### Not gaslighting when…
 
-- **Two sincere memories differ** — the universal default ([[memory-divergence]]): both parties misremember honestly, in both directions, constantly. A disputed memory, even a heated one, is rung-1 evidence of nothing.
-- **Someone disagrees with your interpretation** — "I don't think they meant it that way" or "I experienced that conversation differently" is [[honest-disagreement]], even when it stings.
-- **Genuine forgetting** — ADHD, stress, alcohol, and ordinary fallibility produce denied promises without design ([[neurodivergent-communication]], [[incompetence-not-malice]]); the discriminators are directionality and pattern.
+- **Two sincere memories differ** — the universal default (*memory divergence*): both parties misremember honestly, in both directions, constantly. A disputed memory, even a heated one, is rung-1 evidence of nothing.
+- **Someone disagrees with your interpretation** — "I don't think they meant it that way" or "I experienced that conversation differently" is *honest disagreement*, even when it stings.
+- **Genuine forgetting** — ADHD, stress, alcohol, and ordinary fallibility produce denied promises without design (*neurodivergent communication*, *incompetence not malice*); the discriminators are directionality and pattern.
 - **Reassurance that misses**: "I'm sure they didn't mean anything by it" is (sometimes clumsy) comfort, not reality-denial.
 
 ### Base rates & severity calibration

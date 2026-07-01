@@ -20,7 +20,7 @@ last-updated: 2026-06-27
 
 ## Definition
 
-Four-square and payment packing are **auto-sales techniques that move your attention off the one number that matters — the total, out-the-door price — and onto the monthly payment, so cost can be hidden in the loan term and in padded add-ons**. The **four-square** is a worksheet divided into four boxes — **trade-in allowance, purchase price, down payment (cash down), and monthly payment** — negotiated simultaneously and rewritten so many times that the buyer can't track the whole; the salesperson concedes on one box (a generous trade-in figure, a lower payment) while recovering it in another, most often by **stretching the loan term** (e.g., 36 → 72 months), which lowers the payment while *raising* total interest and price [1]. **Payment packing** (a.k.a. "payment stuffing") is the finance-office sequel: quote an inflated monthly payment, get agreement, then slot in F&I products — extended warranty/service contract, GAP insurance, credit life/disability insurance, paint/fabric protection, theft etching — so they appear to cost nothing because the payment "doesn't change" [2]. The diagnostic — the file's center — is **deception and undisclosed/non-consensual charges**, not negotiation or dealer profit, both of which are legal and normal ([[hard-bargaining]]).
+Four-square and payment packing are **auto-sales techniques that move your attention off the one number that matters — the total, out-the-door price — and onto the monthly payment, so cost can be hidden in the loan term and in padded add-ons**. The **four-square** is a worksheet divided into four boxes — **trade-in allowance, purchase price, down payment (cash down), and monthly payment** — negotiated simultaneously and rewritten so many times that the buyer can't track the whole; the salesperson concedes on one box (a generous trade-in figure, a lower payment) while recovering it in another, most often by **stretching the loan term** (e.g., 36 → 72 months), which lowers the payment while *raising* total interest and price [1]. **Payment packing** (a.k.a. "payment stuffing") is the finance-office sequel: quote an inflated monthly payment, get agreement, then slot in F&I products — extended warranty/service contract, GAP insurance, credit life/disability insurance, paint/fabric protection, theft etching — so they appear to cost nothing because the payment "doesn't change" [2]. The diagnostic — the file's center — is **deception and undisclosed/non-consensual charges**, not negotiation or dealer profit, both of which are legal and normal (*hard bargaining*).
 
 ## Variants & aliases
 
@@ -94,7 +94,7 @@ If they won't give a written out-the-door price, keep changing agreed numbers, o
 
 ### Not this tactic when…
 
-- **Financing a car and dealer profit are normal and legal.** A dealer making money on price, financing, and optional products is not fraud ([[hard-bargaining]]).
+- **Financing a car and dealer profit are normal and legal.** A dealer making money on price, financing, and optional products is not fraud (*hard bargaining*).
 - **A four-square is not, by itself, deception** — it's a negotiation worksheet; hard, even aggressive, bargaining over disclosed numbers is lawful. The violation is **obscuring the total cost** or **packing products without disclosure or consent**, not the grid.
 - **Some add-ons genuinely help some buyers.** Per the **CFPB**, GAP insurance can be worth it for a buyer who'll be *underwater* (little down, long term, fast-depreciating car) — it's optional and cancelable, valuable for some and pointless for others. Offering optional products *with itemized prices and informed consent* is legitimate.
 
@@ -116,4 +116,4 @@ Graded `supported`: the techniques are richly documented in consumer journalism 
 
 ## See also
 
-[[lowballing]] · [[manufactured-urgency]] · [[dark-patterns-obstruction]] · [[timeshare-playbook]] · [[cognitive-overload-confusion]] · [[information-asymmetry]] · [[commitment-consistency]] · [[verification-rituals]] · [[detection-heuristics]] · [[sales]] · [[hard-bargaining]]
+[[lowballing]] · [[manufactured-urgency]] · [[dark-patterns-obstruction]] · [[timeshare-playbook]] · [[cognitive-overload-confusion]] · [[information-asymmetry]] · [[commitment-consistency]] · [[verification-rituals]] · [[detection-heuristics]] · [[sales]] · *hard bargaining*

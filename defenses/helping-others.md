@@ -34,7 +34,7 @@ Whenever someone in your life shows signs of being manipulated or abused and you
 
 - **Don't confront, threaten, or tip off the abuser** (Safety notes) — it endangers the target.
 - **Don't issue ultimatums** ("me or them") — they usually fail and can sever the very lifeline the person needs.
-- **Don't take over.** Deciding *for* them is [[rescuing]], not helping (see below).
+- **Don't take over.** Deciding *for* them is *rescuing*, not helping (see below).
 
 ## Failure modes & risks
 
@@ -50,7 +50,7 @@ Graded `supported`. **Psychological reactance** (Brehm, 1966) is an established,
 
 - **You can't force someone to leave or "see it"** — pushing triggers reactance; respect their autonomy and timeline.
 - **They usually know their abuser's danger better than you** — follow their lead on safety and timing; leaving is the highest-risk window.
-- **Helping ≠ rescuing** ([[rescuing]]): the goal is *their* restored agency, not your win or your takeover.
+- **Helping ≠ rescuing** (*rescuing*): the goal is *their* restored agency, not your win or your takeover.
 - **Some situations need professionals** (DV advocates, therapists, exit-counselors), not friends alone ([[epistemic-guardrails]]).
 
 ## Safety notes
@@ -71,4 +71,4 @@ Graded `supported`. **Psychological reactance** (Brehm, 1966) is an established,
 
 ## See also
 
-[[dv-safety-planning]] · [[no-contact-exit-planning]] · [[cult-exit-support]] · [[documentation-practices]] · [[coercive-control]] · [[cult-conversion-funnel]] · [[romance-scam-arc]] · [[betrayal-blindness]] · [[detection-heuristics]] · [[epistemic-guardrails]] · [[rescuing]]
+[[dv-safety-planning]] · [[no-contact-exit-planning]] · [[cult-exit-support]] · [[documentation-practices]] · [[coercive-control]] · [[cult-conversion-funnel]] · [[romance-scam-arc]] · [[betrayal-blindness]] · [[detection-heuristics]] · [[epistemic-guardrails]] · *rescuing*

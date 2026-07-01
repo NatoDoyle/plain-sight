@@ -19,7 +19,7 @@ last-updated: 2026-06-24
 
 ## Definition
 
-PIP weaponization is **the use of a Performance Improvement Plan (or similar formal performance process) as a pretext to remove an employee, rather than as a good-faith effort to help them improve** — "managing out," "papering the file," "quiet firing." A legitimate PIP states the performance gap, sets achievable goals with a timeline, and provides genuine support; a *weaponized* one is **designed to fail** (impossible or vague metrics, moving targets, no real coaching, a compressed timeline) and exists to document a "legitimate, non-discriminatory reason" for a termination that's already decided [1][2]. The diagnostic line — the file's center — is **a process engineered for a predetermined exit** versus a real chance to keep the job ([[legitimate-performance-management]]). (Note: this is HR/employment-law practitioner knowledge and the *prevalence* of weaponized vs. genuine PIPs isn't reliably measured — see Evidence.)
+PIP weaponization is **the use of a Performance Improvement Plan (or similar formal performance process) as a pretext to remove an employee, rather than as a good-faith effort to help them improve** — "managing out," "papering the file," "quiet firing." A legitimate PIP states the performance gap, sets achievable goals with a timeline, and provides genuine support; a *weaponized* one is **designed to fail** (impossible or vague metrics, moving targets, no real coaching, a compressed timeline) and exists to document a "legitimate, non-discriminatory reason" for a termination that's already decided [1][2]. The diagnostic line — the file's center — is **a process engineered for a predetermined exit** versus a real chance to keep the job (*legitimate performance management*). (Note: this is HR/employment-law practitioner knowledge and the *prevalence* of weaponized vs. genuine PIPs isn't reliably measured — see Evidence.)
 
 ## Variants & aliases
 
@@ -81,7 +81,7 @@ The impossible/shifting targets are [[moving-goalposts]] (declared there: succes
 
 ### Not weaponization when…
 
-- **It's a legitimate PIP** ([[legitimate-performance-management]]): genuine performance gaps, achievable goals, real coaching/support, and good-faith intent to retain are normal management. Many PIPs are sincere chances to keep your job, and plenty of people pass them. The tactic is a PIP *designed to fail* with a predetermined outcome — not the existence of a PIP.
+- **It's a legitimate PIP** (*legitimate performance management*): genuine performance gaps, achievable goals, real coaching/support, and good-faith intent to retain are normal management. Many PIPs are sincere chances to keep your job, and plenty of people pass them. The tactic is a PIP *designed to fail* with a predetermined outcome — not the existence of a PIP.
 - **Being on a PIP is not proof of persecution** ([[epistemic-guardrails]]): performance problems are real, feedback can sting, and a hard-but-fair plan following documented issues is not weaponization. Don't reflexively read a performance process as a conspiracy.
 - **The honest signal is the *cluster***: impossible/shifting goals **+** absent support **+** suspicious timing **+** a curated, achievement-ignoring record — not any single feature. A demanding goal alone, or a PIP after genuine underperformance, isn't the tactic.
 
@@ -100,4 +100,4 @@ Graded `supported`, with the caveat that this is **HR/employment-law practitione
 
 ## See also
 
-[[moving-goalposts]] · [[credit-theft-visibility]] · [[mobbing]] · [[history-rewriting]] · [[fear-exploitation]] · [[documentation-practices]] · [[detection-heuristics]] · [[workplace-bosses]] · [[epistemic-guardrails]] · [[legitimate-performance-management]]
+[[moving-goalposts]] · [[credit-theft-visibility]] · [[mobbing]] · [[history-rewriting]] · [[fear-exploitation]] · [[documentation-practices]] · [[detection-heuristics]] · [[workplace-bosses]] · [[epistemic-guardrails]] · *legitimate performance management*

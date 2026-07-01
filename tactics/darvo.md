@@ -94,9 +94,9 @@ When every attempt at accountability produces a trial of *you*, the relationship
 ### Not DARVO when…
 
 - **The accusation is actually false** — denial of something you didn't do isn't a tactic, it's the truth; and a wrongly accused person may well feel (and be) victimized. DARVO's diagnosticity lives in the *attack* beat and the pattern across incidents, not in denial alone ([[epistemic-guardrails]]).
-- **Counter-evidence is offered calmly** — "I have the receipts, this didn't happen as you remember" is [[honest-disagreement]], even when it stings.
-- **Genuine mutual grievances exist** — real relationships have two-sided ledgers; raising your own hurt in response to confrontation is clumsy, human, and common ([[honest-hurt]]) — the tactic-grade requires the *systematic role-reversal*, accusation after accusation.
-- **Self-protection from an actual aggressor** ([[self-protection]]): victims who name their abuser get accused of "DARVO" by abusers who learned the word — the term cuts whoever wields it without evidence ([[therapy-speak-weaponization]]).
+- **Counter-evidence is offered calmly** — "I have the receipts, this didn't happen as you remember" is *honest disagreement*, even when it stings.
+- **Genuine mutual grievances exist** — real relationships have two-sided ledgers; raising your own hurt in response to confrontation is clumsy, human, and common (*honest hurt*) — the tactic-grade requires the *systematic role-reversal*, accusation after accusation.
+- **Self-protection from an actual aggressor** (*self protection*): victims who name their abuser get accused of "DARVO" by abusers who learned the word — the term cuts whoever wields it without evidence ([[therapy-speak-weaponization]]).
 
 ### Base rates & severity calibration
 

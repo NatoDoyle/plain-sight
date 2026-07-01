@@ -20,7 +20,7 @@ last-updated: 2026-06-27
 
 ## Definition
 
-MLM recruitment scripts are **the standardized persuasion patterns used to enroll new participants into a multi-level-marketing "downline" — leveraging the recruit's personal relationships, an income/freedom dream, and manufactured urgency, while obscuring that most participants lose money**. This is the *recruitment pitch* — the entry tactic — distinct from the full business-model arc ([[mlm-lifecycle]], which covers retention, sunk cost, and exit). Its defining feature is **warm-market mining**: the recruiter is told to "make a list of 100" people they know and approach friends, family, and social-media contacts first, so the pitch arrives wrapped in **existing trust** [1]. The diagnostic — the file's center — is **where the income structurally comes from (recruitment vs. real retail sales to outside customers) and whether the income claims are honest** ([1][4]), not the existence of network selling or a friend's enthusiasm ([[legitimate-small-business]]).
+MLM recruitment scripts are **the standardized persuasion patterns used to enroll new participants into a multi-level-marketing "downline" — leveraging the recruit's personal relationships, an income/freedom dream, and manufactured urgency, while obscuring that most participants lose money**. This is the *recruitment pitch* — the entry tactic — distinct from the full business-model arc ([[mlm-lifecycle]], which covers retention, sunk cost, and exit). Its defining feature is **warm-market mining**: the recruiter is told to "make a list of 100" people they know and approach friends, family, and social-media contacts first, so the pitch arrives wrapped in **existing trust** [1]. The diagnostic — the file's center — is **where the income structurally comes from (recruitment vs. real retail sales to outside customers) and whether the income claims are honest** ([1][4]), not the existence of network selling or a friend's enthusiasm (*legitimate small business*).
 
 ## Variants & aliases
 
@@ -88,7 +88,7 @@ If the friendship is being made conditional on joining, or pressure escalates to
 
 ### Not this tactic when…
 
-- **Legitimate direct sales and self-employment are real.** Single-level direct sales, franchising, and genuine reselling exist; not every network-based sale is a scam ([[legitimate-small-business]]). The diagnostic is **where the money structurally comes from** — retail sales to outside customers (legitimate) vs. recruitment and participants' own inventory purchases (the pyramid pattern) — not the presence of a network or enthusiasm.
+- **Legitimate direct sales and self-employment are real.** Single-level direct sales, franchising, and genuine reselling exist; not every network-based sale is a scam (*legitimate small business*). The diagnostic is **where the money structurally comes from** — retail sales to outside customers (legitimate) vs. recruitment and participants' own inventory purchases (the pyramid pattern) — not the presence of a network or enthusiasm.
 - **A friend excited about a product is not a pyramid.** Ambition, side income, and selling to people you know are not, by themselves, manipulation ([[epistemic-guardrails]]). Concept-creep warning: don't label every enthusiastic seller a scammer.
 - **The individual recruiter is usually not a villain.** Most participants are **themselves victims** who sincerely believe the pitch and were recruited the same way, by a trusted friend. Recognition targets the **structure and script**, not the person (CLAUDE.md: label behaviors, not people).
 
@@ -116,4 +116,4 @@ Graded `supported`, with the income reality being the load-bearing, well-evidenc
 
 ## See also
 
-[[mlm-lifecycle]] · [[timeshare-playbook]] · [[love-bombing]] · [[future-faking]] · [[manufactured-urgency]] · [[hope-greed]] · [[liking-similarity]] · [[social-proof]] · [[scarcity-urgency]] · [[detection-heuristics]] · [[verification-rituals]] · [[sales]] · [[digital-platforms]] · [[legitimate-small-business]] · [[cults-high-control]]
+[[mlm-lifecycle]] · [[timeshare-playbook]] · [[love-bombing]] · [[future-faking]] · [[manufactured-urgency]] · [[hope-greed]] · [[liking-similarity]] · [[social-proof]] · [[scarcity-urgency]] · [[detection-heuristics]] · [[verification-rituals]] · [[sales]] · [[digital-platforms]] · *legitimate small business* · [[cults-high-control]]

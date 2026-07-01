@@ -19,7 +19,7 @@ last-updated: 2026-06-20
 
 ## Definition
 
-Manufactured urgency is **the artificial imposition of time pressure — fake deadlines, now-or-never framing, countdown timers, "last chance" warnings — to force a decision before the target can deliberate, compare, verify, or consult others**. It is the operational, *time*-axis sibling of [[scarcity-urgency]] (the mechanism): where scarcity inflates value by limiting supply, manufactured urgency limits *time*, and the two are routinely fused ("only 2 left, offer ends tonight"). The harm rests on a robust empirical finding: **time pressure systematically degrades decision quality** — under a deadline, people shift to faster, simpler, more error-prone heuristics, process less information, and disproportionately filter *out* negative information about the option in front of them [1][2]. The deadline does not just rush the choice; it changes *how* the choice is made, in the manipulator's favor. The diagnostic is **whether the deadline is real**: a genuine, inelastic, honestly-disclosed constraint is information ([[genuine-deadline]]); a deadline that's invented, arbitrary, resetting, or endlessly renewed is a lever.
+Manufactured urgency is **the artificial imposition of time pressure — fake deadlines, now-or-never framing, countdown timers, "last chance" warnings — to force a decision before the target can deliberate, compare, verify, or consult others**. It is the operational, *time*-axis sibling of [[scarcity-urgency]] (the mechanism): where scarcity inflates value by limiting supply, manufactured urgency limits *time*, and the two are routinely fused ("only 2 left, offer ends tonight"). The harm rests on a robust empirical finding: **time pressure systematically degrades decision quality** — under a deadline, people shift to faster, simpler, more error-prone heuristics, process less information, and disproportionately filter *out* negative information about the option in front of them [1][2]. The deadline does not just rush the choice; it changes *how* the choice is made, in the manipulator's favor. The diagnostic is **whether the deadline is real**: a genuine, inelastic, honestly-disclosed constraint is information (*genuine deadline*); a deadline that's invented, arbitrary, resetting, or endlessly renewed is a lever.
 
 ## Variants & aliases
 
@@ -84,8 +84,8 @@ The closer: manufactured urgency typically arrives *last*, after rapport ([[char
 
 ### Not manufactured urgency when…
 
-- **The deadline is real** ([[genuine-deadline]]): genuine, inelastic constraints exist everywhere — statute-of-limitations dates, auction closes, flight prices, truly finite stock, application deadlines, perishable goods. When the constraint is real and honestly disclosed, urgency is *information*, not manipulation, and acting on it is rational. The line is fabrication/arbitrariness, not the presence of a deadline.
-- **Hard bargaining within norms** ([[hard-bargaining]]): a seller saying "this is my price today, take it or leave it" in an openly adversarial negotiation is disclosed positioning, not covert pressure — you know it's a negotiation and can walk.
+- **The deadline is real** (*genuine deadline*): genuine, inelastic constraints exist everywhere — statute-of-limitations dates, auction closes, flight prices, truly finite stock, application deadlines, perishable goods. When the constraint is real and honestly disclosed, urgency is *information*, not manipulation, and acting on it is rational. The line is fabrication/arbitrariness, not the presence of a deadline.
+- **Hard bargaining within norms** (*hard bargaining*): a seller saying "this is my price today, take it or leave it" in an openly adversarial negotiation is disclosed positioning, not covert pressure — you know it's a negotiation and can walk.
 - **Genuine logistical constraints**: "I need to know by Friday to book the caterer" — real coordination has real timing. Not every deadline someone gives you is a trap.
 - **Your own urgency**: sometimes *you* are the one in a hurry (procrastination, genuine need) — that's not the other party manufacturing pressure. Don't read your own rush as their tactic.
 
@@ -106,4 +106,4 @@ Graded `supported`: the core claim — that time pressure degrades decision qual
 
 ## See also
 
-[[scarcity-urgency]] · [[cognitive-overload-confusion]] · [[dark-patterns-social-urgency]] · [[charm-offensive]] · [[future-faking]] · [[romance-scam-arc]] · [[phishing-pretexting]] · [[con-anatomy]] · [[verification-rituals]] · [[genuine-deadline]]
+[[scarcity-urgency]] · [[cognitive-overload-confusion]] · [[dark-patterns-social-urgency]] · [[charm-offensive]] · [[future-faking]] · [[romance-scam-arc]] · [[phishing-pretexting]] · [[con-anatomy]] · [[verification-rituals]] · *genuine deadline*

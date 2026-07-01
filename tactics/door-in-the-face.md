@@ -19,7 +19,7 @@ last-updated: 2026-06-24
 
 ## Definition
 
-Door-in-the-face (DITF) is **a sequential-request technique in which an inflated first request is made and expected to be refused, so that a smaller second request — the actual target — gains compliance** (Cialdini et al., 1975) [1]. Two mechanisms drive it: **reciprocal concessions** (the asker's visible "retreat" from the big request to the small one triggers the reciprocity norm — they gave ground, so you should too — [[reciprocity]]) and **perceptual contrast** (the second ask looks modest against the first). Like its mirror-image sibling [[foot-in-the-door]], it sits on the **persuasion–manipulation boundary**: charities and honest negotiators use it openly. The diagnostic is whether the first ask is a **sincere opening you'd actually accept** (legitimate negotiation — [[hard-bargaining]]) or one **inflated solely to manufacture a reciprocity obligation** for the real target.
+Door-in-the-face (DITF) is **a sequential-request technique in which an inflated first request is made and expected to be refused, so that a smaller second request — the actual target — gains compliance** (Cialdini et al., 1975) [1]. Two mechanisms drive it: **reciprocal concessions** (the asker's visible "retreat" from the big request to the small one triggers the reciprocity norm — they gave ground, so you should too — [[reciprocity]]) and **perceptual contrast** (the second ask looks modest against the first). Like its mirror-image sibling [[foot-in-the-door]], it sits on the **persuasion–manipulation boundary**: charities and honest negotiators use it openly. The diagnostic is whether the first ask is a **sincere opening you'd actually accept** (legitimate negotiation — *hard bargaining*) or one **inflated solely to manufacture a reciprocity obligation** for the real target.
 
 ## Variants & aliases
 
@@ -68,7 +68,7 @@ The large-ask-first mirror of [[foot-in-the-door]] (small-ask-first) — the two
 
 ## Caveats & false positives
 
-- **Legitimate negotiation uses anchoring and concession** ([[hard-bargaining]]): a sincere high opening you'd genuinely accept, followed by real give-and-take, is honest bargaining — not DITF. The line is whether the first ask was *meant to be granted* or inflated purely to manufacture the obligation.
+- **Legitimate negotiation uses anchoring and concession** (*hard bargaining*): a sincere high opening you'd genuinely accept, followed by real give-and-take, is honest bargaining — not DITF. The line is whether the first ask was *meant to be granted* or inflated purely to manufacture the obligation.
 - **Genuine compromise is normal and good**: people really do scale back requests in good faith; reciprocating a sincere concession is healthy cooperation, not manipulation.
 - **It's mild** ([[epistemic-guardrails]]): a small, well-replicated but low-magnitude effect; severity is `low` (the harm is one over-large compliance). Don't read every negotiation that opens high as a manipulation.
 
@@ -82,4 +82,4 @@ Graded **`established`**: Cialdini et al. (1975) demonstrated it [1]; it has met
 
 ## See also
 
-[[foot-in-the-door]] · [[lowballing]] · [[thats-not-all-decoys]] · [[reciprocity]] · [[framing-anchoring]] · [[manufactured-urgency]] · [[negotiation]] · [[sales]] · [[manipulation-vs-influence]] · [[hard-bargaining]]
+[[foot-in-the-door]] · [[lowballing]] · [[thats-not-all-decoys]] · [[reciprocity]] · [[framing-anchoring]] · [[manufactured-urgency]] · [[negotiation]] · [[sales]] · [[manipulation-vs-influence]] · *hard bargaining*

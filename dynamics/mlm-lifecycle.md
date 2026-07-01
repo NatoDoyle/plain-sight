@@ -55,8 +55,8 @@ The cheapest exit is **before buy-in** — running the numbers on the company's 
 
 ## Caveats & false positives
 
-- **Not the same as legitimate self-employment or direct sales** ([[legitimate-small-business]]): real small businesses and genuine sales jobs exist, and some direct-sales work pays — the honest contrast is whether income comes mainly from *retail sales to real outside customers* (legitimate) versus from *recruitment and distributors' own purchases* (the MLM/pyramid risk). Don't tar every direct-sales or self-employment opportunity as a scam; check where the money actually comes from.
-- **MLM vs. illegal pyramid scheme is a real but blurry line** ([[illegal-pyramid-scheme]]): the legal test (Koscot; *Webster v. Omnitrition*, 9th Cir. 1996) turns on whether rewards flow primarily from recruitment versus genuine sales to ultimate users. Many MLMs operate in a contested zone where "internal consumption" can mask recruitment-driven revenue, and MLMs were deliberately excluded from the FTC's 2011 Business Opportunity Rule — so "it's a legal MLM, not a pyramid" is not the reassurance it sounds like [2][5].
+- **Not the same as legitimate self-employment or direct sales** (*legitimate small business*): real small businesses and genuine sales jobs exist, and some direct-sales work pays — the honest contrast is whether income comes mainly from *retail sales to real outside customers* (legitimate) versus from *recruitment and distributors' own purchases* (the MLM/pyramid risk). Don't tar every direct-sales or self-employment opportunity as a scam; check where the money actually comes from.
+- **MLM vs. illegal pyramid scheme is a real but blurry line** (*illegal pyramid scheme*): the legal test (Koscot; *Webster v. Omnitrition*, 9th Cir. 1996) turns on whether rewards flow primarily from recruitment versus genuine sales to ultimate users. Many MLMs operate in a contested zone where "internal consumption" can mask recruitment-driven revenue, and MLMs were deliberately excluded from the FTC's 2011 Business Opportunity Rule — so "it's a legal MLM, not a pyramid" is not the reassurance it sounds like [2][5].
 - **The cultic-dynamics framing is a useful lens, not a claim every MLM is a cult.** Documented overlaps with high-control-group dynamics (love-bombing, us-vs-"haters," thought-terminating clichés, information control) are real and well-attested, but vary by company and upline; treat the BITE-style analysis as an analytic lens (often from advocacy sources), not a blanket verdict [3].
 - **Individual success exists but is rare and not evidence the model works for most.** A visible top earner is [[social-proof]], not a representative outcome; the ~99% loss figure is the base rate the testimonials are selected against [1].
 
@@ -74,4 +74,4 @@ Graded **`supported`**: the financial-loss core rests on Taylor's analysis of 35
 
 ## See also
 
-[[con-anatomy]] · [[commitment-consistency]] · [[hope-greed]] · [[social-proof]] · [[unity-ingroup]] · [[future-faking]] · [[thought-terminating-cliches]] · [[proxy-recruitment]] · [[cult-conversion-funnel]] · [[legitimate-small-business]]
+[[con-anatomy]] · [[commitment-consistency]] · [[hope-greed]] · [[social-proof]] · [[unity-ingroup]] · [[future-faking]] · [[thought-terminating-cliches]] · [[proxy-recruitment]] · [[cult-conversion-funnel]] · *legitimate small business*

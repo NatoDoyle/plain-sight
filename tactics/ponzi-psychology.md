@@ -20,7 +20,7 @@ last-updated: 2026-06-29
 
 ## Definition
 
-A Ponzi scheme is, in the **SEC's** words, **"an investment fraud that pays existing investors with funds collected from new investors"** — there is little or no real underlying profit, so it "requires a constant flow of new money to survive" and collapses when recruitment slows or too many investors cash out [1]. Named for **Charles Ponzi** (Boston, January 1920), who promised 50% in 45 days via international postal-reply-coupon arbitrage and paid early investors from later deposits, taking in roughly $1M/day at its peak [2] (though he didn't invent it — Sarah Howe ran the "Ladies' Deposit Company" decades earlier [2]). This entry focuses on the **psychology** — why people buy in and stay. The diagnostic — the file's center — is **returns fabricated from new investors' money, sold on impossible consistency and unverifiable strategy**; it is distinguished from a legitimately good, registered investment with real, variable returns ([[genuine-opportunity]]) and from the recruitment-driven pyramid/MLM structure ([[illegal-pyramid-scheme]]).
+A Ponzi scheme is, in the **SEC's** words, **"an investment fraud that pays existing investors with funds collected from new investors"** — there is little or no real underlying profit, so it "requires a constant flow of new money to survive" and collapses when recruitment slows or too many investors cash out [1]. Named for **Charles Ponzi** (Boston, January 1920), who promised 50% in 45 days via international postal-reply-coupon arbitrage and paid early investors from later deposits, taking in roughly $1M/day at its peak [2] (though he didn't invent it — Sarah Howe ran the "Ladies' Deposit Company" decades earlier [2]). This entry focuses on the **psychology** — why people buy in and stay. The diagnostic — the file's center — is **returns fabricated from new investors' money, sold on impossible consistency and unverifiable strategy**; it is distinguished from a legitimately good, registered investment with real, variable returns (*genuine opportunity*) and from the recruitment-driven pyramid/MLM structure (*illegal pyramid scheme*).
 
 ## Variants & aliases
 
@@ -88,8 +88,8 @@ If you can't withdraw, can't verify registration, or can't get a straight answer
 
 ### Not this tactic when…
 
-- **Legitimate investments have real, variable returns and real risk** ([[genuine-opportunity]]): a high return, a strong year, or an unfamiliar product is not, by itself, a Ponzi. Down months and fluctuation are signs of *realness*, not fraud.
-- **Distinguish the neighbors**: (a) a **registered, audited investment** with a verifiable custodian; (b) a **pyramid/MLM** ([[illegal-pyramid-scheme]], [[mlm-lifecycle]]) — paid to *recruit*, a different structure; (c) ordinary **market volatility**.
+- **Legitimate investments have real, variable returns and real risk** (*genuine opportunity*): a high return, a strong year, or an unfamiliar product is not, by itself, a Ponzi. Down months and fluctuation are signs of *realness*, not fraud.
+- **Distinguish the neighbors**: (a) a **registered, audited investment** with a verifiable custodian; (b) a **pyramid/MLM** (*illegal pyramid scheme*, [[mlm-lifecycle]]) — paid to *recruit*, a different structure; (c) ordinary **market volatility**.
 - **The tells are a conjunction**, not high returns alone: *fake returns paid from new money + impossible consistency + unregistered/unverifiable + can't-explain-the-yield + difficulty withdrawing.*
 
 ### Base rates & severity calibration
@@ -109,4 +109,4 @@ Graded `supported`, resting on regulator definitions and well-documented cases. 
 
 ## See also
 
-[[affinity-fraud]] · [[cold-reading]] · [[mlm-lifecycle]] · [[con-anatomy]] · [[hope-greed]] · [[trust-mechanics]] · [[social-proof]] · [[information-asymmetry]] · [[commitment-consistency]] · [[verification-rituals]] · [[detection-heuristics]] · [[scams-fraud]] · [[genuine-opportunity]] · [[illegal-pyramid-scheme]]
+[[affinity-fraud]] · [[cold-reading]] · [[mlm-lifecycle]] · [[con-anatomy]] · [[hope-greed]] · [[trust-mechanics]] · [[social-proof]] · [[information-asymmetry]] · [[commitment-consistency]] · [[verification-rituals]] · [[detection-heuristics]] · [[scams-fraud]] · *genuine opportunity* · *illegal pyramid scheme*

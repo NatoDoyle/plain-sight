@@ -90,9 +90,9 @@ A relationship or job that runs on standing double-binds is, structurally, one w
 
 ### Not a double-bind when…
 
-- **Genuine dilemmas exist** ([[genuine-dilemma]]): life is full of real hard choices where every option has true costs — career vs family time, honesty vs kindness. The tactic-grade requires the no-win to be *engineered by a person who punishes every option and forbids naming it* — not the world simply being hard.
-- **Benign "illusion of choice"** ([[paternalism]]): "homework before or after dinner?", "this chair or that one?" — the *same logical structure* (both paths lead where the asker wants) used openly and for the chooser's benefit is a recognized *therapeutic* technique (Erickson/Haley) [6], not manipulation. Intent and benefit-flow distinguish them.
-- **Ordinary mixed feelings and unclear asks**: people are genuinely conflicted, communicate badly, and want contradictory things without strategy ([[honest-disagreement]], [[incompetence-not-malice]]). The discriminator is the *response to naming it*: confusion clarifies under "which do you want?"; a bind punishes the question.
+- **Genuine dilemmas exist** (*genuine dilemma*): life is full of real hard choices where every option has true costs — career vs family time, honesty vs kindness. The tactic-grade requires the no-win to be *engineered by a person who punishes every option and forbids naming it* — not the world simply being hard.
+- **Benign "illusion of choice"** (*paternalism*): "homework before or after dinner?", "this chair or that one?" — the *same logical structure* (both paths lead where the asker wants) used openly and for the chooser's benefit is a recognized *therapeutic* technique (Erickson/Haley) [6], not manipulation. Intent and benefit-flow distinguish them.
+- **Ordinary mixed feelings and unclear asks**: people are genuinely conflicted, communicate badly, and want contradictory things without strategy (*honest disagreement*, *incompetence not malice*). The discriminator is the *response to naming it*: confusion clarifies under "which do you want?"; a bind punishes the question.
 - **You feeling trapped ≠ being trapped**: anxiety and perfectionism can make ordinary choices feel no-win; run the symmetric check before attributing design ([[epistemic-guardrails]]).
 
 ### Base rates & severity calibration
@@ -114,4 +114,4 @@ Graded `clinical`. The double-bind as a *communication pattern* is a durable, cl
 
 ## See also
 
-[[moving-goalposts]] · [[gaslighting]] · [[guilt-leverage]] · [[conditional-love]] · [[circular-conversation]] · [[thought-terminating-cliches]] · [[coercive-control]] · [[boundary-scripts]] · [[genuine-dilemma]]
+[[moving-goalposts]] · [[gaslighting]] · [[guilt-leverage]] · [[conditional-love]] · [[circular-conversation]] · [[thought-terminating-cliches]] · [[coercive-control]] · [[boundary-scripts]] · *genuine dilemma*

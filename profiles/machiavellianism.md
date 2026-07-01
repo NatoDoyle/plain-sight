@@ -50,7 +50,7 @@ If you must deal with a high-Mach style (often a workplace or competitive contex
 ## Caveats
 
 - **It's a continuous trait, not a diagnosis** — there is no "Machiavellian personality disorder," and a high Mach-IV score is a position on a normal-range scale, not a clinical condition or a moral verdict ([[epistemic-guardrails]]).
-- **Strategic social behavior is not inherently malign** ([[healthy-strategic-thinking]]): foresight, planning, negotiation, diplomacy, and honest self-interest are normal and adaptive. The construct measures the *cynical, deceptive, exploitative* variant — being strategic is not being Machiavellian.
+- **Strategic social behavior is not inherently malign** (*healthy strategic thinking*): foresight, planning, negotiation, diplomacy, and honest self-interest are normal and adaptive. The construct measures the *cynical, deceptive, exploitative* variant — being strategic is not being Machiavellian.
 - **You cannot diagnose or label a real person** from a scale or from a distance.
 - **The construct's distinctness is contested** (see Evidence): standard measures overlap heavily with psychopathy, so "Machiavellian" may not name a separate thing at all.
 - **The everyday-manipulator alternative** ([[everyday-manipulators]]): ordinary self-interested or political behavior is extremely common and not a dark-triad trait.
@@ -65,4 +65,4 @@ If you must deal with a high-Mach style (often a workplace or competitive contex
 
 ## See also
 
-[[psychopathic-patterns]] · [[narcissistic-patterns]] · [[dark-triad-overview]] · [[everyday-manipulators]] · [[triangulation]] · [[charm-offensive]] · [[smear-campaigns]] · [[future-faking]] · [[flattery-ego]] · [[information-asymmetry]] · [[workplace-bosses]] · [[competitors-business]] · [[epistemic-guardrails]] · [[healthy-strategic-thinking]]
+[[psychopathic-patterns]] · [[narcissistic-patterns]] · [[dark-triad-overview]] · [[everyday-manipulators]] · [[triangulation]] · [[charm-offensive]] · [[smear-campaigns]] · [[future-faking]] · [[flattery-ego]] · [[information-asymmetry]] · [[workplace-bosses]] · [[competitors-business]] · [[epistemic-guardrails]] · *healthy strategic thinking*

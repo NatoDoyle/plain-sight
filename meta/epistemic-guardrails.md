@@ -32,7 +32,7 @@ Related and newer: the **prevalence inflation hypothesis** — awareness campaig
 
 ## Term-inflation case studies
 
-- **Gaslighting.** Merriam-Webster's 2022 Word of the Year (lookups +1740%), defined there loosely as "grossly misleading someone … for one's own advantage" [3]. The scholarly construct is far narrower: Sweet's sociological analysis defines it as psychological abuse "aimed at making victims seem or feel 'crazy,' creating a 'surreal' interpersonal environment," and argues it is "rooted in social inequalities, including gender, and executed in power-laden intimate relationships" [4]. **Disagreement + sincere divergent memory ≠ gaslighting** — the [[gaslighting]] construct requires sustained reality-denial within a power relation. Memory science shows two honest people *will* remember the same event differently: the misinformation effect distorts recall in ordinary minds, no malice required [9] ([[memory-divergence]], [[memory-fallibility]]).
+- **Gaslighting.** Merriam-Webster's 2022 Word of the Year (lookups +1740%), defined there loosely as "grossly misleading someone … for one's own advantage" [3]. The scholarly construct is far narrower: Sweet's sociological analysis defines it as psychological abuse "aimed at making victims seem or feel 'crazy,' creating a 'surreal' interpersonal environment," and argues it is "rooted in social inequalities, including gender, and executed in power-laden intimate relationships" [4]. **Disagreement + sincere divergent memory ≠ gaslighting** — the [[gaslighting]] construct requires sustained reality-denial within a power relation. Memory science shows two honest people *will* remember the same event differently: the misinformation effect distorts recall in ordinary minds, no malice required [9] (*memory divergence*, [[memory-fallibility]]).
 - **Narcissist.** Community prevalence of NPD spans roughly **0–6.2%** across studies; a median estimate is ~**1.6%**, with several studies near 0.5–1% (the 6.2% figure is the NESARC lifetime upper end) [8]. The base rate of *diagnosable* NPD is low; the base rate of *occasional self-centered behavior* is ~100%. Casual diagnosis from listicles inverts that arithmetic ([[narcissistic-patterns]] handles the real construct; see also the Goldwater-rule norm against diagnosing people you haven't examined).
 - **Trauma / toxic / abuse.** Same creep dynamics [1][16]: when everything is trauma, the word stops discriminating — and people facing *intimate terrorism* get lumped with people facing ordinary friction (next section).
 
@@ -78,12 +78,12 @@ Detection errors aren't only about the other person:
 
 Before concluding "tactic", check the alternatives (each is a registered contrast concept in `taxonomy/glossary.md`):
 
-1. **Stress, overload, depression** — withdrawal, irritability, and forgetfulness without a control pattern ([[self-protective-distance]] vs [[silent-treatment]]).
-2. **Incompetence and disorganization** — harm without design ([[incompetence-not-malice]]; Hanlon's razor, bounded by: pattern + concentrated benefit + concealment defeats the razor).
-3. **Honest memory divergence** — the misinformation effect and ordinary forgetting [9] ([[memory-divergence]] vs [[gaslighting]] / [[history-rewriting]]).
-4. **Neurodivergent communication** — ADHD forgetting promises ≠ [[future-faking]]; autistic directness ≠ [[negging]]; flat affect ≠ coldness ([[neurodivergent-communication]]). Caveat in both directions: neurodivergence explains *styles*, not *exploitation patterns*; diagnosis is not a license.
-5. **Cultural difference** — haggling norms, gift obligations, directness gradients, high-context implication ([[cultural-difference]]).
-6. **Legitimate disagreement and advocacy** — someone arguing strongly for their interests, transparently, is negotiating, not manipulating ([[honest-disagreement]], [[hard-bargaining]], [[assertiveness]]).
+1. **Stress, overload, depression** — withdrawal, irritability, and forgetfulness without a control pattern (*self protective distance* vs [[silent-treatment]]).
+2. **Incompetence and disorganization** — harm without design (*incompetence not malice*; Hanlon's razor, bounded by: pattern + concentrated benefit + concealment defeats the razor).
+3. **Honest memory divergence** — the misinformation effect and ordinary forgetting [9] (*memory divergence* vs [[gaslighting]] / [[history-rewriting]]).
+4. **Neurodivergent communication** — ADHD forgetting promises ≠ [[future-faking]]; autistic directness ≠ [[negging]]; flat affect ≠ coldness (*neurodivergent communication*). Caveat in both directions: neurodivergence explains *styles*, not *exploitation patterns*; diagnosis is not a license.
+5. **Cultural difference** — haggling norms, gift obligations, directness gradients, high-context implication (*cultural difference*).
+6. **Legitimate disagreement and advocacy** — someone arguing strongly for their interests, transparently, is negotiating, not manipulating (*honest disagreement*, *hard bargaining*, *assertiveness*).
 7. **Your own state** — sleep, conflict history, priming, hostile attribution [17][18].
 
 ## Discriminators that actually work

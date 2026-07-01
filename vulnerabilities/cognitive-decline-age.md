@@ -49,10 +49,10 @@ Elder financial exploitation is abuse, it is badly under-reported, and suspected
 
 ## Caveats
 
-- **Age is NOT impairment** ([[normal-cognitive-aging]]). The large majority of older adults are cognitively healthy — only about **11% of those 65+** have Alzheimer's dementia (rising sharply with age), and **younger adults actually report fraud more often** (older victims tend to lose *more per incident*). The "gullible elder" stereotype is itself a harm; the vulnerability is *decline-specific*, not age itself ([[epistemic-guardrails]]).
+- **Age is NOT impairment** (*normal cognitive aging*). The large majority of older adults are cognitively healthy — only about **11% of those 65+** have Alzheimer's dementia (rising sharply with age), and **younger adults actually report fraud more often** (older victims tend to lose *more per incident*). The "gullible elder" stereotype is itself a harm; the vulnerability is *decline-specific*, not age itself ([[epistemic-guardrails]]).
 - **Capacity is domain-specific and fluctuating**, not all-or-nothing — someone may manage daily life well yet be vulnerable on a complex financial decision, or vary day to day.
 - **Scam susceptibility is a population-level marker, not a diagnosis**: an older person falling for a scam does *not* prove they're declining (anyone can be scammed — [[why-smart-people-fall]]); the Boyle finding is a statistical signal worth gentle attention, not a verdict.
-- **Dignity of risk — protect without infringing.** Over-protection, premature loss of independence, and **abusive guardianship/conservatorship** are real harms; safeguards should preserve autonomy and be the least-restrictive option (compare the conservatorship-abuse warning in [[elder-targeting]]; legitimate help is [[legitimate-caregiving]]). Competent adults have the right to make their own choices, including ones others dislike.
+- **Dignity of risk — protect without infringing.** Over-protection, premature loss of independence, and **abusive guardianship/conservatorship** are real harms; safeguards should preserve autonomy and be the least-restrictive option (compare the conservatorship-abuse warning in [[elder-targeting]]; legitimate help is *legitimate caregiving*). Competent adults have the right to make their own choices, including ones others dislike.
 
 ## Sources
 
@@ -63,4 +63,4 @@ Elder financial exploitation is abuse, it is badly under-reported, and suspected
 
 ## See also
 
-[[elder-targeting]] · [[loneliness-isolation]] · [[why-smart-people-fall]] · [[romance-scam-arc]] · [[ai-enabled-manipulation]] · [[financial-abuse]] · [[isolation-tactics]] · [[verification-rituals]] · [[detection-heuristics]] · [[epistemic-guardrails]] · [[normal-cognitive-aging]] · [[legitimate-caregiving]]
+[[elder-targeting]] · [[loneliness-isolation]] · [[why-smart-people-fall]] · [[romance-scam-arc]] · [[ai-enabled-manipulation]] · [[financial-abuse]] · [[isolation-tactics]] · [[verification-rituals]] · [[detection-heuristics]] · [[epistemic-guardrails]] · *normal cognitive aging* · *legitimate caregiving*

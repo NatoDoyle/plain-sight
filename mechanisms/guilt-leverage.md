@@ -42,7 +42,7 @@ The recurring exploit: **an unwarranted debt, kept unpayable.**
 
 ## Ethical use vs exploitation
 
-Guilt is moral infrastructure: feeling bad about real harm, and repairing it, is conscience working as designed — and *inducing* proportionate guilt ("that comment hurt me") is legitimate relational feedback ([[honest-hurt]]). The line ([[manipulation-vs-influence]], using Noggle's unwarranted-emotion test): exploitation induces guilt for **debts you don't actually owe** (their feelings, their choices, their sacrifices you never requested), keeps the debt **undischargeable** (no amends ever settles it), and converts it to **benefit** (compliance, money, control).
+Guilt is moral infrastructure: feeling bad about real harm, and repairing it, is conscience working as designed — and *inducing* proportionate guilt ("that comment hurt me") is legitimate relational feedback (*honest hurt*). The line ([[manipulation-vs-influence]], using Noggle's unwarranted-emotion test): exploitation induces guilt for **debts you don't actually owe** (their feelings, their choices, their sacrifices you never requested), keeps the debt **undischargeable** (no amends ever settles it), and converts it to **benefit** (compliance, money, control).
 
 ## Recognition
 
@@ -68,8 +68,8 @@ If a guilt campaign reaches **threats of self-harm** ("I'll hurt myself if you l
 ## Caveats
 
 - **Most guilt is conscience.** The feeling usually means you value the relationship and may actually owe something; the differential is warrant + dischargeability + benefit flow, run honestly and at calibration-ladder strength ([[epistemic-guardrails]]). And note the universal **egocentric contribution bias**: both honest partners over-count their own contributions, so ordinary mutual ledger-grumbling (and the occasional sigh — anxious askers sigh too) is not the asymmetry tell. The tell is *itemized-and-invoiced* on one side, *dismissed-and-invisible* on the other.
-- **Expressing hurt is not guilt-tripping** ([[honest-hurt]]): people you've genuinely hurt get to say so — that's *their* assertiveness, not manipulation. Labeling every complaint "guilt-tripping" is the [[therapy-speak-weaponization]] failure mode, and a favorite move of actual manipulators.
-- **Cultural ledgers differ** ([[cultural-difference]]): filial-piety and obligation cultures carry real, normal intergenerational debts; the diagnostic inside any culture is *disproportion and undischargeability by local norms*, not the existence of obligation.
+- **Expressing hurt is not guilt-tripping** (*honest hurt*): people you've genuinely hurt get to say so — that's *their* assertiveness, not manipulation. Labeling every complaint "guilt-tripping" is the [[therapy-speak-weaponization]] failure mode, and a favorite move of actual manipulators.
+- **Cultural ledgers differ** (*cultural difference*): filial-piety and obligation cultures carry real, normal intergenerational debts; the diagnostic inside any culture is *disproportion and undischargeability by local norms*, not the existence of obligation.
 - **Guilt-prone people over-detect their own guilt** — high guilt-proneness reads ordinary requests as accusations; calibrate for your own baseline before concluding ([[epistemic-guardrails]], [[people-pleasing-fawn]]).
 - **Boundary with [[shame-leverage]]:** guilt targets what you *did* (repairable, hence harvestable through service); shame targets what you *are* (unrepairable, hence harvestable through hiding and submission) [2]. The shame file covers humiliation and exposure threats.
 

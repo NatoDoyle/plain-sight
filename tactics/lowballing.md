@@ -19,7 +19,7 @@ last-updated: 2026-06-24
 
 ## Definition
 
-Lowballing (the low-ball technique) is **securing a commitment to an attractive offer, then removing the favorable terms or adding cost — after which the commitment tends to hold despite the worsened deal** (Cialdini, Cacioppo, Bassett & Miller, 1978) [1]. The mechanism is **commitment-consistency**: once you've decided and feel committed (especially publicly), you stay the course even when the original reason for the decision is removed ([[commitment-consistency]]). It must be distinguished from **bait-and-switch** (a different, more overtly deceptive move — swapping the *product*, not just the terms — and often illegal): lowballing keeps the *same* item and worsens the *terms* after you've committed. The diagnostic line is **securing commitment first, then revealing a cost that was foreseeable and deliberately withheld** — versus a good-faith price change honestly disclosed ([[hard-bargaining]]).
+Lowballing (the low-ball technique) is **securing a commitment to an attractive offer, then removing the favorable terms or adding cost — after which the commitment tends to hold despite the worsened deal** (Cialdini, Cacioppo, Bassett & Miller, 1978) [1]. The mechanism is **commitment-consistency**: once you've decided and feel committed (especially publicly), you stay the course even when the original reason for the decision is removed ([[commitment-consistency]]). It must be distinguished from **bait-and-switch** (a different, more overtly deceptive move — swapping the *product*, not just the terms — and often illegal): lowballing keeps the *same* item and worsens the *terms* after you've committed. The diagnostic line is **securing commitment first, then revealing a cost that was foreseeable and deliberately withheld** — versus a good-faith price change honestly disclosed (*hard bargaining*).
 
 ## Variants & aliases
 
@@ -69,7 +69,7 @@ The commitment-cost cousin of [[foot-in-the-door]] (both run on [[commitment-con
 
 ## Caveats & false positives
 
-- **Good-faith price changes happen** ([[hard-bargaining]]): genuinely new or unforeseeable circumstances, or an honest "I quoted wrong," disclosed openly and giving you a real chance to walk, are not lowballing. The line is *securing commitment first* and revealing a *foreseeable, withheld* cost to exploit consistency.
+- **Good-faith price changes happen** (*hard bargaining*): genuinely new or unforeseeable circumstances, or an honest "I quoted wrong," disclosed openly and giving you a real chance to walk, are not lowballing. The line is *securing commitment first* and revealing a *foreseeable, withheld* cost to exploit consistency.
 - **Not bait-and-switch**: bait-and-switch swaps the product (advertised item "unavailable," steered to a pricier one) and is often illegal; lowballing keeps the same item with worse terms. Don't conflate them.
 - **Negotiation involves moving numbers**: in an openly adversarial negotiation, prices move and that's normal. Lowballing is specifically the *commit-then-worsen* sequence, not ordinary back-and-forth.
 - **It's mild** ([[epistemic-guardrails]]): severity is `low` — the harm is typically a somewhat worse deal, recoverable by walking away. The counter (re-decide, get it in writing, be ready to leave) is reliable.
@@ -84,4 +84,4 @@ Graded **`established`**: Cialdini et al. (1978) demonstrated the low-ball effec
 
 ## See also
 
-[[foot-in-the-door]] · [[door-in-the-face]] · [[thats-not-all-decoys]] · [[four-square-payment-packing]] · [[commitment-consistency]] · [[manufactured-urgency]] · [[verification-rituals]] · [[sales]] · [[manipulation-vs-influence]] · [[hard-bargaining]]
+[[foot-in-the-door]] · [[door-in-the-face]] · [[thats-not-all-decoys]] · [[four-square-payment-packing]] · [[commitment-consistency]] · [[manufactured-urgency]] · [[verification-rituals]] · [[sales]] · [[manipulation-vs-influence]] · *hard bargaining*

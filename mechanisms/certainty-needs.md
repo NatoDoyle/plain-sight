@@ -41,7 +41,7 @@ The recurring exploit: **manufactured certainty sold into engineered or natural 
 
 ## Ethical use vs exploitation
 
-Providing structure, decisions, and justified confidence is what good experts, leaders, and parents do — decisiveness is a virtue and most confident people are simply sure. The line ([[manipulation-vs-influence]]): exploitation shows **certainty exceeding what the domain permits** (unknowables answered absolutely), **punished questioning** (doubt reframed as betrayal, stupidity, or sin), and **certainty timed to your uncertainty spikes** ([[justified-confidence]] is proportional to evidence, shows its track record, and welcomes challenge).
+Providing structure, decisions, and justified confidence is what good experts, leaders, and parents do — decisiveness is a virtue and most confident people are simply sure. The line ([[manipulation-vs-influence]]): exploitation shows **certainty exceeding what the domain permits** (unknowables answered absolutely), **punished questioning** (doubt reframed as betrayal, stupidity, or sin), and **certainty timed to your uncertainty spikes** (*justified confidence* is proportional to evidence, shows its track record, and welcomes challenge).
 
 ## Recognition
 
@@ -63,9 +63,9 @@ Providing structure, decisions, and justified confidence is what good experts, l
 ## Caveats
 
 - **Decisiveness and structure are legitimate goods** — leaders must decide under uncertainty; teachers must simplify; triage requires confident calls. Confident communication alone proves nothing in either direction ([[epistemic-guardrails]]).
-- **Some confident people are simply right** — calibration exists; expertise within its domain often warrants strong claims ([[justified-confidence]], [[legitimate-expertise]]).
+- **Some confident people are simply right** — calibration exists; expertise within its domain often warrants strong claims (*justified confidence*, *legitimate expertise*).
 - **Closure need is a normal trait dimension** [1], not a pathology or an insult — everyone seizes and freezes sometimes; the file describes a lever, not a character flaw.
-- **Religious and cultural certainty frameworks are not inherently manipulative** — the diagnostics are extraction and punished questioning, not the presence of firm belief ([[cultural-difference]]).
+- **Religious and cultural certainty frameworks are not inherently manipulative** — the diagnostics are extraction and punished questioning, not the presence of firm belief (*cultural difference*).
 - **The conspiracy link is conditional** [5]: closure-seeking grabs *available* confident answers, official ones included — don't deploy this file as "anxious people believe nonsense."
 - **Boundary with [[authority]]:** authority is supply-side — pre-installed deference to role signals; this file is demand-side — the closure hunger and confidence heuristic that make confident sources magnetic regardless of role. The Dr. Fox conditions sit at their intersection.
 

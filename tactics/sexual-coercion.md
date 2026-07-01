@@ -21,7 +21,7 @@ last-updated: 2026-06-23
 
 ## Definition
 
-Sexual coercion is **the use of non-physical pressure — guilt, persistence, obligation, manipulation, lies, intoxication, or position/authority — to obtain sexual contact a person does not freely want** [1]. It is distinct from physical force or incapacity (which are sexual assault/rape) but lies on the same continuum of non-consent; the CDC counts it within sexual violence, and Koss's Sexual Experiences Survey classes it by *verbal/non-physical pressure and misuse of authority* [1]. The governing principle is the consent standard: valid consent is **freely given, reversible, informed, enthusiastic, and specific**, and **coercion negates it** — a "yes" extracted by wearing someone down or threatening them is not a free yes [2]. The diagnostic line — and this file's center — is **pressure that overrides a "no" or erodes free choice**, never the ordinary expression of sexual interest ([[sexual-negotiation]]).
+Sexual coercion is **the use of non-physical pressure — guilt, persistence, obligation, manipulation, lies, intoxication, or position/authority — to obtain sexual contact a person does not freely want** [1]. It is distinct from physical force or incapacity (which are sexual assault/rape) but lies on the same continuum of non-consent; the CDC counts it within sexual violence, and Koss's Sexual Experiences Survey classes it by *verbal/non-physical pressure and misuse of authority* [1]. The governing principle is the consent standard: valid consent is **freely given, reversible, informed, enthusiastic, and specific**, and **coercion negates it** — a "yes" extracted by wearing someone down or threatening them is not a free yes [2]. The diagnostic line — and this file's center — is **pressure that overrides a "no" or erodes free choice**, never the ordinary expression of sexual interest (*sexual negotiation*).
 
 ## Variants & aliases
 
@@ -88,7 +88,7 @@ Runs on the FOG of [[emotional-blackmail]] (declared here: fear/obligation/guilt
 
 ### Not sexual coercion when…
 
-- **Ordinary sexual communication** ([[sexual-negotiation]]): initiating, flirting, expressing desire, *asking*, and being disappointed once by a "no" are all normal and healthy — that is how intimacy works. Coercion is **pressure that overrides a "no" or erodes free choice**, not the expression of interest or a single expression of disappointment.
+- **Ordinary sexual communication** (*sexual negotiation*): initiating, flirting, expressing desire, *asking*, and being disappointed once by a "no" are all normal and healthy — that is how intimacy works. Coercion is **pressure that overrides a "no" or erodes free choice**, not the expression of interest or a single expression of disappointment.
 - **Mismatched desire is not coercion**: partners often want sex at different times or frequencies; raising it, feeling let down, or seeking compromise is normal. It becomes coercion when *no* stops being an acceptable answer and pressure/guilt/threats are deployed to override it.
 - **Enthusiastic, freely-given consent — including to "maintenance" or ambivalent sex someone freely chooses** — is not coercion. The marker is whether the choice was *free*, not whether desire was perfectly matched. ("Sexual compliance" — freely agreeing to unwanted sex *without* partner pressure — is distinct from coercion.)
 - **Anyone can be victim or perpetrator** — don't assume by gender; and don't over-read normal negotiation as predation ([[epistemic-guardrails]]). The over-detection risk is real, but so is the under-recognition risk, since "it wasn't force" makes coercion easy to dismiss.
@@ -114,4 +114,4 @@ Graded `supported`: sexual coercion is a measured construct — defined within s
 
 ## See also
 
-[[emotional-blackmail]] · [[guilt-tripping]] · [[coercive-control]] · [[grooming-sequence]] · [[lying-typologies]] · [[boundary-scripts]] · [[detection-heuristics]] · [[dv-safety-planning]] · [[intimate-relationships]] · [[sexual-negotiation]]
+[[emotional-blackmail]] · [[guilt-tripping]] · [[coercive-control]] · [[grooming-sequence]] · [[lying-typologies]] · [[boundary-scripts]] · [[detection-heuristics]] · [[dv-safety-planning]] · [[intimate-relationships]] · *sexual negotiation*

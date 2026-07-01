@@ -35,7 +35,7 @@ For **abusive, coercively controlling, or genuinely toxic** relationships where 
 
 ## When NOT to use it
 
-- **Not as a first resort for ordinary conflict** ([[normal-relationship-conflict]]): healthy relationships are repaired with boundaries and dialogue, not cut off at the first difficulty. No-contact is a serious step for serious situations.
+- **Not as a first resort for ordinary conflict** (*normal relationship conflict*): healthy relationships are repaired with boundaries and dialogue, not cut off at the first difficulty. No-contact is a serious step for serious situations.
 - **When full no-contact is impossible** (co-parenting, shared finances): use **parallel parenting**, [[gray-rock]], and **business-only, documented communication** (the BIFF approach — Brief, Informative, Friendly, Firm; app-based, timestamped tools) — aim for *lowest-contact*, not zero.
 
 ## Failure modes & risks
@@ -71,4 +71,4 @@ Graded `supported`. The **separation-violence spike is well-documented**: Campbe
 
 ## See also
 
-[[dv-safety-planning]] · [[gray-rock]] · [[documentation-practices]] · [[trauma-bonding]] · [[coercive-control]] · [[abuse-cycle]] · [[hoovering]] · [[intermittent-reinforcement]] · [[stalkerware-monitoring]] · [[crisis-windows]] · [[epistemic-guardrails]] · [[normal-relationship-conflict]]
+[[dv-safety-planning]] · [[gray-rock]] · [[documentation-practices]] · [[trauma-bonding]] · [[coercive-control]] · [[abuse-cycle]] · [[hoovering]] · [[intermittent-reinforcement]] · [[stalkerware-monitoring]] · [[crisis-windows]] · [[epistemic-guardrails]] · *normal relationship conflict*

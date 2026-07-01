@@ -91,7 +91,7 @@ A relationship conducted *entirely* through triangles — where direct conversat
 
 ### Not triangulation when…
 
-- **Seeking counsel**: talking to a friend about your conflict before addressing it is processing, not triangulation — most third-party involvement is people gathering courage or perspective ([[honest-disagreement]] support, not leverage).
+- **Seeking counsel**: talking to a friend about your conflict before addressing it is processing, not triangulation — most third-party involvement is people gathering courage or perspective (*honest disagreement* support, not leverage).
 - **Legitimate mediation**: agreed-upon intermediaries (therapists, mediators, HR) are the triangle *formalized to be fair* — disclosed, consented, bounded.
 - **Mentioning exes and others innocently** — history exists; comparisons require *pattern and leverage-timing* before they're rival-dangling [3].
 - **Venting networks in families** — kin talk about each other constantly; the tactic-grade needs the hub *controlling channels and curating versions*, not merely gossiping ([[epistemic-guardrails]]).

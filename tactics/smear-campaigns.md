@@ -91,8 +91,8 @@ When the smear migrates into institutions (false reports, vexatious complaints, 
 
 ### Not a smear campaign when…
 
-- **Someone is genuinely warning others about a harmful person** ([[genuine-warning]]): the whisper network exists because warning the vulnerable about a real exploiter is *prosocial* — the mirror image of a smear, and its content is *true* [2]. The discriminators: **truth vs distortion/fabrication**, and **protective intent vs reputation-destruction for advantage**. Telling three friends "he was abusive to me, be careful" is a warning; orchestrating a network to destroy his standing with fabrications is a smear. (This distinction is the KB's own, grounded in the truth/falsity line of defamation and the prosocial-gossip research.)
-- **Ordinary post-conflict talking**: both sides of a breakup or feud tell their friends their version; that's processing and support, not a campaign ([[honest-disagreement]]). The tactic-grade is *orchestration + distortion + reputation-destruction intent*, not the existence of unflattering talk.
+- **Someone is genuinely warning others about a harmful person** (*genuine warning*): the whisper network exists because warning the vulnerable about a real exploiter is *prosocial* — the mirror image of a smear, and its content is *true* [2]. The discriminators: **truth vs distortion/fabrication**, and **protective intent vs reputation-destruction for advantage**. Telling three friends "he was abusive to me, be careful" is a warning; orchestrating a network to destroy his standing with fabrications is a smear. (This distinction is the KB's own, grounded in the truth/falsity line of defamation and the prosocial-gossip research.)
+- **Ordinary post-conflict talking**: both sides of a breakup or feud tell their friends their version; that's processing and support, not a campaign (*honest disagreement*). The tactic-grade is *orchestration + distortion + reputation-destruction intent*, not the existence of unflattering talk.
 - **True accounts that happen to damage reputation**: accurately reporting what someone did — even publicly, even harmfully to them — is disclosure, not a smear. Reputational harm from the *truth* is the consequence of one's conduct, not an attack.
 - **Believing you're being smeared when you're facing accountability**: someone facing true allegations may *experience* them as a smear; run the symmetric check ([[epistemic-guardrails]]; and note the abuser's move of crying "smear campaign" to discredit genuine accusers — [[darvo]], [[therapy-speak-weaponization]]).
 
@@ -118,4 +118,4 @@ Graded `supported`: the underlying behavior — reputation-damaging indirect/rel
 
 ## See also
 
-[[darvo]] · [[proxy-recruitment]] · [[victim-posturing]] · [[projection-blame-shifting]] · [[isolation-tactics]] · [[triangulation]] · [[mobbing]] · [[fud-competitor-tactics]] · [[genuine-warning]] · [[documentation-practices]]
+[[darvo]] · [[proxy-recruitment]] · [[victim-posturing]] · [[projection-blame-shifting]] · [[isolation-tactics]] · [[triangulation]] · [[mobbing]] · [[fud-competitor-tactics]] · *genuine warning* · [[documentation-practices]]

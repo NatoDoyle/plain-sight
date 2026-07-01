@@ -1,0 +1,12 @@
+# Bibliography log — mlm-recruitment-scripts
+
+Backfilled 2026-07-01: reconstructed from the vetted, red-teamed citations in the file's own `## Sources` section. Per-topic sweep logs were kept for the Tier 1–2 topics but not created for this one during the original build, so the original "consulted but not cited" sweep is not recoverable; this log preserves the cited record. See `tactics/mlm-recruitment-scripts.md` for the citations in context.
+
+## Sources cited in tactics/mlm-recruitment-scripts.md
+
+1. FTC, *Business Guidance Concerning Multi-Level Marketing* (ftc.gov); FTC Staff Report, *Multi-Level Marketing Income Disclosure Statements* (Sept 2024) — "substantial majority" lose money; most made ≤$1,000/year; ≥17 MLMs where most made nothing; median preferred over mean. FTC 2011 Business Opportunity Rule (76 FR 76816) **excluded MLMs**. Regulatory (US; not legal advice).
+2. Taylor, J. M. *The Case (for and) Against Multi-Level Marketing.* Consumer Awareness Institute (~2011; FTC public comment) — 350+ MLM pay plans; ~99.6% loss rate on the ~30-MLM earnings subset (after expenses, incl. dropouts; Appendix 7A); <1% profit; exceeds "naked" pyramid loss rates (~90%). **Independent/advocacy research, not an FTC finding.** Cite the 99.6% only with the subset qualifier.
+3. AARP Foundation, *Multilevel Marketing: The Research, Risks and Rewards* (DeLiema, M., & Shadel, D., 2018) — nationally representative; 47% lost money, 27% made no money (≈73% combined); ~90% joined to make money. Supported.
+4. *In re Koscot Interplanetary* (FTC 1975); *In re Amway Corp.* (FTC 1979, "Amway safeguards": buyback, 70% rule, 10-customer rule); *Webster v. Omnitrition* (9th Cir. 1996); *FTC v. BurnLounge* (9th Cir. 2014) — the legal MLM-vs-pyramid line: rewards primarily for recruitment + inventory loading vs. retail sales to outside ultimate users; courts examine operation in practice. US case law; not legal advice; application contested.
+5. Tiffany, K. *The Atlantic* — coverage of "hunbots" and r/antiMLM documenting copy-paste recruitment DMs; "hunbot" is lexicalized in popular usage. Journalistic (the "Hey hun" phenomenon is well-attested; the label is folk/advocacy).
+6. Cultic-dynamics lens on high-pressure recruitment (Hassan BITE model; *The Dream* podcast) — useful recognition framing for love-bombing, "no"-as-fear reframes, and anti-skepticism pressure; an advocacy/`clinical` lens, not scholarly consensus. See [[mlm-lifecycle]], [[cults-high-control]].

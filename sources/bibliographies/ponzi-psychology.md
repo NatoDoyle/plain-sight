@@ -1,0 +1,10 @@
+# Bibliography log — ponzi-psychology
+
+Backfilled 2026-07-01: reconstructed from the vetted, red-teamed citations in the file's own `## Sources` section. Per-topic sweep logs were kept for the Tier 1–2 topics but not created for this one during the original build, so the original "consulted but not cited" sweep is not recoverable; this log preserves the cited record. See `tactics/ponzi-psychology.md` for the citations in context.
+
+## Sources cited in tactics/ponzi-psychology.md
+
+1. SEC, Investor.gov, "Ponzi Scheme" — definition ("pays existing investors with funds collected from new investors"; needs constant new money; collapses when recruitment slows or investors cash out) and the seven red flags. Regulatory (US; not legal advice).
+2. Charles Ponzi (Securities Exchange Company, Boston, Jan 1920; 50% in 45 days via international postal reply coupons; ~$1M/day at peak) — Smithsonian National Postal Museum; Wikipedia "Charles Ponzi." Sarah Howe ("Ladies' Deposit Company," ~1879–80, 8%/month) predates him — Wikipedia. The "why his name, not hers" framing is interpretation/folklore.
+3. Madoff investment scandal — ~10–12% unusually consistent returns; fictitious "split-strike conversion"; Harry Markopolos's warnings to the SEC (2000–2008; 2005 memo "The World's Largest Hedge Fund Is a Fraud"); SEC OIG Report OIG-509; arrested Dec 11 2008, pleaded guilty Mar 12 2009, sentenced 150 years June 29 2009. Figures: **~$64.8B** = fictional statement total; **~$17.5B** = actual principal (most since recovered). Sources: FBI "Bernie Madoff"; SEC OIG-509; SIPC/Madoff trustee. Cite figures precisely; never "$65B lost."
+4. Ponzi vs. pyramid distinction (general teaching distinction; hybrids exist): Ponzi = passive "investment," fake returns from new deposits, usually one central operator, pursued by the SEC as securities fraud; pyramid = participants paid to recruit, overlaps MLM, more often an FTC matter — secondary legal/regulatory sources (FTC pyramid-scheme guidance; legal explainers). Jurisdiction: US.

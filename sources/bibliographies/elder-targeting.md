@@ -1,0 +1,10 @@
+# Bibliography log — elder-targeting
+
+Backfilled 2026-07-01: reconstructed from the vetted, red-teamed citations in the file's own `## Sources` section. Per-topic sweep logs were kept for the Tier 1–2 topics but not created for this one during the original build, so the original "consulted but not cited" sweep is not recoverable; this log preserves the cited record. See `tactics/elder-targeting.md` for the citations in context.
+
+## Sources cited in tactics/elder-targeting.md
+
+1. Undue influence — California Welfare & Institutions Code §15610.70 (incorporated by Probate Code §86): four factors (victim vulnerability; influencer's apparent authority; actions/tactics; equity of the result) — *factors, not elements; inequitable result alone is insufficient*. American Bar Association, "Undue Influence and Financial Exploitation" (2020). Established law (US; California-specific; jurisdiction-label; not legal advice).
+2. Practitioner models: Bennett Blum, **IDEAL** model (Isolation, Dependency, Emotional manipulation/Exploitation, Acquiescence, Loss); Margaret Singer's six-condition undue-influence model. (The "SCAM" acronym is not reliably attributable to Singer — omit/flag.) Clinical/practitioner.
+3. Prevalence/perpetrators: WHO, "Abuse of older people" (Yon et al., 2017, *Lancet Global Health* — ~1 in 6 / 15.7% of community 60+ in a year; psychological 11.6% > financial 6.8%). Perpetrator splits (~90% family) and under-reporting (1-in-24 general / 1-in-44 financial) are advocacy/agency or single-study figures — indicative, not consensus. Supported (prevalence) / advocacy (splits).
+4. Legal/reporting (US): Adult Protective Services (via NAPSA / Eldercare Locator 1-800-677-1116); DOJ National Elder Fraud Hotline 1-833-372-8311; Elder Justice Act (2010); Uniform Power of Attorney Act; mandatory reporting (varies by state). Guardianship/conservatorship can itself be abused (DOJ Elder Justice Initiative; high-profile conservatorship cases) — the autonomy-stripping failure mode. Jurisdiction-/date-specific; not legal advice.

@@ -1,0 +1,10 @@
+# Bibliography log — grooming-sequence
+
+Backfilled 2026-07-01: reconstructed from the vetted, red-teamed citations in the file's own `## Sources` section. Per-topic sweep logs were kept for the Tier 1–2 topics but not created for this one during the original build, so the original "consulted but not cited" sweep is not recoverable; this log preserves the cited record. See `dynamics/grooming-sequence.md` for the citations in context.
+
+## Sources cited in dynamics/grooming-sequence.md
+
+1. Salter, A. (2003). *Predators: Pedophiles, Rapists, and Other Sex Offenders.* Basic Books — grooming via offenders' own accounts; victim *and* family/community trust-building ("when you get their trust, that's when the child becomes vulnerable"); deliberate selection of vulnerable, less-supervised children; cultivated trustworthy persona. Clinical/practitioner.
+2. Winters, G. M., & Jeglic, E. L. (2017). "Stages of Sexual Grooming…" *Deviant Behavior* 38(6), 724–733 (four stages: victim selection; access/isolation; trust development; desensitization to touch/sexual content); Winters et al. (2020), "Validation of the Sexual Grooming Model," *Journal of Child Sexual Abuse* 29(7) (adds the 5th stage — post-abuse maintenance — and content-validates ~42 behaviors); Sexual Grooming Scale (incl. Victim Version, 2021). Supported/empirical. The differentiating behaviors cluster around desensitization, not warmth.
+3. Adult grooming: romance-fraud and trafficking research mapping grooming/coercive-control dynamics onto adult victims ("it's grooming, not gullibility"); the same staged trust→isolation→escalation→control architecture in [[coercive-control]], cults, and [[romance-scam-arc]]. Supported but heterogeneous.
+4. Online/tech grooming and sextortion: faster, compressed sequence; platform-shift to private/encrypted channels; image solicitation; rapid pivot to sextortion (Thorn research documents threats beginning within 24 hours in a notable share of youth financial-sextortion cases). Practitioner/empirical.

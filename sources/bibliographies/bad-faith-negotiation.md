@@ -1,0 +1,10 @@
+# Bibliography log — bad-faith-negotiation
+
+Backfilled 2026-07-01: reconstructed from the vetted, red-teamed citations in the file's own `## Sources` section. Per-topic sweep logs were kept for the Tier 1–2 topics but not created for this one during the original build, so the original "consulted but not cited" sweep is not recoverable; this log preserves the cited record. See `tactics/bad-faith-negotiation.md` for the citations in context.
+
+## Sources cited in tactics/bad-faith-negotiation.md
+
+1. Named hardball tactics: Lewicki, Saunders & Barry, *Negotiation* (good cop/bad cop, lowball/highball, bogey, nibble, snow job, chicken/brinkmanship); Harvard Program on Negotiation, "Hardball tactics" (take-it-or-leave-it, exploding deadlines, deadlock); Roger Dawson, *Secrets of Power Negotiating* (higher authority, the nibble as "gambits"); Cohen, *You Can Negotiate Anything*. Well-attested as *named* tactics; practitioner efficacy claims not experimentally validated.
+2. **SINS scale**: Robinson, Lewicki & Donahue (2000), "Extending and testing a five-factor model of ethical and unethical bargaining tactics: Introducing the SINS scale," *Journal of Organizational Behavior* 21:649–664; Lewicki & Robinson (1998), *J. Business Ethics*. Five factors; "traditional competitive bargaining" rated most acceptable; misrepresentation / false promises / attacking network / inappropriate info-gathering rated unethical. Supported (peer-reviewed).
+3. The legal/ethical line: **ABA Model Rule 4.1(a)** + Comment [2] — no false statement of *material* fact; price/value estimates and settlement intentions conventionally *not* material-fact statements (puffery permitted), material misrepresentations prohibited and actionable as fraud. Comment [2] criticized by legal-ethics scholars as too permissive. Established (codified) / contested (the comment's scope).
+4. Defensive counters: Fisher & Ury, *Getting to Yes* (BATNA; separate people from problem; objective criteria); Harvard PON ("name the tactic"); Voss, *Never Split the Difference* (practitioner). Supported / practitioner.

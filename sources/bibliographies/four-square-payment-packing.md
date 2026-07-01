@@ -1,0 +1,11 @@
+# Bibliography log — four-square-payment-packing
+
+Backfilled 2026-07-01: reconstructed from the vetted, red-teamed citations in the file's own `## Sources` section. Per-topic sweep logs were kept for the Tier 1–2 topics but not created for this one during the original build, so the original "consulted but not cited" sweep is not recoverable; this log preserves the cited record. See `tactics/four-square-payment-packing.md` for the citations in context.
+
+## Sources cited in tactics/four-square-payment-packing.md
+
+1. Phillips, C. "Confessions of a Car Salesman." *Edmunds.com* (2001; updated 2009) — undercover account naming the **four-square** as the lead negotiation tool, the focus on monthly payment over total price, term-stretching, and the "T.O." turn-over. Consumer Reports, "How to Beat the Four-Square" — independent description of the four boxes (trade-in, price, down payment, monthly payment) and the confusion mechanism. Consumer-journalism (well-documented; not academic).
+2. Consumer-law explainers on **payment packing / "payment stuffing"** (e.g., LawInfo; F&I compliance literature) — padding an agreed payment with add-ons (extended warranty, GAP, credit insurance, protection packages, etching). Advocacy/practitioner terminology, not a defined statutory offense.
+3. National Consumer Law Center, *Automobile Fraud* §4.1.2, "Yo-Yo Transactions Explained"; Center for Responsible Lending (Davis, D.), "Deal or No Deal: How Yo-Yo Scams Rig the Game Against Car Buyers" (FTC public comment) — spot-delivery/yo-yo mechanics and recourse. Practitioner/advocacy (authoritative).
+4. FTC **CARS Rule, 16 CFR Part 463** (finalized Dec 2023; 89 FR 590, Jan 4 2024). **Vacated**, *NADA v. FTC*, 5th Cir., **Jan 27, 2025** (No. 24-60013), on procedural grounds (no ANPRM). **Withdrawn from the CFR effective Feb 12, 2026** (FTC Federal Register notice). Status: not in effect. Jurisdiction: US; not legal advice.
+5. **Truth in Lending Act / Regulation Z, 12 CFR Part 1026** (APR, finance charge, amount financed, total of payments; finance charge/APR disclosed more conspicuously). FTC enforcement under §5: **FTC v. Napleton Automotive Group ($10M, 2022, with Illinois)**; **Passport Automotive Group ($3.38M, 2022)** — sneaking unwanted add-ons onto bills. Regulatory (US; not legal advice).

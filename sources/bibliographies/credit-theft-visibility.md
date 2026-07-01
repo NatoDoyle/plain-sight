@@ -1,0 +1,10 @@
+# Bibliography log — credit-theft-visibility
+
+Backfilled 2026-07-01: reconstructed from the vetted, red-teamed citations in the file's own `## Sources` section. Per-topic sweep logs were kept for the Tier 1–2 topics but not created for this one during the original build, so the original "consulted but not cited" sweep is not recoverable; this log preserves the cited record. See `tactics/credit-theft-visibility.md` for the citations in context.
+
+## Sources cited in tactics/credit-theft-visibility.md
+
+1. Chen, J., et al. (2022). "The Idea Is Mine! … Leaders' Credit Claiming on Employees' Work Outcomes." *Frontiers in Psychology* 13:818454 (leader credit-claiming → anger/perceived unfairness → reduced voice and performance). Knowledge-theft research (victims disengage, hide work, persists after job change). Supported.
+2. A 2024 controlled (VR) study on inattentional blindness to idea-stealing in meetings (reported as "Social inattentional blindness to idea stealing in meetings," *Scientific Reports*) — observers frequently failed to identify who voiced an idea first (the cited figure ~30%), with perceived status shaping attribution; it also notes idea-stealing is hard to distinguish from legitimate amplification. Single recent study — verify the exact venue/figure before relying on the number; the directional finding (status biases meeting attribution) is corroborated by the broader literature. Supported.
+3. Sarsons, H. (2017). "Recognition for Group Work: Gender Differences in Academia." *American Economic Review* 107(5), 141–145 — women credited less for co-authored work, especially with male co-authors (discipline-specific to economics; not universal). Williams, J. — "office housework"/non-promotable tasks (Babcock et al.). Supported (with boundary conditions).
+4. Flynn, F., & Anderson, C. (2003) — the "Heidi/Howard" study: identical résumé/case rated differently by the author's gender (the upstream evaluation/likeability bias, not direct proof of credit theft). The "amplification" counter-tactic: Eilperin, *Washington Post* (2016) — journalism. "Hepeating"/"rewhiting" — folk/vernacular recognition terms.

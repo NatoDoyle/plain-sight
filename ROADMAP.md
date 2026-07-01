@@ -1,12 +1,12 @@
 # ROADMAP.md — topic backlog & status
 
-The research program: ~147 topics across 8 tiers, executed in tier order, one topic at a time, per `METHODOLOGY.md`. This file is the **single resume point**: any session picks the next unchecked box. Checked = file exists with `status: complete`.
+The research program: ~151 topics across 8 tiers, executed in tier order, one topic at a time, per `METHODOLOGY.md`. This file is the **single resume point**: any session picks the next unchecked box. Checked = file exists with `status: complete`.
 
 - Backlog ids are valid edge/wikilink targets before their files exist (`kb.py validate` treats them as *pending*).
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** ✅ **ALL TIERS COMPLETE — 147/147.** Tiers 0–7 done: 3 foundations · 23 mechanisms · 65 tactics · 10 dynamics · 12 contexts · 6 profiles · 9 vulnerabilities · 15 defenses · 7 meta/synthesis. Validates with 0 errors; graph + both matrices regenerate clean; 49 safety-flagged files; 78 false-positive contrast concepts. The synthesis finale ([[felt-sense-index]], [[playbooks-compendium]], [[defense-agent-spec]], [[coverage-audit]]) is in. Remaining work is maintenance: localize resources beyond US/UK, refresh fast-moving files, thicken causal edges (see [[coverage-audit]]). · last updated 2026-06-30
+**Status:** ✅ **ALL TIERS COMPLETE — 151/151.** Tiers 0–7 done: 3 foundations · 23 mechanisms · 68 tactics · 10 dynamics · 12 contexts · 6 profiles · 9 vulnerabilities · 15 defenses · 8 meta/synthesis. Validates with 0 errors; graph + both matrices regenerate clean; 53 safety-flagged files; 79 false-positive contrast concepts. The synthesis finale ([[felt-sense-index]], [[playbooks-compendium]], [[defense-agent-spec]], [[coverage-audit]]) is in, plus a 2026-07-01 QA/maintenance pass (Tier 8). Remaining work is maintenance: localize resources beyond US/UK, refresh fast-moving files, thicken causal edges (see [[coverage-audit]]). · last updated 2026-07-01
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -181,3 +181,12 @@ The research program: ~147 topics across 8 tiers, executed in tier order, one to
 - [x] `felt-sense-index` (taxonomy) — reverse index: what the target feels → candidate tactics ("confused after every talk" → …)
 - [x] `defense-agent-spec` (meta) — system prompt, retrieval strategy, confidence calibration, safety escalation rules
 - [x] `coverage-audit` (taxonomy) — final gap analysis: orphan nodes, missing edges, untested scenarios
+
+## Tier 8 — Post-audit maintenance additions (2026-07-01)
+
+Added during a QA/audit pass that also fixed inventory drift, hardened `kb.py` (safety-flag symmetry + phantom-link warnings), resolved 236 Obsidian phantom-links, added ~18 missing graph edges, and backfilled 42 per-topic bibliographies (see [[coverage-audit]]).
+
+- [x] `emergent-insights` (taxonomy/meta) — graph-analysis companion to [[coverage-audit]]: degree distribution, evidence×connectivity cross-tab, the escalation-layer convergence on [[coercive-control]] (discovered: coverage-audit)
+- [x] `tone-policing` (tactic) — dismissing a message for its emotional tone instead of its content; the derailing/silencing move (discovered: audit gap-scan)
+- [x] `spiritual-abuse` (tactic) — coercive control exerted through religion, scripture, and "God's will" in mainstream families and congregations, short of a full cult (discovered: audit gap-scan)
+- [x] `overton-window-shifting` (tactic) — normalizing a once-fringe position by repetition and extreme anchoring so the perceived center drifts (discovered: audit gap-scan)

@@ -4,7 +4,7 @@ type: meta
 name: Coverage Audit
 aliases: [gap analysis, kb health, completeness audit, final audit, what's missing]
 status: complete
-last-updated: 2026-06-30
+last-updated: 2026-07-01
 ---
 
 # Coverage Audit
@@ -13,41 +13,41 @@ last-updated: 2026-06-30
 
 ## Final inventory
 
-**147 files, all `status: complete`, 0 validation errors.** By type:
+**151 files, all `status: complete`, 0 validation errors.** By type:
 
 | Type | Count | |
 |---|---|---|
 | mechanism | 23 | the psychological levers (why it works) |
-| tactic | 65 | observable moves (what they do) |
+| tactic | 68 | observable moves (what they do) |
 | dynamic | 10 | multi-tactic temporal systems |
 | context | 12 | arena dossiers (where it happens) |
 | profile | 6 | actor patterns (who) |
 | vulnerability | 9 | target-side risk factors |
 | defense | 15 | counters, exit, recovery |
-| meta | 7 | foundations + synthesis |
+| meta | 8 | foundations + synthesis |
 
-This matches the ROADMAP backlog (147/147 checked). Tier 0–7 complete.
+This matches the ROADMAP backlog (151/151 checked). Tiers 0–7 complete, plus a 2026-07-01 maintenance/QA pass (Tier 8: `emergent-insights`, `tone-policing`, `spiritual-abuse`, `overton-window-shifting`).
 
 ## Graph health
 
-- **1,221 directed edges** (symmetric relations expanded both ways) across the 12 typed relations, compiled into `graph/edges.yaml`; the tactic⇄mechanism and tactic⇄context matrices regenerate cleanly.
-- **Edge distribution:** `distinguished-from` 390 · `appears-in` 216 · `countered-by` 198 · `exploits` 184 · `co-occurs-with` 162 · `composed-of` 36 · `targets` 12 · `favored-by` 10 · `escalates-to` 6 · `enables` 4 · `precedes` 3.
-- **The large `distinguished-from` count is deliberate** — it is the false-positive immune system: every tactic is tied to its innocent look-alike, backed by **78 contrast concepts** registered in the glossary (`taxonomy/glossary.md`).
-- **Orphan nodes: 5, all `meta`, by design** — [[master-taxonomy]], [[epistemic-guardrails]], [[felt-sense-index]], [[playbooks-compendium]], and [[defense-agent-spec]] carry no *typed* edges because they are navigational/foundational; they connect through wikilinks, not the tactic graph. Every mechanism, tactic, dynamic, context, profile, vulnerability, and defense is connected.
+- **1,318 directed edges** (symmetric relations expanded both ways) across 11 of the 12 typed relations (`variant-of` is defined but currently unused), compiled into `graph/edges.yaml`; the tactic⇄mechanism and tactic⇄context matrices regenerate cleanly.
+- **Edge distribution:** `distinguished-from` 402 · `appears-in` 228 · `countered-by` 212 · `exploits` 196 · `co-occurs-with` 192 · `composed-of` 36 · `targets` 21 · `favored-by` 16 · `escalates-to` 7 · `enables` 5 · `precedes` 3.
+- **The large `distinguished-from` count is deliberate** — it is the false-positive immune system: every tactic is tied to its innocent look-alike, backed by **79 contrast concepts** registered in the glossary (`taxonomy/glossary.md`).
+- **Orphan nodes: 7, all `meta`, by design** — [[master-taxonomy]], [[epistemic-guardrails]], [[felt-sense-index]], [[playbooks-compendium]], [[defense-agent-spec]], [[coverage-audit]], and [[emergent-insights]] carry no *typed* edges because they are navigational/foundational; they connect through wikilinks, not the tactic graph. (The eighth meta file, [[manipulation-vs-influence]], is fully connected via `distinguished-from`.) Every mechanism, tactic, dynamic, context, profile, vulnerability, and defense is connected.
 
-**Thin layers (acknowledged):** the **causal/temporal edges are sparse** — `enables` (4), `precedes` (3), `escalates-to` (6). Co-occurrence and exploitation are richly mapped; *sequence* is mostly captured prose-side in the dynamics and [[playbooks-compendium]] rather than as edges. A future pass could promote more of those sequence claims to typed `precedes`/`escalates-to` edges.
+**Thin layers (acknowledged):** the **causal/temporal edges are sparse** — `enables` (5), `precedes` (3), `escalates-to` (7), and `variant-of` (0 — defined but unused). Co-occurrence and exploitation are richly mapped; *sequence* is mostly captured prose-side in the dynamics and [[playbooks-compendium]] rather than as edges. A future pass could promote more of those sequence claims to typed `precedes`/`escalates-to` edges.
 
 ## Evidence honesty
 
-142 of 146 typed files carry an `evidence:` grade (the ungraded are foundational `meta`):
+145 of 151 files carry an `evidence:` grade (the 6 ungraded are foundational `meta`):
 
-- **established 29 · supported 88 · clinical 14 · contested 6 · folk 5.**
-- The **6 contested** and **5 folk** constructs are flagged inline wherever load-bearing — e.g., "brainwashing/mind-control" as an irresistible mechanism (APA rejected DIMPAC), "Stockholm syndrome," post-traumatic-growth specifics, *Body Keeps the Score* neurobiology, ego-depletion. Nothing folk is laundered as fact.
+- **established 29 · supported 89 · clinical 14 · contested 7 · folk 6.**
+- The **7 contested** and **6 folk** constructs are flagged inline wherever load-bearing — e.g., "brainwashing/mind-control" as an irresistible mechanism (APA rejected DIMPAC), "Stockholm syndrome," post-traumatic-growth specifics, *Body Keeps the Score* neurobiology, ego-depletion. Nothing folk is laundered as fact.
 - Disputed figures were corrected during review (e.g., separation-homicide rate scoped to Campbell's ~44%, not the folk "75%"; MLM "99.6% lose money" attributed to Taylor, not the FTC). The KB errs toward under-claiming precision.
 
 ## Safety coverage
 
-**49 files carry a `safety:` flag**, each with a `## Safety notes` section and crisis resources, spanning DV escalation, self-harm threats, stalking, child grooming, elder exploitation, and cult exit. Crisis numbers (988; National DV Hotline 1-800-799-7233; Childhelp 1-800-422-4453; DOJ Elder Fraud 833-372-8311; FTC; FBI IC3; UK Refuge) were verified digit-by-digit in review and are consolidated in the [[defense-agent-spec]] escalation table. The validator enforces that a `safety:` flag cannot exist without a Safety notes section.
+**53 files carry a `safety:` flag**, each with a `## Safety notes` section and crisis resources, spanning DV escalation, self-harm threats, stalking, child grooming, elder exploitation, spiritual/religious abuse, and cult exit. Crisis numbers (988; National DV Hotline 1-800-799-7233; Childhelp 1-800-422-4453; DOJ Elder Fraud 833-372-8311; FTC; FBI IC3; UK Refuge) were verified digit-by-digit in review and are consolidated in the [[defense-agent-spec]] escalation table. Since the 2026-07-01 pass the validator enforces the flag and the `## Safety notes` section **each require the other** (bidirectional), closing the false-negative gap that had left two stalking/DV files unflagged.
 
 ## Retrieval spot-test (and its honest finding)
 
@@ -79,11 +79,11 @@ The KB is complete *to its scope* — not omniscient. Carried-forward limitation
 
 ## Conclusion
 
-The knowledge base meets its specification: **147 topics across 8 tiers, fully cross-linked, evidence-graded, safety-flagged, and false-positive-guarded**, validating with zero errors. Its defining features are the ones a naive version would lack — a 78-concept false-positive layer, 49 safety-escalating files, honest grading of contested constructs, and a retrieval design ([[felt-sense-index]] + graph + mandatory caveats) that resists over-detection. It is ready to ground the [[defense-agent-spec|defense agent]]. The gaps above are real and recorded, not hidden — which is the only honest way to finish a knowledge base about deception.
+The knowledge base meets its specification: **151 topics across 8 tiers, fully cross-linked, evidence-graded, safety-flagged, and false-positive-guarded**, validating with zero errors. Its defining features are the ones a naive version would lack — a 79-concept false-positive layer, 53 safety-escalating files, honest grading of contested constructs, and a retrieval design ([[felt-sense-index]] + graph + mandatory caveats) that resists over-detection. It is ready to ground the [[defense-agent-spec|defense agent]]. The gaps above are real and recorded, not hidden — which is the only honest way to finish a knowledge base about deception.
 
 ## Sources
 
-Self-generated from the repository at completion using `python3 tools/kb.py validate / graph / matrix / stats` (file counts, edge counts and distribution, evidence-grade tallies, safety-flag inventory) and direct grep retrieval tests, all run 2026-06-30. No external claims; this file audits the KB against its own ROADMAP and the methodology in `METHODOLOGY.md`.
+Self-generated from the repository at completion using `python3 tools/kb.py validate / graph / matrix / stats` (file counts, edge counts and distribution, evidence-grade tallies, safety-flag inventory) and direct grep retrieval tests, originally run 2026-06-30 and refreshed 2026-07-01 after the maintenance/QA pass (Tier 8 additions + audit fixes). No external claims; this file audits the KB against its own ROADMAP and the methodology in `METHODOLOGY.md`.
 
 ## See also
 

@@ -2,7 +2,7 @@
 id: silent-treatment
 type: tactic
 name: Silent Treatment
-aliases: [punitive withdrawal, freeze-out, punitive ostracism, weaponized silence]
+aliases: [punitive withdrawal, freeze-out, punitive ostracism, weaponized silence, stonewalling]
 domains: [intimate-relationships, family-parents, workplace-bosses, cults-high-control]
 exploits: [attachment-needs, intermittent-reinforcement]
 co-occurs-with: [conditional-love, guilt-tripping]
@@ -13,7 +13,7 @@ severity: high
 evidence: supported
 safety: dv-escalation
 status: complete
-last-updated: 2026-06-12
+last-updated: 2026-07-01
 ---
 
 # Silent Treatment
@@ -92,7 +92,7 @@ When freeze-outs are the *standing* response to autonomy, lengthen over time, or
 ### Not the silent treatment when…
 
 - **Flooding breaks** ([[emotional-flooding]]'s own resistance rule): "I'm too activated to talk; give me 30 minutes" is *recommended* practice — announced, bounded, returned-to. The healthy version has a timestamp.
-- **Demand/withdraw conflict structure** — the most common look-alike, meta-analytically mapped across 74 studies: one partner pursues change, the other retreats; corrosive and mutual, but typically conflict-avoidant and structurally driven by who wants change — *not* punitive strategy [5]. Both people in that pattern are usually suffering, not winning.
+- **Demand/withdraw conflict structure** — the most common look-alike, meta-analytically mapped across 74 studies: one partner pursues change, the other retreats; corrosive and mutual, but typically conflict-avoidant and structurally driven by who wants change — *not* punitive strategy [5]. Both people in that pattern are usually suffering, not winning. Gottman's **"stonewalling"** (a withdrawer shutting down in conflict — one of the Four Horsemen) names *this* mutual pattern; it is corrosive but is **not** automatically the punitive tactic, which requires the contingency-and-price structure above. ("Stonewalling" is a lay umbrella term spanning both, which is why searches for it route here.)
 - **Processing time and quiet styles** — introversion, neurodivergent shutdowns, and slow processors going quiet under load ([[neurodivergent-communication]]); the discriminator is contingency-and-price, not silence itself.
 - **Self-protective distance** ([[self-protective-distance]]) — including a *victim's* silence toward someone who frightens them, and [[gray-rock]]: a target's deliberate low-information strategy against a manipulator. Silence from below is usually defense; the tactic-grade requires the power to punish with it.
 

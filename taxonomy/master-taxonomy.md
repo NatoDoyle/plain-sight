@@ -4,7 +4,7 @@ type: meta
 name: Master Taxonomy
 aliases: [taxonomy, the map, how this kb is organized]
 status: complete
-last-updated: 2026-06-10
+last-updated: 2026-07-01
 ---
 
 # Master Taxonomy
@@ -93,7 +93,7 @@ Every well-known framework is a partial map — mechanism-level, tactic-level, o
 
 ## Navigation entry points
 
-- **"Something feels off after every conversation"** → felt-sense route: [[gaslighting]], [[circular-conversation]], [[double-binds]] → (Tier 7 will add the full [[felt-sense-index]])
+- **"Something feels off after every conversation"** → start at the [[felt-sense-index]] (feeling → candidate patterns), then [[gaslighting]], [[circular-conversation]], [[double-binds]]
 - **"I'm being pressured to decide fast"** → [[manufactured-urgency]], [[scarcity-urgency]], [[verification-rituals]]
 - **"This group/job/partner seems too good, too fast"** → [[love-bombing]], [[mirroring-false-identity]], [[cult-conversion-funnel]], [[boundary-testing]]
 - **"Is this deal/opportunity real?"** → [[hope-greed]], [[con-anatomy]], [[detection-heuristics]]

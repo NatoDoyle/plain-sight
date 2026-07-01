@@ -13,7 +13,7 @@ severity: critical
 evidence: contested
 safety: dv-escalation
 status: complete
-last-updated: 2026-06-20
+last-updated: 2026-07-01
 ---
 
 # The Abuse Cycle
@@ -76,7 +76,7 @@ Graded **`contested`** — and the honesty of that grade is the point. The cycle
 1. Walker, L. E. (1979). *The Battered Woman.* Harper & Row — the three-phase cycle of violence (tension-building → acute battering → loving contrition; commonly presented as four with calm split out); claim that cycles shorten/intensify over time. Also originator of "battered woman syndrome" and the learned-helplessness application (*The Battered Woman Syndrome*, 1984). Clinically influential; sample self-selected and non-representative (Walker's own disclaimer).
 2. Walker's own data (1984 study, ~435 women): tension-building evidenced in ~65% of cases, loving contrition in ~58% — i.e., the full cycle fit a minority-to-bare-majority even in the foundational sample. Widely noted in reviews of the cycle's empirical weakness.
 3. Stark, E. (2007). *Coercive Control: How Men Entrap Women in Personal Life.* Oxford University Press — critique of the "violent incident model"; abuse as an ongoing pattern of domination, often without discrete incidents. See [[coercive-control]]. Also: Dutton, D. (2009) and Dobash & Dobash — methodological critiques of Walker's sample/method.
-4. Intimate-partner-homicide / separation-lethality literature: risk of serious and lethal violence rises sharply at and after separation and remains elevated for many months (commonly cited ~75% increase post-separation; recent separation a recognized lethality risk factor). See [[dv-safety-planning]]. (US/general; not legal advice.)
+4. Intimate-partner-homicide / separation-lethality literature: risk of serious and lethal violence rises sharply at and after separation and remains elevated for many months. Estrangement — especially leaving a highly controlling partner — is an independent risk factor for intimate-partner homicide (Campbell et al.'s multisite femicide study; ~44% of femicide victims had separated). Treat the *direction* as established and **avoid any single precise figure** — the widely-circulated "75–77% of DV homicides happen at separation" stats are advocacy numbers without a settled source. See [[dv-safety-planning]] and [[no-contact-exit-planning]]. (US/general; not legal advice.)
 
 ## See also
 

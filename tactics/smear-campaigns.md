@@ -10,8 +10,9 @@ countered-by: [documentation-practices, detection-heuristics]
 distinguished-from: [genuine-warning, honest-disagreement]
 severity: high
 evidence: supported
+safety: dv-escalation
 status: complete
-last-updated: 2026-06-17
+last-updated: 2026-07-01
 ---
 
 # Smear Campaigns

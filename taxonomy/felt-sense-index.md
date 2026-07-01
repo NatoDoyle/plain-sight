@@ -5,7 +5,7 @@ name: Felt-Sense Index
 aliases: [reverse index, symptom index, how it feels, what am i feeling, start here, where do i start]
 safety: crisis-escalation
 status: complete
-last-updated: 2026-06-30
+last-updated: 2026-07-01
 ---
 
 # Felt-Sense Index
@@ -25,7 +25,7 @@ last-updated: 2026-06-30
 ## The index
 
 ### "I feel confused or disoriented after talking — like I'm losing my grip on reality"
-**Candidates:** [[gaslighting]] · [[circular-conversation]] · [[history-rewriting]] · [[double-binds]] · [[moving-goalposts]] · [[circular-conversation|word salad]]
+**Candidates:** [[gaslighting]] · [[circular-conversation|circular conversation / word salad]] · [[history-rewriting]] · [[double-binds]] · [[moving-goalposts]]
 **Could also be:** [[memory-divergence]] or [[honest-disagreement]] — two people genuinely remember/see it differently, with no one rewriting reality. → [[documentation-practices]]
 
 ### "I'm always walking on eggshells / bracing for the next blow-up"

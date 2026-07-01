@@ -2,7 +2,8 @@
 """Plain Sight KB toolchain (stdlib only).
 
 Commands:
-  validate  schema, enums, id=filename, edge/wikilink resolution, section gates
+  validate  schema, enums, id=filename, edge/wikilink resolution, section gates,
+            safety-flag symmetry, prose-wikilink-to-contrast-concept warnings
   graph     compile typed edges from frontmatter -> graph/edges.yaml
   matrix    regenerate graph/tactic-mechanism.md and graph/tactic-context.md
   stats     coverage by type/status, edge counts, ROADMAP cross-check
@@ -65,6 +66,7 @@ DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 KEYLINE = re.compile(r"^([A-Za-z][A-Za-z0-9-]*):\s*(.*)$")
 BLOCK_ITEM = re.compile(r"^\s+-\s+(.+)$")
 WIKILINK = re.compile(r"\[\[([^\]\|#]+)(?:#[^\]\|]*)?(?:\|[^\]]*)?\]\]")
+SAFETY_H = re.compile(r"(?m)^##\s+Safety notes\b")  # actual heading, not an inline mention
 ROADMAP_ID = re.compile(r"^- \[[ xX]\] `([a-z0-9-]+)`", re.M)
 ROADMAP_CHECKED = re.compile(r"^- \[[xX]\] `([a-z0-9-]+)`", re.M)
 GLOSSARY_ID = re.compile(r"^- `([a-z0-9-]+)`", re.M)
@@ -242,8 +244,10 @@ def cmd_validate():
         level = "ERROR" if status == "complete" else "WARN"
         if ftype in CAVEATS_REQUIRED and "## Caveats" not in r["body"]:
             problems.append((level, rel, "missing '## Caveats' section"))
-        if fm.get("safety") and "## Safety notes" not in r["body"]:
+        if fm.get("safety") and not SAFETY_H.search(r["body"]):
             problems.append((level, rel, "safety-flagged but no '## Safety notes' section"))
+        if not fm.get("safety") and SAFETY_H.search(r["body"]):
+            problems.append((level, rel, "has '## Safety notes' section but missing 'safety:' flag"))
         if status == "complete" and "## Sources" not in r["body"]:
             problems.append(("ERROR", rel, "complete but no '## Sources' section"))
     # alias collisions
@@ -278,6 +282,10 @@ def cmd_validate():
                 problems.append(("ERROR", rel_path, f"wikilink to unknown target [[{t}]]"))
             elif kind == "pending":
                 pending.add(t)
+            elif kind == "contrast":
+                problems.append(("WARN", rel_path,
+                                 f"wikilink [[{t}]] targets a contrast concept (no file -> "
+                                 f"unresolved/phantom node in Obsidian); use plain text"))
     errors = [p for p in problems if p[0] == "ERROR"]
     warns = [p for p in problems if p[0] == "WARN"]
     for lvl, rel_path, msg in problems:

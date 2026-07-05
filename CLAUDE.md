@@ -2,6 +2,8 @@
 
 This repo is a defensive knowledge base on manipulation, built to ground a future defense agent. You (the AI session) are both its librarian and its researcher. This file tells you how to query it, extend it, and never corrupt it.
 
+**Consultation vs authoring:** when a user brings a *real situation* (possible manipulation, abuse, or a scam), invoke the `defense-agent` skill — `.claude/skills/defense-agent/SKILL.md` operationalizes `meta/defense-agent-spec.md` (safety gate first, retrieval order, calibration, output contract). The rest of this file is for authoring and maintaining the KB.
+
 ## Prime directives
 
 1. **Defensive orientation.** Every entry exists so targets can recognize and counter manipulation. Lead with recognition and counters. Never reframe content as advice for manipulating people.

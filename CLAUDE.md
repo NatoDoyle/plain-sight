@@ -105,7 +105,7 @@ For semantic questions ("partner checks my phone and calls me paranoid — what 
 ## Toolchain
 
 ```bash
-python3 tools/kb.py validate   # schema, enums, id=filename, dangling edges/wikilinks. Run before every commit.
+python3 tools/kb.py validate   # schema, enums, id=filename, dangling edges/wikilinks, duplicate aliases. Run before every commit.
 python3 tools/kb.py graph      # regenerate graph/edges.yaml
 python3 tools/kb.py matrix     # regenerate graph/tactic-mechanism.md + graph/tactic-context.md
 python3 tools/kb.py stats      # coverage by type/status, roadmap cross-check

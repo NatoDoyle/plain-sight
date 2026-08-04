@@ -2,7 +2,7 @@
 id: thats-not-all-decoys
 type: tactic
 name: That's-Not-All & Decoys
-aliases: [that's-not-all technique, sweeteners, decoy effect, asymmetric dominance, bundle fog]
+aliases: [that's-not-all technique, sweeteners, asymmetric dominance, bundle fog]
 domains: [sales, advertising-marketing]
 exploits: [reciprocity, framing-anchoring]
 countered-by: [detection-heuristics, verification-rituals]

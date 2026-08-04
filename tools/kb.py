@@ -252,10 +252,17 @@ def cmd_validate():
             problems.append(("ERROR", rel, "complete but no '## Sources' section"))
     # alias collisions
     ids, aliases, roadmap, contrast = load_targets(records)
+    alias_owners = {}
     for r in records:
         for a in r["fm"].get("aliases", []) if isinstance(r["fm"].get("aliases", []), list) else []:
             if a in ids and a != r["fm"].get("id"):
                 problems.append(("ERROR", r["rel"], f"alias {a!r} collides with an id"))
+            alias_owners.setdefault(a.casefold(), []).append(r["rel"])
+    for a, owners in sorted(alias_owners.items()):
+        if len(owners) > 1:
+            problems.append(("WARN", owners[0],
+                             f"alias {a!r} declared in multiple files ({', '.join(owners)}); "
+                             f"an alias must live on exactly one file"))
     # edge + wikilink resolution
     pending = set()
     for r in records:

@@ -15,7 +15,7 @@ The knowledge base is built **one topic at a time**, each researched to saturati
 3. **Synthesize.** Write `<folder>/<id>.md` from `templates/template-<type>.md`. Grade evidence per the rubric below; cite load-bearing claims inline `[n]`; wikilink first mentions of KB concepts.
 4. **Red-team review.** One adversarial subagent reviews the draft against the checklist below and returns prioritized issues.
 5. **Revise** until the review passes.
-6. **Link & index.** Declare typed edges (single-declaration rule, see `CLAUDE.md`); add glossary entries for new terms; tick the topic in `ROADMAP.md` and set `status: complete`; append any newly discovered topics to ROADMAP as `backlog`; run `kb.py validate`, `graph`, `matrix`; commit `Add <id> (<type>)`.
+6. **Link & index.** Declare typed edges (single-declaration rule, see `CLAUDE.md`); add glossary entries for new terms; register new aliases (each alias lives on exactly one file — `kb.py validate` warns on duplicates); tick the topic in `ROADMAP.md` and set `status: complete`; append any newly discovered topics to ROADMAP as `backlog`; run `kb.py validate`, `graph`, `matrix`; commit `Add <id> (<type>)`.
 7. **Saturation check** (the definition of "all sources exhausted"): every applicable source category swept; additional searching yields no materially new claims (marginal novelty ≈ 0); all scope-note questions answered or explicitly marked open in the file's Evidence & debates section; red-team passed.
 
 ## Evidence grading rubric

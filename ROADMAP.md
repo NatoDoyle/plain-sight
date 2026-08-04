@@ -1,12 +1,12 @@
 # ROADMAP.md — topic backlog & status
 
-The research program: ~151 topics across 8 tiers, executed in tier order, one topic at a time, per `METHODOLOGY.md`. This file is the **single resume point**: any session picks the next unchecked box. Checked = file exists with `status: complete`.
+The research program: ~166 topics across 9 tiers, executed in tier order, one topic at a time, per `METHODOLOGY.md`. This file is the **single resume point**: any session picks the next unchecked box. Checked = file exists with `status: complete`.
 
 - Backlog ids are valid edge/wikilink targets before their files exist (`kb.py validate` treats them as *pending*).
 - Research surfaces new topics → append them to the right tier with a `(discovered: <source-topic>)` note.
 - Live numbers: `python3 tools/kb.py stats`.
 
-**Status:** ✅ **ALL TIERS COMPLETE — 151/151.** Tiers 0–7 done: 3 foundations · 23 mechanisms · 68 tactics · 10 dynamics · 12 contexts · 6 profiles · 9 vulnerabilities · 15 defenses · 8 meta/synthesis. Validates with 0 errors; graph + both matrices regenerate clean; 53 safety-flagged files; 79 false-positive contrast concepts. The synthesis finale ([[felt-sense-index]], [[playbooks-compendium]], [[defense-agent-spec]], [[coverage-audit]]) is in, plus a 2026-07-01 QA/maintenance pass (Tier 8). Remaining work is maintenance: localize resources beyond US/UK, refresh fast-moving files, thicken causal edges (see [[coverage-audit]]). · last updated 2026-07-01
+**Status:** ✅ Tiers 0–8 complete — 151/151 · 🚧 **Tier 9 (Cognitive Bias Codex) in progress — 0/15.** Tiers 0–7 done: 3 foundations · 23 mechanisms · 68 tactics · 10 dynamics · 12 contexts · 6 profiles · 9 vulnerabilities · 15 defenses · 8 meta/synthesis. Validates with 0 errors; graph + both matrices regenerate clean; 53 safety-flagged files; 79 false-positive contrast concepts. The synthesis finale ([[felt-sense-index]], [[playbooks-compendium]], [[defense-agent-spec]], [[coverage-audit]]) is in, plus a 2026-07-01 QA/maintenance pass (Tier 8). Remaining work: Tier 9 codex integration (below), then maintenance: localize resources beyond US/UK, refresh fast-moving files, thicken causal edges (see [[coverage-audit]]). · last updated 2026-08-04
 
 ## Tier 0 — Foundations (meta/, taxonomy/)
 
@@ -190,3 +190,23 @@ Added during a QA/audit pass that also fixed inventory drift, hardened `kb.py` (
 - [x] `tone-policing` (tactic) — dismissing a message for its emotional tone instead of its content; the derailing/silencing move (discovered: audit gap-scan)
 - [x] `spiritual-abuse` (tactic) — coercive control exerted through religion, scripture, and "God's will" in mainstream families and congregations, short of a full cult (discovered: audit gap-scan)
 - [x] `overton-window-shifting` (tactic) — normalizing a once-fringe position by repetition and extreme anchoring so the perceived center drifts (discovered: audit gap-scan)
+
+## Tier 9 — Cognitive Bias Codex integration (mechanisms/, taxonomy/) (started 2026-08-04)
+
+Owner-requested expansion: integrate all **188 unique entries** of the Cognitive Bias Codex (Benson/Manoogian 2016; pinned to Benson's `cognitive-bias-cheat-sheet.json` — the only dual-listed entry is Negativity bias) as clustered mechanism files plus an index. Every codex bias gets a bolded subsection + registered alias on exactly one home file; ~49 entries resolve to existing files (extensions/pointer alias-adds, tracked in [[bias-codex-index]], not as separate roadmap ids). Evidence graded honestly per `METHODOLOGY.md`; known-contested entries flagged inline (backfire effect, hot-hand, Dunning-Kruger mechanism, Google effect, IAT validity).
+
+- [ ] `bias-codex-index` (taxonomy/meta) — pinned 188-entry enumeration; entry → KB-home map with evidence + exploitation-relevance columns; the completeness gate
+- [ ] `confirmation-bias` — confirmation & expectancy family: selective perception, congruence bias, observer-expectancy, subjective validation, continued influence, Semmelweis reflex, backfire effect (contested), conservatism, belief bias, placebo
+- [ ] `availability-salience` — availability heuristic, attentional bias, frequency illusion (Baader-Meinhof), negativity bias, Von Restorff/bizarreness/humor/picture-superiority/self-relevance
+- [ ] `pattern-illusions` — clustering illusion, illusory correlation, gambler's fallacy, hot-hand (contested), pareidolia, anthropomorphism, recency illusion, anecdotal fallacy, illusion of validity, masked-man fallacy
+- [ ] `probability-blindspots` — representativeness, base-rate fallacy, sample-size insensitivity, conjunction fallacy, subadditivity, survivorship bias, mental accounting, money illusion, denomination effect, zero-sum bias, appeal to probability, identifiable victim effect
+- [ ] `attribution-errors` — fundamental attribution error, actor-observer, self-serving, defensive/trait/group/ultimate attribution, just-world hypothesis, moral luck, system justification, reactive devaluation
+- [ ] `stereotyping-essentialism` — stereotyping, implicit associations (IAT validity flagged), prejudice, essentialism, out-group homogeneity, cross-race effect
+- [ ] `mind-reading-illusions` — illusions of transparency/asymmetric insight/external agency, spotlight effect, curse of knowledge, naïve realism, naïve cynicism, false consensus, extrinsic incentive error
+- [ ] `self-evaluation-illusions` — Dunning-Kruger (mechanism contested), illusory superiority, hard-easy effect, egocentric bias, illusion of control, restraint bias, moral licensing, social desirability, social comparison bias
+- [ ] `memory-self-editing` — hindsight bias, outcome bias, rosy retrospection, telescoping, fading affect, positivity effect, peak-end rule, duration neglect, self-consistency bias, misattribution/source confusion, cryptomnesia, leveling & sharpening
+- [ ] `memory-retrieval-quirks` — serial-position family, spacing/testing/levels-of-processing effects, tip-of-the-tongue, absent-mindedness, Google effect (contested); mostly observer-side lab effects, said plainly
+- [ ] `time-distortions` — hyperbolic discounting (present bias), planning fallacy, impact/projection/pessimism bias, declinism, appeal to novelty, pro-innovation bias, time-saving bias, well-traveled-road effect
+- [ ] `risk-misperception` — normalcy bias, ostrich effect, zero-risk bias, pseudocertainty, omission bias, risk compensation (Peltzman), ambiguity aversion
+- [ ] `fluency-familiarity` — mere exposure, illusory truth, processing fluency, rhyme-as-reason, processing-difficulty (disfluency), generation effect, IKEA effect, not-invented-here
+- [ ] `choice-simplification` — less-is-better, information bias, unit bias, functional fixedness, bike-shedding (Law of Triviality), Delmore effect (folk), Occam's-razor boundary note

@@ -2,7 +2,7 @@
 id: isolation-tactics
 type: tactic
 name: Isolation Tactics
-aliases: [social isolation, severing support networks, isolating behaviors]
+aliases: [severing support networks, isolating behaviors]
 domains: [intimate-relationships, family-parents, cults-high-control, scams-fraud]
 exploits: [attachment-needs, information-asymmetry, trust-mechanics]
 co-occurs-with: [stalkerware-monitoring, financial-abuse, smear-campaigns]

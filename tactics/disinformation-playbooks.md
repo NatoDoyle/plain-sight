@@ -2,7 +2,7 @@
 id: disinformation-playbooks
 type: tactic
 name: Disinformation Playbooks
-aliases: [firehose of falsehood, flooding the zone, manufactured consensus, coordinated inauthentic behavior, computational propaganda, whataboutism]
+aliases: [firehose of falsehood, flooding the zone, manufactured consensus, coordinated inauthentic behavior, computational propaganda]
 domains: [propaganda-politics, digital-platforms]
 exploits: [cognitive-overload-confusion, social-proof, framing-anchoring, certainty-needs]
 co-occurs-with: [propaganda-devices, fake-reviews-astroturfing]

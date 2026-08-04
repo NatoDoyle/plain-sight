@@ -2,7 +2,7 @@
 id: jade-avoidance
 type: defense
 name: JADE Avoidance
-aliases: [JADE, don't justify argue defend explain, no is a complete sentence, broken record]
+aliases: [JADE, don't justify argue defend explain]
 distinguished-from: [normal-relationship-conflict]
 evidence: supported
 safety: dv-escalation

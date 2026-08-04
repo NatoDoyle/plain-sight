@@ -2,7 +2,7 @@
 id: liking-similarity
 type: mechanism
 name: Liking & Similarity
-aliases: [rapport, similarity-attraction, ingratiation, halo effect]
+aliases: [rapport, similarity-attraction, halo effect]
 countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [genuine-rapport, limerence, neurodivergent-communication, unity-ingroup]
 evidence: established

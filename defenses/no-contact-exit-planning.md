@@ -2,7 +2,7 @@
 id: no-contact-exit-planning
 type: defense
 name: No-Contact & Exit Planning
-aliases: [no contact, going no contact, leaving safely, exit plan, escape plan]
+aliases: [no contact, going no contact, exit plan, escape plan]
 distinguished-from: [normal-relationship-conflict]
 evidence: supported
 safety: dv-escalation

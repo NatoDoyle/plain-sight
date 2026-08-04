@@ -2,7 +2,7 @@
 id: trust-mechanics
 type: mechanism
 name: Trust Mechanics
-aliases: [trustworthiness cues, swift trust, confidence game, trust repair]
+aliases: [trustworthiness cues, swift trust, trust repair]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [legitimate-expertise, genuine-rapport, liking-similarity]
 evidence: established

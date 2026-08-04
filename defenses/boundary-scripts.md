@@ -2,7 +2,7 @@
 id: boundary-scripts
 type: defense
 name: Boundary Scripts
-aliases: [assertiveness scripts, saying no, holding the line, broken record, DEAR MAN, DESC, JADE, no is a complete sentence]
+aliases: [assertiveness scripts, saying no, holding the line, broken record, DEAR MAN, DESC, no is a complete sentence]
 distinguished-from: [gray-rock]
 evidence: supported
 safety: dv-escalation

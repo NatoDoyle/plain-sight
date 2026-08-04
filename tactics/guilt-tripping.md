@@ -2,7 +2,7 @@
 id: guilt-tripping
 type: tactic
 name: Guilt-Tripping
-aliases: [guilt trip, guilt induction, laying on guilt]
+aliases: [guilt trip, laying on guilt]
 domains: [family-parents, intimate-relationships, workplace-bosses, cults-high-control]
 exploits: [guilt-leverage, reciprocity]
 co-occurs-with: [victim-posturing, conditional-love]

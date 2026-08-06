@@ -46,15 +46,15 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Availability heuristic | [[availability-salience]] | … | … |
-| Attentional bias | [[availability-salience]] | … | … |
+| Availability heuristic | [[availability-salience]] | established | lever |
+| Attentional bias | [[availability-salience]] | supported | amplifier |
 | Illusory truth effect | [[fluency-familiarity]] | … | … |
 | Mere exposure effect | [[fluency-familiarity]] | … | … |
 | Context effect | [[memory-retrieval-quirks]] | … | … |
 | Cue-dependent forgetting | [[memory-retrieval-quirks]] | … | … |
 | Mood-congruent memory bias | [[memory-retrieval-quirks]] | … | … |
-| Frequency illusion | [[availability-salience]] | … | … |
-| Baader-Meinhof Phenomenon | [[availability-salience]] | … | … |
+| Frequency illusion | [[availability-salience]] | folk | observer-side |
+| Baader-Meinhof Phenomenon | [[availability-salience]] | folk | observer-side |
 | Empathy gap | [[emotional-flooding]] | established | lever |
 | Omission bias | [[risk-misperception]] | … | … |
 | Base rate fallacy | [[probability-blindspots]] | … | … |
@@ -63,12 +63,12 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Bizarreness effect | [[availability-salience]] | … | … |
-| Humor effect | [[availability-salience]] | … | … |
-| Von Restorff effect | [[availability-salience]] | … | … |
-| Picture superiority effect | [[availability-salience]] | … | … |
-| Self-relevance effect | [[availability-salience]] | … | … |
-| Negativity bias *(dual-listed: Q1.2 + Q4.2)* | [[availability-salience]] | … | … |
+| Bizarreness effect | [[availability-salience]] | supported | lever |
+| Humor effect | [[availability-salience]] | supported | lever |
+| Von Restorff effect | [[availability-salience]] | established | lever |
+| Picture superiority effect | [[availability-salience]] | established | lever |
+| Self-relevance effect | [[availability-salience]] | established | lever |
+| Negativity bias *(dual-listed: Q1.2 + Q4.2)* | [[availability-salience]] | established | lever |
 
 ### We notice when something has changed.
 
@@ -308,7 +308,7 @@ expectancy effect, not the physics concept.
 | Implicit stereotypes | [[stereotyping-essentialism]] | … | … |
 | Stereotypical bias | [[stereotyping-essentialism]] | … | … |
 | Prejudice | [[stereotyping-essentialism]] | … | … |
-| Negativity bias *(dual-listed: Q1.2 + Q4.2)* | [[availability-salience]] | … | … |
+| Negativity bias *(dual-listed: Q1.2 + Q4.2)* | [[availability-salience]] | established | lever |
 | Fading affect bias | [[memory-self-editing]] | … | … |
 
 ### We reduce events and lists to their key elements

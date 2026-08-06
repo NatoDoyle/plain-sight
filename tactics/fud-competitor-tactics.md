@@ -4,7 +4,7 @@ type: tactic
 name: FUD (Fear, Uncertainty, Doubt) Against Competitors
 aliases: [fud, fear uncertainty and doubt, vaporware, doubt-mongering, fudding, manufactured doubt]
 domains: [competitors-business, advertising-marketing, sales]
-exploits: [fear-exploitation, loss-aversion-endowment, information-asymmetry]
+exploits: [fear-exploitation, loss-aversion-endowment, information-asymmetry, availability-salience]
 co-occurs-with: [smear-campaigns, manufactured-urgency]
 countered-by: [verification-rituals, detection-heuristics, organizational-defenses]
 distinguished-from: [genuine-warning]

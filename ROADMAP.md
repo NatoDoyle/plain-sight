@@ -197,7 +197,7 @@ Owner-requested expansion: integrate all **188 unique entries** of the Cognitive
 
 - [ ] `bias-codex-index` (taxonomy/meta) — pinned 188-entry enumeration; entry → KB-home map with evidence + exploitation-relevance columns; the completeness gate
 - [x] `confirmation-bias` — confirmation & expectancy family: selective perception, congruence bias, observer-expectancy, subjective validation, continued influence, Semmelweis reflex, backfire effect (contested), conservatism, belief bias, placebo
-- [ ] `availability-salience` — availability heuristic, attentional bias, frequency illusion (Baader-Meinhof), negativity bias, Von Restorff/bizarreness/humor/picture-superiority/self-relevance
+- [x] `availability-salience` — availability heuristic, attentional bias, frequency illusion (Baader-Meinhof), negativity bias, Von Restorff/bizarreness/humor/picture-superiority/self-relevance
 - [ ] `pattern-illusions` — clustering illusion, illusory correlation, gambler's fallacy, hot-hand (contested), pareidolia, anthropomorphism, recency illusion, anecdotal fallacy, illusion of validity, masked-man fallacy
 - [ ] `probability-blindspots` — representativeness, base-rate fallacy, sample-size insensitivity, conjunction fallacy, subadditivity, survivorship bias, mental accounting, money illusion, denomination effect, zero-sum bias, appeal to probability, identifiable victim effect
 - [ ] `attribution-errors` — fundamental attribution error, actor-observer, self-serving, defensive/trait/group/ultimate attribution, just-world hypothesis, moral luck, system justification, reactive devaluation

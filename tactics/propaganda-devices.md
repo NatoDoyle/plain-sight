@@ -4,7 +4,7 @@ type: tactic
 name: Propaganda Devices
 aliases: [propaganda techniques, name-calling, glittering generalities, transfer, testimonial, plain folks, card stacking, bandwagon, IPA seven]
 domains: [propaganda-politics, advertising-marketing]
-exploits: [framing-anchoring, authority, social-proof, unity-ingroup, confirmation-bias]
+exploits: [framing-anchoring, authority, social-proof, unity-ingroup, confirmation-bias, availability-salience]
 countered-by: [detection-heuristics, inoculation-prebunking]
 distinguished-from: [healthy-persuasion]
 severity: medium

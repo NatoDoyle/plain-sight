@@ -4,7 +4,7 @@ type: tactic
 name: Dark Patterns — Social Proof & Urgency
 aliases: [fake countdown timer, fake low-stock, confirmshaming, fake scarcity, fabricated activity feed]
 domains: [digital-platforms, advertising-marketing, sales]
-exploits: [scarcity-urgency, social-proof]
+exploits: [scarcity-urgency, social-proof, availability-salience]
 countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [good-faith-ux]
 severity: low

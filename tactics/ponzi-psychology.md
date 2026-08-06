@@ -4,7 +4,7 @@ type: tactic
 name: Ponzi Psychology
 aliases: [ponzi scheme, ponzi, investment fraud, fake returns, robbing Peter to pay Paul, high-yield investment program]
 domains: [scams-fraud]
-exploits: [hope-greed, trust-mechanics, social-proof, information-asymmetry]
+exploits: [hope-greed, trust-mechanics, social-proof, information-asymmetry, confirmation-bias]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-opportunity, illegal-pyramid-scheme]
 targets: [optimism-overconfidence, why-smart-people-fall]

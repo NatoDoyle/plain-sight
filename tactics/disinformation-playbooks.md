@@ -4,7 +4,7 @@ type: tactic
 name: Disinformation Playbooks
 aliases: [firehose of falsehood, flooding the zone, manufactured consensus, coordinated inauthentic behavior, computational propaganda]
 domains: [propaganda-politics, digital-platforms]
-exploits: [cognitive-overload-confusion, social-proof, framing-anchoring, certainty-needs]
+exploits: [cognitive-overload-confusion, social-proof, framing-anchoring, certainty-needs, confirmation-bias]
 co-occurs-with: [propaganda-devices, fake-reviews-astroturfing]
 countered-by: [detection-heuristics, inoculation-prebunking]
 distinguished-from: [legitimate-activism, genuine-inquiry]

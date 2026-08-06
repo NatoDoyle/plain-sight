@@ -4,7 +4,7 @@ type: tactic
 name: Smear Campaigns
 aliases: [smear campaign, distortion campaign, reputation attack, character assassination]
 domains: [intimate-relationships, workplace-bosses, family-parents, competitors-business, propaganda-politics]
-exploits: [social-proof, trust-mechanics]
+exploits: [social-proof, trust-mechanics, confirmation-bias]
 co-occurs-with: [proxy-recruitment]
 countered-by: [documentation-practices, detection-heuristics]
 distinguished-from: [genuine-warning, honest-disagreement]

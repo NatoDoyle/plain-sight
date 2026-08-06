@@ -75,7 +75,7 @@ expectancy effect, not the physics concept.
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
 | Anchoring | [[framing-anchoring]] | established | lever |
-| Conservatism | [[confirmation-bias]] | … | … |
+| Conservatism | [[confirmation-bias]] | established | amplifier |
 | Contrast effect | [[framing-anchoring]] | … | … |
 | Distinction bias | [[framing-anchoring]] | … | … |
 | Focusing effect | [[framing-anchoring]] | … | … |
@@ -87,19 +87,19 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Confirmation bias | [[confirmation-bias]] | … | … |
-| Congruence bias | [[confirmation-bias]] | … | … |
+| Confirmation bias | [[confirmation-bias]] | established | lever |
+| Congruence bias | [[confirmation-bias]] | supported | lever |
 | Post-purchase rationalization | [[dissonance-exploitation]] | … | … |
 | Choice-supportive bias | [[dissonance-exploitation]] | … | … |
-| Selective perception | [[confirmation-bias]] | … | … |
-| Observer-expectancy effect | [[confirmation-bias]] | … | … |
-| Experimenter's bias | [[confirmation-bias]] | … | … |
-| Observer effect | [[confirmation-bias]] | … | … |
-| Expectation bias | [[confirmation-bias]] | … | … |
+| Selective perception | [[confirmation-bias]] | supported | amplifier |
+| Observer-expectancy effect | [[confirmation-bias]] | established | lever |
+| Experimenter's bias | [[confirmation-bias]] | established | lever |
+| Observer effect | [[confirmation-bias]] | established | lever |
+| Expectation bias | [[confirmation-bias]] | established | lever |
 | Ostrich effect | [[risk-misperception]] | … | … |
-| Subjective validation | [[confirmation-bias]] | … | … |
-| Continued influence effect | [[confirmation-bias]] | … | … |
-| Semmelweis reflex | [[confirmation-bias]] | … | … |
+| Subjective validation | [[confirmation-bias]] | established | lever |
+| Continued influence effect | [[confirmation-bias]] | established | lever |
+| Semmelweis reflex | [[confirmation-bias]] | folk | observer-side |
 
 ### We notice flaws in others more easily than flaws in ourselves.
 
@@ -141,11 +141,11 @@ expectancy effect, not the physics concept.
 | Functional fixedness | [[choice-simplification]] | … | … |
 | Moral credential effect | [[self-evaluation-illusions]] | … | … |
 | Just-world hypothesis | [[attribution-errors]] | … | … |
-| Argument from fallacy | [[confirmation-bias]] | … | … |
+| Argument from fallacy | [[confirmation-bias]] | n/a (logic, not empirics) | lever |
 | Authority bias | [[authority]] | established | lever |
 | Automation bias | [[authority]] | … | … |
 | Bandwagon effect | [[social-proof]] | established | lever |
-| Placebo effect | [[confirmation-bias]] | … | … |
+| Placebo effect | [[confirmation-bias]] | established | lever |
 
 ### We imagine things and people we're familiar with or fond of as better
 
@@ -258,7 +258,7 @@ expectancy effect, not the physics concept.
 | Pseudocertainty effect | [[risk-misperception]] | … | … |
 | Processing difficulty effect | [[fluency-familiarity]] | … | … |
 | Endowment effect | [[loss-aversion-endowment]] | established | lever |
-| Backfire effect | [[confirmation-bias]] | … | … |
+| Backfire effect | [[confirmation-bias]] | contested | observer-side |
 
 ### To avoid mistakes, we tend to preserve our autonomy and group status, and avoid irreversible decisions.
 
@@ -277,7 +277,7 @@ expectancy effect, not the physics concept.
 |---|---|---|---|
 | Ambiguity bias | [[risk-misperception]] | … | … |
 | Information bias | [[choice-simplification]] | … | … |
-| Belief bias | [[confirmation-bias]] | … | … |
+| Belief bias | [[confirmation-bias]] | established | lever |
 | Rhyme as reason effect | [[fluency-familiarity]] | … | … |
 | Bike-shedding effect | [[choice-simplification]] | … | … |
 | Law of Triviality | [[choice-simplification]] | … | … |

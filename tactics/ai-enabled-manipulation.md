@@ -4,7 +4,7 @@ type: tactic
 name: AI-Enabled Manipulation
 aliases: [deepfakes, voice cloning, AI voice scam, synthetic media fraud, AI sextortion, chatbot scams, synthetic personas]
 domains: [scams-fraud, digital-platforms]
-exploits: [trust-mechanics, fear-exploitation, authority, liking-similarity]
+exploits: [trust-mechanics, fear-exploitation, authority, liking-similarity, pattern-illusions]
 enables: [romance-scam-arc]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [legitimate-ai-use]

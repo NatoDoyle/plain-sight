@@ -117,18 +117,18 @@ expectancy effect, not the physics concept.
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
 | Confabulation | [[memory-fallibility]] | established | lever |
-| Clustering illusion | [[pattern-illusions]] | … | … |
+| Clustering illusion | [[pattern-illusions]] | established | lever |
 | Insensitivity to sample size | [[probability-blindspots]] | … | … |
 | Neglect of probability | [[probability-blindspots]] | … | … |
-| Anecdotal fallacy | [[pattern-illusions]] | … | … |
-| Illusion of validity | [[pattern-illusions]] | … | … |
-| Masked man fallacy | [[pattern-illusions]] | … | … |
-| Recency illusion | [[pattern-illusions]] | … | … |
-| Gambler's fallacy | [[pattern-illusions]] | … | … |
-| Hot-hand fallacy | [[pattern-illusions]] | … | … |
-| Illusory correlation | [[pattern-illusions]] | … | … |
-| Pareidolia | [[pattern-illusions]] | … | … |
-| Anthropomorphism | [[pattern-illusions]] | … | … |
+| Anecdotal fallacy | [[pattern-illusions]] | n/a (logic, not empirics) | lever |
+| Illusion of validity | [[pattern-illusions]] | supported | lever |
+| Masked man fallacy | [[pattern-illusions]] | n/a (logic, not empirics) | not-a-lever |
+| Recency illusion | [[pattern-illusions]] | folk | observer-side |
+| Gambler's fallacy | [[pattern-illusions]] | established | lever |
+| Hot-hand fallacy | [[pattern-illusions]] | contested | lever |
+| Illusory correlation | [[pattern-illusions]] | established | lever |
+| Pareidolia | [[pattern-illusions]] | established | lever |
+| Anthropomorphism | [[pattern-illusions]] | established | lever |
 
 ### We fill in characteristics from stereotypes, generalities, and prior histories
 

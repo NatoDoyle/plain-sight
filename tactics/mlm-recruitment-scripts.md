@@ -4,7 +4,7 @@ type: tactic
 name: MLM Recruitment Scripts
 aliases: [mlm pitch, hunbot, hey hun, downline recruiting, warm-market mining, be your own boss, ground-floor opportunity]
 domains: [sales, digital-platforms]
-exploits: [hope-greed, liking-similarity, social-proof, scarcity-urgency]
+exploits: [hope-greed, liking-similarity, social-proof, scarcity-urgency, probability-blindspots]
 countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [legitimate-small-business]
 targets: [scarcity-stress, loneliness-isolation]

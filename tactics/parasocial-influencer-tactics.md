@@ -4,7 +4,7 @@ type: tactic
 name: Parasocial & Influencer Tactics
 aliases: [parasocial monetization, influencer manipulation, guru funnel, manufactured intimacy, link in bio]
 domains: [digital-platforms, advertising-marketing]
-exploits: [liking-similarity, trust-mechanics]
+exploits: [liking-similarity, trust-mechanics, probability-blindspots]
 countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [genuine-parasocial-bond]
 severity: low

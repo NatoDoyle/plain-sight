@@ -57,7 +57,7 @@ expectancy effect, not the physics concept.
 | Baader-Meinhof Phenomenon | [[availability-salience]] | folk | observer-side |
 | Empathy gap | [[emotional-flooding]] | established | lever |
 | Omission bias | [[risk-misperception]] | … | … |
-| Base rate fallacy | [[probability-blindspots]] | … | … |
+| Base rate fallacy | [[probability-blindspots]] | established | lever |
 
 ### Bizarre/funny/visually-striking/anthropomorphic things stick out more than non-bizarre/unfunny things.
 
@@ -80,7 +80,7 @@ expectancy effect, not the physics concept.
 | Distinction bias | [[framing-anchoring]] | … | … |
 | Focusing effect | [[framing-anchoring]] | … | … |
 | Framing effect | [[framing-anchoring]] | established | lever |
-| Money illusion | [[probability-blindspots]] | … | … |
+| Money illusion | [[probability-blindspots]] | established | lever |
 | Weber–Fechner law | [[framing-anchoring]] | … | … |
 
 ### We are drawn to details that confirm our own existing beliefs
@@ -118,8 +118,8 @@ expectancy effect, not the physics concept.
 |---|---|---|---|
 | Confabulation | [[memory-fallibility]] | established | lever |
 | Clustering illusion | [[pattern-illusions]] | established | lever |
-| Insensitivity to sample size | [[probability-blindspots]] | … | … |
-| Neglect of probability | [[probability-blindspots]] | … | … |
+| Insensitivity to sample size | [[probability-blindspots]] | established | lever |
+| Neglect of probability | [[probability-blindspots]] | contested | lever |
 | Anecdotal fallacy | [[pattern-illusions]] | n/a (logic, not empirics) | lever |
 | Illusion of validity | [[pattern-illusions]] | supported | lever |
 | Masked man fallacy | [[pattern-illusions]] | n/a (logic, not empirics) | not-a-lever |
@@ -165,14 +165,14 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Mental accounting | [[probability-blindspots]] | … | … |
-| Appeal to probability fallacy | [[probability-blindspots]] | … | … |
+| Mental accounting | [[probability-blindspots]] | established | lever |
+| Appeal to probability fallacy | [[probability-blindspots]] | n/a (logic, not empirics) | lever |
 | Normalcy bias | [[risk-misperception]] | … | … |
-| Murphy's Law | [[probability-blindspots]] | … | … |
-| Zero sum bias | [[probability-blindspots]] | … | … |
-| Survivorship bias | [[probability-blindspots]] | … | … |
-| Subadditivity effect | [[probability-blindspots]] | … | … |
-| Denomination effect | [[probability-blindspots]] | … | … |
+| Murphy's Law | [[probability-blindspots]] | folk | observer-side |
+| Zero sum bias | [[probability-blindspots]] | supported | lever |
+| Survivorship bias | [[probability-blindspots]] | established | lever |
+| Subadditivity effect | [[probability-blindspots]] | established | lever |
+| Denomination effect | [[probability-blindspots]] | supported | lever |
 | Magic number 7+-2 | [[cognitive-overload-confusion]] | … | … |
 
 ### We think we know what other people are thinking
@@ -240,7 +240,7 @@ expectancy effect, not the physics concept.
 |---|---|---|---|
 | Hyperbolic discounting | [[time-distortions]] | … | … |
 | Appeal to novelty | [[time-distortions]] | … | … |
-| Identifiable victim effect | [[probability-blindspots]] | … | … |
+| Identifiable victim effect | [[probability-blindspots]] | contested | lever |
 
 ### To get anything done, we tend to complete things we've invested time & energy in.
 
@@ -282,7 +282,7 @@ expectancy effect, not the physics concept.
 | Bike-shedding effect | [[choice-simplification]] | … | … |
 | Law of Triviality | [[choice-simplification]] | … | … |
 | Delmore effect | [[choice-simplification]] | … | … |
-| Conjunction fallacy | [[probability-blindspots]] | … | … |
+| Conjunction fallacy | [[probability-blindspots]] | established | lever |
 | Occam's razor | [[choice-simplification]] | … | … |
 | Less-is-better effect | [[choice-simplification]] | … | … |
 

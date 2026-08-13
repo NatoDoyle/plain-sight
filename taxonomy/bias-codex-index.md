@@ -76,12 +76,12 @@ expectancy effect, not the physics concept.
 |---|---|---|---|
 | Anchoring | [[framing-anchoring]] | established | lever |
 | Conservatism | [[confirmation-bias]] | established | amplifier |
-| Contrast effect | [[framing-anchoring]] | … | … |
-| Distinction bias | [[framing-anchoring]] | … | … |
-| Focusing effect | [[framing-anchoring]] | … | … |
+| Contrast effect | [[framing-anchoring]] | established | lever |
+| Distinction bias | [[framing-anchoring]] | supported | lever |
+| Focusing effect | [[framing-anchoring]] | supported | lever |
 | Framing effect | [[framing-anchoring]] | established | lever |
 | Money illusion | [[probability-blindspots]] | established | lever |
-| Weber–Fechner law | [[framing-anchoring]] | … | … |
+| Weber–Fechner law | [[framing-anchoring]] | established | lever |
 
 ### We are drawn to details that confirm our own existing beliefs
 

@@ -5,7 +5,7 @@ name: Romance Scam Arc
 aliases: [romance scam, romance fraud, pig butchering, sha zhu pan, romance baiting, sweetheart scam, catfish scam]
 domains: [scams-fraud, intimate-relationships, digital-platforms]
 composed-of: [mirroring-false-identity, love-bombing, pity-plays, future-faking, manufactured-urgency]
-exploits: [attachment-needs, hope-greed, commitment-consistency]
+exploits: [attachment-needs, hope-greed, commitment-consistency, self-evaluation-illusions]
 co-occurs-with: [grooming-sequence, con-anatomy]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-online-relationship]

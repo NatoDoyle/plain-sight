@@ -4,7 +4,7 @@ type: tactic
 name: Timeshare Playbook
 aliases: [timeshare presentation, vacation ownership pitch, captive sales presentation, drop close, timeshare exit scam]
 domains: [sales]
-exploits: [emotional-flooding, scarcity-urgency, reciprocity, cognitive-overload-confusion]
+exploits: [emotional-flooding, scarcity-urgency, reciprocity, cognitive-overload-confusion, self-evaluation-illusions]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-deadline]
 severity: medium

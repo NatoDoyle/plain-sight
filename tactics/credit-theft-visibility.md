@@ -4,7 +4,7 @@ type: tactic
 name: Credit Theft & Visibility Games
 aliases: [credit theft, idea appropriation, hepeating, taking credit, visibility starvation]
 domains: [workplace-bosses]
-exploits: [authority]
+exploits: [authority, self-evaluation-illusions]
 countered-by: [documentation-practices, detection-heuristics]
 distinguished-from: [collaborative-credit]
 severity: medium

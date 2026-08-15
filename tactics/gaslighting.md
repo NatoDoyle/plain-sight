@@ -4,7 +4,7 @@ type: tactic
 name: Gaslighting
 aliases: [crazy-making, gas-lighting, reality distortion]
 domains: [intimate-relationships, family-parents, workplace-bosses, institutions, cults-high-control]
-exploits: [memory-fallibility, certainty-needs, trust-mechanics, attachment-needs]
+exploits: [memory-fallibility, certainty-needs, trust-mechanics, attachment-needs, mind-reading-illusions]
 co-occurs-with: [isolation-tactics, darvo, history-rewriting, circular-conversation]
 escalates-to: [coercive-control]
 countered-by: [documentation-practices, verification-rituals]

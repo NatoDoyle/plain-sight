@@ -106,8 +106,8 @@ expectancy effect, not the physics concept.
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
 | Bias blind spot | [[optimism-overconfidence]] | supported | amplifier |
-| Naïve cynicism | [[mind-reading-illusions]] | … | … |
-| Naïve realism | [[mind-reading-illusions]] | … | … |
+| Naïve cynicism | [[mind-reading-illusions]] | supported | observer-side |
+| Naïve realism | [[mind-reading-illusions]] | established | amplifier |
 
 ## 2. Not Enough Meaning (63 entries)
 
@@ -139,7 +139,7 @@ expectancy effect, not the physics concept.
 | Stereotyping | [[stereotyping-essentialism]] | … | … |
 | Essentialism | [[stereotyping-essentialism]] | … | … |
 | Functional fixedness | [[choice-simplification]] | … | … |
-| Moral credential effect | [[self-evaluation-illusions]] | … | … |
+| Moral credential effect | [[self-evaluation-illusions]] | contested | lever |
 | Just-world hypothesis | [[attribution-errors]] | … | … |
 | Argument from fallacy | [[confirmation-bias]] | n/a (logic, not empirics) | lever |
 | Authority bias | [[authority]] | established | lever |
@@ -179,12 +179,12 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Illusion of transparency | [[mind-reading-illusions]] | … | … |
-| Curse of knowledge | [[mind-reading-illusions]] | … | … |
-| Spotlight effect | [[mind-reading-illusions]] | … | … |
-| Extrinsic incentive error | [[mind-reading-illusions]] | … | … |
-| Illusion of external agency | [[mind-reading-illusions]] | … | … |
-| Illusion of asymmetric insight | [[mind-reading-illusions]] | … | … |
+| Illusion of transparency | [[mind-reading-illusions]] | supported | lever |
+| Curse of knowledge | [[mind-reading-illusions]] | established | lever |
+| Spotlight effect | [[mind-reading-illusions]] | supported | amplifier |
+| Extrinsic incentive error | [[mind-reading-illusions]] | supported | observer-side |
+| Illusion of external agency | [[mind-reading-illusions]] | supported | lever |
+| Illusion of asymmetric insight | [[mind-reading-illusions]] | supported | lever |
 
 ### We project our current mindset and assumptions onto the past and future
 
@@ -202,7 +202,7 @@ expectancy effect, not the physics concept.
 | Time-saving bias | [[time-distortions]] | … | … |
 | Pro-innovation bias | [[time-distortions]] | … | … |
 | Projection bias | [[time-distortions]] | … | … |
-| Restraint bias | [[self-evaluation-illusions]] | … | … |
+| Restraint bias | [[self-evaluation-illusions]] | supported | lever |
 | Self-consistency bias | [[memory-self-editing]] | … | … |
 
 ## 3. Need To Act Fast (53 entries)
@@ -213,20 +213,20 @@ expectancy effect, not the physics concept.
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
 | Overconfidence effect | [[optimism-overconfidence]] | supported | amplifier |
-| Social desirability bias | [[self-evaluation-illusions]] | … | … |
+| Social desirability bias | [[self-evaluation-illusions]] | established | lever |
 | Third-person effect | [[optimism-overconfidence]] | supported | amplifier |
-| False consensus effect | [[mind-reading-illusions]] | … | … |
-| Hard-easy effect | [[self-evaluation-illusions]] | … | … |
-| Lake Wobegone effect | [[self-evaluation-illusions]] | … | … |
-| Dunning-Kruger effect | [[self-evaluation-illusions]] | … | … |
-| Egocentric bias | [[self-evaluation-illusions]] | … | … |
+| False consensus effect | [[mind-reading-illusions]] | established | lever |
+| Hard-easy effect | [[self-evaluation-illusions]] | contested | observer-side |
+| Lake Wobegone effect | [[self-evaluation-illusions]] | established | lever |
+| Dunning-Kruger effect | [[self-evaluation-illusions]] | established | lever |
+| Egocentric bias | [[self-evaluation-illusions]] | established | lever |
 | Optimism bias | [[optimism-overconfidence]] | supported | amplifier |
 | Forer effect | [[cold-reading]] | established | lever |
 | Barnum effect | [[cold-reading]] | established | lever |
 | Self-serving bias | [[attribution-errors]] | … | … |
 | Actor-observer bias | [[attribution-errors]] | … | … |
-| Illusion of control | [[self-evaluation-illusions]] | … | … |
-| Illusory superiority | [[self-evaluation-illusions]] | … | … |
+| Illusion of control | [[self-evaluation-illusions]] | supported | lever |
+| Illusory superiority | [[self-evaluation-illusions]] | established | lever |
 | Fundamental attribution error | [[attribution-errors]] | … | … |
 | Defensive attribution hypothesis | [[attribution-errors]] | … | … |
 | Trait ascription bias | [[attribution-errors]] | … | … |
@@ -268,7 +268,7 @@ expectancy effect, not the physics concept.
 | Reverse psychology | [[scarcity-urgency]] | supported | lever |
 | Reactance | [[scarcity-urgency]] | established | lever |
 | Decoy effect | [[framing-anchoring]] | supported | lever |
-| Social comparison bias | [[self-evaluation-illusions]] | … | … |
+| Social comparison bias | [[self-evaluation-illusions]] | supported | amplifier |
 | Status quo bias | [[loss-aversion-endowment]] | established | lever |
 
 ### We favor options that appear simple or have more complete information over more complex, ambiguous options.

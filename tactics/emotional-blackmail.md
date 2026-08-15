@@ -4,7 +4,7 @@ type: tactic
 name: Emotional Blackmail
 aliases: [FOG, fear obligation guilt, if-you-loved-me leverage]
 domains: [intimate-relationships, family-parents, workplace-bosses]
-exploits: [fear-exploitation, guilt-leverage, attachment-needs]
+exploits: [fear-exploitation, guilt-leverage, attachment-needs, mind-reading-illusions]
 co-occurs-with: [guilt-tripping, veiled-threats, self-harm-threats]
 escalates-to: [coercive-control]
 countered-by: [boundary-scripts, jade-avoidance]

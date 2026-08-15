@@ -4,7 +4,7 @@ type: tactic
 name: Therapy-Speak Weaponization
 aliases: [weaponized therapy-speak, therapeutic manipulation, psychobabble control, weaponized boundaries, gaslighting-via-therapy-language]
 domains: [intimate-relationships, family-parents, workplace-bosses]
-exploits: [authority, framing-anchoring]
+exploits: [authority, framing-anchoring, mind-reading-illusions]
 co-occurs-with: [darvo, victim-posturing]
 countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [boundary-setting, assertiveness]

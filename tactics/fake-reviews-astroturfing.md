@@ -4,7 +4,7 @@ type: tactic
 name: Fake Reviews & Astroturfing
 aliases: [fake reviews, astroturfing, review farms, sockpuppets, manufactured social proof, front groups]
 domains: [advertising-marketing, competitors-business, digital-platforms]
-exploits: [social-proof]
+exploits: [social-proof, mind-reading-illusions]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-reviews]
 severity: medium

@@ -5,7 +5,7 @@ name: Radicalization Pipeline
 aliases: [radicalization, violent extremism funnel, staircase to terrorism, radicalisation]
 domains: [propaganda-politics, digital-platforms]
 composed-of: [thought-terminating-cliches, isolation-tactics]
-exploits: [unity-ingroup, certainty-needs, fear-exploitation, confirmation-bias]
+exploits: [unity-ingroup, certainty-needs, fear-exploitation, confirmation-bias, stereotyping-essentialism]
 co-occurs-with: [cult-conversion-funnel]
 countered-by: [inoculation-prebunking, detection-heuristics]
 distinguished-from: [legitimate-activism]

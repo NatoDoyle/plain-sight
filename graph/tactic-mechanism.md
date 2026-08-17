@@ -273,6 +273,11 @@
 - [[smear-campaigns]]
 - [[triangulation]]
 
+### [[stereotyping-essentialism]]
+- [[affinity-fraud]]
+- [[propaganda-devices]]
+- [[radicalization-pipeline]]
+
 ### [[trust-mechanics]]
 - [[affinity-fraud]]
 - [[ai-enabled-manipulation]]
@@ -309,7 +314,7 @@
 ## By tactic (which levers this move pulls)
 
 - [[abuse-cycle]] → [[intermittent-reinforcement]], [[memory-self-editing]]
-- [[affinity-fraud]] → [[authority]], [[social-proof]], [[trust-mechanics]], [[unity-ingroup]]
+- [[affinity-fraud]] → [[authority]], [[social-proof]], [[stereotyping-essentialism]], [[trust-mechanics]], [[unity-ingroup]]
 - [[ai-enabled-manipulation]] → [[authority]], [[fear-exploitation]], [[liking-similarity]], [[pattern-illusions]], [[trust-mechanics]]
 - [[bad-faith-argumentation]] → [[cognitive-overload-confusion]], [[framing-anchoring]]
 - [[bad-faith-negotiation]] → [[authority]], [[cognitive-overload-confusion]], [[commitment-consistency]], [[framing-anchoring]], [[reciprocity]], [[scarcity-urgency]]
@@ -364,9 +369,9 @@
 - [[pity-plays]] → [[guilt-leverage]], [[trust-mechanics]]
 - [[ponzi-psychology]] → [[confirmation-bias]], [[hope-greed]], [[information-asymmetry]], [[pattern-illusions]], [[social-proof]], [[trust-mechanics]]
 - [[projection-blame-shifting]] → [[attribution-errors]], [[dissonance-exploitation]], [[guilt-leverage]], [[memory-fallibility]]
-- [[propaganda-devices]] → [[authority]], [[availability-salience]], [[confirmation-bias]], [[fluency-familiarity]], [[framing-anchoring]], [[social-proof]], [[unity-ingroup]]
+- [[propaganda-devices]] → [[authority]], [[availability-salience]], [[confirmation-bias]], [[fluency-familiarity]], [[framing-anchoring]], [[social-proof]], [[stereotyping-essentialism]], [[unity-ingroup]]
 - [[proxy-recruitment]] → [[social-proof]], [[trust-mechanics]]
-- [[radicalization-pipeline]] → [[certainty-needs]], [[confirmation-bias]], [[fear-exploitation]], [[unity-ingroup]]
+- [[radicalization-pipeline]] → [[certainty-needs]], [[confirmation-bias]], [[fear-exploitation]], [[stereotyping-essentialism]], [[unity-ingroup]]
 - [[reactive-abuse-provocation]] → [[attribution-errors]], [[emotional-flooding]]
 - [[romance-scam-arc]] → [[attachment-needs]], [[commitment-consistency]], [[hope-greed]], [[self-evaluation-illusions]]
 - [[self-harm-threats]] → [[attachment-needs]], [[fear-exploitation]], [[guilt-leverage]]

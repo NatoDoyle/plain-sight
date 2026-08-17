@@ -4,7 +4,7 @@ type: tactic
 name: Affinity Fraud
 aliases: [affinity scam, community investment fraud, church fraud, faith-based fraud, in-group investment scam]
 domains: [scams-fraud]
-exploits: [unity-ingroup, trust-mechanics, social-proof, authority]
+exploits: [unity-ingroup, trust-mechanics, social-proof, authority, stereotyping-essentialism]
 co-occurs-with: [ponzi-psychology, elder-targeting]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-community]

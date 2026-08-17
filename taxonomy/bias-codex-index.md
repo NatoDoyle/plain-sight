@@ -136,8 +136,8 @@ expectancy effect, not the physics concept.
 |---|---|---|---|
 | Group attribution error | [[attribution-errors]] | supported | lever |
 | Ultimate attribution error | [[attribution-errors]] | supported | lever |
-| Stereotyping | [[stereotyping-essentialism]] | … | … |
-| Essentialism | [[stereotyping-essentialism]] | … | … |
+| Stereotyping | [[stereotyping-essentialism]] | established | lever |
+| Essentialism | [[stereotyping-essentialism]] | established | lever |
 | Functional fixedness | [[choice-simplification]] | … | … |
 | Moral credential effect | [[self-evaluation-illusions]] | contested | lever |
 | Just-world hypothesis | [[attribution-errors]] | established | amplifier |
@@ -151,8 +151,8 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Out-group homogeneity bias | [[stereotyping-essentialism]] | … | … |
-| Cross-race effect | [[stereotyping-essentialism]] | … | … |
+| Out-group homogeneity bias | [[stereotyping-essentialism]] | established | amplifier |
+| Cross-race effect | [[stereotyping-essentialism]] | established | observer-side |
 | In-group bias | [[unity-ingroup]] | established | lever |
 | Halo effect | [[liking-similarity]] | established | lever |
 | Cheerleader effect | [[liking-similarity]] | … | … |
@@ -304,10 +304,10 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Implicit associations | [[stereotyping-essentialism]] | … | … |
-| Implicit stereotypes | [[stereotyping-essentialism]] | … | … |
-| Stereotypical bias | [[stereotyping-essentialism]] | … | … |
-| Prejudice | [[stereotyping-essentialism]] | … | … |
+| Implicit associations | [[stereotyping-essentialism]] | contested | observer-side |
+| Implicit stereotypes | [[stereotyping-essentialism]] | contested | observer-side |
+| Stereotypical bias | [[stereotyping-essentialism]] | contested | observer-side |
+| Prejudice | [[stereotyping-essentialism]] | established | lever |
 | Negativity bias *(dual-listed: Q1.2 + Q4.2)* | [[availability-salience]] | established | lever |
 | Fading affect bias | [[memory-self-editing]] | established | lever |
 

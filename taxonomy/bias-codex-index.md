@@ -56,7 +56,7 @@ expectancy effect, not the physics concept.
 | Frequency illusion | [[availability-salience]] | folk | observer-side |
 | Baader-Meinhof Phenomenon | [[availability-salience]] | folk | observer-side |
 | Empathy gap | [[emotional-flooding]] | established | lever |
-| Omission bias | [[risk-misperception]] | … | … |
+| Omission bias | [[risk-misperception]] | supported | lever |
 | Base rate fallacy | [[probability-blindspots]] | established | lever |
 
 ### Bizarre/funny/visually-striking/anthropomorphic things stick out more than non-bizarre/unfunny things.
@@ -96,7 +96,7 @@ expectancy effect, not the physics concept.
 | Experimenter's bias | [[confirmation-bias]] | established | lever |
 | Observer effect | [[confirmation-bias]] | established | lever |
 | Expectation bias | [[confirmation-bias]] | established | lever |
-| Ostrich effect | [[risk-misperception]] | … | … |
+| Ostrich effect | [[risk-misperception]] | contested | amplifier |
 | Subjective validation | [[confirmation-bias]] | established | lever |
 | Continued influence effect | [[confirmation-bias]] | established | lever |
 | Semmelweis reflex | [[confirmation-bias]] | folk | observer-side |
@@ -167,7 +167,7 @@ expectancy effect, not the physics concept.
 |---|---|---|---|
 | Mental accounting | [[probability-blindspots]] | established | lever |
 | Appeal to probability fallacy | [[probability-blindspots]] | n/a (logic, not empirics) | lever |
-| Normalcy bias | [[risk-misperception]] | … | … |
+| Normalcy bias | [[risk-misperception]] | folk | observer-side |
 | Murphy's Law | [[probability-blindspots]] | folk | observer-side |
 | Zero sum bias | [[probability-blindspots]] | supported | lever |
 | Survivorship bias | [[probability-blindspots]] | established | lever |
@@ -231,8 +231,8 @@ expectancy effect, not the physics concept.
 | Defensive attribution hypothesis | [[attribution-errors]] | supported | amplifier |
 | Trait ascription bias | [[attribution-errors]] | supported | observer-side |
 | Effort justification | [[commitment-consistency]] | established | lever |
-| Risk compensation | [[risk-misperception]] | … | … |
-| Peltzman effect | [[risk-misperception]] | … | … |
+| Risk compensation | [[risk-misperception]] | contested | not-a-lever |
+| Peltzman effect | [[risk-misperception]] | contested | not-a-lever |
 
 ### To stay focused, we favor the immediate, relatable thing in front of us
 
@@ -253,9 +253,9 @@ expectancy effect, not the physics concept.
 | Loss aversion | [[loss-aversion-endowment]] | established | lever |
 | IKEA effect | [[fluency-familiarity]] | supported | lever |
 | Unit bias | [[choice-simplification]] | … | … |
-| Zero-risk bias | [[risk-misperception]] | … | … |
+| Zero-risk bias | [[risk-misperception]] | supported | lever |
 | Disposition effect | [[loss-aversion-endowment]] | … | … |
-| Pseudocertainty effect | [[risk-misperception]] | … | … |
+| Pseudocertainty effect | [[risk-misperception]] | supported | lever |
 | Processing difficulty effect | [[fluency-familiarity]] | contested | not-a-lever |
 | Endowment effect | [[loss-aversion-endowment]] | established | lever |
 | Backfire effect | [[confirmation-bias]] | contested | observer-side |
@@ -275,7 +275,7 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Ambiguity bias | [[risk-misperception]] | … | … |
+| Ambiguity bias | [[risk-misperception]] | established | lever |
 | Information bias | [[choice-simplification]] | … | … |
 | Belief bias | [[confirmation-bias]] | established | lever |
 | Rhyme as reason effect | [[fluency-familiarity]] | supported | lever |

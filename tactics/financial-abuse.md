@@ -4,7 +4,7 @@ type: tactic
 name: Financial Abuse
 aliases: [economic abuse, financial control, economic control, money abuse]
 domains: [intimate-relationships, family-parents]
-exploits: [fear-exploitation]
+exploits: [fear-exploitation, risk-misperception]
 countered-by: [dv-safety-planning, documentation-practices]
 distinguished-from: [shared-financial-management]
 targets: [scarcity-stress]

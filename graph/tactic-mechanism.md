@@ -238,6 +238,10 @@
 - [[timeshare-playbook]]
 - [[weaponized-incompetence]]
 
+### [[risk-misperception]]
+- [[financial-abuse]]
+- [[fud-competitor-tactics]]
+
 ### [[scarcity-urgency]]
 - [[bad-faith-negotiation]]
 - [[dark-patterns-social-urgency]]
@@ -338,10 +342,10 @@
 - [[emotional-blackmail]] → [[attachment-needs]], [[fear-exploitation]], [[guilt-leverage]], [[mind-reading-illusions]]
 - [[escalation-entrapment]] → [[commitment-consistency]], [[dissonance-exploitation]], [[loss-aversion-endowment]]
 - [[fake-reviews-astroturfing]] → [[mind-reading-illusions]], [[social-proof]]
-- [[financial-abuse]] → [[fear-exploitation]]
+- [[financial-abuse]] → [[fear-exploitation]], [[risk-misperception]]
 - [[foot-in-the-door]] → [[commitment-consistency]]
 - [[four-square-payment-packing]] → [[cognitive-overload-confusion]], [[commitment-consistency]], [[information-asymmetry]], [[memory-retrieval-quirks]]
-- [[fud-competitor-tactics]] → [[availability-salience]], [[fear-exploitation]], [[information-asymmetry]], [[loss-aversion-endowment]]
+- [[fud-competitor-tactics]] → [[availability-salience]], [[fear-exploitation]], [[information-asymmetry]], [[loss-aversion-endowment]], [[risk-misperception]]
 - [[future-faking]] → [[attachment-needs]], [[commitment-consistency]], [[hope-greed]]
 - [[gaslighting]] → [[attachment-needs]], [[certainty-needs]], [[memory-fallibility]], [[mind-reading-illusions]], [[trust-mechanics]]
 - [[golden-child-scapegoat]] → [[attachment-needs]], [[attribution-errors]]

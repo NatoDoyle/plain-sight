@@ -4,7 +4,7 @@ type: tactic
 name: Golden Child & Scapegoat
 aliases: [scapegoating, golden child, family roles, favoritism abuse, identified patient]
 domains: [family-parents]
-exploits: [attachment-needs]
+exploits: [attachment-needs, attribution-errors]
 co-occurs-with: [conditional-love]
 countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [parental-differential-treatment]

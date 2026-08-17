@@ -134,13 +134,13 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Group attribution error | [[attribution-errors]] | … | … |
-| Ultimate attribution error | [[attribution-errors]] | … | … |
+| Group attribution error | [[attribution-errors]] | supported | lever |
+| Ultimate attribution error | [[attribution-errors]] | supported | lever |
 | Stereotyping | [[stereotyping-essentialism]] | … | … |
 | Essentialism | [[stereotyping-essentialism]] | … | … |
 | Functional fixedness | [[choice-simplification]] | … | … |
 | Moral credential effect | [[self-evaluation-illusions]] | contested | lever |
-| Just-world hypothesis | [[attribution-errors]] | … | … |
+| Just-world hypothesis | [[attribution-errors]] | established | amplifier |
 | Argument from fallacy | [[confirmation-bias]] | n/a (logic, not empirics) | lever |
 | Authority bias | [[authority]] | established | lever |
 | Automation bias | [[authority]] | … | … |
@@ -158,7 +158,7 @@ expectancy effect, not the physics concept.
 | Cheerleader effect | [[liking-similarity]] | … | … |
 | Positivity effect | [[memory-self-editing]] | … | … |
 | Not invented here | [[fluency-familiarity]] | … | … |
-| Reactive devaluation | [[attribution-errors]] | … | … |
+| Reactive devaluation | [[attribution-errors]] | supported | lever |
 | Well-traveled road effect | [[time-distortions]] | … | … |
 
 ### We simplify probabilities and numbers to make them easier to think about
@@ -194,7 +194,7 @@ expectancy effect, not the physics concept.
 | Rosy retrospection | [[memory-self-editing]] | … | … |
 | Hindsight bias | [[memory-self-editing]] | … | … |
 | Outcome bias | [[memory-self-editing]] | … | … |
-| Moral luck | [[attribution-errors]] | … | … |
+| Moral luck | [[attribution-errors]] | supported | observer-side |
 | Declinism | [[time-distortions]] | … | … |
 | Impact bias | [[time-distortions]] | … | … |
 | Pessimism bias | [[time-distortions]] | … | … |
@@ -223,13 +223,13 @@ expectancy effect, not the physics concept.
 | Optimism bias | [[optimism-overconfidence]] | supported | amplifier |
 | Forer effect | [[cold-reading]] | established | lever |
 | Barnum effect | [[cold-reading]] | established | lever |
-| Self-serving bias | [[attribution-errors]] | … | … |
-| Actor-observer bias | [[attribution-errors]] | … | … |
+| Self-serving bias | [[attribution-errors]] | established | lever |
+| Actor-observer bias | [[attribution-errors]] | contested | observer-side |
 | Illusion of control | [[self-evaluation-illusions]] | supported | lever |
 | Illusory superiority | [[self-evaluation-illusions]] | established | lever |
-| Fundamental attribution error | [[attribution-errors]] | … | … |
-| Defensive attribution hypothesis | [[attribution-errors]] | … | … |
-| Trait ascription bias | [[attribution-errors]] | … | … |
+| Fundamental attribution error | [[attribution-errors]] | established | lever |
+| Defensive attribution hypothesis | [[attribution-errors]] | supported | amplifier |
+| Trait ascription bias | [[attribution-errors]] | supported | observer-side |
 | Effort justification | [[commitment-consistency]] | established | lever |
 | Risk compensation | [[risk-misperception]] | … | … |
 | Peltzman effect | [[risk-misperception]] | … | … |
@@ -264,7 +264,7 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| System justification | [[attribution-errors]] | … | … |
+| System justification | [[attribution-errors]] | contested | amplifier |
 | Reverse psychology | [[scarcity-urgency]] | supported | lever |
 | Reactance | [[scarcity-urgency]] | established | lever |
 | Decoy effect | [[framing-anchoring]] | supported | lever |

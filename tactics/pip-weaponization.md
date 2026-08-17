@@ -4,7 +4,7 @@ type: tactic
 name: PIP Weaponization
 aliases: [weaponized PIP, managed out, sham performance improvement plan, paper the file, quiet firing]
 domains: [workplace-bosses]
-exploits: [fear-exploitation]
+exploits: [fear-exploitation, attribution-errors]
 countered-by: [documentation-practices, detection-heuristics]
 distinguished-from: [legitimate-performance-management]
 severity: medium

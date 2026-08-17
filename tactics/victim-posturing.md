@@ -4,7 +4,7 @@ type: tactic
 name: Victim Posturing
 aliases: [playing the victim, victim card, strategic victimhood, virtuous victim signaling]
 domains: [intimate-relationships, family-parents, workplace-bosses, propaganda-politics]
-exploits: [guilt-leverage, trust-mechanics]
+exploits: [guilt-leverage, trust-mechanics, attribution-errors]
 co-occurs-with: [smear-campaigns]
 countered-by: [detection-heuristics, documentation-practices]
 distinguished-from: [genuine-victimhood, honest-hurt, pity-plays]

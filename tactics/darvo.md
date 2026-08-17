@@ -4,7 +4,7 @@ type: tactic
 name: DARVO
 aliases: [deny attack reverse victim and offender, accountability reversal]
 domains: [intimate-relationships, family-parents, workplace-bosses, institutions, propaganda-politics]
-exploits: [trust-mechanics, memory-fallibility, shame-leverage]
+exploits: [trust-mechanics, memory-fallibility, shame-leverage, attribution-errors]
 co-occurs-with: [projection-blame-shifting, non-apology-patterns, smear-campaigns, victim-posturing]
 enables: [history-rewriting]
 countered-by: [documentation-practices, jade-avoidance]

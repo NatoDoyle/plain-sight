@@ -4,7 +4,7 @@ type: tactic
 name: Reactive Abuse / Provocation
 aliases: [reactive abuse, provocation, baiting, reactive defense, "see, you're crazy too"]
 domains: [intimate-relationships, family-parents]
-exploits: [emotional-flooding]
+exploits: [emotional-flooding, attribution-errors]
 co-occurs-with: [darvo, gaslighting]
 countered-by: [gray-rock, dv-safety-planning]
 distinguished-from: [situational-couple-violence, self-protection]

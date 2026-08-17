@@ -4,7 +4,7 @@ type: tactic
 name: Projection & Blame-Shifting
 aliases: [projection, blame-shifting, fault relocation, accusatory mirroring]
 domains: [intimate-relationships, family-parents, workplace-bosses, propaganda-politics]
-exploits: [memory-fallibility, guilt-leverage, dissonance-exploitation]
+exploits: [memory-fallibility, guilt-leverage, dissonance-exploitation, attribution-errors]
 co-occurs-with: [gaslighting, victim-posturing]
 countered-by: [documentation-practices, jade-avoidance]
 distinguished-from: [honest-disagreement, honest-hurt]
@@ -98,7 +98,7 @@ When *no* fault can ever land — when accountability conversations structurally
 
 ### Base rates & severity calibration
 
-The self-serving bias is one of the most robust effects in psychology — *everyone* runs flattering attributions, with cultural variation (markedly smaller in East Asian samples) and a notable exception (depressed people often reverse it) [2]. The tactic-grade conjunction: **mirror-pattern + zero-fault accounting + reflexive counter-accusation + escalation under accountability**, over time ([[epistemic-guardrails]]). A defensive moment is rung-1 evidence of humanity, nothing more.
+The self-serving bias is one of the most robust effects in psychology — *everyone* runs flattering attributions, with cultural variation (markedly smaller in East Asian samples) and a notable moderator (the bias is *attenuated* in depression — d = 0.21 in Mezulis et al.'s meta — not reversed) [2]. The tactic-grade conjunction: **mirror-pattern + zero-fault accounting + reflexive counter-accusation + escalation under accountability**, over time ([[epistemic-guardrails]]). A defensive moment is rung-1 evidence of humanity, nothing more.
 
 ## Evidence & debates
 

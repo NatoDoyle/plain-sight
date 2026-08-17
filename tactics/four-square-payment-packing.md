@@ -4,7 +4,7 @@ type: tactic
 name: Four-Square & Payment Packing
 aliases: [four square, foursquare worksheet, payment packing, payment stuffing, yo-yo financing, spot delivery, F&I add-on stuffing]
 domains: [sales]
-exploits: [cognitive-overload-confusion, information-asymmetry, commitment-consistency]
+exploits: [cognitive-overload-confusion, information-asymmetry, commitment-consistency, memory-retrieval-quirks]
 co-occurs-with: [lowballing]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [hard-bargaining]

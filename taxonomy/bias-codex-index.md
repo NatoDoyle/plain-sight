@@ -50,9 +50,9 @@ expectancy effect, not the physics concept.
 | Attentional bias | [[availability-salience]] | supported | amplifier |
 | Illusory truth effect | [[fluency-familiarity]] | … | … |
 | Mere exposure effect | [[fluency-familiarity]] | … | … |
-| Context effect | [[memory-retrieval-quirks]] | … | … |
-| Cue-dependent forgetting | [[memory-retrieval-quirks]] | … | … |
-| Mood-congruent memory bias | [[memory-retrieval-quirks]] | … | … |
+| Context effect | [[memory-retrieval-quirks]] | contested | not-a-lever |
+| Cue-dependent forgetting | [[memory-retrieval-quirks]] | established | not-a-lever |
+| Mood-congruent memory bias | [[memory-retrieval-quirks]] | supported | amplifier |
 | Frequency illusion | [[availability-salience]] | folk | observer-side |
 | Baader-Meinhof Phenomenon | [[availability-salience]] | folk | observer-side |
 | Empathy gap | [[emotional-flooding]] | established | lever |
@@ -298,7 +298,7 @@ expectancy effect, not the physics concept.
 | Cryptomnesia | [[memory-self-editing]] | supported | not-a-lever |
 | False memory | [[memory-fallibility]] | established | lever |
 | Suggestibility | [[memory-fallibility]] | established | lever |
-| Spacing effect | [[memory-retrieval-quirks]] | … | … |
+| Spacing effect | [[memory-retrieval-quirks]] | established | not-a-lever |
 
 ### We discard specifics to form generalities
 
@@ -318,27 +318,27 @@ expectancy effect, not the physics concept.
 | Peak–end rule | [[memory-self-editing]] | contested | lever |
 | Leveling and sharpening | [[memory-self-editing]] | contested | amplifier |
 | Misinformation effect | [[memory-fallibility]] | established | lever |
-| Serial recall effect | [[memory-retrieval-quirks]] | … | … |
-| List-length effect | [[memory-retrieval-quirks]] | … | … |
+| Serial recall effect | [[memory-retrieval-quirks]] | established | lever |
+| List-length effect | [[memory-retrieval-quirks]] | contested | not-a-lever |
 | Duration neglect | [[memory-self-editing]] | established | amplifier |
-| Modality effect | [[memory-retrieval-quirks]] | … | … |
-| Memory inhibition | [[memory-retrieval-quirks]] | … | … |
-| Primacy effect | [[memory-retrieval-quirks]] | … | … |
-| Recency effect | [[memory-retrieval-quirks]] | … | … |
-| Part-list cueing effect | [[memory-retrieval-quirks]] | … | … |
-| Serial position effect | [[memory-retrieval-quirks]] | … | … |
-| Suffix effect | [[memory-retrieval-quirks]] | … | … |
+| Modality effect | [[memory-retrieval-quirks]] | established | not-a-lever |
+| Memory inhibition | [[memory-retrieval-quirks]] | supported | lever |
+| Primacy effect | [[memory-retrieval-quirks]] | established | lever |
+| Recency effect | [[memory-retrieval-quirks]] | established | lever |
+| Part-list cueing effect | [[memory-retrieval-quirks]] | supported | not-a-lever |
+| Serial position effect | [[memory-retrieval-quirks]] | established | lever |
+| Suffix effect | [[memory-retrieval-quirks]] | established | not-a-lever |
 
 ### We store memories differently based on how they were experienced
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Levels of processing effect | [[memory-retrieval-quirks]] | … | … |
-| Absent-mindedness | [[memory-retrieval-quirks]] | … | … |
-| Testing effect | [[memory-retrieval-quirks]] | … | … |
-| Next-in-line effect | [[memory-retrieval-quirks]] | … | … |
-| Google effect | [[memory-retrieval-quirks]] | … | … |
-| Tip of the tongue phenomenon | [[memory-retrieval-quirks]] | … | … |
+| Levels of processing effect | [[memory-retrieval-quirks]] | established | not-a-lever |
+| Absent-mindedness | [[memory-retrieval-quirks]] | established | observer-side |
+| Testing effect | [[memory-retrieval-quirks]] | established | not-a-lever |
+| Next-in-line effect | [[memory-retrieval-quirks]] | supported | not-a-lever |
+| Google effect | [[memory-retrieval-quirks]] | contested | not-a-lever |
+| Tip of the tongue phenomenon | [[memory-retrieval-quirks]] | established | observer-side |
 ## Caveats
 
 The codex is a **mnemonic, not a mechanistic taxonomy** [4]. Its four "problems" group biases by

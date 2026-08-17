@@ -4,7 +4,7 @@ type: tactic
 name: History-Rewriting
 aliases: [rewriting history, retroactive narrative control, denying the record]
 domains: [intimate-relationships, family-parents, workplace-bosses, propaganda-politics]
-exploits: [memory-fallibility, trust-mechanics]
+exploits: [memory-fallibility, trust-mechanics, memory-retrieval-quirks]
 co-occurs-with: [moving-goalposts]
 countered-by: [documentation-practices, verification-rituals]
 distinguished-from: [memory-divergence, honest-reinterpretation]

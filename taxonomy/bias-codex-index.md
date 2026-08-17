@@ -48,8 +48,8 @@ expectancy effect, not the physics concept.
 |---|---|---|---|
 | Availability heuristic | [[availability-salience]] | established | lever |
 | Attentional bias | [[availability-salience]] | supported | amplifier |
-| Illusory truth effect | [[fluency-familiarity]] | … | … |
-| Mere exposure effect | [[fluency-familiarity]] | … | … |
+| Illusory truth effect | [[fluency-familiarity]] | established | lever |
+| Mere exposure effect | [[fluency-familiarity]] | established | lever |
 | Context effect | [[memory-retrieval-quirks]] | contested | not-a-lever |
 | Cue-dependent forgetting | [[memory-retrieval-quirks]] | established | not-a-lever |
 | Mood-congruent memory bias | [[memory-retrieval-quirks]] | supported | amplifier |
@@ -157,7 +157,7 @@ expectancy effect, not the physics concept.
 | Halo effect | [[liking-similarity]] | established | lever |
 | Cheerleader effect | [[liking-similarity]] | … | … |
 | Positivity effect | [[memory-self-editing]] | established | amplifier |
-| Not invented here | [[fluency-familiarity]] | … | … |
+| Not invented here | [[fluency-familiarity]] | folk | observer-side |
 | Reactive devaluation | [[attribution-errors]] | supported | lever |
 | Well-traveled road effect | [[time-distortions]] | … | … |
 
@@ -249,14 +249,14 @@ expectancy effect, not the physics concept.
 | Sunk cost fallacy | [[commitment-consistency]] | established | lever |
 | Irrational escalation | [[commitment-consistency]] | established | lever |
 | Escalation of commitment | [[commitment-consistency]] | established | lever |
-| Generation effect | [[fluency-familiarity]] | … | … |
+| Generation effect | [[fluency-familiarity]] | established | lever |
 | Loss aversion | [[loss-aversion-endowment]] | established | lever |
-| IKEA effect | [[fluency-familiarity]] | … | … |
+| IKEA effect | [[fluency-familiarity]] | supported | lever |
 | Unit bias | [[choice-simplification]] | … | … |
 | Zero-risk bias | [[risk-misperception]] | … | … |
 | Disposition effect | [[loss-aversion-endowment]] | … | … |
 | Pseudocertainty effect | [[risk-misperception]] | … | … |
-| Processing difficulty effect | [[fluency-familiarity]] | … | … |
+| Processing difficulty effect | [[fluency-familiarity]] | contested | not-a-lever |
 | Endowment effect | [[loss-aversion-endowment]] | established | lever |
 | Backfire effect | [[confirmation-bias]] | contested | observer-side |
 
@@ -278,7 +278,7 @@ expectancy effect, not the physics concept.
 | Ambiguity bias | [[risk-misperception]] | … | … |
 | Information bias | [[choice-simplification]] | … | … |
 | Belief bias | [[confirmation-bias]] | established | lever |
-| Rhyme as reason effect | [[fluency-familiarity]] | … | … |
+| Rhyme as reason effect | [[fluency-familiarity]] | supported | lever |
 | Bike-shedding effect | [[choice-simplification]] | … | … |
 | Law of Triviality | [[choice-simplification]] | … | … |
 | Delmore effect | [[choice-simplification]] | … | … |

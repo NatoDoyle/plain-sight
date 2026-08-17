@@ -4,7 +4,7 @@ type: tactic
 name: Thought-Terminating Clichés
 aliases: [loaded language, thought stoppers, semantic stop signs]
 domains: [cults-high-control, propaganda-politics, family-parents, workplace-bosses]
-exploits: [certainty-needs, cognitive-overload-confusion, unity-ingroup]
+exploits: [certainty-needs, cognitive-overload-confusion, unity-ingroup, fluency-familiarity]
 co-occurs-with: [circular-conversation]
 countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [healthy-persuasion, honest-disagreement]

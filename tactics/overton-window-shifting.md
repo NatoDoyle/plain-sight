@@ -4,7 +4,7 @@ type: tactic
 name: Shifting the Overton Window
 aliases: [overton window, normalization of the extreme, window shifting, moving the overton window, normalizing the unthinkable]
 domains: [propaganda-politics, digital-platforms, cults-high-control]
-exploits: [framing-anchoring, social-proof, commitment-consistency, certainty-needs]
+exploits: [framing-anchoring, social-proof, commitment-consistency, certainty-needs, fluency-familiarity]
 co-occurs-with: [disinformation-playbooks, propaganda-devices, boundary-testing, bad-faith-argumentation, foot-in-the-door]
 enables: [radicalization-pipeline]
 countered-by: [inoculation-prebunking, detection-heuristics]

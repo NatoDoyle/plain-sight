@@ -196,6 +196,12 @@
 - [[history-rewriting]]
 - [[projection-blame-shifting]]
 
+### [[memory-self-editing]]
+- [[abuse-cycle]]
+- [[cult-conversion-funnel]]
+- [[hoovering]]
+- [[mlm-lifecycle]]
+
 ### [[mind-reading-illusions]]
 - [[cold-reading]]
 - [[emotional-blackmail]]
@@ -291,7 +297,7 @@
 
 ## By tactic (which levers this move pulls)
 
-- [[abuse-cycle]] → [[intermittent-reinforcement]]
+- [[abuse-cycle]] → [[intermittent-reinforcement]], [[memory-self-editing]]
 - [[affinity-fraud]] → [[authority]], [[social-proof]], [[trust-mechanics]], [[unity-ingroup]]
 - [[ai-enabled-manipulation]] → [[authority]], [[fear-exploitation]], [[liking-similarity]], [[pattern-illusions]], [[trust-mechanics]]
 - [[bad-faith-argumentation]] → [[cognitive-overload-confusion]], [[framing-anchoring]]
@@ -305,7 +311,7 @@
 - [[con-anatomy]] → [[commitment-consistency]], [[hope-greed]], [[trust-mechanics]]
 - [[conditional-love]] → [[attachment-needs]]
 - [[credit-theft-visibility]] → [[authority]], [[self-evaluation-illusions]]
-- [[cult-conversion-funnel]] → [[attachment-needs]], [[certainty-needs]], [[dissonance-exploitation]], [[unity-ingroup]]
+- [[cult-conversion-funnel]] → [[attachment-needs]], [[certainty-needs]], [[dissonance-exploitation]], [[memory-self-editing]], [[unity-ingroup]]
 - [[dark-patterns-obstruction]] → [[cognitive-overload-confusion]]
 - [[dark-patterns-social-urgency]] → [[availability-salience]], [[scarcity-urgency]], [[social-proof]]
 - [[darvo]] → [[attribution-errors]], [[memory-fallibility]], [[shame-leverage]], [[trust-mechanics]]
@@ -326,14 +332,14 @@
 - [[grooming-sequence]] → [[trust-mechanics]]
 - [[guilt-tripping]] → [[guilt-leverage]], [[reciprocity]]
 - [[history-rewriting]] → [[memory-fallibility]], [[trust-mechanics]]
-- [[hoovering]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]]
+- [[hoovering]] → [[attachment-needs]], [[hope-greed]], [[intermittent-reinforcement]], [[memory-self-editing]]
 - [[isolation-tactics]] → [[attachment-needs]], [[information-asymmetry]], [[trust-mechanics]]
 - [[love-bombing]] → [[attachment-needs]], [[intermittent-reinforcement]], [[liking-similarity]], [[reciprocity]]
 - [[lowballing]] → [[commitment-consistency]]
 - [[lying-typologies]] → [[information-asymmetry]], [[trust-mechanics]]
 - [[manufactured-urgency]] → [[cognitive-overload-confusion]], [[scarcity-urgency]]
 - [[mirroring-false-identity]] → [[attachment-needs]], [[liking-similarity]], [[trust-mechanics]]
-- [[mlm-lifecycle]] → [[commitment-consistency]], [[hope-greed]], [[social-proof]], [[unity-ingroup]]
+- [[mlm-lifecycle]] → [[commitment-consistency]], [[hope-greed]], [[memory-self-editing]], [[social-proof]], [[unity-ingroup]]
 - [[mlm-recruitment-scripts]] → [[hope-greed]], [[liking-similarity]], [[probability-blindspots]], [[scarcity-urgency]], [[self-evaluation-illusions]], [[social-proof]]
 - [[mobbing]] → [[social-proof]], [[unity-ingroup]]
 - [[moving-goalposts]] → [[commitment-consistency]], [[hope-greed]], [[intermittent-reinforcement]]

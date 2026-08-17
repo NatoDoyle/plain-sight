@@ -4,7 +4,7 @@ type: tactic
 name: Hoovering
 aliases: [hoover maneuver, sucking back in, re-contact campaign]
 domains: [intimate-relationships, family-parents, cults-high-control]
-exploits: [intermittent-reinforcement, attachment-needs, hope-greed]
+exploits: [intermittent-reinforcement, attachment-needs, hope-greed, memory-self-editing]
 co-occurs-with: [love-bombing, future-faking]
 countered-by: [no-contact-exit-planning, gray-rock]
 distinguished-from: [genuine-reconciliation, honest-hurt]
@@ -53,7 +53,7 @@ Hoovering runs on the engine documented in [[intermittent-reinforcement]]: a rel
 ### Felt-sense indicators
 
 - The lurch of hope at their name on your screen — followed by the old dread.
-- Re-litigating the breakup in your head, their best moments suddenly vivid and their worst ones fuzzy ([[memory-fallibility]] working for them).
+- Re-litigating the breakup in your head, their best moments suddenly vivid and their worst ones fuzzy ([[memory-self-editing]] working for them — no one has to suggest anything).
 - Guilt engineered by their crisis: feeling responsible for their wellbeing after leaving.
 - Exhaustion at the persistence — the sense that staying gone requires constant active defense.
 

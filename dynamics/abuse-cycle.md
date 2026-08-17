@@ -5,7 +5,7 @@ name: The Abuse Cycle
 aliases: [cycle of abuse, cycle of violence, cycle of domestic violence, tension-honeymoon cycle, Walker cycle]
 domains: [intimate-relationships, family-parents]
 composed-of: [love-bombing, hoovering, non-apology-patterns, future-faking, veiled-threats]
-exploits: [intermittent-reinforcement]
+exploits: [intermittent-reinforcement, memory-self-editing]
 enables: [trauma-bonding]
 countered-by: [detection-heuristics, dv-safety-planning]
 distinguished-from: [normal-relationship-conflict]

@@ -156,7 +156,7 @@ expectancy effect, not the physics concept.
 | In-group bias | [[unity-ingroup]] | established | lever |
 | Halo effect | [[liking-similarity]] | established | lever |
 | Cheerleader effect | [[liking-similarity]] | … | … |
-| Positivity effect | [[memory-self-editing]] | … | … |
+| Positivity effect | [[memory-self-editing]] | established | amplifier |
 | Not invented here | [[fluency-familiarity]] | … | … |
 | Reactive devaluation | [[attribution-errors]] | supported | lever |
 | Well-traveled road effect | [[time-distortions]] | … | … |
@@ -190,10 +190,10 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Telescoping effect | [[memory-self-editing]] | … | … |
-| Rosy retrospection | [[memory-self-editing]] | … | … |
-| Hindsight bias | [[memory-self-editing]] | … | … |
-| Outcome bias | [[memory-self-editing]] | … | … |
+| Telescoping effect | [[memory-self-editing]] | established | observer-side |
+| Rosy retrospection | [[memory-self-editing]] | supported | lever |
+| Hindsight bias | [[memory-self-editing]] | established | lever |
+| Outcome bias | [[memory-self-editing]] | established | lever |
 | Moral luck | [[attribution-errors]] | supported | observer-side |
 | Declinism | [[time-distortions]] | … | … |
 | Impact bias | [[time-distortions]] | … | … |
@@ -203,7 +203,7 @@ expectancy effect, not the physics concept.
 | Pro-innovation bias | [[time-distortions]] | … | … |
 | Projection bias | [[time-distortions]] | … | … |
 | Restraint bias | [[self-evaluation-illusions]] | supported | lever |
-| Self-consistency bias | [[memory-self-editing]] | … | … |
+| Self-consistency bias | [[memory-self-editing]] | supported | lever |
 
 ## 3. Need To Act Fast (53 entries)
 
@@ -293,9 +293,9 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Misattribution of memory | [[memory-self-editing]] | … | … |
-| Source confusion | [[memory-self-editing]] | … | … |
-| Cryptomnesia | [[memory-self-editing]] | … | … |
+| Misattribution of memory | [[memory-self-editing]] | established | lever |
+| Source confusion | [[memory-self-editing]] | established | lever |
+| Cryptomnesia | [[memory-self-editing]] | supported | not-a-lever |
 | False memory | [[memory-fallibility]] | established | lever |
 | Suggestibility | [[memory-fallibility]] | established | lever |
 | Spacing effect | [[memory-retrieval-quirks]] | … | … |
@@ -309,18 +309,18 @@ expectancy effect, not the physics concept.
 | Stereotypical bias | [[stereotyping-essentialism]] | … | … |
 | Prejudice | [[stereotyping-essentialism]] | … | … |
 | Negativity bias *(dual-listed: Q1.2 + Q4.2)* | [[availability-salience]] | established | lever |
-| Fading affect bias | [[memory-self-editing]] | … | … |
+| Fading affect bias | [[memory-self-editing]] | established | lever |
 
 ### We reduce events and lists to their key elements
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Peak–end rule | [[memory-self-editing]] | … | … |
-| Leveling and sharpening | [[memory-self-editing]] | … | … |
+| Peak–end rule | [[memory-self-editing]] | contested | lever |
+| Leveling and sharpening | [[memory-self-editing]] | contested | amplifier |
 | Misinformation effect | [[memory-fallibility]] | established | lever |
 | Serial recall effect | [[memory-retrieval-quirks]] | … | … |
 | List-length effect | [[memory-retrieval-quirks]] | … | … |
-| Duration neglect | [[memory-self-editing]] | … | … |
+| Duration neglect | [[memory-self-editing]] | established | amplifier |
 | Modality effect | [[memory-retrieval-quirks]] | … | … |
 | Memory inhibition | [[memory-retrieval-quirks]] | … | … |
 | Primacy effect | [[memory-retrieval-quirks]] | … | … |

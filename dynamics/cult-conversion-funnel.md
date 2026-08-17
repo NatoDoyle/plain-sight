@@ -5,7 +5,7 @@ name: Cult Conversion Funnel
 aliases: [cult recruitment, high-control group conversion, thought reform, undue influence funnel, coercive persuasion]
 domains: [cults-high-control]
 composed-of: [love-bombing, isolation-tactics, thought-terminating-cliches, future-faking]
-exploits: [unity-ingroup, attachment-needs, certainty-needs, dissonance-exploitation]
+exploits: [unity-ingroup, attachment-needs, certainty-needs, dissonance-exploitation, memory-self-editing]
 co-occurs-with: [mlm-lifecycle]
 countered-by: [cult-exit-support, inoculation-prebunking, detection-heuristics]
 distinguished-from: [genuine-community, legitimate-religion]

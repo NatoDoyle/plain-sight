@@ -204,7 +204,7 @@ Owner-requested expansion: integrate all **188 unique entries** of the Cognitive
 - [ ] `stereotyping-essentialism` — stereotyping, implicit associations (IAT validity flagged), prejudice, essentialism, out-group homogeneity, cross-race effect
 - [x] `mind-reading-illusions` — illusions of transparency/asymmetric insight/external agency, spotlight effect, curse of knowledge, naïve realism, naïve cynicism, false consensus, extrinsic incentive error
 - [x] `self-evaluation-illusions` — Dunning-Kruger (mechanism contested), illusory superiority, hard-easy effect, egocentric bias, illusion of control, restraint bias, moral licensing, social desirability, social comparison bias
-- [ ] `memory-self-editing` — hindsight bias, outcome bias, rosy retrospection, telescoping, fading affect, positivity effect, peak-end rule, duration neglect, self-consistency bias, misattribution/source confusion, cryptomnesia, leveling & sharpening
+- [x] `memory-self-editing` — hindsight bias, outcome bias, rosy retrospection, telescoping, fading affect, positivity effect, peak-end rule, duration neglect, self-consistency bias, misattribution/source confusion, cryptomnesia, leveling & sharpening
 - [ ] `memory-retrieval-quirks` — serial-position family, spacing/testing/levels-of-processing effects, tip-of-the-tongue, absent-mindedness, Google effect (contested); mostly observer-side lab effects, said plainly
 - [ ] `time-distortions` — hyperbolic discounting (present bias), planning fallacy, impact/projection/pessimism bias, declinism, appeal to novelty, pro-innovation bias, time-saving bias, well-traveled-road effect
 - [ ] `risk-misperception` — normalcy bias, ostrich effect, zero-risk bias, pseudocertainty, omission bias, risk compensation (Peltzman), ambiguity aversion

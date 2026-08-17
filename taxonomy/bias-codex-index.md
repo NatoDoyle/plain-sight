@@ -159,7 +159,7 @@ expectancy effect, not the physics concept.
 | Positivity effect | [[memory-self-editing]] | established | amplifier |
 | Not invented here | [[fluency-familiarity]] | folk | observer-side |
 | Reactive devaluation | [[attribution-errors]] | supported | lever |
-| Well-traveled road effect | [[time-distortions]] | … | … |
+| Well-traveled road effect | [[time-distortions]] | folk | not-a-lever |
 
 ### We simplify probabilities and numbers to make them easier to think about
 
@@ -195,13 +195,13 @@ expectancy effect, not the physics concept.
 | Hindsight bias | [[memory-self-editing]] | established | lever |
 | Outcome bias | [[memory-self-editing]] | established | lever |
 | Moral luck | [[attribution-errors]] | supported | observer-side |
-| Declinism | [[time-distortions]] | … | … |
-| Impact bias | [[time-distortions]] | … | … |
-| Pessimism bias | [[time-distortions]] | … | … |
-| Planning fallacy | [[time-distortions]] | … | … |
-| Time-saving bias | [[time-distortions]] | … | … |
-| Pro-innovation bias | [[time-distortions]] | … | … |
-| Projection bias | [[time-distortions]] | … | … |
+| Declinism | [[time-distortions]] | established | lever |
+| Impact bias | [[time-distortions]] | contested | lever |
+| Pessimism bias | [[time-distortions]] | supported | amplifier |
+| Planning fallacy | [[time-distortions]] | supported | amplifier |
+| Time-saving bias | [[time-distortions]] | supported | not-a-lever |
+| Pro-innovation bias | [[time-distortions]] | supported | lever |
+| Projection bias | [[time-distortions]] | supported | lever |
 | Restraint bias | [[self-evaluation-illusions]] | supported | lever |
 | Self-consistency bias | [[memory-self-editing]] | supported | lever |
 
@@ -238,8 +238,8 @@ expectancy effect, not the physics concept.
 
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
-| Hyperbolic discounting | [[time-distortions]] | … | … |
-| Appeal to novelty | [[time-distortions]] | … | … |
+| Hyperbolic discounting | [[time-distortions]] | supported | lever |
+| Appeal to novelty | [[time-distortions]] | n/a (logic, not empirics) | lever |
 | Identifiable victim effect | [[probability-blindspots]] | contested | lever |
 
 ### To get anything done, we tend to complete things we've invested time & energy in.

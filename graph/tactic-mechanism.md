@@ -282,6 +282,10 @@
 - [[propaganda-devices]]
 - [[radicalization-pipeline]]
 
+### [[time-distortions]]
+- [[future-faking]]
+- [[manufactured-urgency]]
+
 ### [[trust-mechanics]]
 - [[affinity-fraud]]
 - [[ai-enabled-manipulation]]
@@ -346,7 +350,7 @@
 - [[foot-in-the-door]] → [[commitment-consistency]]
 - [[four-square-payment-packing]] → [[cognitive-overload-confusion]], [[commitment-consistency]], [[information-asymmetry]], [[memory-retrieval-quirks]]
 - [[fud-competitor-tactics]] → [[availability-salience]], [[fear-exploitation]], [[information-asymmetry]], [[loss-aversion-endowment]], [[risk-misperception]]
-- [[future-faking]] → [[attachment-needs]], [[commitment-consistency]], [[hope-greed]]
+- [[future-faking]] → [[attachment-needs]], [[commitment-consistency]], [[hope-greed]], [[time-distortions]]
 - [[gaslighting]] → [[attachment-needs]], [[certainty-needs]], [[memory-fallibility]], [[mind-reading-illusions]], [[trust-mechanics]]
 - [[golden-child-scapegoat]] → [[attachment-needs]], [[attribution-errors]]
 - [[grooming-sequence]] → [[trust-mechanics]]
@@ -357,7 +361,7 @@
 - [[love-bombing]] → [[attachment-needs]], [[intermittent-reinforcement]], [[liking-similarity]], [[reciprocity]]
 - [[lowballing]] → [[commitment-consistency]]
 - [[lying-typologies]] → [[information-asymmetry]], [[trust-mechanics]]
-- [[manufactured-urgency]] → [[cognitive-overload-confusion]], [[scarcity-urgency]]
+- [[manufactured-urgency]] → [[cognitive-overload-confusion]], [[scarcity-urgency]], [[time-distortions]]
 - [[mirroring-false-identity]] → [[attachment-needs]], [[liking-similarity]], [[trust-mechanics]]
 - [[mlm-lifecycle]] → [[commitment-consistency]], [[hope-greed]], [[memory-self-editing]], [[social-proof]], [[unity-ingroup]]
 - [[mlm-recruitment-scripts]] → [[hope-greed]], [[liking-similarity]], [[probability-blindspots]], [[scarcity-urgency]], [[self-evaluation-illusions]], [[social-proof]]

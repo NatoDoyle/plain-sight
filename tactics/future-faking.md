@@ -4,7 +4,7 @@ type: tactic
 name: Future-Faking
 aliases: [empty promises, the carrot that never comes, false promising]
 domains: [intimate-relationships, sales, workplace-bosses, scams-fraud]
-exploits: [hope-greed, attachment-needs, commitment-consistency]
+exploits: [hope-greed, attachment-needs, commitment-consistency, time-distortions]
 co-occurs-with: [mirroring-false-identity]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-aspiration, honest-hurt]

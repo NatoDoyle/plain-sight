@@ -4,7 +4,7 @@ type: tactic
 name: Manufactured Urgency
 aliases: [pressure close, time pressure, act-now, fake deadline, pressure selling, now-or-never]
 domains: [sales, scams-fraud, digital-platforms, intimate-relationships]
-exploits: [scarcity-urgency, cognitive-overload-confusion]
+exploits: [scarcity-urgency, cognitive-overload-confusion, time-distortions]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-deadline, hard-bargaining]
 targets: [scarcity-stress]

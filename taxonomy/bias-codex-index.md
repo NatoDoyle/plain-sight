@@ -3,8 +3,8 @@ id: bias-codex-index
 type: meta
 name: Cognitive Bias Codex Index
 aliases: [cognitive bias codex, bias codex, cognitive bias cheat sheet, benson codex]
-status: researching
-last-updated: 2026-08-04
+status: complete
+last-updated: 2026-08-18
 ---
 
 # Cognitive Bias Codex Index
@@ -34,7 +34,7 @@ defense KB:
 - **observer-side** — biases the *defender's* judgment; feeds [[epistemic-guardrails]], not tactics.
 - **not-a-lever** — no meaningful exploitation angle; included for completeness and said plainly.
 
-Rows marked … are provisional until their home file's topic completes (see `ROADMAP.md` Tier 9).
+**Every row is graded.** Tier 9 completed 2026-08-18: all 189 listed entries resolve to a KB home that exists, each with an evidence grade and an exploitation-relevance label. The distribution is itself a finding — 95 established, 54 supported, 22 contested, 12 folk, 5 informal-logic entries with no empirical grade, and one entry (Occam's razor) that is not a bias at all. Roughly a fifth of the codex is contested, folk, or miscategorized, and the KB says so per entry rather than averaging it away.
 Confusable names: **recency illusion** (linguistics; → [[pattern-illusions]]) is not the **recency
 effect** (memory serial position; → [[memory-retrieval-quirks]]); **observer effect** here is the
 expectancy effect, not the physics concept.

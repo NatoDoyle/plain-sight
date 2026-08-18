@@ -13,7 +13,7 @@ last-updated: 2026-07-01
 
 ## Final inventory
 
-**151 files, all `status: complete`, 0 validation errors.** By type:
+**166 files, all `status: complete`, 0 validation errors, 0 warnings.** By type:
 
 | Type | Count | |
 |---|---|---|
@@ -26,7 +26,9 @@ last-updated: 2026-07-01
 | defense | 15 | counters, exit, recovery |
 | meta | 8 | foundations + synthesis |
 
-This matches the ROADMAP backlog (151/151 checked). Tiers 0–7 complete, plus a 2026-07-01 maintenance/QA pass (Tier 8: `emergent-insights`, `tone-policing`, `spiritual-abuse`, `overton-window-shifting`).
+This matches the ROADMAP backlog (166/166 checked). Tiers 0–7 complete, plus a 2026-07-01 maintenance/QA pass (Tier 8: `emergent-insights`, `tone-policing`, `spiritual-abuse`, `overton-window-shifting`) and **Tier 9 — Cognitive Bias Codex integration (2026-08-18)**: 14 clustered mechanism files, 6 extended files, 13 pointer aliases, and `bias-codex-index` mapping all 189 listed codex entries (188 unique) to a graded home.
+
+**Tier 9 open items** (logged per-file in `sources/bibliographies/`, none load-bearing): several files carry pre-`complete` citation spot-checks that could not be closed within per-agent web budgets — notably Winters & Jeglic 2017 (anchors the no-grooming-detection-signal fence in `fluency-familiarity`), Bond et al. 2022 (the reduced-not-reversed PTSD moderator in `memory-self-editing`), Flyvbjerg's "that is, lying" verbatim and Ruggeri et al. 2022 in `time-distortions`, and six items in `stereotyping-essentialism`. Each is flagged in its own bibliography with the claim it supports; none carries a load-bearing body claim without an in-line hedge.
 
 ## Graph health
 

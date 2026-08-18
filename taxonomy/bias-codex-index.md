@@ -138,7 +138,7 @@ expectancy effect, not the physics concept.
 | Ultimate attribution error | [[attribution-errors]] | supported | lever |
 | Stereotyping | [[stereotyping-essentialism]] | established | lever |
 | Essentialism | [[stereotyping-essentialism]] | established | lever |
-| Functional fixedness | [[choice-simplification]] | … | … |
+| Functional fixedness | [[choice-simplification]] | established | not-a-lever |
 | Moral credential effect | [[self-evaluation-illusions]] | contested | lever |
 | Just-world hypothesis | [[attribution-errors]] | established | amplifier |
 | Argument from fallacy | [[confirmation-bias]] | n/a (logic, not empirics) | lever |
@@ -252,7 +252,7 @@ expectancy effect, not the physics concept.
 | Generation effect | [[fluency-familiarity]] | established | lever |
 | Loss aversion | [[loss-aversion-endowment]] | established | lever |
 | IKEA effect | [[fluency-familiarity]] | supported | lever |
-| Unit bias | [[choice-simplification]] | … | … |
+| Unit bias | [[choice-simplification]] | established | lever |
 | Zero-risk bias | [[risk-misperception]] | supported | lever |
 | Disposition effect | [[loss-aversion-endowment]] | … | … |
 | Pseudocertainty effect | [[risk-misperception]] | supported | lever |
@@ -276,15 +276,15 @@ expectancy effect, not the physics concept.
 | Codex entry | KB home | Evidence | Relevance |
 |---|---|---|---|
 | Ambiguity bias | [[risk-misperception]] | established | lever |
-| Information bias | [[choice-simplification]] | … | … |
+| Information bias | [[choice-simplification]] | supported | observer-side |
 | Belief bias | [[confirmation-bias]] | established | lever |
 | Rhyme as reason effect | [[fluency-familiarity]] | supported | lever |
-| Bike-shedding effect | [[choice-simplification]] | … | … |
-| Law of Triviality | [[choice-simplification]] | … | … |
-| Delmore effect | [[choice-simplification]] | … | … |
+| Bike-shedding effect | [[choice-simplification]] | folk | lever |
+| Law of Triviality | [[choice-simplification]] | folk | lever |
+| Delmore effect | [[choice-simplification]] | folk | not-a-lever |
 | Conjunction fallacy | [[probability-blindspots]] | established | lever |
-| Occam's razor | [[choice-simplification]] | … | … |
-| Less-is-better effect | [[choice-simplification]] | … | … |
+| Occam's razor | [[choice-simplification]] | n/a (not a bias) | not-a-lever |
+| Less-is-better effect | [[choice-simplification]] | supported | lever |
 
 ## 4. What Should We Remember? (31 entries)
 

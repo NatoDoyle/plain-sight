@@ -209,4 +209,4 @@ Owner-requested expansion: integrate all **188 unique entries** of the Cognitive
 - [x] `time-distortions` — hyperbolic discounting (present bias), planning fallacy, impact/projection/pessimism bias, declinism, appeal to novelty, pro-innovation bias, time-saving bias, well-traveled-road effect
 - [x] `risk-misperception` — normalcy bias, ostrich effect, zero-risk bias, pseudocertainty, omission bias, risk compensation (Peltzman), ambiguity aversion
 - [x] `fluency-familiarity` — mere exposure, illusory truth, processing fluency, rhyme-as-reason, processing-difficulty (disfluency), generation effect, IKEA effect, not-invented-here
-- [ ] `choice-simplification` — less-is-better, information bias, unit bias, functional fixedness, bike-shedding (Law of Triviality), Delmore effect (folk), Occam's-razor boundary note
+- [x] `choice-simplification` — less-is-better, information bias, unit bias, functional fixedness, bike-shedding (Law of Triviality), Delmore effect (folk), Occam's-razor boundary note

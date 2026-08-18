@@ -2,7 +2,7 @@
 id: trauma-bonding
 type: dynamic
 name: Trauma Bonding
-aliases: [traumatic bonding, betrayal bond, abuse bond, bonding to an abuser]
+aliases: [traumatic bonding, betrayal bond, abuse bond, bonding to an abuser, Stockholm syndrome]
 domains: [intimate-relationships, family-parents, cults-high-control]
 exploits: [intermittent-reinforcement, attachment-needs]
 co-occurs-with: [love-bombing, isolation-tactics]
@@ -12,7 +12,7 @@ severity: high
 evidence: supported
 safety: dv-escalation
 status: complete
-last-updated: 2026-06-20
+last-updated: 2026-08-19
 ---
 
 # Trauma Bonding
@@ -54,7 +54,7 @@ Because the bond resists extinction, willpower alone rarely breaks it — and am
 
 ## Caveats & false positives
 
-- **It is NOT "Stockholm syndrome"** (*stockholm syndrome*): that popular construct (a supposedly reciprocal captor-captive bond) is **contested and weakly evidenced** — not a DSM diagnosis, seen in only ~5–8% of hostages, coined after the 1973 Norrmalmstorg robbery and arguably used to *discredit* a hostage who criticized the police. Trauma bonding (one-directional, victim-to-abuser, grounded in Dutton & Painter) is the better-supported concept; don't borrow Stockholm syndrome's authority or conflate the two [4].
+- **It is NOT "Stockholm syndrome"** (*stockholm syndrome*): that popular construct (a supposedly reciprocal captor-captive bond) is **contested and weakly evidenced** — not a DSM diagnosis, seen in only ~5–8% of hostages, coined after the 1973 Norrmalmstorg robbery and arguably used to *discredit* a hostage who criticized the police. Trauma bonding (one-directional, victim-to-abuser, grounded in Dutton & Painter) is the better-supported concept; don't borrow Stockholm syndrome's authority or conflate the two [4]. *(This file therefore carries "Stockholm syndrome" both as a search alias and as a `distinguished-from` contrast — deliberately, and not a bookkeeping slip: people arrive using the popular name, and this is the file that has to tell them it is contested. The alias routes the phrase here; the edge records that the two are not the same thing.)*
 - **It does NOT mean "bonding over shared hardship"** (*shared hardship bonding*): the widespread social-media misuse — "my coworkers and I trauma-bonded over a brutal quarter" — describes ordinary, healthy closeness between *equals* going through adversity *together*. That is not this. Trauma bonding is attachment to *the source of the harm*. This concept-creep drift (accelerated on TikTok) hollows the term out; the file uses the original, specific meaning [5].
 - **Strong attachment is not, by itself, evidence of abuse.** Healthy relationships also produce deep bonds and hard-to-leave feelings; intense love and difficulty separating are normal. The marker of *trauma* bonding is the specific structure — **power imbalance + intermittent harm-and-relief**, with the bond strengthening as treatment worsens — not merely loving someone or struggling to leave a painful relationship. Don't pathologize ordinary heartbreak or commitment.
 - **Naming someone else's bond is delicate**: telling a person "you're trauma-bonded" rarely lands and can deepen isolation if it feels like judgment. Recognition is most useful from the inside, or offered gently and without ultimatum.

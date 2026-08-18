@@ -5,7 +5,7 @@ name: Felt-Sense Index
 aliases: [reverse index, symptom index, how it feels, what am i feeling, start here, where do i start]
 safety: crisis-escalation
 status: complete
-last-updated: 2026-08-18
+last-updated: 2026-08-19
 ---
 
 # Felt-Sense Index
@@ -29,8 +29,8 @@ last-updated: 2026-08-18
 **Could also be:** *memory divergence* or *honest disagreement* — two people genuinely remember/see it differently, with no one rewriting reality. → [[documentation-practices]]
 
 ### "I'm always walking on eggshells / bracing for the next blow-up"
-**Candidates:** [[coercive-control]] · [[intermittent-reinforcement]] · [[silent-treatment]] · [[veiled-threats]] · [[abuse-cycle]] · [[emotional-flooding]]
-**Could also be:** *normal relationship conflict* or someone going through a genuinely hard stretch — tension that is mutual, discussable, and not enforced by fear. → [[detection-heuristics]]
+**Candidates:** [[coercive-control]] · [[intermittent-reinforcement]] · [[silent-treatment]] · [[veiled-threats]] · [[abuse-cycle]] · [[emotional-flooding]] · [[stalkerware-monitoring]] (if the bracing includes pre-checking your own phone or messages)
+**Could also be:** *normal relationship conflict* or someone going through a genuinely hard stretch — tension that is mutual, discussable, and not enforced by fear. → [[detection-heuristics]] · **SAFETY:** where the bracing is fear of what they will do, that comes first — [[dv-safety-planning]]
 
 ### "I feel guilty all the time / responsible for their feelings"
 **Candidates:** [[guilt-tripping]] · [[emotional-blackmail]] · [[self-harm-threats]] · [[conditional-love]] · [[pity-plays]]
@@ -46,7 +46,7 @@ last-updated: 2026-08-18
 **Could also be:** *limerence* or *genuine rapport* — real early-relationship intensity and real compatibility exist. The tell is pressure, idealization, and speed that *resists slowing down*. → [[verification-rituals]]
 
 ### "I feel pressured to decide RIGHT NOW"
-**Candidates:** [[manufactured-urgency]] · [[scarcity-urgency]] · [[foot-in-the-door]] · [[dark-patterns-social-urgency]] · [[four-square-payment-packing]] · [[bad-faith-negotiation]]
+**Candidates:** [[manufactured-urgency]] · [[scarcity-urgency]] · [[foot-in-the-door]] · [[dark-patterns-social-urgency]] · [[four-square-payment-packing]] · [[bad-faith-negotiation]] · [[scams-fraud]] / [[phishing-pretexting]] (a caller or message manufacturing the deadline — "don't hang up", "move it to a safe account")
 **Could also be:** *genuine deadline* or *genuine opportunity* — some deadlines are real. The test: does it survive you saying "I need to sleep on it"? → [[detection-heuristics]]
 
 ### "I feel smaller, drained, never quite good enough around them"
@@ -60,7 +60,7 @@ last-updated: 2026-08-18
 **Could also be:** *self protective distance* (yours, by choice) or natural life drift. The tell is *someone else engineering* the isolation. → [[helping-others]] (for a worried friend) · [[no-contact-exit-planning]]
 
 ### "I feel watched, tracked, or checked up on"
-**Candidates:** [[stalkerware-monitoring]] · [[coercive-control]]
+**Candidates:** [[stalkerware-monitoring]] · [[coercive-control]] · [[gaslighting]] (when noticing it gets you called paranoid)
 **Could also be:** *consensual monitoring* or *shared financial management* — monitoring both freely agreed to and can revoke. The tell is secrecy, coercion, or no opt-out. → **SAFETY:** [[dv-safety-planning]] (assume devices may be monitored)
 
 ### "I want to believe it so much — the returns/opportunity are incredible"
@@ -90,7 +90,7 @@ last-updated: 2026-08-18
 **Could also be:** *genuine reconciliation* — real repair involves changed behavior over time, not just words at the moment you're leaving. → [[no-contact-exit-planning]]
 
 ### "I feel special and chosen — this group/person finally *gets* me"
-**Candidates:** [[love-bombing]] · [[cult-conversion-funnel]] · [[unity-ingroup]] · [[radicalization-pipeline]] · [[we-are-family-rhetoric]]
+**Candidates:** [[love-bombing]] · [[cult-conversion-funnel]] · [[unity-ingroup]] · [[radicalization-pipeline]] · [[we-are-family-rhetoric]] · [[spiritual-abuse]] (where the group is a religious one)
 **Could also be:** *genuine community* or *legitimate religion* — belonging is a real human good. The markers of harm are deception, exploitation, and *punished exit* — not intensity or sincerity. → [[cult-exit-support]]
 
 ### "I'm overwhelmed by the paperwork/terms/details and just want it to be over"

@@ -7,13 +7,13 @@ domains: [family-parents, scams-fraud]
 exploits: [trust-mechanics, attachment-needs]
 co-occurs-with: [isolation-tactics, financial-abuse]
 countered-by: [verification-rituals, detection-heuristics]
-distinguished-from: [legitimate-caregiving]
+distinguished-from: [legitimate-caregiving, genuine-generosity]
 targets: [cognitive-decline-age, loneliness-isolation]
 severity: high
 safety: elder-abuse-escalation
 evidence: supported
 status: complete
-last-updated: 2026-07-01
+last-updated: 2026-08-19
 ---
 
 # Elder Targeting

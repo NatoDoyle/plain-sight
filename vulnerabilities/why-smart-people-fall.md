@@ -3,10 +3,10 @@ id: why-smart-people-fall
 type: vulnerability
 name: Why Smart People Fall
 aliases: [intelligence isn't protective, anyone can be fooled, smart people get scammed, vulnerability is universal]
-distinguished-from: [justified-confidence]
+distinguished-from: [justified-confidence, ordinary-obliviousness]
 evidence: supported
 status: complete
-last-updated: 2026-06-29
+last-updated: 2026-08-19
 ---
 
 # Why Smart People Fall

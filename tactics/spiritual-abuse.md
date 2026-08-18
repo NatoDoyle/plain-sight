@@ -8,12 +8,12 @@ exploits: [fear-exploitation, authority, guilt-leverage, shame-leverage, certain
 co-occurs-with: [conditional-love, thought-terminating-cliches, isolation-tactics, we-are-family-rhetoric, emotional-blackmail]
 escalates-to: [coercive-control]
 countered-by: [cult-exit-support, boundary-scripts, detection-heuristics, recovery-rebuilding, dv-safety-planning]
-distinguished-from: [legitimate-religion, affinity-fraud]
+distinguished-from: [legitimate-religion, affinity-fraud, genuine-community]
 severity: high
 evidence: supported
 safety: cult-exit-support
 status: complete
-last-updated: 2026-07-01
+last-updated: 2026-08-19
 ---
 
 # Spiritual Abuse

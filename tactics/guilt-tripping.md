@@ -8,14 +8,14 @@ exploits: [guilt-leverage, reciprocity]
 co-occurs-with: [victim-posturing, conditional-love]
 escalates-to: [emotional-blackmail]
 countered-by: [boundary-scripts, jade-avoidance]
-distinguished-from: [honest-hurt, assertiveness]
+distinguished-from: [honest-hurt, assertiveness, cultural-difference, genuine-generosity]
 favored-by: [everyday-manipulators]
 targets: [people-pleasing-fawn]
 severity: medium
 evidence: supported
 safety: crisis-escalation
 status: complete
-last-updated: 2026-06-30
+last-updated: 2026-08-19
 ---
 
 # Guilt-Tripping

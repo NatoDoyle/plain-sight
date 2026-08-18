@@ -6,11 +6,11 @@ aliases: [weaponized PIP, managed out, sham performance improvement plan, paper 
 domains: [workplace-bosses]
 exploits: [fear-exploitation, attribution-errors]
 countered-by: [documentation-practices, detection-heuristics]
-distinguished-from: [legitimate-performance-management]
+distinguished-from: [legitimate-performance-management, honest-feedback]
 severity: medium
 evidence: supported
 status: complete
-last-updated: 2026-06-24
+last-updated: 2026-08-19
 ---
 
 # PIP Weaponization

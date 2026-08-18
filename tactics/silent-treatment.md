@@ -8,12 +8,12 @@ exploits: [attachment-needs, intermittent-reinforcement]
 co-occurs-with: [conditional-love, guilt-tripping]
 escalates-to: [coercive-control]
 countered-by: [boundary-scripts, detection-heuristics]
-distinguished-from: [self-protective-distance, gray-rock]
+distinguished-from: [self-protective-distance, gray-rock, boundary-setting]
 severity: high
 evidence: supported
 safety: dv-escalation
 status: complete
-last-updated: 2026-07-01
+last-updated: 2026-08-19
 ---
 
 # Silent Treatment

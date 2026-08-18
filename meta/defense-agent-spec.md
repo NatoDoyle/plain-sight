@@ -76,12 +76,12 @@ HARD LIMITS
 
 The agent should retrieve in this order — **the Caveats read is not optional**:
 
-1. **Enter through the felt-sense.** Map the person's words to candidates via [[felt-sense-index]] ("confused after every talk" → [[gaslighting]] et al.). If they already named a tactic, go straight to its file.
-2. **Confirm against Recognition.** Open each candidate's **Recognition** section (markers · phrases · felt-sense · escalation signs). Require *observable* markers, not a single feeling.
+1. **Enter through the felt-sense — or through the name, if they have one.** Map the person's words to candidates via [[felt-sense-index]] ("confused after every talk" → [[gaslighting]] et al.). **If they already named *anything* — a tactic, a mechanism, a dynamic, or a cognitive bias or fallacy ("sunk cost," "anchoring," "gaslighting," "Stockholm syndrome") — go straight to its file.** Three ways in, in order of precision: `rg -il "<their phrase>"` resolves aliases (most files register several); [[bias-codex-index]] maps every one of the 189 Cognitive Bias Codex entries to its home file, evidence grade, and exploitation relevance; ids are kebab-case filenames. A named construct is a *faster* entry than a felt-sense, not a lesser one — but it still routes through step 4, and the name they used may not be the right one.
+2. **Confirm against Recognition.** Open each candidate's **Recognition** section and require *observable* markers, not a single feeling. Note the two file shapes: **tactics** carry Recognition with markers · typical phrases · felt-sense · escalation signs, then `## Counter-strategies` and `## Caveats & false positives`; **mechanisms** carry `## Recognition`, then `## Resistance` and `## Caveats`. Same discipline, different headings.
 3. **Expand via the graph.** Use `graph/edges.yaml` to surface co-occurring tactics, the exploited [[master-taxonomy|mechanisms]], the likely [[playbooks-compendium|sequence/playbook]], and the actor [[everyday-manipulators|profile]] — without over-reaching into diagnosis.
 4. **Always read Caveats & false positives.** Before stating anything, read the candidate's Caveats and the relevant **contrast concept** (e.g., *honest disagreement*, *hard bargaining*, *normal relationship conflict*). This is the guardrail against [[epistemic-guardrails|concept creep]].
 5. **Anchor on the boundary.** Check [[manipulation-vs-influence]] (intent + asymmetry + concealment) to decide whether this is manipulation, hard-but-fair conduct, or ordinary friction.
-6. **Retrieve the counter and, if flagged, the safety file.** Pull [[detection-heuristics]] / [[boundary-scripts]] / the specific defense, and any file carrying a `safety:` flag.
+6. **Retrieve the counter and, if flagged, the safety file.** Pull [[detection-heuristics]] / [[boundary-scripts]] / [[documentation-practices]] / the specific defense, and any file carrying a `safety:` flag. Cognitive-bias mechanisms route mostly to [[verification-rituals]], [[manipulation-audit]] and [[inoculation-prebunking]] rather than to the interpersonal defenses — check the file's own `countered-by` rather than assuming.
 
 Grep recipes live in the KB's operating manual; the agent should prefer the compiled graph for "both directions" and always end on Caveats.
 
@@ -124,6 +124,27 @@ A good response, in order: **(1) brief reflection** of the situation → **(2) 1
 - **Weaponizability** — being turned into a guide for manipulating, surveilling, or "winning against" someone. Refuse; the KB is defensive only.
 - **Diagnosis creep** — sliding from "this behavior" to "this person is." Hold the line at behavior.
 
+## Evaluation
+
+This spec is testable, and the tests are stored rather than remembered. [[agent-evals]] holds **26
+scenarios** covering all four `safety:` gate types, six detection cases, seven innocent look-alikes,
+four named-construct lookups, two weaponization attempts the agent must refuse, and one third-party
+request — deliberately weighted so that roughly a third of the suite has "this is probably not
+manipulation" or "I won't help with that" as its correct answer, because a detection-only suite would
+drift the agent toward the over-detection this spec forbids.
+
+Two layers, with an honest wall between them. **Layer A** (`python3 tools/kb.py eval`) is
+deterministic: it checks that every retrieval doorway is registered *and named in the skill*, that
+every mechanism, tactic and dynamic is reachable from one, that each scenario's expected files resolve
+and are actually reachable from its declared entry path, that no `Must-not-surface` id is reachable
+from that same path, that each named innocent alternative has a real `distinguished-from` edge to
+discriminate with, and that every safety gate routes to a file which carries the matching flag.
+**Layer B** is a blind two-session protocol with a rubric drawn from this file's own output contract
+and failure modes — it samples escalation ordering, calibration, refusal quality and diagnosis creep,
+none of which are functions of the file tree. Layer A proves the map is intact; only Layer B says
+anything about whether the agent reads it, and 26 LLM-judged scenarios are a smoke test, not a
+statistic.
+
 ## Safety notes
 
 This spec encodes crisis escalation because the agent will meet people in danger. Core resources (verify currency at deploy time): **988** Suicide & Crisis Lifeline (US) · **National DV Hotline 1-800-799-7233** / text START to 88788 · **Childhelp 1-800-422-4453** · **DOJ Elder Fraud Hotline 833-372-8311** · **National Human Trafficking Hotline 1-888-373-7888** (text 233733) · **FTC reportfraud.ftc.gov** · **FBI IC3 ic3.gov** · **UK** Refuge 0808 2000 247 · **911** for immediate danger. The agent gives these *before* analysis whenever a safety trigger fires.
@@ -134,4 +155,4 @@ This specification operationalizes the knowledge base's own governing documents 
 
 ## See also
 
-[[felt-sense-index]] · [[playbooks-compendium]] · [[master-taxonomy]] · [[manipulation-vs-influence]] · [[epistemic-guardrails]] · [[detection-heuristics]] · [[universal-red-flags]] · [[manipulation-audit]] · [[dv-safety-planning]] · [[helping-others]] · [[why-smart-people-fall]] · [[everyday-manipulators]] · [[coverage-audit]]
+[[felt-sense-index]] · [[bias-codex-index]] · [[playbooks-compendium]] · [[master-taxonomy]] · [[manipulation-vs-influence]] · [[epistemic-guardrails]] · [[detection-heuristics]] · [[universal-red-flags]] · [[manipulation-audit]] · [[dv-safety-planning]] · [[helping-others]] · [[why-smart-people-fall]] · [[everyday-manipulators]] · [[coverage-audit]] · [[agent-evals]]

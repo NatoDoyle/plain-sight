@@ -210,3 +210,11 @@ Owner-requested expansion: integrate all **188 unique entries** of the Cognitive
 - [x] `risk-misperception` — normalcy bias, ostrich effect, zero-risk bias, pseudocertainty, omission bias, risk compensation (Peltzman), ambiguity aversion
 - [x] `fluency-familiarity` — mere exposure, illusory truth, processing fluency, rhyme-as-reason, processing-difficulty (disfluency), generation effect, IKEA effect, not-invented-here
 - [x] `choice-simplification` — less-is-better, information bias, unit bias, functional fixedness, bike-shedding (Law of Triviality), Delmore effect (folk), Occam's-razor boundary note
+
+## Tooling & harness (not a content tier)
+
+Artifacts that test or maintain the KB rather than adding topics. Deliberately **not** numbered as a
+tier: `kb.py eval` gates the eval file's `**Covers tiers:**` declaration against the highest `## Tier N`
+heading here, so filing the harness as a tier would make it trip over itself.
+
+- [x] `agent-evals` (meta) — the defense agent's evaluation harness: 26 stored scenarios with machine-checkable retrieval assertions (Layer A, `python3 tools/kb.py eval`) plus a blind two-session behavioural protocol (Layer B). Satisfies the "run the evaluation scenarios" reference in [[coverage-audit]] that previously pointed at a section which had never been written. Its `DOORWAYS` registry in `tools/kb.py` fails loudly when a new lookup index is added without telling the agent to walk it — the exact gap that left all of Tier 9 unreachable until 2026-08-18.

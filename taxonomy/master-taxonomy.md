@@ -4,7 +4,7 @@ type: meta
 name: Master Taxonomy
 aliases: [taxonomy, the map, how this kb is organized]
 status: complete
-last-updated: 2026-07-01
+last-updated: 2026-08-18
 ---
 
 # Master Taxonomy
@@ -17,7 +17,7 @@ Manipulation can't be researched as one topic, but it decomposes cleanly along o
 
 | Type | Question | Folder | Examples |
 |---|---|---|---|
-| **mechanism** | *Why does it work?* — the psychological lever | `mechanisms/` | [[reciprocity]], [[intermittent-reinforcement]], [[memory-fallibility]] |
+| **mechanism** | *Why does it work?* — the psychological lever | `mechanisms/` | [[reciprocity]], [[intermittent-reinforcement]], [[memory-fallibility]], [[confirmation-bias]], [[fluency-familiarity]] |
 | **tactic** | *What do they do?* — the observable move | `tactics/` | [[gaslighting]], [[lowballing]], [[love-bombing]] |
 | **dynamic** | *How does it unfold over time?* — the multi-tactic arc | `dynamics/` | [[abuse-cycle]], [[con-anatomy]], [[cult-conversion-funnel]] |
 | **context** | *Where does it happen?* — the arena and its incentives | `contexts/` | [[workplace-bosses]], [[sales]], [[propaganda-politics]] |
@@ -82,6 +82,7 @@ Every well-known framework is a partial map — mechanism-level, tactic-level, o
 | OFT *Psychology of Scams* (2009) [16] | scam compliance | authority/legitimacy cues, visceral triggers, scarcity/urgency, disproportionate reward | [[scams-fraud]] mechanisms map |
 | Pratkanis (2007) [17] | social influence | 107 experimentally tested influence tactics | standing cross-check at synthesis checkpoints |
 | Faden & Beauchamp (1986) [18] | influence ethics | persuasion → manipulation → coercion continuum | [[manipulation-vs-influence]] |
+| Benson & Manoogian, *Cognitive Bias Codex* (2016) [20] | cognitive biases | 189 listed entries (188 unique) across 4 problem-quadrants × 20 categories, derived from Wikipedia's *List of cognitive biases* | [[bias-codex-index]] maps every entry to a home file, an evidence grade, and an exploitation-relevance label. **The largest framework folded in, and the least uniform** — the KB grades it 95 established / 54 supported / 22 contested / 12 folk / 5 informal-logic / 1 not-a-bias, so roughly a fifth is contested, folk, or miscategorized, and each entry says which it is rather than inheriting the wheel's authority |
 | Undue-influence factors (Cal. WIC §15610.70) [19] | legal | vulnerability, apparent authority, tactics, inequity of result | [[manipulation-vs-influence]], [[elder-targeting]] |
 
 ## Design choices
@@ -99,6 +100,7 @@ Every well-known framework is a partial map — mechanism-level, tactic-level, o
 - **"Is this deal/opportunity real?"** → [[hope-greed]], [[con-anatomy]], [[detection-heuristics]]
 - **"Is this person dangerous or just difficult?"** → [[epistemic-guardrails]] first, then [[everyday-manipulators]] vs [[coercive-control]]
 - **"How do I get out?"** → [[no-contact-exit-planning]], [[dv-safety-planning]], [[cult-exit-support]]
+- **"Is this the sunk cost fallacy / anchoring / Dunning-Kruger?"** → [[bias-codex-index]] resolves any of the 189 Cognitive Bias Codex names to its home file, evidence grade, and whether it is actually an exploitation lever at all.
 - **Browsing** → context dossiers (`contexts/`) are the widest doors; the graph view shows the rest.
 
 ## Caveats
@@ -129,7 +131,8 @@ Every well-known framework is a partial map — mechanism-level, tactic-level, o
 17. Pratkanis, A. (2007). "Social Influence Analysis: An Index of Tactics." In *The Science of Social Influence.* Psychology Press, 17–82.
 18. Faden, R., & Beauchamp, T. (1986). *A History and Theory of Informed Consent.* OUP.
 19. Cal. Welf. & Inst. Code §15610.70.
+20. Benson, B. (2016). "Cognitive bias cheat sheet." *Better Humans*; Manoogian, J. III & Benson, B. (2016). *The Cognitive Bias Codex* (poster), CC BY-SA 4.0; canonical enumeration pinned from `cognitive-bias-cheat-sheet.json` in the `busterbenson/public` repository. Derived from Wikipedia's *List of cognitive biases* circa 2016, which has since drifted and is **not** the target. Per-entry grading and the codex's own limitations are recorded in [[bias-codex-index]].
 
 ## See also
 
-[[manipulation-vs-influence]] · [[epistemic-guardrails]] · `ROADMAP.md` (coverage plan) · `CLAUDE.md` (schema & query cookbook) · `graph/edges.yaml` (compiled connections)
+[[manipulation-vs-influence]] · [[epistemic-guardrails]] · [[bias-codex-index]] · [[felt-sense-index]] · `ROADMAP.md` (coverage plan) · `CLAUDE.md` (schema & query cookbook) · `graph/edges.yaml` (compiled connections)

@@ -19,7 +19,7 @@ This repo is a defensive knowledge base on manipulation, built to ground a futur
 2. Re-read `METHODOLOGY.md` (the 7-step pipeline) and the relevant `templates/template-<type>.md`.
 3. Run `python3 tools/kb.py stats` to confirm the repo state matches ROADMAP.
 4. Execute the pipeline for ONE topic at a time: scope → parallel source sweep → synthesize → red-team review → revise → link & index → validate.
-5. Update the topic's checkbox + status, run `python3 tools/kb.py validate && python3 tools/kb.py graph && python3 tools/kb.py matrix`, commit (one commit per topic: `Add <id> (<type>)`).
+5. Update the topic's checkbox + status, run `python3 tools/kb.py validate && python3 tools/kb.py graph && python3 tools/kb.py matrix && python3 tools/kb.py eval`, commit (one commit per topic: `Add <id> (<type>)`).
 6. Every ~8–10 topics: synthesis checkpoint (see METHODOLOGY.md §Checkpoints).
 
 ## Schema
@@ -109,6 +109,7 @@ python3 tools/kb.py validate   # schema, enums, id=filename, dangling edges/wiki
 python3 tools/kb.py graph      # regenerate graph/edges.yaml
 python3 tools/kb.py matrix     # regenerate graph/tactic-mechanism.md + graph/tactic-context.md
 python3 tools/kb.py stats      # coverage by type/status, roadmap cross-check
+python3 tools/kb.py eval       # retrieval-doorway registration + eval-scenario integrity (meta/agent-evals.md). Run with validate.
 ```
 
 All stdlib; no installs needed. Frontmatter must stay within the constrained subset (flat, no nesting, no inline comments) or the parser will reject it.

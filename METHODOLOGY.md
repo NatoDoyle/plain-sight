@@ -55,7 +55,8 @@ Rules: a file's `evidence:` field reflects its *core construct*; weaker sub-clai
 - Regenerate `graph/edges.yaml` + matrices; review for orphan nodes (files with <2 inbound/outbound edges) and missing obvious links.
 - Terminology-consistency pass (same concept, same term, one id; new aliases added).
 - Update README status line and ROADMAP stats.
-- **Retrieval spot-test:** pose 5 realistic scenarios; verify the KB surfaces correct tactics + defenses + caveats via the query cookbook. Log failures as ROADMAP fixes.
+- **Retrieval spot-test:** run `python3 tools/kb.py eval` (Layer A — deterministic: every retrieval doorway is registered and named in the skill, every mechanism/tactic/dynamic is reachable from one, every stored scenario's expectations resolve, and no `Must-not-surface` id is reachable from its declared entry path). Scenarios live in `meta/agent-evals.md`; add one for any new concept family, and the tier gate will refuse a new `## Tier N` until you do.
+  Periodically also run **Layer B** — the blind two-session behavioural protocol in that file, which samples what Layer A cannot check: escalation ordering, calibration, refusal quality, diagnosis creep. Log failures as ROADMAP fixes and, where the failure is a retrieval gap, as a new `Regression-for:`-tagged scenario.
 - Commit `Checkpoint: <n> topics`.
 
 ## Session workflow

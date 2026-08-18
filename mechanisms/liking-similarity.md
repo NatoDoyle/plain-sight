@@ -2,12 +2,12 @@
 id: liking-similarity
 type: mechanism
 name: Liking & Similarity
-aliases: [rapport, similarity-attraction, halo effect]
+aliases: [rapport, similarity-attraction, halo effect, cheerleader effect]
 countered-by: [detection-heuristics, verification-rituals]
 distinguished-from: [genuine-rapport, limerence, neurodivergent-communication, unity-ingroup]
 evidence: established
 status: complete
-last-updated: 2026-06-10
+last-updated: 2026-08-18
 ---
 
 # Liking & Similarity
@@ -24,6 +24,7 @@ Liking converts to compliance through several well-mapped inputs: **similarity**
 - **Incidental similarity moves compliance**: sharing a birthday or first name with a requester measurably increases agreement to requests [2].
 - **Mimicry**: the "chameleon effect" — nonconscious mirroring increases liking and smooths interaction [3], and verbatim verbal mimicry raised waitress tips in field work [4]; note that parts of the mimicry literature have mixed modern replications — treat magnitudes cautiously [3].
 - **Attractiveness halo**: "what is beautiful is good" — attractive people are judged more positively on unrelated traits; meta-analyses confirm a real but moderate, context-dependent halo rather than folk wisdom's giant one [5].
+- **Cheerleader effect** — a face is rated as more attractive seen in a group than seen alone. Walker & Vul is the naming study, with hierarchical encoding as the proposed account: the visual system averages a group, and each member's perceived appearance drifts toward that more-flattering average [12]. Grade `supported`, and no higher. The *mechanism* is disputed — a later study argues the effect is a memory bias rather than perceptual encoding at all [12]. One correction this sweep makes to the KB's own prior assumption, since it cuts the other way and honesty runs both directions: this is **not** a single-lab curiosity — independent groups have reproduced it, including in a non-Western sample and with non-human faces [12] — which is why it earns `supported` rather than `folk`, even though effect sizes are small and no magnitudes are printed here. Manipulation relevance is minor and stated as such: it is one reason dating-profile group shots and crowded promotional imagery flatter the individuals inside them, so a face you have only ever seen in a group is a face you have not really assessed. It is emphatically **not** a deception tell — most people post group photos because they have friends — and it needs no counter beyond this file's general one, which is to judge people on a track record rather than an image ([[mirroring-false-identity]] carries the actual verification steps).
 - **Flattery survives detection**: ingratiation meta-analytically improves liking and evaluations [6], and consumer work finds even *recognized* insincere flattery leaves a positive residue [7].
 - **Field practice as evidence**: Joe Girard, the Guinness-record car salesman, mailed every customer a monthly card reading "I like you" — Cialdini's emblematic case of liking deployed at industrial scale [8]; the Tupperware party model sells through the hostess's friendships rather than the product [8].
 - **Fraud-scale confirmation**: romance scammers explicitly build an ideal-partner persona mirrored from the target's own disclosures and profile, per Whitty's stage model of the online dating romance scam [9]; US reported romance-scam losses were ~$823M in 2024 (over $1.1B in 2023; median losses among the highest of any fraud type — victims span all genders and ages, and losses are widely considered underreported) [10].
@@ -81,6 +82,7 @@ Finding common ground, being warm, remembering names — this is ordinary social
 9. Whitty, M. (2013). "The Scammers Persuasive Techniques Model: Development of a Stage Model to Explain the Online Dating Romance Scam." *British Journal of Criminology* 53(4), 665–684. https://academic.oup.com/bjc/article-abstract/53/4/665/396759
 10. FTC consumer data: romance-scam reported losses ≈$823M (2024); $1.14B (2023, median ≈$2,000). https://www.ftc.gov/business-guidance/blog/2024/02/love-stinks-when-scammer-involved
 11. Hadnagy, C. (2018). *Social Engineering: The Science of Human Hacking.*
+12. Walker, D., & Vul, E. (2014). "Hierarchical Encoding Makes Individuals in a Group Seem More Attractive." *Psychological Science* 25(1), 230–235, doi:10.1177/0956797613497969 (Crossref renders the online-first year as 2013; the 25(1) 2014 issue is used); Hsieh et al. (2021). "The 'cheerleader effect' in facial and bodily attractiveness: A result of memory bias and not perceptual encoding." *Quarterly Journal of Experimental Psychology* 74(5), 972–980, doi:10.1177/1747021820976087; Peng et al. (2020). "Are Individuals Perceived as More Attractive within a Group? A Confirmative Study of Group Attractiveness Effect and the Cheerleader Effect in China." *Healthcare* 8(3), 344, doi:10.3390/healthcare8030344; Zhou & Kawabata (2022). "You and your cats appear more attractive in a crowd of cats." *Current Psychology* 42(33), 29499–29509, doi:10.1007/s12144-022-03984-1. **All four records verified via Crossref this sweep; abstracts and effect sizes were not retrieved, so no magnitudes are printed and the mechanism dispute is stated qualitatively. Only first-author surnames were resolved for the three later papers.**
 
 ## See also
 

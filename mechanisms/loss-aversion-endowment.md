@@ -2,12 +2,12 @@
 id: loss-aversion-endowment
 type: mechanism
 name: Loss Aversion & Endowment
-aliases: [loss aversion, endowment effect, status quo bias, possession effect]
+aliases: [loss aversion, endowment effect, status quo bias, possession effect, disposition effect]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [genuine-deadline, principled-consistency]
 evidence: established
 status: complete
-last-updated: 2026-06-12
+last-updated: 2026-08-18
 ---
 
 # Loss Aversion & Endowment
@@ -17,6 +17,8 @@ last-updated: 2026-06-12
 ## The lever
 
 Prospect theory's core asymmetry: outcomes are coded as gains and losses from a reference point, and losses weigh roughly twice as much (the classic median estimate λ ≈ 2.25, from one sample; later estimates vary ~1.3–2.1) [1]. Two downstream effects do the practical work. The **endowment effect**: mere ownership raises valuation — in the mug experiments, owners demanded far more to sell than non-owners would pay, and trading collapsed below rational predictions [2]; with cherished goods the gap explodes (hypothetical selling prices for Final Four tickets ran ~14× buying prices) [3]. **Status quo bias**: defaults persist far beyond their merits in both lab and field data [4]. Honesty note the KB carries prominently: the *generality* of loss aversion is genuinely contested — a major 2018 critique argues the evidence supports a contingent, not universal, principle (with a formal rebuttal in the same issue: real but contingent) [5]. The defensive lesson survives either way: **whoever sets what counts as "yours" and what counts as "losing it" steers the choice.**
+
+**The disposition effect.** The strongest field confirmation this lever has, and the one that matters most for fraud. Shefrin & Statman named the pattern — investors sell winners too early and ride losers too long — and derived it from prospect theory: a position below what you paid puts you in the loss domain, where people turn risk-*seeking*, so you hold and hope; a position above it puts you in the gain domain, where people turn risk-averse, so you take the profit and run [7]. Odean then tested it against real trading records from roughly ten thousand discount-brokerage accounts and found gains realized at a markedly higher rate than losses, the pattern reversing only in December when tax-loss selling cuts the other way — and, damningly, the winners those investors sold went on to outperform the losers they kept, so the behaviour cost them money [7]. Grade `established`: it is among the most reproduced findings in behavioural finance, appearing in retail and professional traders, across markets and countries, in experimental as well as archival data. Two fences kept in view. The *mechanism* is not settled — prospect theory, regret aversion, mental accounting, and simple mean-reversion beliefs all compete for it. And it is a **statistical tendency across many accounts**, never a diagnosis of any one person's trade; plenty of good reasons exist to hold a losing position. Manipulation relevance is direct, because this is the psychology of **"don't crystallise the loss."** An interface that renders every position in red or green *against your entry price* is displaying the exact reference point that produces the bias, which is a design choice and not a law of nature. And "you only lose when you sell" — a retail-broker cliché — is reproduced almost verbatim by investment-fraud recruiters and pig-butchering "advisers", where it does double duty: it keeps existing money in, and it reframes the next deposit as averaging down rather than as a further loss ([[hope-greed]], [[romance-scam-arc]], [[ponzi-psychology]]). **Recognition:** you are holding something you would not buy today at today's price, and the only reason you can articulate is the number *you* paid — a fact about your history, not about the asset. **Counter:** the fresh-start test below, applied to positions rather than subscriptions; and note the fraud-specific version, which is sharper — money on a platform you cannot withdraw from was never a position at all, so "waiting for it to come back" is not a strategy, it is the fraud's retention mechanism.
 
 ## Evidence base
 
@@ -76,6 +78,7 @@ Loss framing can be honest — real risks honestly stated ("uninsured, you'd los
 4. Samuelson, W., & Zeckhauser, R. (1988). "Status Quo Bias in Decision Making." *Journal of Risk and Uncertainty* 1(1), 7–59.
 5. Gal, D., & Rucker, D. (2018). "The Loss of Loss Aversion." *Journal of Consumer Psychology* 28(3), 497–516; Simonson, I., & Kivetz, R. (2018). "Bringing (Contingent) Loss Aversion Down to Earth." Same issue (Research Dialogue).
 6. *FTC v. Amazon.com* (W.D. Wash., filed June 2023 — the Prime enrollment/cancellation "Iliad flow"; settled Sept. 25, 2025 for $2.5B with easy-cancellation injunctive terms); FTC Negative Option Rule (2024), vacated by the Eighth Circuit July 2025, new rulemaking opened March 2026 — cited as context, not current law.
+7. Shefrin, H., & Statman, M. (1985). "The Disposition to Sell Winners Too Early and Ride Losers Too Long: Theory and Evidence." *Journal of Finance* 40(3), 777–790; Odean, T. (1998). "Are Investors Reluctant to Realize Their Losses?" *Journal of Finance* 53(5), 1775–1798 (≈10,000 discount-brokerage accounts; gains realized at a higher rate than losses except in December; the sold winners subsequently outperformed the held losers). **Both cited from prior knowledge, unverified this sweep** — the session's search budget was exhausted before this entry, so volume/issue/pages were not re-checked and **no proportion or effect-size figures are printed in the file**. Logged PENDING in the bibliography.
 
 ## See also
 

@@ -2,12 +2,12 @@
 id: cognitive-overload-confusion
 type: mechanism
 name: Cognitive Overload & Confusion
-aliases: [overload, confusion technique, complexity exploitation, sludge]
+aliases: [overload, confusion technique, complexity exploitation, sludge, magic number 7+-2]
 countered-by: [verification-rituals, jade-avoidance]
 distinguished-from: [incompetence-not-malice, legitimate-expertise]
 evidence: established
 status: complete
-last-updated: 2026-06-12
+last-updated: 2026-08-18
 ---
 
 # Cognitive Overload & Confusion
@@ -17,6 +17,8 @@ last-updated: 2026-06-12
 ## The lever
 
 Deliberate scrutiny is capacity-limited: cognitive-load research shows performance degrades predictably as working memory saturates [1]. Manipulation exploits this two ways. **Acute disruption**: a moment of confusion makes people *more* compliant with an immediately attached suggestion — the disrupt-then-reframe technique ("that's 300 pennies… it's a bargain!") roughly doubled sales in the original studies and holds up meta-analytically (mean r ≈ .28) [2]; the confusion opens a gap, the reframe fills it before scrutiny restarts. **Chronic friction**: complexity and "sludge" — paperwork, fine print, mazes of steps — function as a selective filter that defeats exactly the verification a fair deal would invite [3][4]. Two honesty notes the KB carries: the **ego-depletion** version of "willpower runs out" failed its major registered replication [1], and the famous **hungry-judge** decision-fatigue result is contested (case-ordering confounds; implausibly large effect) [5] — overload claims here rest on the load and disruption literatures, not those.
+
+**The magic number 7±2 — and why this file grades the number `folk`.** Miller (1956) is the most-quoted figure in interface design and one of the most misread papers in psychology, and the misreading needs saying plainly rather than being buried in a bibliography [8]. Two things are true about the paper. First, **Miller was partly ironic about the "magic"**: it opens with a comic complaint about being persecuted by an integer and closes by suggesting the recurring sevens may be nothing but a pernicious Pythagorean coincidence — the joke did not survive the trip into design folklore (both phrasings are reproduced from prior knowledge of the paper and unverified this sweep). Second, the paper is not primarily about memory capacity: Miller's seven-ish limit was for **absolute judgment** — how many levels of a single-dimension stimulus (tones, tastes, positions on a line) people can label without error — presented alongside, not as, a discussion of memory span, and his actual thesis was **chunking**, that the limit is in chunks and that recoding raises how much each chunk carries. The modern working-memory estimate, once rehearsal and chunking are controlled, is about **four** chunks, not seven [8]. So the grading splits: `established` that deliberate scrutiny is capacity-limited — that is source [1], and it is what this file's lever actually rests on — and `folk` for the number itself, along with every "no more than seven menu items" rule descended from it. The defensive point is unaffected and worth stating cleanly: **dumping information past working memory really does suppress scrutiny** — the four simultaneous numbers of [[four-square-payment-packing]], the fifty-page terms handed over at the signing table, six policy changes announced in one meeting — but the tell is *volume timed to a decision*, never a threshold count. Anyone citing a specific magic number is quoting folklore, including when they cite it at you to prove their design or their disclosure was reasonable.
 
 ## Evidence base
 
@@ -77,6 +79,7 @@ Complexity is often genuine — law, medicine, and tax are hard, and honest expe
 5. Danziger, S., Levav, J., & Avnaim-Pesso, L. (2011). *PNAS* 108(17), 6889–6892; critique: Weinshall-Margel, K., & Shapard, J. (2011). *PNAS* 108(42), E833 (case-ordering); Glöckner, A. (2016). *Judgment and Decision Making* 11(6) (magnitude implausible). Presented as contested.
 6. Word-salad-as-tactic: practitioner/survivor literature (folk grade); academically grounded neighbors: Harsey & Freyd (DARVO program); Stark, *Coercive Control.*
 7. Scott, E. (1994) — "Gish gallop" coinage (NCSE).
+8. Miller, G. A. (1956). "The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information." *Psychological Review* 63(2), 81–97 (absolute judgment vs memory span; chunking as the actual thesis; the "persecuted by an integer" opening and the "pernicious Pythagorean coincidence" close); Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences* 24(1), 87–114 (≈4 chunks once rehearsal and chunking are controlled). **Both cited from prior knowledge, unverified this sweep** — the session's search budget was exhausted before this entry; the two Miller quotations are reproduced from memory and are flagged as such in the entry itself. Logged PENDING in the bibliography.
 
 ## See also
 

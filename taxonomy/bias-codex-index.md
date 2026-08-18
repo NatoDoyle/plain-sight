@@ -89,8 +89,8 @@ expectancy effect, not the physics concept.
 |---|---|---|---|
 | Confirmation bias | [[confirmation-bias]] | established | lever |
 | Congruence bias | [[confirmation-bias]] | supported | lever |
-| Post-purchase rationalization | [[dissonance-exploitation]] | … | … |
-| Choice-supportive bias | [[dissonance-exploitation]] | … | … |
+| Post-purchase rationalization | [[dissonance-exploitation]] | supported | lever |
+| Choice-supportive bias | [[dissonance-exploitation]] | contested | observer-side |
 | Selective perception | [[confirmation-bias]] | supported | amplifier |
 | Observer-expectancy effect | [[confirmation-bias]] | established | lever |
 | Experimenter's bias | [[confirmation-bias]] | established | lever |
@@ -143,7 +143,7 @@ expectancy effect, not the physics concept.
 | Just-world hypothesis | [[attribution-errors]] | established | amplifier |
 | Argument from fallacy | [[confirmation-bias]] | n/a (logic, not empirics) | lever |
 | Authority bias | [[authority]] | established | lever |
-| Automation bias | [[authority]] | … | … |
+| Automation bias | [[authority]] | supported | lever |
 | Bandwagon effect | [[social-proof]] | established | lever |
 | Placebo effect | [[confirmation-bias]] | established | lever |
 
@@ -155,7 +155,7 @@ expectancy effect, not the physics concept.
 | Cross-race effect | [[stereotyping-essentialism]] | established | observer-side |
 | In-group bias | [[unity-ingroup]] | established | lever |
 | Halo effect | [[liking-similarity]] | established | lever |
-| Cheerleader effect | [[liking-similarity]] | … | … |
+| Cheerleader effect | [[liking-similarity]] | supported | amplifier |
 | Positivity effect | [[memory-self-editing]] | established | amplifier |
 | Not invented here | [[fluency-familiarity]] | folk | observer-side |
 | Reactive devaluation | [[attribution-errors]] | supported | lever |
@@ -173,7 +173,7 @@ expectancy effect, not the physics concept.
 | Survivorship bias | [[probability-blindspots]] | established | lever |
 | Subadditivity effect | [[probability-blindspots]] | established | lever |
 | Denomination effect | [[probability-blindspots]] | supported | lever |
-| Magic number 7+-2 | [[cognitive-overload-confusion]] | … | … |
+| Magic number 7+-2 | [[cognitive-overload-confusion]] | folk | amplifier |
 
 ### We think we know what other people are thinking
 
@@ -254,7 +254,7 @@ expectancy effect, not the physics concept.
 | IKEA effect | [[fluency-familiarity]] | supported | lever |
 | Unit bias | [[choice-simplification]] | established | lever |
 | Zero-risk bias | [[risk-misperception]] | supported | lever |
-| Disposition effect | [[loss-aversion-endowment]] | … | … |
+| Disposition effect | [[loss-aversion-endowment]] | established | lever |
 | Pseudocertainty effect | [[risk-misperception]] | supported | lever |
 | Processing difficulty effect | [[fluency-familiarity]] | contested | not-a-lever |
 | Endowment effect | [[loss-aversion-endowment]] | established | lever |

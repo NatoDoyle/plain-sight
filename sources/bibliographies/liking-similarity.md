@@ -27,3 +27,28 @@ Sweep date: 2026-06-10. Mode: knowledge-first draft + targeted main-loop web ver
 ## Post-completion polish
 
 - [ ] Category sweeps for adjacent depth defer to the tactic files: grooming-via-shared-interests (→ [[grooming-sequence]]), PUA mirroring critiques (→ [[negging]], [[mirroring-false-identity]]), SEC affinity materials (→ [[affinity-fraud]]).
+
+## Tier 9 codex-integration sweep (2026-08-18)
+
+One codex row added to `mechanisms/liking-similarity.md` under `## Evidence base`: **Cheerleader effect**. Alias added to frontmatter; source [12] added; `last-updated` bumped; `status: complete` unchanged. WebSearch budget was exhausted (200/200) for the session, so verification ran through a single one-shot Crossref query. No retries.
+
+**Verified this sweep (Crossref, records only — no abstracts, therefore no effect sizes printed):**
+
+- [x] Walker, D., & Vul, E. "Hierarchical Encoding Makes Individuals in a Group Seem More Attractive." *Psychological Science* 25(1):230–235, doi:10.1177/0956797613497969. **Year note:** Crossref renders the online-first year as 2013; the 25(1) issue is 2014 and the file uses 2014, consistent with the brief. A separate *Journal of Vision* 13(9):853 abstract from 2013 (doi:10.1167/13.9.853) is the conference version and is not cited.
+- [x] Hsieh et al. "The 'cheerleader effect' in facial and bodily attractiveness: A result of memory bias and not perceptual encoding." *QJEP* 74(5):972–980, doi:10.1177/1747021820976087 (Crossref issued 2020, 74(5) issue 2021).
+- [x] Peng et al. "Are Individuals Perceived as More Attractive within a Group? A Confirmative Study of Group Attractiveness Effect and the Cheerleader Effect in China." *Healthcare* 8(3):344, doi:10.3390/healthcare8030344.
+- [x] Zhou & Kawabata. "You and your cats appear more attractive in a crowd of cats." *Current Psychology* 42(33):29499–29509, doi:10.1007/s12144-022-03984-1.
+- Also surfaced, not cited: Kawahara & Kitazaki (2013) and Kawahara, Kobayashi & Kitazaki (2016) on variance in group members' attractiveness; Zheng & Zhou (2022) on in-group modulation. Cut for length — they reinforce the same point.
+
+**Correction to the brief, recorded because it cuts against the KB's prior assumption.** The row was scoped as "single-lab, thin." It is thinner than its popular reputation but it is **not single-lab**: independent groups have reproduced it, including in a Chinese sample and with non-human faces. The entry states this correction in its own text. `supported` is still the right grade — but for the opposite reason to the one assumed, i.e. because independent replication exists while the *mechanism* is disputed (Hsieh et al. argue memory bias, not perceptual/hierarchical encoding) and effect sizes are small.
+
+**Hedged in the file:** first-author surnames only were resolved for the three later papers; no magnitudes are printed; the mechanism dispute is stated qualitatively.
+
+**Relevance stated honestly as minor:** group photos in dating profiles and crowded promotional imagery flatter the individuals inside them, so a face only ever seen in a group has not really been assessed. The entry explicitly refuses to make this a deception tell — most people post group photos because they have friends — and adds no new counter, routing verification to the file's existing steps.
+
+**PENDING**
+
+- [ ] Retrieve Walker & Vul's abstract and effect size; confirm the 2014 issue year from the publisher.
+- [ ] Retrieve the Hsieh et al. abstract to state the memory-bias vs perceptual-encoding dispute from the primary rather than from the title.
+- [ ] Resolve full author lists for Hsieh, Peng, and Zhou/Kawabata.
+- [ ] Codex row this sweep closes (index update is orchestrator work, not done here): Cheerleader effect `supported` / lever (weak — arguably amplifier; the entry deliberately understates its manipulation relevance).

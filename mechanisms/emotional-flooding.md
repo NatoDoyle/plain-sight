@@ -2,7 +2,7 @@
 id: emotional-flooding
 type: mechanism
 name: Emotional Flooding
-aliases: [flooding, hot states, diffuse physiological arousal, heat of the moment]
+aliases: [flooding, hot states, diffuse physiological arousal, heat of the moment, empathy gap]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [honest-hurt, self-protective-distance, cognitive-overload-confusion]
 severity: high

@@ -2,7 +2,7 @@
 id: scarcity-urgency
 type: mechanism
 name: Scarcity & Urgency
-aliases: [scarcity principle, FOMO, limited availability]
+aliases: [scarcity principle, FOMO, limited availability, reactance, reverse psychology]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [hard-bargaining, genuine-deadline]
 evidence: established

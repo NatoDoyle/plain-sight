@@ -2,7 +2,7 @@
 id: memory-fallibility
 type: mechanism
 name: Memory Fallibility
-aliases: [misinformation effect, false memories, reconstructive memory]
+aliases: [misinformation effect, false memories, reconstructive memory, false memory, suggestibility, confabulation]
 countered-by: [documentation-practices, verification-rituals]
 distinguished-from: [memory-divergence, honest-disagreement]
 evidence: established

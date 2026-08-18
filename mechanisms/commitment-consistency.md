@@ -2,7 +2,7 @@
 id: commitment-consistency
 type: mechanism
 name: Commitment & Consistency
-aliases: [consistency principle, escalating commitment, sunk cost fallacy, yes-ladder]
+aliases: [consistency principle, escalating commitment, sunk cost fallacy, yes-ladder, irrational escalation, effort justification]
 countered-by: [verification-rituals, detection-heuristics]
 distinguished-from: [principled-consistency, dissonance-exploitation]
 evidence: established

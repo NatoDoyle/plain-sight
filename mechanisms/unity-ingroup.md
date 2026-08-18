@@ -2,7 +2,7 @@
 id: unity-ingroup
 type: mechanism
 name: Unity & In-Group Identity
-aliases: [shared identity, we-ness, tribal identity, forced teaming, in-group favoritism]
+aliases: [shared identity, we-ness, tribal identity, forced teaming, in-group favoritism, in-group bias]
 countered-by: [detection-heuristics, boundary-scripts]
 distinguished-from: [genuine-community]
 evidence: established

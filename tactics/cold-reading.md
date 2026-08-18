@@ -2,7 +2,7 @@
 id: cold-reading
 type: tactic
 name: Cold Reading
-aliases: [psychic reading, Barnum statements, Forer effect, hot reading, warm reading, fishing, shotgunning, stock spiel]
+aliases: [psychic reading, Barnum statements, Forer effect, Barnum effect, hot reading, warm reading, fishing, shotgunning, stock spiel]
 domains: [scams-fraud]
 exploits: [certainty-needs, flattery-ego, trust-mechanics, confirmation-bias, pattern-illusions, mind-reading-illusions]
 co-occurs-with: [pity-plays, elder-targeting]

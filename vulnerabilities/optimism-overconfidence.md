@@ -2,7 +2,7 @@
 id: optimism-overconfidence
 type: vulnerability
 name: Optimism & Overconfidence
-aliases: [optimism bias, overconfidence effect, invulnerability illusion, it won't happen to me, I'd never fall for that]
+aliases: [optimism bias, overconfidence effect, invulnerability illusion, it won't happen to me, I'd never fall for that, bias blind spot, third-person effect]
 distinguished-from: [justified-confidence]
 evidence: supported
 status: complete
